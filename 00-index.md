@@ -1,4 +1,4 @@
-# Projet : une petite histoire de hard SF — index
+# Projet : construction d'un monde (personnages, lieux, cultures) et de ses aventures — index
 
 ## Méthode
 Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un journal des décisions, on produit des livrables quand l'auteur juge le corpus suffisant.
