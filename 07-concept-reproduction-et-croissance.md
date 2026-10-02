@@ -6,7 +6,7 @@
 - **[G]** On se reproduit **par les cybergonades**. Chaque cerveau en porte **trois**. Ils sont **hémisphériques** et mesurent **environ 1/4 de pouce** (6,35 mm).
 - **[G]** On détache une hémisphère sur chacun de deux cerveaux, on joint les deux, et on place le tout dans un **corps synthétique**.
   - **[C → validé]** Chaque parent donne **une de ses cybergonades** ; les deux demi-sphères réunies forment une **petite sphère complète**, le cerveau de l'enfant.
-- **[G]** **La cybergonade repousse dans le liquide** de croissance.
+- **[G]** **La cybergonade repousse dans le liquide** de croissance. **[G]** Plus précisément, **trois cybergonades sont générées à la toute fin de chaque cycle de croissance** (note 08).
 - **[G]** Avoir **trois** cybergonades empêche l'**autoreproduction** : « après, ça ne ferait plus son taf ».
   - **[C → validé]** Un cerveau peut perdre une cybergonade et rester fonctionnel avec les deux autres. Pour se reproduire seul, il lui faudrait en donner deux, et le dernier ne suffirait plus à tenir dans son socket ou à fonctionner. Il faut donc deux parents.
 
@@ -33,6 +33,8 @@
   - **[C]** De H14 à H1, il faut 13 doublements, donc 13 substrats, et beaucoup de poudre de sphère. Avoir un enfant suppose d'avoir prévu ce budget.
   - **[C → validé]** Un enfant dont les parents ne peuvent pas payer **reste petit**, peut-être indéfiniment, puisqu'il est immortel. Cela donne des classes sociales lisibles à la taille des sphères.
 - **[G]** On peut aussi garder une sphère petite **volontairement** : des **parents sadiques** qui maintiennent leurs enfants petits ; un **chien synthétique** qu'on garde chiot.
+- **[G]** **Il est illégal de ne pas mettre la sphère de ses enfants dans un substrat de croissance.** Les parents sadiques sont donc des criminels.
+  - **[À préciser]** Et les parents qui n'ont pas les moyens : endettement, aide publique, retrait de l'enfant ? La loi vaut-elle aussi pour les animaux de compagnie ?
   - **[C]** Il existe donc des êtres synthétiques de niveau animal, notamment des animaux de compagnie.
 - **[G]** **Un être resté petit ne pourra pas payer sa croissance : il restera à une intelligence d'enfant.**
 - Hypothèse en cours d'exploration : la mémoire s'inscrit sur la surface qui croît (voir `08-hypothese-memoire-par-croissance.md`).
@@ -44,7 +46,7 @@
 - **[G]** **Il est illégal d'empiler (« stacker ») des substrats**, par exemple pour loger une petite sphère dans un très grand slot.
 - **[G]** **Il est illégal de mettre l'intelligence d'une souris dans le corps d'un être de classe humaine.**
   - **[S, à vérifier]** Un cerveau de souris pèse environ 0,4 g, soit à peu près H12 sur l'échelle.
-- **[G]** **Seule exception pour revenir dans un slot plus petit : l'abrasion.** Elle coûte très cher, car elle peut provoquer de l'**excentricité** et dégrader les **performances optiques**.
+- **[G]** **Seule exception pour revenir dans un slot plus petit : l'abrasion.** Elle coûte très cher, car elle peut provoquer de l'**excentricité** (un **décentrement**), dégrader les **performances optiques** et causer des **troubles de l'intelligence**.
 - **[G]** **L'abrasion est proscrite**, au sens où, **faite dans les règles de l'art, elle est généralement économiquement déraisonnable.** Ce n'est pas un interdit légal.
 - **[G]** **L'abrasion clandestine n'existe pas, ou n'est pas exploitée.**
   - **[C]** La croissance est donc, en pratique, irréversible.
@@ -65,7 +67,7 @@
 - ~~La croissance est-elle irréversible ?~~ → oui, sauf abrasion, coûteuse et risquée [G].
 - Qui légifère et fait respecter les lois sur les substrats et les corps ?
 - Que fait l'excentricité à l'esprit d'une sphère ?
-- Garder volontairement un enfant petit est-il légal ? ~~Un être resté petit peut-il payer lui-même sa croissance ?~~ → non [G].
+- ~~Garder volontairement un enfant petit est-il légal ?~~ → non [G]. ~~Un être resté petit peut-il payer lui-même sa croissance ?~~ → non [G].
 - Comment concilier une croissance continue avec l'effet de seuil H1 → H0 (note 06) : le saut se produit-il exactement à 2 L, ou progressivement ?
 - L'enfant hérite-t-il de quelque chose (mémoire, traits) par la demi-sphère de chaque parent ?
 - ~~L'enfant a-t-il des cybergonades à la naissance ?~~ → non [G]. Quand lui poussent-elles : en remplissant pour la première fois son logement ?
@@ -75,6 +77,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — Obligation légale de faire grandir ses enfants ; trois cybergonades à la fin de chaque cycle.
 - 2026-10-03 — Un être resté petit ne peut pas payer sa croissance.
 - 2026-10-03 — Validé : l'enfant non financé reste petit. Exemples de l'auteur : parents sadiques, chien synthétique gardé chiot.
 - 2026-10-03 — Le frein démographique : le coût du substrat pour faire grandir ses enfants.

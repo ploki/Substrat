@@ -59,3 +59,7 @@
 | 55 | 2026-10-03 | Frein démographique : le risque de ne pas pouvoir payer le substrat de croissance de ses enfants | — | 07-concept-reproduction-et-croissance.md |
 | 56 | 2026-10-03 | Un enfant non financé reste petit ; on peut aussi garder une sphère petite volontairement (parents sadiques, chien synthétique gardé chiot) | — | 07-concept-reproduction-et-croissance.md |
 | 57 | 2026-10-03 | Un être resté petit ne pourra pas payer sa croissance : il restera à une intelligence d'enfant | — | 07-concept-reproduction-et-croissance.md |
+| 58 | 2026-10-03 | Il est illégal de ne pas mettre la sphère de ses enfants en substrat de croissance | — | 07-concept-reproduction-et-croissance.md |
+| 59 | 2026-10-03 | Les souvenirs peuvent migrer vers l'intérieur (cold storage, moins éclairé), où la place est limitée et la compression avec perte | — | 08-hypothese-memoire-par-croissance.md |
+| 60 | 2026-10-03 | L'abrasion peut causer un décentrement et des troubles de l'intelligence | précise #43 | 07, 08 |
+| 61 | 2026-10-03 | Trois cybergonades sont générées à la toute fin de chaque cycle de croissance | précise #35, #39 | 07, 08 |
