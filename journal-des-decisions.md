@@ -63,3 +63,5 @@
 | 59 | 2026-10-03 | Les souvenirs peuvent migrer vers l'intérieur (cold storage, moins éclairé), où la place est limitée et la compression avec perte | — | 08-hypothese-memoire-par-croissance.md |
 | 60 | 2026-10-03 | L'abrasion peut causer un décentrement et des troubles de l'intelligence | précise #43 | 07, 08 |
 | 61 | 2026-10-03 | Trois cybergonades sont générées à la toute fin de chaque cycle de croissance | précise #35, #39 | 07, 08 |
+| 62 | 2026-10-03 | Il existe un marché des cybergonades (récoltées à chaque cycle de croissance d'un enfant) : animaux de compagnie, économies, équipement d'appareils | — | 07-concept-reproduction-et-croissance.md |
+| 63 | 2026-10-03 | Le coût de l'abrasion vise l'abrasion bien faite ; il existe une abrasion de marché noir, risquée | ↺ #45 (pas d'abrasion clandestine) | 07, 08, 02-glossaire.md |

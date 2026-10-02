@@ -27,11 +27,12 @@
 - **Poudre de sphère** [G] : composant essentiel des substrats de croissance, dont elle constitue un pourcentage ; ressource fongible, pas une devise ; au cœur de la clandestinité.
 - **Liquide de croissance** [G] : liquide qui favorise la croissance du cristal quand une sphère passe de HX à HX−1.
 - **Stacking** [G] : empiler des substrats de croissance ; illégal.
-- **Abrasion** [G] : réduire une sphère pour la loger dans un slot plus petit. Légale, mais faite dans les règles de l'art, elle est généralement économiquement déraisonnable, et elle peut provoquer de l'excentricité. Pas de pratique clandestine.
+- **Abrasion** [G] : réduire une sphère pour la loger dans un slot plus petit. Légale ; bien faite, elle évite le désalignement mais est généralement économiquement déraisonnable. Il existe une abrasion de marché noir (« se limer le cerveau »), risquée.
 - **Excentricité / décentrement** [G] : défaut dû à l'abrasion, qui dégrade les performances optiques et peut causer des troubles de l'intelligence.
 - **Cold storage** [G] : l'intérieur de la sphère, gardé moins éclairé, où migrent les souvenirs ; la place y est limitée et la mémoire compressée avec perte.
 - **Cycle de croissance** [G] : un passage en substrat, terminé ; à sa toute fin, trois cybergonades sont générées.
 - **Classe (de corps)** [G] : catégorie d'un corps synthétique, par exemple « de classe humaine ».
+- **Appliance** [G] : appareil qui a besoin d'une sphère pour fonctionner ; on peut l'équiper avec des cybergonades.
 
 ## Historique
 - 2026-10-02 — Création.

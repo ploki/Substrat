@@ -39,6 +39,12 @@
 - **[G]** **Un être resté petit ne pourra pas payer sa croissance : il restera à une intelligence d'enfant.**
 - Hypothèse en cours d'exploration : la mémoire s'inscrit sur la surface qui croît (voir `08-hypothese-memoire-par-croissance.md`).
 
+### Le marché des cybergonades
+- **[G]** Il existe un **marché des cybergonades**, par exemple celles qu'on **récolte à chaque cycle de croissance d'un enfant**.
+- **[G]** Leurs usages : **créer des animaux synthétiques de compagnie** ; être **gardées comme économies pour l'enfant** ; **équiper un appareil** (une « appliance ») qui a besoin d'une sphère.
+  - **[C]** Un animal de compagnie et un enfant naissent donc de la même façon, par deux cybergonades réunies. Seul le statut les distingue : la loi oblige à faire grandir l'un, pas l'autre. La frontière entre enfant, animal et appareil est une question de droit, pas de matière.
+  - **[C]** Beaucoup d'appareils abritent une petite sphère, donc un esprit, même minuscule.
+
 ### Règles et lois
 - **[G]** **Quand on entre dans un substrat de croissance, on le termine.**
   - Contradiction avec la première version de l'exemple du vaisseau : résolue, l'exemple a été revu.
@@ -47,11 +53,11 @@
 - **[G]** **Il est illégal de mettre l'intelligence d'une souris dans le corps d'un être de classe humaine.**
   - **[S, à vérifier]** Un cerveau de souris pèse environ 0,4 g, soit à peu près H12 sur l'échelle.
 - **[G]** **Seule exception pour revenir dans un slot plus petit : l'abrasion.** Elle coûte très cher, car elle peut provoquer de l'**excentricité** (un **décentrement**), dégrader les **performances optiques** et causer des **troubles de l'intelligence**.
-- **[G]** **L'abrasion est proscrite**, au sens où, **faite dans les règles de l'art, elle est généralement économiquement déraisonnable.** Ce n'est pas un interdit légal.
-- **[G]** **L'abrasion clandestine n'existe pas, ou n'est pas exploitée.**
+- **[G]** **L'abrasion est proscrite**, au sens où, **faite dans les règles de l'art, elle est généralement économiquement déraisonnable.** Ce n'est pas un interdit légal. Le coût est celui d'une abrasion **bien faite**, qui évite les problèmes de désalignement.
+- **[G]** ↺ **Il existe une abrasion de marché noir** : « ceux qui se liment le cerveau sur le marché noir ne sont pas très nets ». Moins chère, elle expose au décentrement et aux troubles de l'intelligence.
   - **[C]** La croissance est donc, en pratique, irréversible.
   - **[C]** Pistes : sphères excentriques aux esprits altérés (abrasions anciennes ou ratées ?) ; il faut une autorité qui fixe et fait respecter les lois sur les substrats.
-- **[G]** **La clandestinité existe** (hors abrasion). Elle tourne autour d'un ingrédient : **la poudre de sphère**, composant essentiel des substrats de croissance, dont elle constitue un certain pourcentage.
+- **[G]** **La clandestinité existe**, y compris pour l'abrasion. Elle tourne autour d'un ingrédient : **la poudre de sphère**, composant essentiel des substrats de croissance, dont elle constitue un certain pourcentage.
 - **[G]** **La poudre est fongible** : « de la poudre, c'est de la poudre, qu'elle vienne d'Einstein ou d'un autre ».
 - **[G]** **La poudre de sphère n'est pas une devise : c'est une ressource fongible.**
   - *Piste écartée : la poudre comme devise (réflexion de Claude du 2026-10-03).*
@@ -77,6 +83,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — Marché des cybergonades (animaux, économies, appareils) ; ↺ il existe une abrasion de marché noir, risquée ; le coût vise l'abrasion bien faite.
 - 2026-10-03 — Obligation légale de faire grandir ses enfants ; trois cybergonades à la fin de chaque cycle.
 - 2026-10-03 — Un être resté petit ne peut pas payer sa croissance.
 - 2026-10-03 — Validé : l'enfant non financé reste petit. Exemples de l'auteur : parents sadiques, chien synthétique gardé chiot.
