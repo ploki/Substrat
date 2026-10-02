@@ -36,3 +36,4 @@
 34. 2026-10-03 — Non, la poudre de sphère n'est pas une devise : c'est une ressource fongible.
 35. 2026-10-03 — Oui, les sphères sont immortelles. Les questions d'énergie seront traitées plus tard.
 36. 2026-10-03 — Oui : le frein, c'est le risque de ne pas avoir les moyens de payer le substrat pour la croissance de ses enfants.
+37. 2026-10-03 — Oui ! Par exemple des parents sadiques qui garderaient leurs enfants petits, ou un chien synthétique qu'on garderait chiot.

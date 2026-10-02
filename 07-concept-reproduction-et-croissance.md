@@ -31,7 +31,9 @@
 ### Le coût des enfants
 - **[G]** Ce qui freine la démographie d'une population immortelle : **le risque de ne pas avoir les moyens de payer le substrat** pour la croissance de ses enfants.
   - **[C]** De H14 à H1, il faut 13 doublements, donc 13 substrats, et beaucoup de poudre de sphère. Avoir un enfant suppose d'avoir prévu ce budget.
-  - **[C, à confirmer]** Un enfant dont les parents ne peuvent pas payer **reste petit**, peut-être indéfiniment, puisqu'il est immortel. Cela donnerait des classes sociales lisibles à la taille des sphères.
+  - **[C → validé]** Un enfant dont les parents ne peuvent pas payer **reste petit**, peut-être indéfiniment, puisqu'il est immortel. Cela donne des classes sociales lisibles à la taille des sphères.
+- **[G]** On peut aussi garder une sphère petite **volontairement** : des **parents sadiques** qui maintiennent leurs enfants petits ; un **chien synthétique** qu'on garde chiot.
+  - **[C]** Il existe donc des êtres synthétiques de niveau animal, notamment des animaux de compagnie.
 
 ### Règles et lois
 - **[G]** **Quand on entre dans un substrat de croissance, on le termine.**
@@ -61,6 +63,7 @@
 - ~~La croissance est-elle irréversible ?~~ → oui, sauf abrasion, coûteuse et risquée [G].
 - Qui légifère et fait respecter les lois sur les substrats et les corps ?
 - Que fait l'excentricité à l'esprit d'une sphère ?
+- Garder volontairement un enfant petit est-il légal ? Un être resté petit peut-il, plus tard, payer lui-même sa croissance ?
 - Comment concilier une croissance continue avec l'effet de seuil H1 → H0 (note 06) : le saut se produit-il exactement à 2 L, ou progressivement ?
 - L'enfant hérite-t-il de quelque chose (mémoire, traits) par la demi-sphère de chaque parent ?
 - ~~L'enfant a-t-il des cybergonades à la naissance ?~~ → non [G]. Quand lui poussent-elles : en remplissant pour la première fois son logement ?
@@ -70,6 +73,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — Validé : l'enfant non financé reste petit. Exemples de l'auteur : parents sadiques, chien synthétique gardé chiot.
 - 2026-10-03 — Le frein démographique : le coût du substrat pour faire grandir ses enfants.
 - 2026-10-03 — La poudre n'est pas une devise mais une ressource fongible ; piste de la devise écartée.
 - 2026-10-03 — « Détrompeur » remplacé par « cybergonades » ; l'enfant naît sans cybergonades ; la poudre est fongible.

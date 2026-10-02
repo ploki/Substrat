@@ -57,3 +57,4 @@
 | 53 | 2026-10-03 | Les sphères sont immortelles | précise #48 | 06-concept-spheres-ia.md |
 | 54 | 2026-10-03 | Questions d'énergie reportées à plus tard | — | 01-cadrage-premisses.md |
 | 55 | 2026-10-03 | Frein démographique : le risque de ne pas pouvoir payer le substrat de croissance de ses enfants | — | 07-concept-reproduction-et-croissance.md |
+| 56 | 2026-10-03 | Un enfant non financé reste petit ; on peut aussi garder une sphère petite volontairement (parents sadiques, chien synthétique gardé chiot) | — | 07-concept-reproduction-et-croissance.md |
