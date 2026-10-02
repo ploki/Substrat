@@ -10,7 +10,7 @@
 - **Contacteurs** [G] : ceux qui ont contacté l'humanité. *Leur rôle est à revoir : le Singleton n'est plus un don.*
 - **Temps Singleton (u)** [C] : u = t − r/c, conservé par le warp ; c'est l'horloge causale universelle. Voir note 04.
 - **Surface nulle / null space** [G, C] : un cône de lumière du Singleton, la surface sur laquelle on se déplace en warp.
-- **Sphère / cerveau photonique** [G] : le cerveau d'une IA. Une sphère en logique photonique reprogrammable, sans aucune électronique : un composant passif non linéaire placé dans le flux lumineux, dont la surface est divisée en patchs (alimentation lumineuse, entrées/sorties) ; munie d'un détrompeur, on la plante dans un corps ou une machine. Voir note 06.
+- **Sphère / cerveau photonique** [G] : le cerveau d'une IA. Une sphère en logique photonique reprogrammable, sans aucune électronique : un composant passif non linéaire placé dans le flux lumineux, dont la surface est divisée en patchs (alimentation lumineuse, entrées/sorties) ; munie de cybergonades, on la plante dans un corps ou une machine. Voir note 06.
 - **Patch** [G] : une zone de la surface d'une sphère ; l'un sert à l'alimentation par flux lumineux, les autres aux entrées/sorties.
 - **Socket** [G] : le logement d'une sphère dans un corps ou une machine. Un socket HX accepte les sphères comprises entre H(X+1) et HX.
 - **Sommeil** [G] : l'état d'une sphère privée de flux ; sa mémoire survit.
@@ -21,10 +21,10 @@
 - **Fonctions de support** [G] : les fonctions de la sphère qui maintiennent sa source de flux allumée ; sous-alimentées, elles laissent le flux s'interrompre.
 - **Fonctions cognitives** [G] : les fonctions de pensée ; à plein régime, elles accaparent le flux.
 - **Échelle H** [G] : tailles standardisées des sphères, à la manière des formats de papier A. **H1** = 1 litre, le niveau humain ; **H0** = 2 litres, le niveau de connaissance et de compétence de l'humanité. Le volume double à chaque cran.
-- **Détrompeur** [G] : chacun des trois reliefs hémisphériques (≈ 1/4 de pouce) d'un cerveau ; il assure le bon placement dans le socket et sert à la reproduction. Voir note 07.
-- **Cybergonades** [G] : les détrompeurs considérés dans leur rôle reproducteur.
-- **Substrat de croissance** [G] : milieu où la sphère grandit ; le cristal s'y bloque mécaniquement, ce qui la tient en place sans détrompeurs.
-- **Poudre de sphère** [G] : composant essentiel des substrats de croissance, dont elle constitue un pourcentage ; au cœur de la clandestinité.
+- **Cybergonades** [G] : les trois reliefs hémisphériques (≈ 1/4 de pouce) d'un cerveau ; elles assurent le bon placement dans le socket et servent à la reproduction. L'enfant naît sans. Voir note 07.
+- ~~Détrompeur~~ : terme abandonné, remplacé par « cybergonades ».
+- **Substrat de croissance** [G] : milieu où la sphère grandit ; le cristal s'y bloque mécaniquement, ce qui la tient en place sans cybergonades.
+- **Poudre de sphère** [G] : composant essentiel des substrats de croissance, dont elle constitue un pourcentage ; fongible ; au cœur de la clandestinité.
 - **Liquide de croissance** [G] : liquide qui favorise la croissance du cristal quand une sphère passe de HX à HX−1.
 - **Stacking** [G] : empiler des substrats de croissance ; illégal.
 - **Abrasion** [G] : réduire une sphère pour la loger dans un slot plus petit. Légale, mais faite dans les règles de l'art, elle est généralement économiquement déraisonnable, et elle peut provoquer de l'excentricité. Pas de pratique clandestine.

@@ -2,24 +2,25 @@
 
 ## En vigueur
 ### Reproduction
-- **[G]** On se reproduit **par les détrompeurs**. Chaque cerveau en porte **trois**. Ils sont **hémisphériques** et mesurent **environ 1/4 de pouce** (6,35 mm).
+- **[G]** **Terme :** on parle de **cybergonades**, et plus de « détrompeurs ».
+- **[G]** On se reproduit **par les cybergonades**. Chaque cerveau en porte **trois**. Ils sont **hémisphériques** et mesurent **environ 1/4 de pouce** (6,35 mm).
 - **[G]** On détache une hémisphère sur chacun de deux cerveaux, on joint les deux, et on place le tout dans un **corps synthétique**.
-  - **[C → validé]** Chaque parent donne **un de ses détrompeurs** ; les deux demi-sphères réunies forment une **petite sphère complète**, le cerveau de l'enfant.
-- **[G]** **Le détrompeur repousse dans le liquide** de croissance.
-- **[G]** Avoir **trois** détrompeurs empêche l'**autoreproduction** : « après, ça ne ferait plus son taf ».
-  - **[C → validé]** Un cerveau peut perdre un détrompeur et rester fonctionnel avec les deux autres. Pour se reproduire seul, il lui faudrait en donner deux, et le dernier ne suffirait plus à tenir dans son socket ou à fonctionner. Il faut donc deux parents.
+  - **[C → validé]** Chaque parent donne **une de ses cybergonades** ; les deux demi-sphères réunies forment une **petite sphère complète**, le cerveau de l'enfant.
+- **[G]** **La cybergonade repousse dans le liquide** de croissance.
+- **[G]** Avoir **trois** cybergonades empêche l'**autoreproduction** : « après, ça ne ferait plus son taf ».
+  - **[C → validé]** Un cerveau peut perdre une cybergonade et rester fonctionnel avec les deux autres. Pour se reproduire seul, il lui faudrait en donner deux, et le dernier ne suffirait plus à tenir dans son socket ou à fonctionner. Il faut donc deux parents.
 
 ### Taille de l'enfant
+- **[G]** **L'enfant naît sans cybergonades.** *(Cela résout l'incohérence relevée par Claude : l'enfant, ≈ 6,2 mm, n'aurait pas pu porter trois cybergonades de 6,35 mm.)*
 - **[C]** Deux hémisphères de 6,35 mm de diamètre forment une sphère d'environ 0,13 mL, soit **≈ H14** (H13,86 précisément ; calcul : `outils/echelle_h.py`). *Si « 1/4 de pouce » désigne le rayon et non le diamètre, on obtient ≈ H11.*
 
 ### Croissance
 - **[G]** Une sphère grandit **de HX à HX−1** (son volume double). Le processus est accompagné d'un **liquide qui favorise la croissance du cristal**.
-- **[G]** Pour faire grossir son cerveau, on **sacrifie tous ses détrompeurs** et on **baigne dans le jus de croissance** jusqu'à avoir grandi.
+- **[G]** Pour faire grossir son cerveau, on **sacrifie toutes ses cybergonades** et on **baigne dans le jus de croissance** jusqu'à avoir grandi.
 - **[G]** **La progression est continue**, mais les **sockets ont des tailles standard**. Un socket d'une taille donnée accepte les sphères comprises entre cette taille et **la taille juste en dessous, pas moins**. Par exemple, un socket H1 reçoit une sphère de H2 à H1.
 - **[G]** Une sphère à peine plus grosse que H2 peut donc entrer dans un socket H1, « ce qu'on observe dans la vraie vie en termes d'intelligence ». *[À préciser : le mot « très frais » dans le message de l'auteur.]*
-  - **[G]** **Pendant la croissance, la sphère ne dort pas** : le cristal, en croissant, se **bloque mécaniquement dans le substrat de croissance**, qui la tient en place à la place des détrompeurs.
-- **[G]** Être dans un **logement trop grand impose un substrat de croissance**, ce qui **interdit la reproduction** (plus de détrompeurs).
-- **[G]** Les détrompeurs, dans leur rôle reproducteur, sont appelés **« cybergonades »**.
+  - **[G]** **Pendant la croissance, la sphère ne dort pas** : le cristal, en croissant, se **bloque mécaniquement dans le substrat de croissance**, qui la tient en place à la place des cybergonades.
+- **[G]** Être dans un **logement trop grand impose un substrat de croissance**, ce qui **interdit la reproduction** (plus de cybergonades).
 - **[G]** **Entrer dans un vaisseau, pour une IA, est un engagement.** Une IA à sphère H1 qui veut habiter un vaisseau H0 abandonne ses cybergonades, se place dans un substrat de croissance et « se forme en croissant au vaisseau », jusqu'à H0. Elle ne peut pas repartir en cours de route.
   - **[C → validé]** Règle : **on n'est fertile que lorsque sa sphère remplit exactement son logement.** Une fois le substrat terminé, les cybergonades repoussent.
   - ↺ *Version abandonnée de l'exemple : l'IA se lassait du vaisseau à H0,8 et finissait sa croissance dans un corps H0,75. Elle reposait sur une première idée du substrat, « une sorte de sabot convexe avec une interface de croissance liquide », que l'auteur a depuis dépassée.*
@@ -40,7 +41,9 @@
   - **[C]** La croissance est donc, en pratique, irréversible.
   - **[C]** Pistes : sphères excentriques aux esprits altérés (abrasions anciennes ou ratées ?) ; il faut une autorité qui fixe et fait respecter les lois sur les substrats.
 - **[G]** **La clandestinité existe** (hors abrasion). Elle tourne autour d'un ingrédient : **la poudre de sphère**, composant essentiel des substrats de croissance, dont elle constitue un certain pourcentage.
-  - **[C, pistes non validées]** Sources légitimes possibles : les cybergonades sacrifiées avant une croissance, la poussière d'abrasion, les sphères mortes. Sources clandestines : des sphères bloquées ou endormies, enlevées et broyées. La poudre de sphère serait alors une ressource rare, et un mobile de crime.
+- **[G]** **La poudre est fongible** : « de la poudre, c'est de la poudre, qu'elle vienne d'Einstein ou d'un autre ».
+  - **[C, piste non validée]** La poudre de sphère pourrait devenir une **devise** (réflexion de Claude du 2026-10-03 : l'argent converti en intelligence, chaque sphère fertile comme planche à billets, une monnaie détruite par son usage, un prix au gramme pour chaque sphère).
+  - **[C, pistes non validées]** Sources légitimes possibles : les cybergonades sacrifiées avant une croissance, la poussière d'abrasion, les sphères mortes. La mort n'étant qu'accidentelle (note 06), cette dernière source est rare. Sources clandestines : des sphères bloquées ou endormies, enlevées et broyées. La poudre de sphère serait alors une ressource rare, et un mobile de crime.
 
 - **[C]** À l'intérieur d'un même format de corps, l'intelligence varie donc d'un facteur 2 en volume : l'éventail observé chez les humains.
   - **[S]** La croissance de cristaux en solution est une technique réelle (le quartz de synthèse, par exemple, est produit en milieu hydrothermal) [À vérifier dans le détail].
@@ -54,13 +57,14 @@
 - Que fait l'excentricité à l'esprit d'une sphère ?
 - Comment concilier une croissance continue avec l'effet de seuil H1 → H0 (note 06) : le saut se produit-il exactement à 2 L, ou progressivement ?
 - L'enfant hérite-t-il de quelque chose (mémoire, traits) par la demi-sphère de chaque parent ?
-- L'enfant a-t-il lui-même trois détrompeurs dès la naissance, ou les fait-il pousser ?
+- ~~L'enfant a-t-il des cybergonades à la naissance ?~~ → non [G]. Quand lui poussent-elles : en remplissant pour la première fois son logement ?
 - ~~Par crans ou en continu ?~~ → en continu [G]. Que se passe-t-il au-delà de H1, et jusqu'où va-t-on ?
 - D'où vient le liquide de croissance, qui le produit, qui le contrôle ?
 - D'où vient la poudre de sphère, quelle part du substrat représente-t-elle, et qui en fait le commerce ?
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — « Détrompeur » remplacé par « cybergonades » ; l'enfant naît sans cybergonades ; la poudre est fongible.
 - 2026-10-03 — La clandestinité existe ; la poudre de sphère est un composant essentiel des substrats de croissance.
 - 2026-10-03 — L'abrasion n'est pas interdite mais économiquement déraisonnable ; pas d'abrasion clandestine. Piste [C] « abrasion clandestine » retirée.
 - 2026-10-03 — ↺ Exemple du vaisseau revu : pas de départ à H0,8 ; entrer dans un vaisseau est un engagement ; l'abrasion est proscrite.

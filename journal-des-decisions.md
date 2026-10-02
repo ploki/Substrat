@@ -48,3 +48,8 @@
 | 44 | 2026-10-03 | Exemple du vaisseau revu : une IA qui entre dans un vaisseau grandit jusqu'à sa taille, sans repartir en cours de route ; c'est un engagement. L'abrasion est proscrite | ↺ #39 (départ du vaisseau à H0,8) | 07-concept-reproduction-et-croissance.md |
 | 45 | 2026-10-03 | L'abrasion n'est pas interdite : faite dans les règles de l'art, elle est généralement économiquement déraisonnable. Il n'y a pas d'abrasion clandestine (ou elle n'est pas exploitée) | précise #44 | 07-concept-reproduction-et-croissance.md, 02-glossaire.md |
 | 46 | 2026-10-03 | La clandestinité existe ; elle tourne autour de la poudre de sphère, composant essentiel (en pourcentage) des substrats de croissance | précise #45 | 07-concept-reproduction-et-croissance.md, 02-glossaire.md |
+| 47 | 2026-10-03 | La poudre de sphère est fongible, quelle que soit sa provenance | — | 07-concept-reproduction-et-croissance.md |
+| 48 | 2026-10-03 | La mort d'un cerveau ne peut être qu'accidentelle (mécanique, thermique, chimique ou autre) | — | 06-concept-spheres-ia.md |
+| 49 | 2026-10-03 | L'enfant naît sans cybergonades | — | 07-concept-reproduction-et-croissance.md |
+| 50 | 2026-10-03 | Terme : « détrompeur » abandonné, on dit « cybergonades » | remplace le terme de #18, #33 | 02-glossaire.md, 06, 07 |
+| 51 | 2026-10-03 | Ce sont les corps qui fournissent le flux lumineux | — | 06-concept-spheres-ia.md |

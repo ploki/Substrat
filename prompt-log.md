@@ -31,3 +31,5 @@
 29. 2026-10-03 — Une abrasion dans les règles de l'art est généralement économiquement déraisonnable. La clandestinité n'existe pas, ou n'est pas exploitée.
 30. 2026-10-03 — Si, la clandestinité existe ! Un composant essentiel à la création des substrats de croissance est la poudre de sphère, qui en constitue un certain pourcentage.
 31. 2026-10-03 — Demande à Claude ce qu'il pense de l'ensemble.
+32. 2026-10-03 — Demande ce qui se passerait si la poudre de sphère devenait une devise.
+33. 2026-10-03 — La poudre, c'est de la poudre, qu'elle vienne d'Einstein ou d'un autre. La mort d'un cerveau ne peut être qu'un événement mécanique, thermique, chimique, ou un autre accident. L'enfant n'a pas de détrompeur, et il faut arrêter ce terme : ce sont les cybergonades. Les corps fournissent le flux lumineux.
