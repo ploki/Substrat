@@ -11,3 +11,5 @@
 | 7 | 2026-10-02 | Limite : la densité de stockage de l'énergie n'est ni résolue ni miniaturisée | — | 01-cadrage-premisses.md |
 | 8 | 2026-10-02 | L'énergie est transmise instantanément | — | 01-cadrage-premisses.md |
 | 9 | 2026-10-02 | Il existe dans l'univers une chose unique : le Singleton | — | 03-concept-singleton.md |
+| 10 | 2026-10-02 | Le Singleton est un don des contacteurs ; il tient la référence causale (temps absolu) | — | 03-concept-singleton.md |
+| 11 | 2026-10-02 | Règle du warp : s'éloigner du Singleton fait avancer dans le temps, s'en rapprocher le fait remonter (1 an par année-lumière) | — | 03-concept-singleton.md |

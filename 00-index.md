@@ -18,4 +18,5 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 |------|--------|--------|
 | 01-cadrage-premisses.md | en cours | Hard SF, cinq domaines résolus (médecine, transhumanisme, warp, AGI, gravité), premier contact ; limite : stockage de l'énergie ; énergie transmise instantanément |
 | 02-glossaire.md | vivant | Termes du projet |
-| 03-concept-singleton.md | en cours | Le Singleton : la chose unique dans l'univers, liée à l'énergie |
+| 03-concept-singleton.md | en cours | Le Singleton : don des contacteurs, référence causale ; le warp échange distance au Singleton contre temps |
+| 04-concept-physique-du-warp.md | proposition [C] | Formalisation u = t − r/c : surfaces nulles, causalité préservée, warp latéral instantané |
