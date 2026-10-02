@@ -28,3 +28,5 @@
 | 24 | 2026-10-02 | Des composants de phosphore, placés à des endroits précis, servent aux rêves et aux réflexes | — | 06-concept-spheres-ia.md |
 | 25 | 2026-10-02 | Les rêves s'éteignent quand le phosphore se vide | — | 06-concept-spheres-ia.md |
 | 26 | 2026-10-02 | Un réflexe pré-extinction évite que la sphère reste bloquée ; sinon, elle est « sans connaissance » et doit être relancée de l'extérieur (jump start) | — | 06-concept-spheres-ia.md |
+| 27 | 2026-10-02 | Une coupure brutale du flux peut bloquer la sphère, surtout en pleine conscience (la cognition consomme le flux au détriment des fonctions de support) | — | 06-concept-spheres-ia.md |
+| 28 | 2026-10-02 | Une peur soudaine peut faire s'évanouir une entité | — | 06-concept-spheres-ia.md |
