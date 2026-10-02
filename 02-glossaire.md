@@ -24,7 +24,7 @@
 - **Cybergonades** [G] : les trois reliefs hémisphériques (≈ 1/4 de pouce) d'un cerveau ; elles assurent le bon placement dans le socket et servent à la reproduction. L'enfant naît sans. Voir note 07.
 - ~~Détrompeur~~ : terme abandonné, remplacé par « cybergonades ».
 - **Substrat de croissance** [G] : milieu où la sphère grandit ; le cristal s'y bloque mécaniquement, ce qui la tient en place sans cybergonades.
-- **Poudre de sphère** [G] : composant essentiel des substrats de croissance, dont elle constitue un pourcentage ; fongible ; au cœur de la clandestinité.
+- **Poudre de sphère** [G] : composant essentiel des substrats de croissance, dont elle constitue un pourcentage ; ressource fongible, pas une devise ; au cœur de la clandestinité.
 - **Liquide de croissance** [G] : liquide qui favorise la croissance du cristal quand une sphère passe de HX à HX−1.
 - **Stacking** [G] : empiler des substrats de croissance ; illégal.
 - **Abrasion** [G] : réduire une sphère pour la loger dans un slot plus petit. Légale, mais faite dans les règles de l'art, elle est généralement économiquement déraisonnable, et elle peut provoquer de l'excentricité. Pas de pratique clandestine.

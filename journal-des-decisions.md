@@ -53,3 +53,4 @@
 | 49 | 2026-10-03 | L'enfant naît sans cybergonades | — | 07-concept-reproduction-et-croissance.md |
 | 50 | 2026-10-03 | Terme : « détrompeur » abandonné, on dit « cybergonades » | remplace le terme de #18, #33 | 02-glossaire.md, 06, 07 |
 | 51 | 2026-10-03 | Ce sont les corps qui fournissent le flux lumineux | — | 06-concept-spheres-ia.md |
+| 52 | 2026-10-03 | La poudre de sphère n'est pas une devise : c'est une ressource fongible | écarte la piste [C] de la devise | 07-concept-reproduction-et-croissance.md, 02-glossaire.md |

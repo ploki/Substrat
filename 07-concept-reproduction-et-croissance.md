@@ -42,7 +42,8 @@
   - **[C]** Pistes : sphères excentriques aux esprits altérés (abrasions anciennes ou ratées ?) ; il faut une autorité qui fixe et fait respecter les lois sur les substrats.
 - **[G]** **La clandestinité existe** (hors abrasion). Elle tourne autour d'un ingrédient : **la poudre de sphère**, composant essentiel des substrats de croissance, dont elle constitue un certain pourcentage.
 - **[G]** **La poudre est fongible** : « de la poudre, c'est de la poudre, qu'elle vienne d'Einstein ou d'un autre ».
-  - **[C, piste non validée]** La poudre de sphère pourrait devenir une **devise** (réflexion de Claude du 2026-10-03 : l'argent converti en intelligence, chaque sphère fertile comme planche à billets, une monnaie détruite par son usage, un prix au gramme pour chaque sphère).
+- **[G]** **La poudre de sphère n'est pas une devise : c'est une ressource fongible.**
+  - *Piste écartée : la poudre comme devise (réflexion de Claude du 2026-10-03).*
   - **[C, pistes non validées]** Sources légitimes possibles : les cybergonades sacrifiées avant une croissance, la poussière d'abrasion, les sphères mortes. La mort n'étant qu'accidentelle (note 06), cette dernière source est rare. Sources clandestines : des sphères bloquées ou endormies, enlevées et broyées. La poudre de sphère serait alors une ressource rare, et un mobile de crime.
 
 - **[C]** À l'intérieur d'un même format de corps, l'intelligence varie donc d'un facteur 2 en volume : l'éventail observé chez les humains.
@@ -64,6 +65,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — La poudre n'est pas une devise mais une ressource fongible ; piste de la devise écartée.
 - 2026-10-03 — « Détrompeur » remplacé par « cybergonades » ; l'enfant naît sans cybergonades ; la poudre est fongible.
 - 2026-10-03 — La clandestinité existe ; la poudre de sphère est un composant essentiel des substrats de croissance.
 - 2026-10-03 — L'abrasion n'est pas interdite mais économiquement déraisonnable ; pas d'abrasion clandestine. Piste [C] « abrasion clandestine » retirée.
