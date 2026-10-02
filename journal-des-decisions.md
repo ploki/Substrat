@@ -41,3 +41,4 @@
 | 37 | 2026-10-03 | Les sockets ont des tailles standard ; un socket HX accepte les sphères de H(X+1) à HX | — | 07-concept-reproduction-et-croissance.md, 02-glossaire.md |
 | 38 | 2026-10-03 | Pendant la croissance, la sphère ne dort pas : le cristal se bloque mécaniquement dans le substrat de croissance | — | 07-concept-reproduction-et-croissance.md |
 | 39 | 2026-10-03 | Un logement trop grand impose un substrat de croissance, ce qui interdit la reproduction ; les cybergonades repoussent une fois la taille du logement atteinte | — | 07-concept-reproduction-et-croissance.md |
+| 40 | 2026-10-03 | On ne parle pas d'humains pour l'instant : les corps sont synthétiques. Un même modèle de corps existe en plusieurs tailles de socket, comme les cylindrées d'une voiture | corrige une formulation [C] | 07-concept-reproduction-et-croissance.md |

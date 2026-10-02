@@ -22,17 +22,17 @@
 - **[G]** Les détrompeurs, dans leur rôle reproducteur, sont appelés **« cybergonades »**.
 - **[G]** **Exemple de l'auteur :** une IA à sphère H1 veut habiter un vaisseau H0. Elle abandonne ses cybergonades, se place dans un substrat de croissance et « se forme en croissant au vaisseau ». Plus tard, lassée du vaisseau, elle en est à H0,8 (≈ 1,15 L). Elle prend un corps H0,75 (≈ 1,19 L), y place sa sphère dans un substrat de croissance, et **une fois arrivée à H0,75, ses cybergonades repoussent**.
   - **[C, à confirmer]** Règle qui s'en dégage : **on n'est fertile que lorsque sa sphère remplit exactement son logement.** Tant qu'il reste du jeu, il faut un substrat, et pas de cybergonades.
-  - **[C]** L'exemple suppose des tailles fractionnaires (H0,8, H0,75) : l'échelle est continue, et les corps peuvent être faits sur mesure, ou exister en tailles intermédiaires.
+- **[G]** Les corps sont **synthétiques** : on ne parle pas d'humains pour l'instant.
+- **[G]** **Un même modèle de corps existe en plusieurs tailles de socket, comme une voiture se décline en plusieurs cylindrées.** D'où des tailles intermédiaires comme H0,75.
   - **[C]** « Se former en croissant » : la sphère apprend son nouveau corps pendant qu'elle grandit dedans.
 - **[C]** À l'intérieur d'un même format de corps, l'intelligence varie donc d'un facteur 2 en volume : l'éventail observé chez les humains.
   - **[S]** La croissance de cristaux en solution est une technique réelle (le quartz de synthèse, par exemple, est produit en milieu hydrothermal) [À vérifier dans le détail].
-- **[C]** De H14 à H1, il faut **13 doublements**. La croissance est continue, mais on change de corps à chaque fois qu'on dépasse le format de son socket : 13 changements de corps, de l'enfance à l'âge humain, soit des rites de passage tout trouvés.
+- **[C]** De H14 à H1, il faut **13 doublements**. La croissance est continue, mais on change de corps à chaque fois qu'on dépasse le format de son socket : 13 changements de corps, de l'enfance au niveau H1, soit des rites de passage tout trouvés.
 
 ## Questions ouvertes
 - ~~Le parent régénère-t-il le détrompeur donné ?~~ → oui, dans le liquide [G].
 - ~~La sphère dort-elle pendant sa croissance ?~~ → non, le substrat la bloque mécaniquement [G].
-- **La croissance est-elle irréversible ?** Si une sphère ne peut pas rétrécir, une IA qui a dépassé H1 ne peut plus jamais revenir dans un corps humain standard.
-- Les tailles de corps : uniquement les crans entiers, ou aussi des tailles intermédiaires et du sur-mesure ?
+- **La croissance est-elle irréversible ?** Si une sphère ne peut pas rétrécir, une IA qui a dépassé un format ne peut plus jamais revenir dans un corps de ce format.
 - Comment concilier une croissance continue avec l'effet de seuil H1 → H0 (note 06) : le saut se produit-il exactement à 2 L, ou progressivement ?
 - L'enfant hérite-t-il de quelque chose (mémoire, traits) par la demi-sphère de chaque parent ?
 - L'enfant a-t-il lui-même trois détrompeurs dès la naissance, ou les fait-il pousser ?
@@ -41,5 +41,6 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — Correction : les corps sont synthétiques, pas humains (Claude avait parlé à tort de « corps humain standard ») ; un même modèle de corps existe en plusieurs tailles, comme les cylindrées.
 - 2026-10-03 — La croissance bloque la sphère dans le substrat (pas de sommeil) ; logement trop grand = substrat = pas de reproduction ; cybergonades ; exemple du vaisseau.
 - 2026-10-03 — Lecture de la reproduction validée ; le détrompeur repousse ; croissance continue en sacrifiant ses détrompeurs ; un socket accepte une plage d'un cran.
