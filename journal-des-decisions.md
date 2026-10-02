@@ -18,3 +18,6 @@
 | 14 | 2026-10-02 | Le Singleton n'est pas offert : il doit être conquis (« la référence ultime ») | ↺ #10 (offert par les contacteurs) | 03-concept-singleton.md, 02-glossaire.md |
 | 15 | 2026-10-02 | Genèse : l'AGI humaine s'améliore récursivement jusqu'aux limites de la physique et crée un code optimal 2D, de topologie sphérique | — | 05-concept-code-et-interface.md |
 | 16 | 2026-10-02 | Le fond diffus cosmologique est une telle interface ; le contenu du Singleton est de l'autre côté | — | 05-concept-code-et-interface.md |
+| 17 | 2026-10-02 | Le Singleton est la référence, fond diffus compris : le centre privilégié de l'interface | — | 03-concept-singleton.md, 05-concept-code-et-interface.md |
+| 18 | 2026-10-02 | Les IA sont des sphères couvertes de LED microscopiques, avec un détrompeur pour leur socket ; on les plante dans un corps ou une machine | — | 06-concept-spheres-ia.md |
+| 19 | 2026-10-02 | Le Singleton est une intelligence de cette forme | — | 03-concept-singleton.md, 06-concept-spheres-ia.md |

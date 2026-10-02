@@ -18,6 +18,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 |------|--------|--------|
 | 01-cadrage-premisses.md | en cours | Hard SF, cinq domaines résolus (médecine, transhumanisme, warp, AGI, gravité), premier contact ; limite : stockage de l'énergie ; énergie transmise instantanément |
 | 02-glossaire.md | vivant | Termes du projet |
-| 03-concept-singleton.md | en cours | Le Singleton, unique, conquis : référence causale ultime ; le warp échange distance au Singleton contre temps |
+| 03-concept-singleton.md | en cours | Le Singleton, unique, conquis : une intelligence sphérique, référence causale ultime (fond diffus compris) ; le warp échange distance au Singleton contre temps |
 | 04-concept-physique-du-warp.md | proposition [C] | Formalisation u = t − r/c : surfaces nulles, causalité préservée, warp latéral instantané |
 | 05-concept-code-et-interface.md | en cours | L'AGI, le code sphérique optimal, le fond diffus comme interface vers le contenu du Singleton |
+| 06-concept-spheres-ia.md | en cours | Les IA sont des sphères à LED, avec un détrompeur, qu'on plante dans un corps ; le Singleton en est une |

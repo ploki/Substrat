@@ -10,6 +10,8 @@
 - **Contacteurs** [G] : ceux qui ont contacté l'humanité. *Leur rôle est à revoir : le Singleton n'est plus un don.*
 - **Temps Singleton (u)** [C] : u = t − r/c, conservé par le warp ; c'est l'horloge causale universelle. Voir note 04.
 - **Surface nulle / null space** [G, C] : un cône de lumière du Singleton, la surface sur laquelle on se déplace en warp.
+- **Sphère** [G] : le « cerveau » d'une IA ; une sphère couverte de LED microscopiques, munie d'un détrompeur, qu'on plante dans un corps ou une machine. Voir note 06.
+- **Socket** [G] : le logement d'une sphère dans un corps ou une machine.
 
 ## Historique
 - 2026-10-02 — Création.
