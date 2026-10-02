@@ -15,3 +15,6 @@
 | 11 | 2026-10-02 | Règle du warp : s'éloigner du Singleton fait avancer dans le temps, s'en rapprocher le fait remonter (1 an par année-lumière) | — | 03-concept-singleton.md |
 | 12 | 2026-10-02 | Le Singleton n'est peut-être pas unique : rien n'empêche qu'il y en ait plusieurs | ↺ #9 (« chose unique ») | 03-concept-singleton.md, 02-glossaire.md |
 | 13 | 2026-10-02 | Retour à l'unicité : le Singleton est unique, pour éviter tout paradoxe temporel | ↺ #12 (plusieurs singletons possibles) | 03-concept-singleton.md, 04-concept-physique-du-warp.md, 02-glossaire.md |
+| 14 | 2026-10-02 | Le Singleton n'est pas offert : il doit être conquis (« la référence ultime ») | ↺ #10 (offert par les contacteurs) | 03-concept-singleton.md, 02-glossaire.md |
+| 15 | 2026-10-02 | Genèse : l'AGI humaine s'améliore récursivement jusqu'aux limites de la physique et crée un code optimal 2D, de topologie sphérique | — | 05-concept-code-et-interface.md |
+| 16 | 2026-10-02 | Le fond diffus cosmologique est une telle interface ; le contenu du Singleton est de l'autre côté | — | 05-concept-code-et-interface.md |

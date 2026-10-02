@@ -5,7 +5,7 @@
   1. la médecine ;
   2. le transhumanisme ;
   3. le warp drive (voyage plus rapide que la lumière) ;
-  4. l'AGI (intelligence artificielle générale) ;
+  4. l'AGI (intelligence artificielle générale) : conçue par l'humanité, elle s'est améliorée récursivement jusqu'aux limites de la physique (voir note 05) ;
   5. le contrôle de la gravité.
 - **[G]** **L'humanité a été contactée.**
 - **[C, à confirmer]** Lecture proposée : la physique et la science restent rigoureuses partout ailleurs, et la rigueur porte sur les **conséquences** de ces cinq acquis et du contact.

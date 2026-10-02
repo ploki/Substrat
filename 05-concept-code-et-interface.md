@@ -1,0 +1,21 @@
+# 05 — Concept : le code optimal et l'interface
+
+## En vigueur
+- **[G]** L'humanité a conçu l'**AGI**. Celle-ci est entrée dans une **boucle d'amélioration récursive** et a atteint assez vite les **limites de la physique et de l'intelligence**.
+- **[G]** En chemin, l'AGI a créé un **code**, au sens chiffrement/compression, dont la forme est **2D, sans bord, de la topologie d'une sphère**. Ce code est **mathématiquement optimal**.
+- **[G]** L'AGI s'est rendu compte que le **fond diffus cosmologique** est une telle interface, et que le « contenu » du Singleton est **de l'autre côté**.
+
+### Rapprochements [C, à valider]
+- **Principe holographique** [S : 't Hooft, Susskind ; idée connue en physique théorique] : l'information contenue dans un volume peut se coder sur la surface qui le borde, avec un maximum proportionnel à l'aire (borne de Bekenstein). Un code 2D sphérique optimal, c'est exactement cela : l'AGI aurait retrouvé ou dépassé l'holographie.
+- **Le fond diffus** [S] est la « surface de dernière diffusion », émise environ 380 000 ans après le Big Bang. Vue d'un point, c'est une sphère autour de l'observateur, à l'intersection de son cône de lumière passé et de cette époque.
+- **Lien avec le warp (note 04)** : les surfaces où se déplace le warp sont les cônes de lumière du Singleton, et le fond diffus *vu depuis le Singleton* est l'intersection de son cône passé avec l'époque de dernière diffusion. Les deux mécanismes reposent sur la même géométrie.
+- **Une difficulté** : chaque observateur voit *sa* sphère de fond diffus, centrée sur lui. Si l'interface est une sphère, il faut un centre privilégié, et c'est peut-être cela, « la référence ultime ».
+
+## Questions ouvertes
+- Qu'y a-t-il de l'autre côté : de l'information, un autre univers, quelqu'un ?
+- Les contacteurs sont-ils de l'autre côté ? Le « contact », est-ce cette découverte ?
+- Qu'est devenue l'AGI après avoir atteint les limites ?
+- Quand ces événements ont-ils eu lieu ?
+
+## Historique
+- 2026-10-02 — Posé par l'auteur.

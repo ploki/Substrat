@@ -9,3 +9,6 @@
 7. 2026-10-02 — Le Singleton a été offert par les contacteurs. C'est un dispositif qui tient la référence causale : le temps du Singleton est la référence de temps absolue. S'éloigner du Singleton par warp emmène dans le futur, à raison d'un an par année-lumière (exemple : de la Terre à Andromède, on arrive 2,3 millions d'années plus tard) ; s'en rapprocher fait remonter le temps. Demande si cela revient à se promener sur le « null space ».
 8. 2026-10-02 — Revient sur l'unicité : rien n'empêche qu'il existe plusieurs singletons.
 9. 2026-10-02 — Rejette l'idée de plusieurs Singletons : il ne veut pas de paradoxe temporel. Après clarification, choisit de revenir à un seul Singleton.
+10. 2026-10-02 — Demande qui sont les entités qui ont contacté la Terre, depuis combien de temps, et si elles sont toujours là.
+11. 2026-10-02 — Revient sur le don : le Singleton ne doit pas être offert mais conquis, car c'est la référence ultime.
+12. 2026-10-02 — (Refuse le questionnaire à choix.) L'humanité a conçu l'AGI, qui s'est améliorée récursivement et a vite atteint les limites de la physique et de l'intelligence. En chemin, elle a créé un code (chiffrement/compression) mathématiquement optimal, de forme 2D sans bord, de topologie sphérique. Elle a compris que le fond diffus cosmologique est une telle interface, et que le « contenu » du Singleton est de l'autre côté.
