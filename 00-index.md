@@ -14,4 +14,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 - `prompt-log.md`
 
 ## Notes
-*(aucune pour l'instant)*
+| Note | Statut | Résumé |
+|------|--------|--------|
+| 01-cadrage-premisses.md | en cours | Hard SF, cinq domaines résolus (médecine, transhumanisme, warp, AGI, gravité), premier contact |
+| 02-glossaire.md | vivant | Termes du projet |
