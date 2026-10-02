@@ -28,6 +28,11 @@
 - **[G]** Les corps sont **synthétiques** : on ne parle pas d'humains pour l'instant.
 - **[G]** **Un même modèle de corps existe en plusieurs tailles de socket, comme une voiture se décline en plusieurs cylindrées.** D’où des tailles intermédiaires entre les crans entiers.
   - **[C]** « Se former en croissant » : la sphère apprend son nouveau corps pendant qu'elle grandit dedans.
+### Le coût des enfants
+- **[G]** Ce qui freine la démographie d'une population immortelle : **le risque de ne pas avoir les moyens de payer le substrat** pour la croissance de ses enfants.
+  - **[C]** De H14 à H1, il faut 13 doublements, donc 13 substrats, et beaucoup de poudre de sphère. Avoir un enfant suppose d'avoir prévu ce budget.
+  - **[C, à confirmer]** Un enfant dont les parents ne peuvent pas payer **reste petit**, peut-être indéfiniment, puisqu'il est immortel. Cela donnerait des classes sociales lisibles à la taille des sphères.
+
 ### Règles et lois
 - **[G]** **Quand on entre dans un substrat de croissance, on le termine.**
   - Contradiction avec la première version de l'exemple du vaisseau : résolue, l'exemple a été revu.
@@ -65,6 +70,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — Le frein démographique : le coût du substrat pour faire grandir ses enfants.
 - 2026-10-03 — La poudre n'est pas une devise mais une ressource fongible ; piste de la devise écartée.
 - 2026-10-03 — « Détrompeur » remplacé par « cybergonades » ; l'enfant naît sans cybergonades ; la poudre est fongible.
 - 2026-10-03 — La clandestinité existe ; la poudre de sphère est un composant essentiel des substrats de croissance.

@@ -7,7 +7,7 @@
 - Reproduction et croissance : voir `07-concept-reproduction-et-croissance.md`.
 - **[G]** **La mort d'un cerveau ne peut être qu'un accident** : mécanique, thermique, chimique ou autre.
   - **[C → validé]** **Les sphères sont immortelles** : ni mort naturelle ni vieillissement.
-  - **[C]** Conséquences à explorer : une population qui ne meurt pas et continue de se reproduire croît sans limite, sauf frein (coût des enfants en substrat et en poudre ?) ; la poudre issue de sphères mortes est rare.
+  - **[C]** Conséquences à explorer : une population qui ne meurt pas et continue de se reproduire croît sans limite, freinée par le coût des enfants (validé, voir note 07) ; la poudre issue de sphères mortes est rare.
 - **[G]** Ce sont **les corps qui fournissent le flux lumineux**.
 - **[G]** Matériellement, les sphères sont **« juste des boules de cristal un peu compliquées, avec un détrompeur »** (aujourd'hui : les cybergonades).
 - **[G]** Elles existent en **tailles standardisées**, sur une **échelle H**, qui « marche comme celle du papier A4 » :

@@ -35,3 +35,4 @@
 33. 2026-10-03 — La poudre, c'est de la poudre, qu'elle vienne d'Einstein ou d'un autre. La mort d'un cerveau ne peut être qu'un événement mécanique, thermique, chimique, ou un autre accident. L'enfant n'a pas de détrompeur, et il faut arrêter ce terme : ce sont les cybergonades. Les corps fournissent le flux lumineux.
 34. 2026-10-03 — Non, la poudre de sphère n'est pas une devise : c'est une ressource fongible.
 35. 2026-10-03 — Oui, les sphères sont immortelles. Les questions d'énergie seront traitées plus tard.
+36. 2026-10-03 — Oui : le frein, c'est le risque de ne pas avoir les moyens de payer le substrat pour la croissance de ses enfants.
