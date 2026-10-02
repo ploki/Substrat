@@ -10,7 +10,7 @@
 - **Le fond diffus** [S] est la « surface de dernière diffusion », émise environ 380 000 ans après le Big Bang. Vue d'un point, c'est une sphère autour de l'observateur, à l'intersection de son cône de lumière passé et de cette époque.
 - **Lien avec le warp (note 04)** : les surfaces où se déplace le warp sont les cônes de lumière du Singleton, et le fond diffus *vu depuis le Singleton* est l'intersection de son cône passé avec l'époque de dernière diffusion. Les deux mécanismes reposent sur la même géométrie.
 - **Le centre** : chaque observateur voit *sa* sphère de fond diffus, centrée sur lui. **[G]** Le centre privilégié est le Singleton : il est la référence, fond diffus compris.
-- **[C]** Le code est écrit **en lumière** sur une sphère (les LED des cerveaux, note 06), et le fond diffus est **de la lumière** sur une sphère. L'analogie est exacte.
+- **[C]** Le code est écrit **en lumière** sur une sphère (la lumière qui traverse les cerveaux photoniques, note 06), et le fond diffus est **de la lumière** sur une sphère. L'analogie est exacte.
 
 ## Questions ouvertes
 - Qu'y a-t-il de l'autre côté : de l'information, un autre univers, quelqu'un ?
