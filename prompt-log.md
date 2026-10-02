@@ -21,3 +21,4 @@
 19. 2026-10-03 — Précise qu'il ne parle pas d'émotions : la sphère contrôle la source de son flux, et si les fonctions de support n'ont pas assez de lumière pour fonctionner, le flux s'interrompt.
 20. 2026-10-03 — Les sphères sont simplement des boules de cristal un peu compliquées, avec un détrompeur, en différentes tailles standardisées. H0 correspond au niveau de connaissance et de compétence de l'humanité, H1 au niveau humain. L'échelle fonctionne comme celle du papier A4.
 21. 2026-10-03 — Précise : un cerveau photonique H1 développe l'intelligence d'un humain. Posons H1 = 1 L et H0 = 2 L. Selon lui, ce seul volume en plus débloque les facultés intellectuelles qui permettent de maîtriser toutes les connaissances et compétences de tous les humains, et de planifier entre elles comme une superintelligence. Demande l'avis de Claude.
+22. 2026-10-03 — Valide l'analyse de Claude : « oui, exactement ça ».

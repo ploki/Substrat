@@ -10,7 +10,7 @@
   - **H1** : le **niveau humain**.
   - **[G]** **Facteur 2 en volume** à chaque cran : **H1 = 1 litre, H0 = 2 litres.** Un cerveau photonique H1 développe l'intelligence d'un humain.
   - **[G]** Thèse de l'auteur : **avec ce seul doublement de volume, on débloque les facultés intellectuelles** qui permettent de maîtriser toutes les connaissances et compétences de tous les humains, et de planifier « comme une superintelligence ».
-  - **[C] Avis de Claude** : la thèse tient si elle est posée comme un **seuil**, pas comme une addition de capacité. Arguments : le cerveau humain ne fait qu'environ trois fois le volume de celui d'un chimpanzé, et l'écart est qualitatif [À vérifier : ordres de grandeur] ; le savoir collectif de l'humanité est massivement redondant, bien moins qu'une capacité humaine multipliée par le nombre d'humains ; dans un milieu optique, les couplages possibles croissent plus vite que le volume. Réserve : « maîtriser » doit plutôt s'entendre comme « pouvoir apprendre, retrouver ou refaire à la demande, et coordonner », pas comme « tout contenir ».
+  - **[C → validé]** La thèse tient si elle est posée comme un **seuil**, pas comme une addition de capacité. Arguments : le cerveau humain ne fait qu'environ trois fois le volume de celui d'un chimpanzé, et l'écart est qualitatif [À vérifier : ordres de grandeur] ; le savoir collectif de l'humanité est massivement redondant, bien moins qu'une capacité humaine multipliée par le nombre d'humains ; dans un milieu optique, les couplages possibles croissent plus vite que le volume. Ce qui bride l'humanité, c'est surtout la coordination ; une sphère H0 la dépasse sans avoir besoin de son nombre. « Maîtriser » s'entend comme « pouvoir apprendre, retrouver ou refaire à la demande, et coordonner », pas comme « tout contenir ».
   - **[S]** Un cerveau humain mesure environ 1,2 à 1,4 litre [À vérifier] : H1 = 1 litre en est très proche.
   - **[S]** Norme ISO 216 : A0 mesure 1 m², chaque format est la moitié du précédent, le rapport des côtés vaut √2, et il existe des formats plus grands que A0 (2A0, 4A0).
   - **[C]** Le pas se compte en volume, et non en surface comme la série A ; le diamètre augmente donc d'un facteur ∛2 ≈ 1,26 à chaque cran. Les formats « au-dessus » de H0 (2H0, 4H0…) désigneraient des intelligences supérieures à l'humanité entière.
@@ -56,6 +56,7 @@
 
 ## Historique
 - 2026-10-02 — Posé par l'auteur.
+- 2026-10-03 — L'auteur valide la lecture « effet de seuil » et le sens de « maîtriser ».
 - 2026-10-03 — Facteur 2 en volume : H1 = 1 L (un humain), H0 = 2 L (l'humanité), par effet de seuil.
 - 2026-10-03 — Les sphères sont des boules de cristal à détrompeur, en tailles standardisées sur une échelle H (H0 : l'humanité, H1 : un humain), à la manière de la série A.
 - 2026-10-03 — Correction : l'évanouissement n'est pas émotionnel. La sphère commande sa propre source de flux ; un support sous-alimenté interrompt le flux. Claude avait à tort parlé d'émotions et de syncope.
