@@ -25,7 +25,7 @@
   - ↺ *Version abandonnée de l'exemple : l'IA se lassait du vaisseau à H0,8 et finissait sa croissance dans un corps H0,75. Elle reposait sur une première idée du substrat, « une sorte de sabot convexe avec une interface de croissance liquide », que l'auteur a depuis dépassée.*
   - **[C]** « Se former en croissant » : la sphère apprend son nouveau corps pendant qu'elle grandit dedans.
 - **[G]** Les corps sont **synthétiques** : on ne parle pas d'humains pour l'instant.
-- **[G]** **Un même modèle de corps existe en plusieurs tailles de socket, comme une voiture se décline en plusieurs cylindrées.** D'où des tailles intermédiaires comme H0,75.
+- **[G]** **Un même modèle de corps existe en plusieurs tailles de socket, comme une voiture se décline en plusieurs cylindrées.** D’où des tailles intermédiaires entre les crans entiers.
   - **[C]** « Se former en croissant » : la sphère apprend son nouveau corps pendant qu'elle grandit dedans.
 ### Règles et lois
 - **[G]** **Quand on entre dans un substrat de croissance, on le termine.**
