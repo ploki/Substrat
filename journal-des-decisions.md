@@ -26,3 +26,5 @@
 | 22 | 2026-10-02 | Cerveau photonique : aucune électronique ; un composant passif non linéaire dans le flux lumineux, qui n'émet pas de lumière par lui-même | ↺ #18 (surface couverte de « LED ») | 06-concept-spheres-ia.md, 02-glossaire.md |
 | 23 | 2026-10-02 | Sans flux, la mémoire survit : la sphère dort | — | 06-concept-spheres-ia.md |
 | 24 | 2026-10-02 | Des composants de phosphore, placés à des endroits précis, servent aux rêves et aux réflexes | — | 06-concept-spheres-ia.md |
+| 25 | 2026-10-02 | Les rêves s'éteignent quand le phosphore se vide | — | 06-concept-spheres-ia.md |
+| 26 | 2026-10-02 | Un réflexe pré-extinction évite que la sphère reste bloquée ; sinon, elle est « sans connaissance » et doit être relancée de l'extérieur (jump start) | — | 06-concept-spheres-ia.md |

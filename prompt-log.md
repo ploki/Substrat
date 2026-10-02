@@ -16,3 +16,4 @@
 14. 2026-10-02 — Le Singleton est bien une sphère physique. On parlera de « cerveau photonique » : il est entièrement réalisé en logique photonique reprogrammable, sans microélectronique au silicium, une toute autre technologie. Sa surface est divisée en patchs : l'un reçoit un flux lumineux constant d'alimentation, les autres servent d'entrées/sorties.
 15. 2026-10-02 — Met le Singleton de côté pour se concentrer sur le cerveau des AGI. Pas d'électronique du tout : il faut le voir comme un composant passif non linéaire placé dans le flux lumineux.
 16. 2026-10-02 — Sans flux, la mémoire survit : la sphère dort. Des composants de phosphore sont disposés à des endroits précis, pour les rêves et les réflexes.
+17. 2026-10-02 — Les rêves s'éteignent quand le phosphore se vide. Un réflexe pré-extinction peut rallumer puis éteindre la sphère pour qu'elle ne reste pas bloquée. On peut imaginer des entités synthétiques sans connaissance qui ont besoin d'un jump start.

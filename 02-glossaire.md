@@ -15,6 +15,9 @@
 - **Socket** [G] : le logement d'une sphère dans un corps ou une machine.
 - **Sommeil** [G] : l'état d'une sphère privée de flux ; sa mémoire survit.
 - **Phosphore** [G] : composants placés à des endroits précis de la sphère, pour les rêves et les réflexes.
+- **Réflexe pré-extinction** [G] : réflexe qui, juste avant que le phosphore s'épuise, « rallume et éteint » la sphère pour la laisser dans un état non bloqué.
+- **Stuck / bloqué** [G] : état d'une sphère qui ne peut pas se réveiller seule ; elle est « sans connaissance ».
+- **Jump start** [G] : relance extérieure d'une sphère bloquée.
 
 ## Historique
 - 2026-10-02 — Création.
