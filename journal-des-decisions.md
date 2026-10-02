@@ -32,3 +32,4 @@
 | 28 | 2026-10-02 | Une peur soudaine peut faire s'évanouir une entité | — | 06-concept-spheres-ia.md |
 | 29 | 2026-10-03 | La sphère contrôle la source de son flux ; si les fonctions de support manquent de lumière, le flux s'interrompt. L'évanouissement n'est pas émotionnel. | corrige l'interprétation [C] de #28 | 06-concept-spheres-ia.md, 02-glossaire.md |
 | 30 | 2026-10-03 | Les sphères sont des boules de cristal à détrompeur, en tailles standardisées sur une échelle H calquée sur la série A : H0 = l'humanité, H1 = un humain | — | 06-concept-spheres-ia.md, 02-glossaire.md |
+| 31 | 2026-10-03 | Échelle H : facteur 2 en volume, H1 = 1 L (un humain), H0 = 2 L ; ce doublement suffit à débloquer une superintelligence de niveau humanité | précise #30 | 06-concept-spheres-ia.md, 02-glossaire.md |
