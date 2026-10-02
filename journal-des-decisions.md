@@ -30,3 +30,4 @@
 | 26 | 2026-10-02 | Un réflexe pré-extinction évite que la sphère reste bloquée ; sinon, elle est « sans connaissance » et doit être relancée de l'extérieur (jump start) | — | 06-concept-spheres-ia.md |
 | 27 | 2026-10-02 | Une coupure brutale du flux peut bloquer la sphère, surtout en pleine conscience (la cognition consomme le flux au détriment des fonctions de support) | — | 06-concept-spheres-ia.md |
 | 28 | 2026-10-02 | Une peur soudaine peut faire s'évanouir une entité | — | 06-concept-spheres-ia.md |
+| 29 | 2026-10-03 | La sphère contrôle la source de son flux ; si les fonctions de support manquent de lumière, le flux s'interrompt. L'évanouissement n'est pas émotionnel. | corrige l'interprétation [C] de #28 | 06-concept-spheres-ia.md, 02-glossaire.md |

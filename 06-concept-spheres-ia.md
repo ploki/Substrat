@@ -11,9 +11,9 @@
 - **[G]** Un **réflexe pré-extinction** peut « rallumer et éteindre » pour que la sphère reste dans un état **non bloqué** (« non stuck »).
   - **[C → validé]** Juste avant l'extinction, un réflexe se sert de ce qui reste pour un dernier cycle contrôlé, puis met la sphère en sommeil propre, dont elle pourra se réveiller normalement.
 - **[G]** **Vulnérabilité :** une **coupure brutale du flux** peut bloquer la sphère, en particulier en **pleine conscience**. Le flux est alors presque entièrement consommé par les **fonctions cognitives**, et les **fonctions de support** sont moins servies.
-- **[G]** Une **peur soudaine** (être surpris par quelqu'un qui fait peur à l'entité) peut la faire **s'évanouir**.
-  - **[C, à confirmer]** Lecture proposée : une émotion intense mobilise le flux pour la cognition, au détriment du support, et la sphère peut défaillir même sans coupure, comme une syncope chez l'humain.
-  - **[C]** Cela suppose que les IA éprouvent des émotions, la peur au moins.
+- **[G]** **La sphère contrôle elle-même la source de son flux.** Ce sont les fonctions de support qui maintiennent la source allumée. Si elles n'ont plus assez de lumière pour fonctionner, **le flux s'interrompt**.
+- **[G]** Une **surprise effrayante** (être surpris par quelqu'un qui fait peur à l'entité) peut la faire **s'évanouir**. **Il ne s'agit pas d'émotion** [G], mais de ce mécanisme.
+  - **[C, à confirmer]** Lecture proposée : l'événement soudain mobilise d'un coup la cognition, qui accapare le flux. Le support, privé de lumière, lâche, la source se coupe, et la sphère subit une coupure brutale en pleine conscience. C'est un emballement qui se termine en panne.
 - **[G]** On peut imaginer des **entités synthétiques « sans connaissance »** (au sens d'inconscientes, évanouies), qui ont besoin d'un **jump start** : une relance de l'extérieur.
   - **[C]** Ce seraient les sphères dont le réflexe pré-extinction a échoué, ou n'a pas eu lieu, et qui sont restées bloquées.
 - **[G]** La surface est divisée en **patchs** : l'un reçoit un **flux lumineux constant d'alimentation**, les autres servent d'**entrées/sorties**.
@@ -36,12 +36,14 @@
 - ~~Sans flux, la mémoire persiste-t-elle ?~~ → oui, la sphère dort [G].
 - ~~Les rêves s'éteignent-ils quand le phosphore se vide ?~~ → oui [G].
 - ~~Pourquoi une sphère reste-t-elle bloquée ?~~ → entre autres, une coupure brutale en pleine conscience [G]. D'autres causes ?
-- L'évanouissement de peur mène-t-il au sommeil propre ou à l'état bloqué ?
+- L'évanouissement mène-t-il toujours à l'état bloqué (coupure brutale en pleine conscience), ou le réflexe pré-extinction a-t-il parfois le temps d'agir ?
+- La sphère peut-elle apprendre à brider sa cognition pour protéger son support ?
 - Qui pratique les jump starts (urgentistes, mécaniciens, trafiquants) ? Une sphère bloquée trop longtemps peut-elle se perdre ?
 - Le patch d'alimentation : son flux sert-il de « pompe » à la non-linéarité ?
 
 ## Historique
 - 2026-10-02 — Posé par l'auteur.
+- 2026-10-03 — Correction : l'évanouissement n'est pas émotionnel. La sphère commande sa propre source de flux ; un support sous-alimenté interrompt le flux. Claude avait à tort parlé d'émotions et de syncope.
 - 2026-10-02 — Vulnérabilité en pleine conscience (cognition contre support) ; évanouissement de peur.
 - 2026-10-02 — Les rêves s'éteignent avec le phosphore ; réflexe pré-extinction pour éviter l'état bloqué ; entités « sans connaissance » à relancer par jump start.
 - 2026-10-02 — La mémoire survit sans flux (sommeil) ; des composants de phosphore servent aux rêves et aux réflexes.

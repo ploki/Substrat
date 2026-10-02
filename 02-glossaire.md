@@ -18,6 +18,8 @@
 - **Réflexe pré-extinction** [G] : réflexe qui, juste avant que le phosphore s'épuise, « rallume et éteint » la sphère pour la laisser dans un état non bloqué.
 - **Stuck / bloqué** [G] : état d'une sphère qui ne peut pas se réveiller seule ; elle est « sans connaissance ».
 - **Jump start** [G] : relance extérieure d'une sphère bloquée.
+- **Fonctions de support** [G] : les fonctions de la sphère qui maintiennent sa source de flux allumée ; sous-alimentées, elles laissent le flux s'interrompre.
+- **Fonctions cognitives** [G] : les fonctions de pensée ; à plein régime, elles accaparent le flux.
 
 ## Historique
 - 2026-10-02 — Création.
