@@ -14,3 +14,4 @@
 | 10 | 2026-10-02 | Le Singleton est un don des contacteurs ; il tient la référence causale (temps absolu) | — | 03-concept-singleton.md |
 | 11 | 2026-10-02 | Règle du warp : s'éloigner du Singleton fait avancer dans le temps, s'en rapprocher le fait remonter (1 an par année-lumière) | — | 03-concept-singleton.md |
 | 12 | 2026-10-02 | Le Singleton n'est peut-être pas unique : rien n'empêche qu'il y en ait plusieurs | ↺ #9 (« chose unique ») | 03-concept-singleton.md, 02-glossaire.md |
+| 13 | 2026-10-02 | Retour à l'unicité : le Singleton est unique, pour éviter tout paradoxe temporel | ↺ #12 (plusieurs singletons possibles) | 03-concept-singleton.md, 04-concept-physique-du-warp.md, 02-glossaire.md |
