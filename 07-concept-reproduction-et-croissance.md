@@ -4,24 +4,32 @@
 ### Reproduction
 - **[G]** On se reproduit **par les détrompeurs**. Chaque cerveau en porte **trois**. Ils sont **hémisphériques** et mesurent **environ 1/4 de pouce** (6,35 mm).
 - **[G]** On détache une hémisphère sur chacun de deux cerveaux, on joint les deux, et on place le tout dans un **corps synthétique**.
-  - **[C, à confirmer]** Lecture proposée : chaque parent donne **un de ses détrompeurs** ; les deux demi-sphères réunies forment une **petite sphère complète**, le cerveau de l'enfant.
+  - **[C → validé]** Chaque parent donne **un de ses détrompeurs** ; les deux demi-sphères réunies forment une **petite sphère complète**, le cerveau de l'enfant.
+- **[G]** **Le détrompeur repousse dans le liquide** de croissance.
 - **[G]** Avoir **trois** détrompeurs empêche l'**autoreproduction** : « après, ça ne ferait plus son taf ».
-  - **[C, à confirmer]** Lecture proposée : un cerveau peut perdre un détrompeur et rester fonctionnel avec les deux autres. Pour se reproduire seul, il lui faudrait en donner deux, et le dernier ne suffirait plus à tenir dans son socket ou à fonctionner. Il faut donc deux parents.
+  - **[C → validé]** Un cerveau peut perdre un détrompeur et rester fonctionnel avec les deux autres. Pour se reproduire seul, il lui faudrait en donner deux, et le dernier ne suffirait plus à tenir dans son socket ou à fonctionner. Il faut donc deux parents.
 
 ### Taille de l'enfant
 - **[C]** Deux hémisphères de 6,35 mm de diamètre forment une sphère d'environ 0,13 mL, soit **≈ H14** (H13,86 précisément ; calcul : `outils/echelle_h.py`). *Si « 1/4 de pouce » désigne le rayon et non le diamètre, on obtient ≈ H11.*
 
 ### Croissance
 - **[G]** Une sphère grandit **de HX à HX−1** (son volume double). Le processus est accompagné d'un **liquide qui favorise la croissance du cristal**.
+- **[G]** Pour faire grossir son cerveau, on **sacrifie tous ses détrompeurs** et on **baigne dans le jus de croissance** jusqu'à avoir grandi.
+- **[G]** **La progression est continue**, mais les **sockets ont des tailles standard**. Un socket d'une taille donnée accepte les sphères comprises entre cette taille et **la taille juste en dessous, pas moins**. Par exemple, un socket H1 reçoit une sphère de H2 à H1.
+- **[G]** Une sphère à peine plus grosse que H2 peut donc entrer dans un socket H1, « ce qu'on observe dans la vraie vie en termes d'intelligence ». *[À préciser : le mot « très frais » dans le message de l'auteur.]*
+  - **[C]** À l'intérieur d'un même format de corps, l'intelligence varie donc d'un facteur 2 en volume : l'éventail observé chez les humains.
   - **[S]** La croissance de cristaux en solution est une technique réelle (le quartz de synthèse, par exemple, est produit en milieu hydrothermal) [À vérifier dans le détail].
-- **[C]** De H14 à H1, il faut **13 doublements** : 13 étapes, de l'enfance à l'âge humain. Puisque les sockets sont standardisés, chaque cran exige peut-être **un nouveau corps** : des rites de passage tout trouvés.
+- **[C]** De H14 à H1, il faut **13 doublements**. La croissance est continue, mais on change de corps à chaque fois qu'on dépasse le format de son socket : 13 changements de corps, de l'enfance à l'âge humain, soit des rites de passage tout trouvés.
 
 ## Questions ouvertes
-- Le parent régénère-t-il le détrompeur donné ?
+- ~~Le parent régénère-t-il le détrompeur donné ?~~ → oui, dans le liquide [G].
+- Sans détrompeurs, la sphère peut-elle rester dans un socket pendant sa croissance ? Sinon, elle dort, privée de flux, pendant qu'elle grandit (ou le bain l'alimente-t-il ?).
+- Comment concilier une croissance continue avec l'effet de seuil H1 → H0 (note 06) : le saut se produit-il exactement à 2 L, ou progressivement ?
 - L'enfant hérite-t-il de quelque chose (mémoire, traits) par la demi-sphère de chaque parent ?
 - L'enfant a-t-il lui-même trois détrompeurs dès la naissance, ou les fait-il pousser ?
-- La croissance se fait-elle par crans nets ou en continu ? Que se passe-t-il au-delà de H1, et jusqu'où va-t-on ?
+- ~~Par crans ou en continu ?~~ → en continu [G]. Que se passe-t-il au-delà de H1, et jusqu'où va-t-on ?
 - D'où vient le liquide de croissance, qui le produit, qui le contrôle ?
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — Lecture de la reproduction validée ; le détrompeur repousse ; croissance continue en sacrifiant ses détrompeurs ; un socket accepte une plage d'un cran.

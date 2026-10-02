@@ -36,3 +36,6 @@
 | 32 | 2026-10-03 | Validé : le passage de H1 à H0 est un effet de seuil ; « maîtriser » veut dire pouvoir apprendre, retrouver ou refaire à la demande, et coordonner | précise #31 | 06-concept-spheres-ia.md |
 | 33 | 2026-10-03 | Reproduction : chaque cerveau a trois détrompeurs hémisphériques (≈ 1/4 po) ; on en réunit deux, un par parent, dans un corps synthétique. Trois détrompeurs empêchent l'autoreproduction | — | 07-concept-reproduction-et-croissance.md |
 | 34 | 2026-10-03 | Croissance de HX à HX−1, accompagnée d'un liquide qui favorise la croissance du cristal | — | 07-concept-reproduction-et-croissance.md |
+| 35 | 2026-10-03 | Le détrompeur donné repousse dans le liquide | — | 07-concept-reproduction-et-croissance.md |
+| 36 | 2026-10-03 | Pour grandir, on sacrifie ses trois détrompeurs et on baigne dans le jus de croissance ; la progression est continue | — | 07-concept-reproduction-et-croissance.md |
+| 37 | 2026-10-03 | Les sockets ont des tailles standard ; un socket HX accepte les sphères de H(X+1) à HX | — | 07-concept-reproduction-et-croissance.md, 02-glossaire.md |
