@@ -14,8 +14,18 @@
 4. **Le temps Singleton u fonctionne comme un calendrier universel**, partagé par tous les lieux.
 5. Le Singleton définit un **référentiel privilégié**, ce qui rompt l'équivalence des référentiels de la relativité restreinte. En hard SF, c'est précisément le prix à payer pour un voyage plus rapide que la lumière sans paradoxe.
 
+### Plusieurs Singletons [C]
+- Chaque Singleton Sᵢ définit son propre temps uᵢ = t − rᵢ/c. Un warp « via Sᵢ » conserve uᵢ.
+- **Pris seul, chaque Singleton est sans paradoxe. Combinés, ils permettent de remonter dans son propre passé.** Prenons deux Singletons distants de d. Un warp via S₁ peut faire baisser u₂ jusqu'à d/c ; un warp via S₂ peut ensuite faire baisser u₁ jusqu'à d/c de plus. Chaque aller-retour fait reculer d'environ 2d/c, ce qui ouvre des boucles temporelles fermées.
+- Échappatoires possibles, à choisir par l'auteur :
+  - (a) **une seule référence active à la fois** : les autres Singletons sont éteints, dormants, ou de simples copies inertes ;
+  - (b) **des domaines** : chaque région de l'espace dépend d'un seul Singleton, et l'on ne peut pas enchaîner deux références ;
+  - (c) **le paradoxe est possible** : c'est le danger, la raison pour laquelle les contacteurs n'en ont « offert » qu'un, l'arme ultime ou un tabou ;
+  - (d) les Singletons se **synchronisent**, et se gênent ou se combattent quand ils n'y parviennent pas.
+
 ### Limites de la formalisation
 - Elle ne vaut qu'en espace plat. Aux échelles cosmologiques (expansion), elle devra être ajustée.
 
 ## Historique
 - 2026-10-02 — Formalisation proposée par Claude à partir de la règle de l'auteur.
+- 2026-10-02 — Ajout de l'analyse « Plusieurs Singletons ».

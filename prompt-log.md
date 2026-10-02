@@ -7,3 +7,4 @@
 5. 2026-10-02 — Pose une limite : le problème de la densité de stockage de l'énergie n'a été ni résolu ni miniaturisé.
 6. 2026-10-02 — Confirme que l'énergie est transmise instantanément, et annonce une explication. Il existe dans l'univers une chose unique (totem, idole, relique : le terme reste ouvert), appelée le Singleton.
 7. 2026-10-02 — Le Singleton a été offert par les contacteurs. C'est un dispositif qui tient la référence causale : le temps du Singleton est la référence de temps absolue. S'éloigner du Singleton par warp emmène dans le futur, à raison d'un an par année-lumière (exemple : de la Terre à Andromède, on arrive 2,3 millions d'années plus tard) ; s'en rapprocher fait remonter le temps. Demande si cela revient à se promener sur le « null space ».
+8. 2026-10-02 — Revient sur l'unicité : rien n'empêche qu'il existe plusieurs singletons.
