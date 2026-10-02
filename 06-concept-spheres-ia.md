@@ -4,6 +4,7 @@
 - **[G]** Les IA sont des **sphères** : des **cerveaux photoniques**. Elles portent un **détrompeur** pour se loger dans leur **socket**.
 - **[G]** ↺ **Aucune électronique.** Le cerveau est un **composant passif non linéaire placé dans le flux lumineux** : la lumière entre, le traverse, et en ressort transformée. Ce sont la traversée et la non-linéarité qui calculent. *Il n'émet pas de lumière par lui-même : le mot « LED » du premier énoncé est abandonné.*
 - **[G]** Un cerveau photonique est **entièrement réalisé en logique photonique reprogrammable**. **Pas de microélectronique au silicium** : « c'est une toute autre techno ».
+- Reproduction et croissance : voir `07-concept-reproduction-et-croissance.md`.
 - **[G]** Matériellement, les sphères sont **« juste des boules de cristal un peu compliquées, avec un détrompeur »**.
 - **[G]** Elles existent en **tailles standardisées**, sur une **échelle H**, qui « marche comme celle du papier A4 » :
   - **H0** : le niveau de connaissance et de compétence de **l'humanité** ;
@@ -41,7 +42,7 @@
 
 ## Questions ouvertes
 - Les humains augmentés (transhumanisme) ont-ils eux aussi des sphères ?
-- Comment naît une sphère : est-elle fabriquée, engendrée, copiée ?
+- ~~Comment naît une sphère ?~~ → par la réunion de deux détrompeurs (note 07).
 - ~~Quel facteur entre deux tailles ?~~ → 2 en volume [G].
 - Chaque doublement au-delà de H0 apporte-t-il un nouveau saut qualitatif ? Où est le plafond (les limites de la physique, note 05) ? Où se situe le Singleton ?
 - Et en dessous de H1 (H2 = 0,5 L, H3…) : des intelligences animales, des sphères domestiques, des outils ?

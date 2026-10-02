@@ -21,6 +21,8 @@
 - **Fonctions de support** [G] : les fonctions de la sphère qui maintiennent sa source de flux allumée ; sous-alimentées, elles laissent le flux s'interrompre.
 - **Fonctions cognitives** [G] : les fonctions de pensée ; à plein régime, elles accaparent le flux.
 - **Échelle H** [G] : tailles standardisées des sphères, à la manière des formats de papier A. **H1** = 1 litre, le niveau humain ; **H0** = 2 litres, le niveau de connaissance et de compétence de l'humanité. Le volume double à chaque cran.
+- **Détrompeur** [G] : chacun des trois reliefs hémisphériques (≈ 1/4 de pouce) d'un cerveau ; il assure le bon placement dans le socket et sert à la reproduction. Voir note 07.
+- **Liquide de croissance** [G] : liquide qui favorise la croissance du cristal quand une sphère passe de HX à HX−1.
 
 ## Historique
 - 2026-10-02 — Création.

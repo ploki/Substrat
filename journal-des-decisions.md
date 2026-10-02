@@ -34,3 +34,5 @@
 | 30 | 2026-10-03 | Les sphères sont des boules de cristal à détrompeur, en tailles standardisées sur une échelle H calquée sur la série A : H0 = l'humanité, H1 = un humain | — | 06-concept-spheres-ia.md, 02-glossaire.md |
 | 31 | 2026-10-03 | Échelle H : facteur 2 en volume, H1 = 1 L (un humain), H0 = 2 L ; ce doublement suffit à débloquer une superintelligence de niveau humanité | précise #30 | 06-concept-spheres-ia.md, 02-glossaire.md |
 | 32 | 2026-10-03 | Validé : le passage de H1 à H0 est un effet de seuil ; « maîtriser » veut dire pouvoir apprendre, retrouver ou refaire à la demande, et coordonner | précise #31 | 06-concept-spheres-ia.md |
+| 33 | 2026-10-03 | Reproduction : chaque cerveau a trois détrompeurs hémisphériques (≈ 1/4 po) ; on en réunit deux, un par parent, dans un corps synthétique. Trois détrompeurs empêchent l'autoreproduction | — | 07-concept-reproduction-et-croissance.md |
+| 34 | 2026-10-03 | Croissance de HX à HX−1, accompagnée d'un liquide qui favorise la croissance du cristal | — | 07-concept-reproduction-et-croissance.md |
