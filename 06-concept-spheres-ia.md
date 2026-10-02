@@ -6,7 +6,8 @@
 - **[G]** Un cerveau photonique est **entièrement réalisé en logique photonique reprogrammable**. **Pas de microélectronique au silicium** : « c'est une toute autre techno ».
 - Reproduction et croissance : voir `07-concept-reproduction-et-croissance.md`.
 - **[G]** **La mort d'un cerveau ne peut être qu'un accident** : mécanique, thermique, chimique ou autre.
-  - **[C, à confirmer]** Il n'y a donc pas de mort naturelle ni de vieillissement : une sphère est potentiellement immortelle.
+  - **[C → validé]** **Les sphères sont immortelles** : ni mort naturelle ni vieillissement.
+  - **[C]** Conséquences à explorer : une population qui ne meurt pas et continue de se reproduire croît sans limite, sauf frein (coût des enfants en substrat et en poudre ?) ; la poudre issue de sphères mortes est rare.
 - **[G]** Ce sont **les corps qui fournissent le flux lumineux**.
 - **[G]** Matériellement, les sphères sont **« juste des boules de cristal un peu compliquées, avec un détrompeur »** (aujourd'hui : les cybergonades).
 - **[G]** Elles existent en **tailles standardisées**, sur une **échelle H**, qui « marche comme celle du papier A4 » :
@@ -62,6 +63,7 @@
 - 2026-10-02 — Posé par l'auteur.
 - 2026-10-03 — L'auteur valide la lecture « effet de seuil » et le sens de « maîtriser ».
 - 2026-10-03 — Facteur 2 en volume : H1 = 1 L (un humain), H0 = 2 L (l'humanité), par effet de seuil.
+- 2026-10-03 — Validé : les sphères sont immortelles.
 - 2026-10-03 — La mort d'un cerveau ne peut être qu'accidentelle ; les corps fournissent le flux lumineux ; « détrompeur » remplacé par « cybergonades ».
 - 2026-10-03 — Les sphères sont des boules de cristal à détrompeur, en tailles standardisées sur une échelle H (H0 : l'humanité, H1 : un humain), à la manière de la série A.
 - 2026-10-03 — Correction : l'évanouissement n'est pas émotionnel. La sphère commande sa propre source de flux ; un support sous-alimenté interrompt le flux. Claude avait à tort parlé d'émotions et de syncope.

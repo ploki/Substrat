@@ -17,6 +17,7 @@
 
 ## Questions ouvertes
 - « Résolus » : maîtrisés par qui, depuis quand, accessibles à tous ou non ?
+- **Reporté par l'auteur (2026-10-03) : toutes les questions d'énergie**, dont la source d'énergie des corps.
 - Énergie : la production est-elle abondante (fusion ou autre) ? ~~L'énergie peut-elle être transmise à distance ?~~ → oui, instantanément [G].
 - Le contact : par qui, quand, et l'humanité avait-elle déjà le warp, ou le tient-elle du contact ?
 - **[C]** Warp et causalité : en relativité, un voyage plus rapide que la lumière permet en principe de remonter le temps. Interdit, permis ou ignoré ? C'est une question classique de la hard SF.
