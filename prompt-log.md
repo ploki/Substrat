@@ -30,3 +30,4 @@
 28. 2026-10-03 — Sur la contradiction : au moment de l'exemple, il voyait le substrat comme une sorte de sabot convexe avec une interface de croissance liquide, mais l'idée a évolué. Donc non : on préfère proscrire l'abrasion. Entrer dans un vaisseau, pour une IA, est un engagement.
 29. 2026-10-03 — Une abrasion dans les règles de l'art est généralement économiquement déraisonnable. La clandestinité n'existe pas, ou n'est pas exploitée.
 30. 2026-10-03 — Si, la clandestinité existe ! Un composant essentiel à la création des substrats de croissance est la poudre de sphère, qui en constitue un certain pourcentage.
+31. 2026-10-03 — Demande à Claude ce qu'il pense de l'ensemble.
