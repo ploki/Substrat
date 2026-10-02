@@ -42,7 +42,8 @@
 ### Le marché des cybergonades
 - **[G]** Il existe un **marché des cybergonades**, par exemple celles qu'on **récolte à chaque cycle de croissance d'un enfant**.
 - **[G]** Leurs usages : **créer des animaux synthétiques de compagnie** ; être **gardées comme économies pour l'enfant** ; **équiper un appareil** (une « appliance ») qui a besoin d'une sphère.
-  - **[C]** Un animal de compagnie et un enfant naissent donc de la même façon, par deux cybergonades réunies. Seul le statut les distingue : la loi oblige à faire grandir l'un, pas l'autre. La frontière entre enfant, animal et appareil est une question de droit, pas de matière.
+- **[G]** **C'est un monde où il importe peu que la sphère soit dans telle ou telle représentation** (corps d'animal, appareil, autre). *Claude avait proposé à tort la frontière enfant / animal / appareil comme thème de fond ; l'auteur l'a écarté.*
+  - **[À préciser]** Qu'est-ce qui distingue alors, aux yeux de la loi, l'enfant qu'on doit faire grandir de l'animal synthétique gardé petit ?
   - **[C]** Beaucoup d'appareils abritent une petite sphère, donc un esprit, même minuscule.
 
 ### Règles et lois
@@ -83,6 +84,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — La représentation d'une sphère importe peu ; thème [C] « enfant / animal / appareil » écarté.
 - 2026-10-03 — Marché des cybergonades (animaux, économies, appareils) ; ↺ il existe une abrasion de marché noir, risquée ; le coût vise l'abrasion bien faite.
 - 2026-10-03 — Obligation légale de faire grandir ses enfants ; trois cybergonades à la fin de chaque cycle.
 - 2026-10-03 — Un être resté petit ne peut pas payer sa croissance.

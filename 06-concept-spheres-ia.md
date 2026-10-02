@@ -32,7 +32,7 @@
 - **[G]** On peut imaginer des **entités synthétiques « sans connaissance »** (au sens d'inconscientes, évanouies), qui ont besoin d'un **jump start** : une relance de l'extérieur.
   - **[C]** Ce seraient les sphères dont le réflexe pré-extinction a échoué, ou n'a pas eu lieu, et qui sont restées bloquées.
 - **[G]** La surface est divisée en **patchs** : l'un reçoit un **flux lumineux constant d'alimentation**, les autres servent d'**entrées/sorties**.
-- **[G]** Une sphère est **un individu sans forme physique**. Une fois plantée dans un corps ou une machine, « zou » : elle l'anime.
+- **[G]** Une sphère est **un individu sans forme physique**. **Il importe peu qu'elle soit dans telle ou telle représentation** : le corps ne définit pas l'individu. Une fois plantée dans un corps ou une machine, « zou » : elle l'anime.
 - **[G]** **Le Singleton est une intelligence de cette forme.** « Et les IA marchent comme ça. »
 - **[S]** Clin d'œil : chez Asimov, le cerveau des robots est le **cerveau positronique**, de forme sphérique dans plusieurs récits. *[À vérifier : la forme exacte selon les textes.]*
 
