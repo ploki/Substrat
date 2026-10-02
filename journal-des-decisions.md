@@ -39,3 +39,5 @@
 | 35 | 2026-10-03 | Le détrompeur donné repousse dans le liquide | — | 07-concept-reproduction-et-croissance.md |
 | 36 | 2026-10-03 | Pour grandir, on sacrifie ses trois détrompeurs et on baigne dans le jus de croissance ; la progression est continue | — | 07-concept-reproduction-et-croissance.md |
 | 37 | 2026-10-03 | Les sockets ont des tailles standard ; un socket HX accepte les sphères de H(X+1) à HX | — | 07-concept-reproduction-et-croissance.md, 02-glossaire.md |
+| 38 | 2026-10-03 | Pendant la croissance, la sphère ne dort pas : le cristal se bloque mécaniquement dans le substrat de croissance | — | 07-concept-reproduction-et-croissance.md |
+| 39 | 2026-10-03 | Un logement trop grand impose un substrat de croissance, ce qui interdit la reproduction ; les cybergonades repoussent une fois la taille du logement atteinte | — | 07-concept-reproduction-et-croissance.md |
