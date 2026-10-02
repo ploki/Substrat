@@ -8,3 +8,4 @@
 | 4 | 2026-10-02 | But : une sandbox intellectuelle peuplée, d'où l'on extrait des aventures | précise #3 | intention-de-l-auteur.md |
 | 5 | 2026-10-02 | Hard SF, avec cinq domaines résolus : médecine, transhumanisme, warp drive, AGI, contrôle de la gravité | — | 01-cadrage-premisses.md |
 | 6 | 2026-10-02 | L'humanité a été contactée | — | 01-cadrage-premisses.md |
+| 7 | 2026-10-02 | Limite : la densité de stockage de l'énergie n'est ni résolue ni miniaturisée | — | 01-cadrage-premisses.md |

@@ -10,10 +10,16 @@
 - **[G]** **L'humanité a été contactée.**
 - **[C, à confirmer]** Lecture proposée : la physique et la science restent rigoureuses partout ailleurs, et la rigueur porte sur les **conséquences** de ces cinq acquis et du contact.
 
+- **[G]** **Limite : la densité de stockage de l'énergie n'est ni résolue ni miniaturisée.**
+  - **[C, à confirmer]** Lecture proposée : on sait *produire* beaucoup d'énergie, mais pas la *stocker* de façon compacte. Pas de « batterie miracle » portative.
+  - **[C, pistes non validées]** Conséquences possibles : warp et contrôle de la gravité liés à de grosses installations (vaisseaux à réacteur, stations, réseaux d'émission d'énergie à distance) ; objets et corps augmentés dépendants d'une alimentation extérieure ; la *proximité d'une source d'énergie* comme enjeu géographique, économique et politique ; l'autonomie énergétique comme marqueur de statut ou de puissance.
+
 ## Questions ouvertes
 - « Résolus » : maîtrisés par qui, depuis quand, accessibles à tous ou non ?
+- Énergie : la production est-elle abondante (fusion ou autre) ? L'énergie peut-elle être transmise à distance ?
 - Le contact : par qui, quand, et l'humanité avait-elle déjà le warp, ou le tient-elle du contact ?
 - **[C]** Warp et causalité : en relativité, un voyage plus rapide que la lumière permet en principe de remonter le temps. Interdit, permis ou ignoré ? C'est une question classique de la hard SF.
 
 ## Historique
 - 2026-10-02 — Prémisses posées par l'auteur.
+- 2026-10-02 — Première limite posée : la densité de stockage de l'énergie.

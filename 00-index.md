@@ -16,5 +16,5 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 ## Notes
 | Note | Statut | Résumé |
 |------|--------|--------|
-| 01-cadrage-premisses.md | en cours | Hard SF, cinq domaines résolus (médecine, transhumanisme, warp, AGI, gravité), premier contact |
+| 01-cadrage-premisses.md | en cours | Hard SF, cinq domaines résolus (médecine, transhumanisme, warp, AGI, gravité), premier contact ; limite : stockage de l'énergie |
 | 02-glossaire.md | vivant | Termes du projet |
