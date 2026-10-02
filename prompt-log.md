@@ -5,3 +5,4 @@
 3. 2026-10-02 — Se reprend : veut parler d'un monde, de ses gens, de ses lieux et de sa culture, et le construire comme un open world peuplé de PNJ, avec amitiés et inimitiés, pour y imaginer des histoires ou des aventures. Demande si les livrables seraient alors des aventures.
 4. 2026-10-02 — Précise : le but est une sandbox intellectuelle bien peuplée, d'où l'on extrait facilement des aventures ; les assets intellectuels sont prêts à l'emploi. Le cadre est la hard SF habituelle, sauf que la médecine, le transhumanisme, le warp drive, l'AGI et le contrôle de la gravité sont résolus. L'humanité a été contactée.
 5. 2026-10-02 — Pose une limite : le problème de la densité de stockage de l'énergie n'a été ni résolu ni miniaturisé.
+6. 2026-10-02 — Confirme que l'énergie est transmise instantanément, et annonce une explication. Il existe dans l'univers une chose unique (totem, idole, relique : le terme reste ouvert), appelée le Singleton.

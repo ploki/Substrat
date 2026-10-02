@@ -9,3 +9,5 @@
 | 5 | 2026-10-02 | Hard SF, avec cinq domaines résolus : médecine, transhumanisme, warp drive, AGI, contrôle de la gravité | — | 01-cadrage-premisses.md |
 | 6 | 2026-10-02 | L'humanité a été contactée | — | 01-cadrage-premisses.md |
 | 7 | 2026-10-02 | Limite : la densité de stockage de l'énergie n'est ni résolue ni miniaturisée | — | 01-cadrage-premisses.md |
+| 8 | 2026-10-02 | L'énergie est transmise instantanément | — | 01-cadrage-premisses.md |
+| 9 | 2026-10-02 | Il existe dans l'univers une chose unique : le Singleton | — | 03-concept-singleton.md |
