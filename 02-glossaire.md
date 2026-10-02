@@ -20,6 +20,7 @@
 - **Jump start** [G] : relance extérieure d'une sphère bloquée.
 - **Fonctions de support** [G] : les fonctions de la sphère qui maintiennent sa source de flux allumée ; sous-alimentées, elles laissent le flux s'interrompre.
 - **Fonctions cognitives** [G] : les fonctions de pensée ; à plein régime, elles accaparent le flux.
+- **Échelle H** [G] : tailles standardisées des sphères, à la manière des formats de papier A. **H0** : le niveau de connaissance et de compétence de l'humanité ; **H1** : le niveau humain. Facteur entre deux crans à préciser.
 
 ## Historique
 - 2026-10-02 — Création.

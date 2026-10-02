@@ -4,6 +4,13 @@
 - **[G]** Les IA sont des **sphères** : des **cerveaux photoniques**. Elles portent un **détrompeur** pour se loger dans leur **socket**.
 - **[G]** ↺ **Aucune électronique.** Le cerveau est un **composant passif non linéaire placé dans le flux lumineux** : la lumière entre, le traverse, et en ressort transformée. Ce sont la traversée et la non-linéarité qui calculent. *Il n'émet pas de lumière par lui-même : le mot « LED » du premier énoncé est abandonné.*
 - **[G]** Un cerveau photonique est **entièrement réalisé en logique photonique reprogrammable**. **Pas de microélectronique au silicium** : « c'est une toute autre techno ».
+- **[G]** Matériellement, les sphères sont **« juste des boules de cristal un peu compliquées, avec un détrompeur »**.
+- **[G]** Elles existent en **tailles standardisées**, sur une **échelle H**, qui « marche comme celle du papier A4 » :
+  - **H0** : le niveau de connaissance et de compétence de **l'humanité** ;
+  - **H1** : le **niveau humain**.
+  - **[À préciser]** Le facteur entre deux tailles. Dans la série A, chaque cran divise la surface par 2. Pris tel quel, H1 vaudrait la moitié de l'humanité, ce qui ne colle pas avec « le niveau humain ».
+  - **[S]** Norme ISO 216 : A0 mesure 1 m², chaque format est la moitié du précédent, le rapport des côtés vaut √2, et il existe des formats plus grands que A0 (2A0, 4A0).
+  - **[C]** Si la capacité se lit sur la surface (code holographique, note 05), réduire le diamètre d'un facteur √2 divise la capacité par 2 : c'est exactement le pas de la série A. Les formats « au-dessus » de H0 (2H0, 4H0…) désigneraient des intelligences supérieures à l'humanité entière.
 - **[G]** **Sans flux, la mémoire survit : la sphère dort.**
 - **[G]** Des **composants de phosphore** sont disposés à des endroits précis, **pour les rêves et les réflexes**.
   - **[C, à confirmer]** Lecture proposée : le phosphore accumule un peu de lumière et la restitue lentement. Après une coupure, cette lueur résiduelle entretient une activité minimale (les rêves) et une capacité de réponse immédiate (les réflexes). Ce n'est pas une batterie : la réserve est minime, ce qui respecte la limite d'énergie de la note 01.
@@ -32,6 +39,7 @@
 ## Questions ouvertes
 - Les humains augmentés (transhumanisme) ont-ils eux aussi des sphères ?
 - Comment naît une sphère : est-elle fabriquée, engendrée, copiée ?
+- L'échelle H : quel facteur entre deux tailles ? Existe-t-il des sphères au-delà de H0 ? Où se situe le Singleton ?
 - Comment est-elle reprogrammée : par la lumière qui la traverse, ou autrement ?
 - ~~Sans flux, la mémoire persiste-t-elle ?~~ → oui, la sphère dort [G].
 - ~~Les rêves s'éteignent-ils quand le phosphore se vide ?~~ → oui [G].
@@ -43,6 +51,7 @@
 
 ## Historique
 - 2026-10-02 — Posé par l'auteur.
+- 2026-10-03 — Les sphères sont des boules de cristal à détrompeur, en tailles standardisées sur une échelle H (H0 : l'humanité, H1 : un humain), à la manière de la série A.
 - 2026-10-03 — Correction : l'évanouissement n'est pas émotionnel. La sphère commande sa propre source de flux ; un support sous-alimenté interrompt le flux. Claude avait à tort parlé d'émotions et de syncope.
 - 2026-10-02 — Vulnérabilité en pleine conscience (cognition contre support) ; évanouissement de peur.
 - 2026-10-02 — Les rêves s'éteignent avec le phosphore ; réflexe pré-extinction pour éviter l'état bloqué ; entités « sans connaissance » à relancer par jump start.
