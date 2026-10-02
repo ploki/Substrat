@@ -23,3 +23,4 @@
 | 19 | 2026-10-02 | Le Singleton est une intelligence de cette forme | — | 03-concept-singleton.md, 06-concept-spheres-ia.md |
 | 20 | 2026-10-02 | Le Singleton est une sphère physique | — | 03-concept-singleton.md |
 | 21 | 2026-10-02 | Cerveau photonique : logique photonique reprogrammable, sans silicium ; surface en patchs (un pour l'alimentation par flux lumineux constant, les autres en entrées/sorties) | — | 06-concept-spheres-ia.md |
+| 22 | 2026-10-02 | Cerveau photonique : aucune électronique ; un composant passif non linéaire dans le flux lumineux, qui n'émet pas de lumière par lui-même | ↺ #18 (surface couverte de « LED ») | 06-concept-spheres-ia.md, 02-glossaire.md |

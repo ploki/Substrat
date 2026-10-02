@@ -21,4 +21,4 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 | 03-concept-singleton.md | en cours | Le Singleton, unique, conquis : une intelligence sphérique, référence causale ultime (fond diffus compris) ; le warp échange distance au Singleton contre temps |
 | 04-concept-physique-du-warp.md | proposition [C] | Formalisation u = t − r/c : surfaces nulles, causalité préservée, warp latéral instantané |
 | 05-concept-code-et-interface.md | en cours | L'AGI, le code sphérique optimal, le fond diffus comme interface vers le contenu du Singleton |
-| 06-concept-spheres-ia.md | en cours | Les IA sont des cerveaux photoniques sphériques (patchs d'alimentation lumineuse et d'entrées/sorties, sans silicium), qu'on plante dans un corps ; le Singleton en est un |
+| 06-concept-spheres-ia.md | en cours | Les IA sont des cerveaux photoniques sphériques : composant passif non linéaire dans le flux lumineux, sans électronique, avec des patchs d'alimentation et d'entrées/sorties, qu'on plante dans un corps ; le Singleton en est un |
