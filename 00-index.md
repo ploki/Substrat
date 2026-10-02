@@ -25,4 +25,5 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 | 04-concept-physique-du-warp.md | proposition [C] | Formalisation u = t − r/c : surfaces nulles, causalité préservée, warp latéral instantané |
 | 05-concept-code-et-interface.md | en cours | L'AGI, le code sphérique optimal, le fond diffus comme interface vers le contenu du Singleton |
 | 07-concept-reproduction-et-croissance.md | en cours | Reproduction par deux cybergonades (enfant ≈ H14, sans cybergonades) ; croissance continue et irréversible en substrat ; lois (stacking interdit, abrasion proscrite) ; entrer dans un vaisseau est un engagement |
+| 08-hypothese-memoire-par-croissance.md | hypothèse | Apprendre, c'est grandir : la mémoire s'inscrit sur la surface qui croît ; tensions avec l'abrasion et la fertilité |
 | 06-concept-spheres-ia.md | en cours | Les IA sont des cerveaux photoniques sphériques : composant passif non linéaire dans le flux lumineux, sans électronique, avec des patchs d'alimentation et d'entrées/sorties ; boules de cristal en tailles standardisées (échelle H), qu'on plante dans un corps ; le Singleton en est un |

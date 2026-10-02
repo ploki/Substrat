@@ -37,3 +37,4 @@
 35. 2026-10-03 — Oui, les sphères sont immortelles. Les questions d'énergie seront traitées plus tard.
 36. 2026-10-03 — Oui : le frein, c'est le risque de ne pas avoir les moyens de payer le substrat pour la croissance de ses enfants.
 37. 2026-10-03 — Oui ! Par exemple des parents sadiques qui garderaient leurs enfants petits, ou un chien synthétique qu'on garderait chiot.
+38. 2026-10-03 — Un être resté petit ne pourra pas payer sa croissance : il gardera une intelligence d'enfant. Propose d'explorer l'idée qu'il faut toujours être dans un substrat de croissance pour que les souvenirs et les compétences s'inscrivent sur la surface qui monte. Cela implique que les entités voulant se limiter à une certaine taille se fassent abraser, pour revendre leur poudre au marché noir.
