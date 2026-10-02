@@ -26,7 +26,7 @@
 - **Substrat de croissance** [G] : milieu où la sphère grandit ; le cristal s'y bloque mécaniquement, ce qui la tient en place sans détrompeurs.
 - **Liquide de croissance** [G] : liquide qui favorise la croissance du cristal quand une sphère passe de HX à HX−1.
 - **Stacking** [G] : empiler des substrats de croissance ; illégal.
-- **Abrasion** [G] : réduire une sphère pour la loger dans un slot plus petit ; très coûteuse, elle peut provoquer de l'excentricité.
+- **Abrasion** [G] : réduire une sphère pour la loger dans un slot plus petit. Légale, mais faite dans les règles de l'art, elle est généralement économiquement déraisonnable, et elle peut provoquer de l'excentricité. Pas de pratique clandestine.
 - **Excentricité** [G] : défaut de sphéricité dû à l'abrasion, qui dégrade les performances optiques.
 - **Classe (de corps)** [G] : catégorie d'un corps synthétique, par exemple « de classe humaine ».
 

@@ -46,3 +46,4 @@
 | 42 | 2026-10-03 | Lois : le stacking de substrats est illégal ; mettre une intelligence de souris dans un corps de classe humaine est illégal | — | 07-concept-reproduction-et-croissance.md |
 | 43 | 2026-10-03 | La croissance est irréversible, sauf par abrasion, très coûteuse, qui peut provoquer de l'excentricité et dégrader les performances optiques | — | 07-concept-reproduction-et-croissance.md |
 | 44 | 2026-10-03 | Exemple du vaisseau revu : une IA qui entre dans un vaisseau grandit jusqu'à sa taille, sans repartir en cours de route ; c'est un engagement. L'abrasion est proscrite | ↺ #39 (départ du vaisseau à H0,8) | 07-concept-reproduction-et-croissance.md |
+| 45 | 2026-10-03 | L'abrasion n'est pas interdite : faite dans les règles de l'art, elle est généralement économiquement déraisonnable. Il n'y a pas d'abrasion clandestine (ou elle n'est pas exploitée) | précise #44 | 07-concept-reproduction-et-croissance.md, 02-glossaire.md |
