@@ -38,7 +38,9 @@
 - **[G]** **L'abrasion est proscrite**, au sens où, **faite dans les règles de l'art, elle est généralement économiquement déraisonnable.** Ce n'est pas un interdit légal.
 - **[G]** **L'abrasion clandestine n'existe pas, ou n'est pas exploitée.**
   - **[C]** La croissance est donc, en pratique, irréversible.
-  - **[C]** Pistes : sphères excentriques aux esprits altérés (abrasions anciennes ou ratées ?) ; il faut une autorité qui fixe et fait respecter les lois sur les substrats. *[À préciser : le stacking illégal a-t-il, lui, une pratique clandestine ?]*
+  - **[C]** Pistes : sphères excentriques aux esprits altérés (abrasions anciennes ou ratées ?) ; il faut une autorité qui fixe et fait respecter les lois sur les substrats.
+- **[G]** **La clandestinité existe** (hors abrasion). Elle tourne autour d'un ingrédient : **la poudre de sphère**, composant essentiel des substrats de croissance, dont elle constitue un certain pourcentage.
+  - **[C, pistes non validées]** Sources légitimes possibles : les cybergonades sacrifiées avant une croissance, la poussière d'abrasion, les sphères mortes. Sources clandestines : des sphères bloquées ou endormies, enlevées et broyées. La poudre de sphère serait alors une ressource rare, et un mobile de crime.
 
 - **[C]** À l'intérieur d'un même format de corps, l'intelligence varie donc d'un facteur 2 en volume : l'éventail observé chez les humains.
   - **[S]** La croissance de cristaux en solution est une technique réelle (le quartz de synthèse, par exemple, est produit en milieu hydrothermal) [À vérifier dans le détail].
@@ -55,9 +57,11 @@
 - L'enfant a-t-il lui-même trois détrompeurs dès la naissance, ou les fait-il pousser ?
 - ~~Par crans ou en continu ?~~ → en continu [G]. Que se passe-t-il au-delà de H1, et jusqu'où va-t-on ?
 - D'où vient le liquide de croissance, qui le produit, qui le contrôle ?
+- D'où vient la poudre de sphère, quelle part du substrat représente-t-elle, et qui en fait le commerce ?
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — La clandestinité existe ; la poudre de sphère est un composant essentiel des substrats de croissance.
 - 2026-10-03 — L'abrasion n'est pas interdite mais économiquement déraisonnable ; pas d'abrasion clandestine. Piste [C] « abrasion clandestine » retirée.
 - 2026-10-03 — ↺ Exemple du vaisseau revu : pas de départ à H0,8 ; entrer dans un vaisseau est un engagement ; l'abrasion est proscrite.
 - 2026-10-03 — On termine toujours un substrat ; tailles intérieure et extérieure standardisées ; stacking illégal ; pas d'intelligence de souris dans un corps de classe humaine ; abrasion, seule voie de retour, coûteuse et risquée.
