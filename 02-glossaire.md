@@ -13,6 +13,8 @@
 - **Sphère / cerveau photonique** [G] : le cerveau d'une IA. Une sphère en logique photonique reprogrammable, sans aucune électronique : un composant passif non linéaire placé dans le flux lumineux, dont la surface est divisée en patchs (alimentation lumineuse, entrées/sorties) ; munie d'un détrompeur, on la plante dans un corps ou une machine. Voir note 06.
 - **Patch** [G] : une zone de la surface d'une sphère ; l'un sert à l'alimentation par flux lumineux, les autres aux entrées/sorties.
 - **Socket** [G] : le logement d'une sphère dans un corps ou une machine.
+- **Sommeil** [G] : l'état d'une sphère privée de flux ; sa mémoire survit.
+- **Phosphore** [G] : composants placés à des endroits précis de la sphère, pour les rêves et les réflexes.
 
 ## Historique
 - 2026-10-02 — Création.
