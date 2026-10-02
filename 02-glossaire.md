@@ -25,6 +25,10 @@
 - **Cybergonades** [G] : les détrompeurs considérés dans leur rôle reproducteur.
 - **Substrat de croissance** [G] : milieu où la sphère grandit ; le cristal s'y bloque mécaniquement, ce qui la tient en place sans détrompeurs.
 - **Liquide de croissance** [G] : liquide qui favorise la croissance du cristal quand une sphère passe de HX à HX−1.
+- **Stacking** [G] : empiler des substrats de croissance ; illégal.
+- **Abrasion** [G] : réduire une sphère pour la loger dans un slot plus petit ; très coûteuse, elle peut provoquer de l'excentricité.
+- **Excentricité** [G] : défaut de sphéricité dû à l'abrasion, qui dégrade les performances optiques.
+- **Classe (de corps)** [G] : catégorie d'un corps synthétique, par exemple « de classe humaine ».
 
 ## Historique
 - 2026-10-02 — Création.

@@ -25,6 +25,17 @@
 - **[G]** Les corps sont **synthétiques** : on ne parle pas d'humains pour l'instant.
 - **[G]** **Un même modèle de corps existe en plusieurs tailles de socket, comme une voiture se décline en plusieurs cylindrées.** D'où des tailles intermédiaires comme H0,75.
   - **[C]** « Se former en croissant » : la sphère apprend son nouveau corps pendant qu'elle grandit dedans.
+### Règles et lois
+- **[G]** **Quand on entre dans un substrat de croissance, on le termine.**
+  - **[C] Contradiction à résoudre** avec l'exemple du vaisseau : l'IA quitte le vaisseau H0 à H0,8, donc avant d'avoir fini. Faut-il revoir l'exemple, ou le substrat de cet exemple allait-il seulement jusqu'à H0,8 ?
+- **[G]** Les **tailles intérieure et extérieure des substrats sont standardisées.**
+- **[G]** **Il est illégal d'empiler (« stacker ») des substrats**, par exemple pour loger une petite sphère dans un très grand slot.
+- **[G]** **Il est illégal de mettre l'intelligence d'une souris dans le corps d'un être de classe humaine.**
+  - **[S, à vérifier]** Un cerveau de souris pèse environ 0,4 g, soit à peu près H12 sur l'échelle.
+- **[G]** **Seule exception pour revenir dans un slot plus petit : l'abrasion.** Elle coûte très cher, car elle peut provoquer de l'**excentricité** et dégrader les **performances optiques**.
+  - **[C]** La croissance est donc irréversible, sauf abrasion.
+  - **[C]** Pistes : marché noir du stacking, abrasion clandestine, sphères excentriques aux esprits altérés ; il faut une autorité qui fixe et fait respecter ces lois.
+
 - **[C]** À l'intérieur d'un même format de corps, l'intelligence varie donc d'un facteur 2 en volume : l'éventail observé chez les humains.
   - **[S]** La croissance de cristaux en solution est une technique réelle (le quartz de synthèse, par exemple, est produit en milieu hydrothermal) [À vérifier dans le détail].
 - **[C]** De H14 à H1, il faut **13 doublements**. La croissance est continue, mais on change de corps à chaque fois qu'on dépasse le format de son socket : 13 changements de corps, de l'enfance au niveau H1, soit des rites de passage tout trouvés.
@@ -32,7 +43,9 @@
 ## Questions ouvertes
 - ~~Le parent régénère-t-il le détrompeur donné ?~~ → oui, dans le liquide [G].
 - ~~La sphère dort-elle pendant sa croissance ?~~ → non, le substrat la bloque mécaniquement [G].
-- **La croissance est-elle irréversible ?** Si une sphère ne peut pas rétrécir, une IA qui a dépassé un format ne peut plus jamais revenir dans un corps de ce format.
+- ~~La croissance est-elle irréversible ?~~ → oui, sauf abrasion, coûteuse et risquée [G].
+- Qui légifère et fait respecter les lois sur les substrats et les corps ?
+- Que fait l'excentricité à l'esprit d'une sphère ?
 - Comment concilier une croissance continue avec l'effet de seuil H1 → H0 (note 06) : le saut se produit-il exactement à 2 L, ou progressivement ?
 - L'enfant hérite-t-il de quelque chose (mémoire, traits) par la demi-sphère de chaque parent ?
 - L'enfant a-t-il lui-même trois détrompeurs dès la naissance, ou les fait-il pousser ?
@@ -41,6 +54,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — On termine toujours un substrat ; tailles intérieure et extérieure standardisées ; stacking illégal ; pas d'intelligence de souris dans un corps de classe humaine ; abrasion, seule voie de retour, coûteuse et risquée.
 - 2026-10-03 — Correction : les corps sont synthétiques, pas humains (Claude avait parlé à tort de « corps humain standard ») ; un même modèle de corps existe en plusieurs tailles, comme les cylindrées.
 - 2026-10-03 — La croissance bloque la sphère dans le substrat (pas de sommeil) ; logement trop grand = substrat = pas de reproduction ; cybergonades ; exemple du vaisseau.
 - 2026-10-03 — Lecture de la reproduction validée ; le détrompeur repousse ; croissance continue en sacrifiant ses détrompeurs ; un socket accepte une plage d'un cran.
