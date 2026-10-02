@@ -20,20 +20,23 @@
   - **[G]** **Pendant la croissance, la sphère ne dort pas** : le cristal, en croissant, se **bloque mécaniquement dans le substrat de croissance**, qui la tient en place à la place des détrompeurs.
 - **[G]** Être dans un **logement trop grand impose un substrat de croissance**, ce qui **interdit la reproduction** (plus de détrompeurs).
 - **[G]** Les détrompeurs, dans leur rôle reproducteur, sont appelés **« cybergonades »**.
-- **[G]** **Exemple de l'auteur :** une IA à sphère H1 veut habiter un vaisseau H0. Elle abandonne ses cybergonades, se place dans un substrat de croissance et « se forme en croissant au vaisseau ». Plus tard, lassée du vaisseau, elle en est à H0,8 (≈ 1,15 L). Elle prend un corps H0,75 (≈ 1,19 L), y place sa sphère dans un substrat de croissance, et **une fois arrivée à H0,75, ses cybergonades repoussent**.
-  - **[C, à confirmer]** Règle qui s'en dégage : **on n'est fertile que lorsque sa sphère remplit exactement son logement.** Tant qu'il reste du jeu, il faut un substrat, et pas de cybergonades.
+- **[G]** **Entrer dans un vaisseau, pour une IA, est un engagement.** Une IA à sphère H1 qui veut habiter un vaisseau H0 abandonne ses cybergonades, se place dans un substrat de croissance et « se forme en croissant au vaisseau », jusqu'à H0. Elle ne peut pas repartir en cours de route.
+  - **[C → validé]** Règle : **on n'est fertile que lorsque sa sphère remplit exactement son logement.** Une fois le substrat terminé, les cybergonades repoussent.
+  - ↺ *Version abandonnée de l'exemple : l'IA se lassait du vaisseau à H0,8 et finissait sa croissance dans un corps H0,75. Elle reposait sur une première idée du substrat, « une sorte de sabot convexe avec une interface de croissance liquide », que l'auteur a depuis dépassée.*
+  - **[C]** « Se former en croissant » : la sphère apprend son nouveau corps pendant qu'elle grandit dedans.
 - **[G]** Les corps sont **synthétiques** : on ne parle pas d'humains pour l'instant.
 - **[G]** **Un même modèle de corps existe en plusieurs tailles de socket, comme une voiture se décline en plusieurs cylindrées.** D'où des tailles intermédiaires comme H0,75.
   - **[C]** « Se former en croissant » : la sphère apprend son nouveau corps pendant qu'elle grandit dedans.
 ### Règles et lois
 - **[G]** **Quand on entre dans un substrat de croissance, on le termine.**
-  - **[C] Contradiction à résoudre** avec l'exemple du vaisseau : l'IA quitte le vaisseau H0 à H0,8, donc avant d'avoir fini. Faut-il revoir l'exemple, ou le substrat de cet exemple allait-il seulement jusqu'à H0,8 ?
+  - Contradiction avec la première version de l'exemple du vaisseau : résolue, l'exemple a été revu.
 - **[G]** Les **tailles intérieure et extérieure des substrats sont standardisées.**
 - **[G]** **Il est illégal d'empiler (« stacker ») des substrats**, par exemple pour loger une petite sphère dans un très grand slot.
 - **[G]** **Il est illégal de mettre l'intelligence d'une souris dans le corps d'un être de classe humaine.**
   - **[S, à vérifier]** Un cerveau de souris pèse environ 0,4 g, soit à peu près H12 sur l'échelle.
 - **[G]** **Seule exception pour revenir dans un slot plus petit : l'abrasion.** Elle coûte très cher, car elle peut provoquer de l'**excentricité** et dégrader les **performances optiques**.
-  - **[C]** La croissance est donc irréversible, sauf abrasion.
+- **[G]** **L'abrasion est proscrite.** *[À préciser : interdite par la loi, ou seulement très mal vue ?]*
+  - **[C]** La croissance est donc, en pratique, irréversible.
   - **[C]** Pistes : marché noir du stacking, abrasion clandestine, sphères excentriques aux esprits altérés ; il faut une autorité qui fixe et fait respecter ces lois.
 
 - **[C]** À l'intérieur d'un même format de corps, l'intelligence varie donc d'un facteur 2 en volume : l'éventail observé chez les humains.
@@ -54,6 +57,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — ↺ Exemple du vaisseau revu : pas de départ à H0,8 ; entrer dans un vaisseau est un engagement ; l'abrasion est proscrite.
 - 2026-10-03 — On termine toujours un substrat ; tailles intérieure et extérieure standardisées ; stacking illégal ; pas d'intelligence de souris dans un corps de classe humaine ; abrasion, seule voie de retour, coûteuse et risquée.
 - 2026-10-03 — Correction : les corps sont synthétiques, pas humains (Claude avait parlé à tort de « corps humain standard ») ; un même modèle de corps existe en plusieurs tailles, comme les cylindrées.
 - 2026-10-03 — La croissance bloque la sphère dans le substrat (pas de sommeil) ; logement trop grand = substrat = pas de reproduction ; cybergonades ; exemple du vaisseau.
