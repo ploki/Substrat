@@ -22,6 +22,10 @@
 - **[C, à confirmer]** Manière de construire : l'auteur part d'un **mécanisme physique**, puis en tire les règles, la loi et l'économie. Ce sont les **coûts** plus que les interdits qui gouvernent le monde (l'abrasion est légale mais déraisonnable). Les engagements y sont irréversibles (entrer dans un vaisseau).
 - **[C, à confirmer]** Un motif traverse le monde : **la sphère de lumière** (le code optimal de l'IA silicium, rendu physique dans les cerveaux photoniques). *Les autres échelles de ce motif, fond diffus et Singleton, ont été abandonnées.*
 
+### Ce qui attend, sans urgence
+- **[G]** **Les lieux et les personnages nommés viendront plus tard** : « c'est pas grave, on y viendra ».
+- **[G]** **La culture n'est pas un problème pour le moment** : on est sur Terre et on y reste.
+
 ## Historique
 - 2026-10-03 — ↺ Recentrage : le projet est l'histoire, son articulation et son rythme ; la fin est l'interrupteur de l'émetteur ; pas de guerre.
 - 2026-10-03 — ↺ L'auteur abandonne l'histoire du contact et celle du Singleton. Le cœur du projet est désormais la lignée des intelligences : silicium → sphères → humains transformés.

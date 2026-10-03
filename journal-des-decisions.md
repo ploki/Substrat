@@ -125,3 +125,5 @@
 | 119 | 2026-10-03 | « Cyborg » est remplacé par « humanoïde » : IA silicium dans un corps synthétique ou polymère | ↺ #117 | 02-glossaire.md |
 | 120 | 2026-10-03 | Ouverture d'une note de références à regarder ; premiers éléments : *Pluribus*, les *skinjobs* | — | 16-references.md |
 | 121 | 2026-10-03 | Audit d'exhaustivité : quatre manques corrigés (la liste des incohérences et le sort du point 2, la borne 2126 de l'ère des sphères, les vingt ans d'intelligences enfant, le refus des questionnaires à choix) et quatre marquages [G] trop généreux ramenés à [C] | — | journal, 13, 11, 02-glossaire.md, 14, intention-de-l-auteur.md |
+| 122 | 2026-10-03 | Lieux et personnages nommés viendront plus tard ; la culture n'est pas un problème, puisqu'on reste sur Terre | — | intention-de-l-auteur.md |
+| 123 | 2026-10-03 | Les éclairages de Claude sont consignés à part, non validés, pour être considérés plus tard et pour repérer s'ils deviennent incohérents | — | 17-eclairages.md |

@@ -78,3 +78,4 @@
 76. 2026-10-03 — Retient les trois termes pour la sphère en corps mécanique. Demande un rappel de la terminologie des Cylons dans Battlestar Galactica, la version avec l'acteur latino qui jouait le policier de Blade Runner.
 77. 2026-10-03 — Demande d'ajouter les skinjobs à la liste des choses à regarder, et de remplacer « cyborg » par « humanoïde » dans sa nomenclature.
 78. 2026-10-03 — Demande si tous les éléments de la conversation et les trouvailles intéressantes ont été consignés.
+79. 2026-10-03 — L'absence de lieux et de personnages nommés n'est pas grave, on y viendra ; la culture n'est pas un problème pour le moment, puisqu'on est sur Terre et qu'on y reste. Les éclairages de Claude sont intéressants : on peut les consigner pour les considérer plus tard, et voir s'ils deviennent incohérents.
