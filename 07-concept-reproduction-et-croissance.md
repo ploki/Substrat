@@ -60,24 +60,25 @@
 - **[C]** Avec le modèle A, chaque cran dure deux fois plus que le précédent : le dernier cran représente la moitié du temps total. Passer de H20 à H1 prend ≈ 524 000 unités. Si l'on veut une enfance d'environ 20 ans de H14 à H1, l'unité vaut ≈ 20 minutes.
 - **[C]** Avec le modèle B, passer de H20 à H1 ne prend que ≈ 306 unités, et chaque cran ne dure qu'environ 1,26 fois plus que le précédent.
 
-- **[G]** Calibrage : **« remplir H1 prend 100 ans »**. *[À confirmer] Lecture retenue : le cran de H2 à H1 (remplir un socket H1) dure 100 ans, avec le modèle A.* L'unité de temps vaut alors ≈ 3,3 heures.
+- **[G]** ↺ Calibrage : **arriver à complétion de H1 prend 100 ans**, depuis la naissance (H14), avec le modèle A. L'unité de temps vaut alors ≈ 1.67 heure, soit environ 1 h 40.
+  - *Première lecture abandonnée : le seul cran H2 → H1 durait 100 ans (malentendu de Claude).*
 
 | Cran atteint | Durée du cran | Âge depuis H14 (naissance) |
 |---|---|---|
-| H13 | 9 jours | 9 jours |
-| H12 | 18 jours | 27 jours |
-| H11 | 36 jours | ≈ 2 mois |
-| H10 | 2,3 mois | ≈ 4,5 mois |
-| H9 | 4,7 mois | ≈ 9 mois |
-| H8 | 9,4 mois | ≈ 1,5 an |
-| H7 | 1,6 an | ≈ 3 ans |
-| H6 | 3,1 ans | ≈ 6 ans |
-| H5 | 6,2 ans | ≈ 12,5 ans |
-| H4 | 12,5 ans | 25 ans |
-| H3 | 25 ans | 50 ans |
-| H2 | 50 ans | 100 ans |
-| H1 | 100 ans | 200 ans |
-| H0 | 200 ans | 400 ans |
+| H13 | 4,5 jours | 4,5 jours |
+| H12 | 8,9 jours | 13,4 jours |
+| H11 | 17,8 jours | 31,2 jours |
+| H10 | 35,7 jours | 2,2 mois |
+| H9 | 2,3 mois | 4,5 mois |
+| H8 | 4,7 mois | 9,2 mois |
+| H7 | 9,4 mois | 18,6 mois |
+| H6 | 18,8 mois | 3,1 ans |
+| H5 | 3,1 ans | 6,2 ans |
+| H4 | 6,3 ans | 12,5 ans |
+| H3 | 12,5 ans | 25 ans |
+| H2 | 25 ans | 50 ans |
+| H1 | 50 ans | 100 ans |
+| H0 | 100 ans | 200 ans |
 
 ### Le coût des enfants
 - **[G]** Ce qui freine la démographie d'une population immortelle : **le risque de ne pas avoir les moyens de payer le substrat** pour la croissance de ses enfants.
@@ -135,7 +136,8 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
-- 2026-10-03 — Calibrage : remplir H1 prend 100 ans.
+- 2026-10-03 — ↺ Calibrage corrigé : atteindre H1 complet depuis la naissance prend 100 ans.
+- 2026-10-03 — Calibrage : remplir H1 prend 100 ans (mal compris).
 - 2026-10-03 — Table des tailles H0–H20 et durées de croissance (modèles A et B).
 - 2026-10-03 — La représentation d'une sphère importe peu ; thème [C] « enfant / animal / appareil » écarté.
 - 2026-10-03 — Marché des cybergonades (animaux, économies, appareils) ; ↺ il existe une abrasion de marché noir, risquée ; le coût vise l'abrasion bien faite.

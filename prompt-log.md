@@ -43,3 +43,4 @@
 41. 2026-10-03 — Non : c'est un monde où il importe peu que la sphère soit dans telle ou telle représentation.
 42. 2026-10-03 — Demande un tableau des tailles de H0 à H20 et, en supposant une unité de temps par unité de volume pour passer de H20 à H19, comment s'étale la croissance.
 43. 2026-10-03 — Partons du principe que remplir H1 prend 100 ans.
+44. 2026-10-03 — Corrige : il voulait dire qu'arriver à complétion de H1 prend 100 ans.
