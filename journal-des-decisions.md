@@ -187,3 +187,4 @@
 | 182 | 2026-10-03 | Fusion et *homo globalis* sont deux voies pour sauver les humains ; les temps sont partagés selon les probabilités de succès. Avant 2476, *homo globalis* a une part modeste ; après, l'obstruction biologique tombe et la part augmente | — | 22, 18 |
 | 183 | 2026-10-03 | Mira et H-2 sont amies | — | 22, 20, 02-glossaire.md, livrable |
 | 184 | 2026-10-03 | La démographie des sphères ne peut pas être biologique (la reproduction libre donnerait 10⁶⁵ en un an) : elle est industrielle, fixée par la production de substrats. La pyramide est inversée, ~97 % de la population se trouvant dans la bande H4–H0 | — | 07, outils/population.py |
+| 186 | 2026-10-04 | Avant clôture de session : les éclairages de Claude restés hors du corpus sont consignés (hiérarchie morale en trois étages, le chantier personnel qui aboutit contre l'officiel qui échoue, l'erreur d'estimation, et cinq points sur Mira et H-2) | — | 17-eclairages.md |
