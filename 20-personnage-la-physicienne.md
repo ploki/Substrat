@@ -5,7 +5,7 @@
 ## En vigueur
 - **[G]** **Mira Okonkwo-Lindqvist.** Une **femme**, **née en 2430**, **50 ans en 2480** (l'année de l'inoculation).
 - **[G]** **Chercheuse en physique** : doctorat, post-doctorat, tout le parcours.
-- **[G]** **Formée par H-2**, avec qui elle **travaille depuis ses études**.
+- **[G]** **Formée par H-2**, avec qui elle **travaille depuis ses études**, à l'**University Centre in Svalbard** (note 21).
 - **[G]** Son objet : **créer la fusion nucléaire contrôlée.**
 - **[G]** **Les efforts ne sont pas arrêtés par la guerre**, parce que la fusion est vue comme **une solution potentielle à tous les conflits**, par la **désalinisation de l'eau**.
 - **[G]** **Mais ça n'aboutit pas** : tout laisse à croire que **c'est un problème plus grand que H-2.**
@@ -35,8 +35,7 @@
 
 ## Questions ouvertes
 - En quoi consiste exactement le problème « plus grand que H-2 » ? Et H-2 sait-elle qu'il la dépasse, ou l'apprend-elle en échouant ?
-- **Où travaille-t-elle ?** Il faut un endroit sur Terre **moins affecté** par le phénomène solaire et **pas trop impliqué dans le conflit**. *(Propositions en attente.)*
-- De quel côté du conflit se trouve cet endroit, ou est-il hors des deux ?
+- De quel côté du conflit se trouve le Svalbard, ou est-il hors des deux ? *(Voir note 21.)*
 - Comment une sphère neutre peut-elle former une humaine, et depuis quand H-2 enseigne-t-elle ?
 
 ## Historique

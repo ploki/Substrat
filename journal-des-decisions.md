@@ -163,3 +163,6 @@
 | 158 | 2026-10-03 | L'ironie centrale du récit est consignée comme fait : la fusion aurait donné l'eau et évité la guerre ; H-2 ne pouvant résoudre la physique, elle résout les gens | promeut un éclairage [C] | 09, 20, intention-de-l-auteur.md, 17 |
 | 159 | 2026-10-03 | Mira ne sait pas ce que H-2 prépare : H-2 ne lui dit rien | — | 20 |
 | 160 | 2026-10-03 | Il faut situer son lieu de travail dans un endroit moins affecté par le phénomène solaire et peu impliqué dans le conflit | — | 20 |
+| 161 | 2026-10-03 | Le lieu est le Svalbard, où les aurores liées à l'activité solaire rendent le paysage incroyable | répond à #160 | 21, 20 |
+| 162 | 2026-10-03 | L'University Centre in Svalbard est dirigé par H-2 depuis une date à déterminer, en accord avec la Norvège, dans le cadre d'un accord humains/sphères | — | 21 |
+| 163 | 2026-10-03 | *Homo globalis* se souvient des personnalités et de tout ce qui constituait les humains, globalement : rien n'est effacé | précise #90 | 10, 19, 02-glossaire.md |

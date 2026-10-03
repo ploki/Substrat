@@ -15,7 +15,7 @@
 - **[G]** **Le gros de la population de corps meurt rapidement.**
 - **[G]** ***Homo globalis* envoie toujours le même corps** rendre visite à H-2, pour lui garder **une tête familière** — **[C, piste]** celui de Mira Okonkwo-Lindqvist (note 20) — — H-2 a des émotions (note 06). Ce corps est **entretenu**, maintenu en bonne santé : **il ne maigrit pas**.
   - **[G]** **C'est le dernier à mourir.**
-  - **[C]** Une attention délicate d'un organisme qui n'a plus qu'un visage à offrir, et qui le garde en vie pour elle.
+  - **[C]** Une attention délicate d'un organisme qui se **souvient** de ce que ce visage était pour elle (note 10), et qui le garde en vie pour elle.
 
 ## La pause
 - **[G]** ↺ **La sphère ne grille pas.** Elle **décide de se mettre en stase**, dans un **abri temporel** (« safe place temporelle »).
