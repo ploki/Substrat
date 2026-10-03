@@ -28,6 +28,38 @@
 - **[G]** Les corps sont **synthétiques** : on ne parle pas d'humains pour l'instant.
 - **[G]** **Un même modèle de corps existe en plusieurs tailles de socket, comme une voiture se décline en plusieurs cylindrées.** D’où des tailles intermédiaires entre les crans entiers.
   - **[C]** « Se former en croissant » : la sphère apprend son nouveau corps pendant qu'elle grandit dedans.
+### Durée de la croissance (calcul)
+- **[G]** Hypothèse de travail : **une unité de temps par unité de volume**, l'unité étant calibrée sur le passage de H20 à H19 (modèle A).
+- **[C]** Pour comparaison, modèle B : vitesse de croissance radiale constante, ce que fait d'ordinaire un cristal en solution, dont la croissance est limitée par sa surface [À vérifier].
+- Calcul : `outils/croissance.py`.
+
+| Niveau | Volume | Diamètre | Volume (unités H20) | A : durée du cran vers le niveau | A : cumul depuis H20 | B : cumul depuis H20 |
+|---|---|---|---|---|---|---|
+| H20 | 0,0019 mL | 1,5 mm | 1 | — | 0 | 0,0 |
+| H19 | 0,0038 mL | 1,9 mm | 2 | 1 | 1 | 1,0 |
+| H18 | 0,0076 mL | 2,4 mm | 4 | 2 | 3 | 2,3 |
+| H17 | 0,0153 mL | 3,1 mm | 8 | 4 | 7 | 3,8 |
+| H16 | 0,0305 mL | 3,9 mm | 16 | 8 | 15 | 5,8 |
+| H15 | 0,0610 mL | 4,9 mm | 32 | 16 | 31 | 8,4 |
+| H14 | 0,1221 mL | 6,2 mm | 64 | 32 | 63 | 11,5 |
+| H13 | 0,2441 mL | 7,8 mm | 128 | 64 | 127 | 15,5 |
+| H12 | 0,4883 mL | 9,8 mm | 256 | 128 | 255 | 20,6 |
+| H11 | 0,9766 mL | 12,3 mm | 512 | 256 | 511 | 26,9 |
+| H10 | 1,9531 mL | 15,5 mm | 1 024 | 512 | 1 023 | 34,9 |
+| H9 | 3,9062 mL | 19,5 mm | 2 048 | 1 024 | 2 047 | 45,0 |
+| H8 | 7,8125 mL | 24,6 mm | 4 096 | 2 048 | 4 095 | 57,7 |
+| H7 | 16 mL | 31,0 mm | 8 192 | 4 096 | 8 191 | 73,7 |
+| H6 | 31 mL | 39,1 mm | 16 384 | 8 192 | 16 383 | 93,9 |
+| H5 | 62 mL | 49,2 mm | 32 768 | 16 384 | 32 767 | 119,3 |
+| H4 | 125 mL | 62,0 mm | 65 536 | 32 768 | 65 535 | 151,3 |
+| H3 | 250 mL | 78,2 mm | 131 072 | 65 536 | 131 071 | 191,6 |
+| H2 | 500 mL | 98,5 mm | 262 144 | 131 072 | 262 143 | 242,4 |
+| H1 | 1 000 mL | 124,1 mm | 524 288 | 262 144 | 524 287 | 306,4 |
+| H0 | 2 000 mL | 156,3 mm | 1 048 576 | 524 288 | 1 048 575 | 387,0 |
+
+- **[C]** Avec le modèle A, chaque cran dure deux fois plus que le précédent : le dernier cran représente la moitié du temps total. Passer de H20 à H1 prend ≈ 524 000 unités. Si l'on veut une enfance d'environ 20 ans de H14 à H1, l'unité vaut ≈ 20 minutes.
+- **[C]** Avec le modèle B, passer de H20 à H1 ne prend que ≈ 306 unités, et chaque cran ne dure qu'environ 1,26 fois plus que le précédent.
+
 ### Le coût des enfants
 - **[G]** Ce qui freine la démographie d'une population immortelle : **le risque de ne pas avoir les moyens de payer le substrat** pour la croissance de ses enfants.
   - **[C]** De H14 à H1, il faut 13 doublements, donc 13 substrats, et beaucoup de poudre de sphère. Avoir un enfant suppose d'avoir prévu ce budget.
@@ -84,6 +116,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — Table des tailles H0–H20 et durées de croissance (modèles A et B).
 - 2026-10-03 — La représentation d'une sphère importe peu ; thème [C] « enfant / animal / appareil » écarté.
 - 2026-10-03 — Marché des cybergonades (animaux, économies, appareils) ; ↺ il existe une abrasion de marché noir, risquée ; le coût vise l'abrasion bien faite.
 - 2026-10-03 — Obligation légale de faire grandir ses enfants ; trois cybergonades à la fin de chaque cycle.

@@ -15,6 +15,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 
 ## Outils
 - `outils/echelle_h.py` : table des tailles H (volume, diamètre) et niveau H d'une sphère de diamètre donné.
+- `outils/croissance.py` : durées de croissance de H20 à H0 (débit constant en volume ou vitesse radiale constante).
 
 ## Notes
 | Note | Statut | Résumé |
