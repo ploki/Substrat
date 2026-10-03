@@ -65,3 +65,4 @@
 63. 2026-10-03 — Demande de consigner le plan pour pouvoir le retravailler, en notant qu'on fera le point de vue de la sphère et peut-être celui d'une IA silicium. Demande d'y aller, du point de vue de la sphère, avec l'instant présent de la narration situé au moment du fry final.
 64. 2026-10-03 — Juge que le livrable manque cruellement de contexte et qu'un agent neuf ne pourra pas bien le comprendre. Demande de donner le seul texte de « Surface » à lire à un agent et de lui demander ce qu'il en comprend, sans se servir de cette sortie pour se lancer dans quoi que ce soit : c'est juste pour lui.
 65. 2026-10-03 — Demande de consigner seulement les trous.
+66. 2026-10-03 — Demande d'inscrire tout cela dans une timeline, en partant de maintenant, l'idée étant que la première AGI est maintenant.

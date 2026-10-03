@@ -100,3 +100,4 @@
 | 96 | 2026-10-03 | Point de vue : la sphère H-2 raconte ; peut-être un second point de vue, une IA silicium, à décider plus tard | — | 11-cadrage-les-moments.md |
 | 97 | 2026-10-03 | L'instant présent de la narration est le fry final (moment 18) ; tout est remémoré depuis là | — | 11-cadrage-les-moments.md |
 | 98 | 2026-10-03 | Lecture à l'aveugle de « Surface » : seuls les trous sont consignés, rien n'est corrigé pour l'instant | — | 12-lecture-aveugle-surface.md |
+| 99 | 2026-10-03 | L'an 0 de la timeline est maintenant : la première AGI, c'est 2026 | — | 13-cadrage-timeline.md |
