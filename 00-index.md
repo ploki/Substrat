@@ -12,6 +12,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 
 ## Livrables
 - `livrable/surface.md` — l'ouverture, du point de vue de la sphère H-2, narrée depuis le fry final.
+- `livrable/frise-narrative.md` — la frise narrative d'une nouvelle d'une trentaine de pages : quoi raconter, quand, sur combien de pages, avec des événements à explorer.
 
 ## Archive
 `archive/` contient les notes dont l'histoire a été abandonnée (le contact, le Singleton, le warp, le fond diffus). Elles ne valent plus rien dans le monde ; elles sont gardées pour mémoire du raisonnement.

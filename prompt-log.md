@@ -79,3 +79,4 @@
 77. 2026-10-03 — Demande d'ajouter les skinjobs à la liste des choses à regarder, et de remplacer « cyborg » par « humanoïde » dans sa nomenclature.
 78. 2026-10-03 — Demande si tous les éléments de la conversation et les trouvailles intéressantes ont été consignés.
 79. 2026-10-03 — L'absence de lieux et de personnages nommés n'est pas grave, on y viendra ; la culture n'est pas un problème pour le moment, puisqu'on est sur Terre et qu'on y reste. Les éclairages de Claude sont intéressants : on peut les consigner pour les considérer plus tard, et voir s'ils deviennent incohérents.
+80. 2026-10-03 — Demande un livrable, à titre d'expérience : une timeline avec des événements pour le storytelling d'une nouvelle d'une trentaine de pages, en accord avec la frise chronologique, en explorant différents événements à raconter pour faire vivre ces points dans le temps.
