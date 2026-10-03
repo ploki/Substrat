@@ -14,7 +14,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 - `livrable/frise-narrative.md` — la frise narrative d'une nouvelle d'une trentaine de pages : quoi raconter, quand, sur combien de pages, avec des événements à explorer.
 
 ## Archive
-`archive/` contient ce qui a été abandonné : les notes du contact, du Singleton, du warp et du fond diffus, la piste de la demande des humains, et le livrable `surface.md`, dont tout le dispositif reposait sur un fry qui n'a plus lieu. Rien de tout cela ne vaut plus ; c'est gardé pour mémoire du raisonnement.
+`archive/` contient ce qui a été abandonné : les notes du contact, du Singleton, du warp et du fond diffus et le livrable `surface.md`, dont tout le dispositif reposait sur un fry qui n'a plus lieu. Rien de tout cela ne vaut plus ; c'est gardé pour mémoire du raisonnement.
 
 ## Fichiers de suivi
 - `intention-de-l-auteur.md` — à lire en premier.
@@ -36,7 +36,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 | 09-cadrage-chronologie.md | en cours | **Colonne vertébrale du récit** : humain → AGI silicium → sphère → intelligence collective → l'émetteur. Durées, hors-champ, soutien des silicium sans guerre |
 | 17-eclairages.md | vivant, non validé | Les lectures proposées par Claude, gardées pour plus tard — pas des faits du monde |
 | 16-references.md | vivant | Les références à regarder : *Pluribus*, les *skinjobs* |
-| 15-cadrage-le-conflit.md | en cours | Le conflit global : surplus d'infrarouge solaire, accès à l'eau et à la nourriture, tensions globales ; les belligérants ont leurs IA silicium, les sphères écartées car trop émotionnelles |
+| 15-cadrage-le-conflit.md | en cours | Le conflit global : surplus d'infrarouge solaire, accès à l'eau et à la nourriture, tensions globales ; les belligérants ont chacun leurs IA silicium, qui peuvent être ennemies ; les sphères sont neutres par nature |
 | 21-lieu-svalbard.md | en cours | Le Svalbard : l'UNIS, plus grande université mixte, dirigée par H-2 depuis 2126 ; les aurores ; un lieu neutre et épargné |
 | 20-personnage-la-physicienne.md | en cours | **Mira Okonkwo-Lindqvist**, née en 2430, formée par H-2, qui cherche la fusion contrôlée et n'aboutit pas |
 | 19-la-fin.md | en vigueur | L'envoi de la séquence, la gratitude d'*homo globalis*, l'extinction en un an, et la mise en pause de la sphère |

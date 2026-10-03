@@ -1,6 +1,6 @@
 # 15 — Cadrage : le conflit global
 
-*Lié à la piste de la note 14 : c'est ce conflit qui amène l'humanité à poser sa question à la sphère H-2.*
+*C'est ce conflit, que rien n'arrête, qui décide la sphère H-2 à créer le virus (note 18). Les humains ne demandent rien.*
 
 ## En vigueur
 ### La cause

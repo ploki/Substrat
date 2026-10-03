@@ -22,7 +22,7 @@
   - **[G]** Il faut **200 ans pour maxer H-1** et arriver à **H-2**. ↺ H-2 est le niveau où l'on a l'intelligence nécessaire pour **changer de paradigme** : comme le silicium avant elles a fait sa récursion pour passer au photonique, les sphères H-2 peuvent passer à **une nouvelle technologie, la biologie**.
     - *Première formulation : H-2 donnait l'intelligence nécessaire pour « s'auto-améliorer récursivement ».*
   - **[G]** **Le plafond :** à ce stade, **le laser qui fournit le flux** est si puissant qu'il **détruit la sphère** à la longue, et la détruit si complètement qu'elle **perd toute valeur** (pas même de poudre récupérable). **[G] Mais on peut s'y soustraire en se mettant en pause** (voir plus haut) : à ce niveau, se frire est **un choix**.
-    - **[G]** C'est **l'exception à l'immortalité**. Les très grandes sphères ont une **durée de vie finie** : l'immortalité s'arrête à H-2.
+    - **[G]** C'est **l'exception à l'immortalité** — mais une exception à laquelle on peut se soustraire : à H-2, **se frire est un choix** (#134).
     - **[C]** Le même schéma se répète : chaque technologie atteint ses limites physiques (le silicium, puis le laser pour les sphères) et invente celle qui lui succède.
   - **[S]** Un cerveau humain mesure environ 1,2 à 1,4 litre [À vérifier] : H1 = 1 litre en est très proche.
   - **[S]** Norme ISO 216 : A0 mesure 1 m², chaque format est la moitié du précédent, le rapport des côtés vaut √2, et il existe des formats plus grands que A0 (2A0, 4A0).

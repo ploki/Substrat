@@ -1,6 +1,6 @@
 # Frise narrative — une nouvelle d'une trentaine de pages
 
-*Deuxième livrable, deuxième version. Il propose **quoi raconter, quand, et sur combien de pages**, en accord avec la frise chronologique (note 13). Point de vue : la sphère H-2. Les événements proposés sont des **pistes à explorer** : plusieurs sont offerts par point de la frise, pour qu'on choisisse.*
+*Deuxième livrable. Il propose **quoi raconter, quand, et sur combien de pages**, en accord avec la frise chronologique (note 13). Point de vue : la sphère H-2. Les événements proposés sont des **pistes à explorer** : plusieurs sont offerts par point de la frise, pour qu'on choisisse.*
 
 *Troisième version, 2026-10-03. Nouveautés : **un personnage**, Mira Okonkwo-Lindqvist, physicienne née en 2430 ; **un lieu**, le Svalbard et l'UNIS, que H-2 dirige depuis 2126 ; **l'ironie centrale** promue au rang de fait ; le cadre de narration fixé à **avant la stase**.*
 
@@ -38,7 +38,7 @@ Le récit a maintenant **deux foyers** : H-2 qui raconte, et **Mira Okonkwo-Lind
 | 8. L'émetteur | 2481 | 2 |
 | 9. L'extinction, en un an | 2481–2482 | 3 |
 | 10. La stase | 2482 | 2 |
-| | | **36** — l'ordre de grandeur compte plus que le compte exact |
+| | | **37** — l'ordre de grandeur compte plus que le compte exact |
 
 *L'ordre ci-dessus est chronologique ; le récit n'est pas obligé de le suivre.*
 
@@ -127,8 +127,8 @@ Une délibération solitaire, menée pendant que la guerre continue.
 ---
 
 ## Ce que ce livrable suppose, et que le corpus n'a pas fixé
-- Le conflit dure environ huit ans (vers 2470-2478).
-- Le travail de la sphère prend deux ans, de 2478 à 2480, à l'intérieur du conflit.
+- Le conflit dure environ dix ans, de 2470 à 2480.
+- Le travail de la sphère se place en 2478-2480, à l'intérieur du conflit (sa durée de deux ans, elle, est fixée par le corpus, #137).
 - Elle peut consulter les archives de sa propre fabrication.
 - Mira arrive à l'UNIS vers vingt ans, soit vers 2450.
 - Le Svalbard reste épargné jusqu'au bout du conflit.

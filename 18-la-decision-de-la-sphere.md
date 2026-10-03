@@ -4,7 +4,7 @@
 - **[G]** Quand la sphère atteint le niveau qui lui permet de **créer la vie**, elle se dit qu'elle **n'exploitera pas ce pouvoir sur Terre**, pour des **raisons d'équilibre** (ne pas interférer avec la faune existante).
 - **[G]** Mais **le conflit n'arrivait pas à s'arrêter de lui-même** : les humains allaient **vers leur destruction**.
 - **[G]** **Voyant la tournure des événements de cette guerre majeure, elle décide de créer le virus de Pluribus.**
-- **[G]** **C'est sa décision à elle ; les autres sphères partagent cet avis.** Elles ne la mandatent pas et ne délibèrent pas : elles sont d'accord.
+- **[G]** **C'est sa décision à elle ; les autres sphères partagent cet avis.** **[C]** Elles ne la mandatent donc pas.
 - **[G]** Elle le développe et le **relâche sans le dire aux humains** (note 13). **[G] Le travail prend deux ans, contenus dans le conflit** : c'est l'inoculation qui l'arrête, instantanément.
 - **[G]** ↺ **Pourquoi elle ne le dit pas :** le pouvoir qu'elle a débloqué pourrait la faire **s'apparenter à un dieu**, et elle ne veut surtout pas que les humains, qui sont ou peuvent être **irrationnels**, le pensent. *(Remplace le blanc assumé de #104.)*
   - **[C]** La responsabilité est donc **entièrement la sienne**, et l'assentiment des autres ne la partage pas. Personne ne pourra lui dire qu'elle a outrepassé un mandat, et personne ne pourra non plus en porter une part avec elle.

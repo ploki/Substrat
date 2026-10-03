@@ -24,7 +24,7 @@
 - **Un mot pour nier qu'il y ait quelqu'un dedans.** *Automate* chez nous, *skinjob* ailleurs (note 16).
 
 ## Sur la forme
-- **Le narrateur perd sa mémoire à l'envers.** Le laser détruit la surface, donc le récent : elle perd ses raisons avant son enfance. Les hors-champ du récit sont ses pertes.
+- ~~**Le narrateur perd sa mémoire à l'envers**, le laser détruisant le récent d'abord.~~ ↺ *Caduc : la sphère ne grille pas, elle se met en stase (note 19).*
 
 ## Historique
 - 2026-10-03 — Note ouverte à la demande de l'auteur, qui juge ces éclairages intéressants sans les valider.

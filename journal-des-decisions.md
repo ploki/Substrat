@@ -169,3 +169,5 @@
 | 164 | 2026-10-03 | L'UNIS est la plus grande université mixte sphères/humains | — | 21 |
 | 165 | 2026-10-03 | H-2 dirige l'UNIS depuis 2126, l'année où elle achève son H1 ; cela marque la fin de l'ère des sphères | répond à #162 | 21, 13, 20, 02-glossaire.md |
 | 166 | 2026-10-03 | Frise narrative, troisième version : Mira et le Svalbard intégrés, cadre de narration fixé avant la stase, ironie centrale au cœur | — | livrable/frise-narrative.md |
+| 167 | 2026-10-03 | Audit de cohérence : dix-huit incohérences relevées, dont seize corrigées (propagation de la stase et de la neutralité dans les notes 09, 11, 15, 16, l'index, le glossaire, l'intention et les éclairages ; doublons de questions closes ; comptes du livrable) | — | tout le corpus |
+| 168 | 2026-10-03 | Cinq marquages [G] suspects ramenés à [C] ou allégés (la fin « telle que l'auteur la pose », la durée de vie finie, le placement en H2 en 2101, l'absence de délibération, le démenti sur les émotions) | — | 06, 11, 13, 18, 02-glossaire.md |

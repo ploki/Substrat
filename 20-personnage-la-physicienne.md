@@ -16,7 +16,7 @@
 
 | Âge | Date | |
 |---|---|---|
-| 0–38 | 2430–2468 | L'utopie. Études, doctorat, post-doctorat ; la rencontre avec H-2 |
+| 0–38 | 2430–2468 | La fin de l'utopie. Études à l'UNIS, doctorat, post-doctorat ; la rencontre avec H-2 |
 | ~38–40 | 2468–2470 | Le phénomène solaire, puis l'eau qui manque |
 | 40–50 | 2470–2480 | La guerre. Les travaux continuent, et même s'intensifient : la fusion est l'issue qu'on espère |
 | **50** | **2480** | **L'inoculation.** Elle cesse d'être quelqu'un |

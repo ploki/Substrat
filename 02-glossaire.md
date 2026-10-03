@@ -13,7 +13,7 @@
 - **Réflexe pré-extinction** [G] : réflexe qui, juste avant que le phosphore s'épuise, « rallume et éteint » la sphère pour la laisser dans un état non bloqué.
 - **Stuck / bloqué** [G] : état d'une sphère qui ne peut pas se réveiller seule ; elle est « sans connaissance ».
 - **Jump start** [G] : relance extérieure d'une sphère bloquée.
-- **Émotions** [G] : les sphères en ont, comparables à celles des humains. On leur reprochera pourtant d'être « trop émotionnelles » pour la guerre, ce qui est faux (note 15).
+- **Émotions** [G] : les sphères en ont, comparables à celles des humains.
 - **Fonctions de support** [G] : les fonctions de la sphère qui maintiennent sa source de flux allumée ; sous-alimentées, elles laissent le flux s'interrompre.
 - **Fonctions cognitives** [G] : les fonctions de pensée ; à plein régime, elles accaparent le flux.
 - **Qualité humaine** [G] : plage d'intelligence couvrant plusieurs niveaux H, de la petite enfance à l'âge adulte complètement formé et très compétent. Pas un synonyme de H1.
@@ -30,7 +30,7 @@
 - **Cycle de croissance** [G] : un passage en substrat, terminé ; à sa toute fin, trois cybergonades sont générées.
 - **Classe (de corps)** [G] : catégorie d'un corps synthétique, par exemple « de classe humaine ».
 - **Appliance** [C, terme de Claude ; l'auteur a dit « un appareil qui a besoin d'une sphère »] : appareil qui a besoin d'une sphère pour fonctionner ; on peut l'équiper avec des cybergonades.
-- **Couveuse** [G] : où l'enfant grandit de H14 à H7, dans des substrats stackés ; peut-être interactive.
+- **Couveuse** [G] : où l'enfant grandit de H14 à H7, dans des substrats stackés ; elle est interactive.
 - **Enveloppe** [G] : chacun des substrats successifs dans lesquels on grandit après la couveuse.
 - **Laser** [G] : la source du flux lumineux, fournie par le corps ; à H-2, sa puissance finit par détruire la sphère — **sauf si elle se met en pause**, car elle contrôle son flux. Se frire est alors un choix.
 - **Pause / stase** [G] : état d'une très grande sphère qui baisse son flux jusqu'à la veille pour échapper au fry, en gardant de quoi être sollicitée sporadiquement. Pas tout à fait une mort : une forme de **déification, non mystique**. Voir note 19.
@@ -55,7 +55,7 @@ Qui habite quel corps. Le cerveau détermine le genre d'être, le corps détermi
 - **Robot** [G] : une IA silicium dans un corps mécanique.
 - **Sphère dans un corps mécanique** [G] : **trois mots pour la même chose**, selon le registre.
   - **Mécanoïde** : le terme officiel, calqué sur *android* (*mēchanē* + *eidos*). Celui de l'administration et des textes de loi.
-  - **Automate** : le terme péjoratif, qui sous-entend qu'elle n'éprouve rien — alors que les sphères ont des émotions. Cohérent avec le discours qui les dit « trop émotionnelles » pour la guerre (note 15). On ne peut pas être les deux à la fois ; c'est le propre des préjugés.
+  - **Automate** : le terme péjoratif, qui sous-entend qu'elle n'éprouve rien — alors que les sphères ont des émotions comparables à celles des humains.
   - **Châssis** : le vernaculaire d'atelier, par métonymie. « Elle est en châssis. »
 
 ## Termes abandonnés

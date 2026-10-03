@@ -28,7 +28,7 @@
 ## Questions ouvertes
 - Où se trouve cet abri temporel, et qui peut l'ouvrir ?
 - Qui pourrait la solliciter, une fois les humains éteints ? Les autres sphères ? Ce qui viendra après ?
-- Si elle ne grille pas, qu'est-ce qui fait d'elle une narratrice ? *(Voir le plan, note 11 : le présent de narration était le fry.)*
+- **À qui raconte-t-elle ?** Le présent de narration est « avant la stase » (#153) ; le destinataire reste à trouver.
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur, dans ses remarques sur la frise narrative.
