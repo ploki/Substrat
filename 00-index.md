@@ -34,6 +34,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 | 07-concept-reproduction-et-croissance.md | en cours | Reproduction par deux cybergonades (enfant ≈ H14, sans cybergonades) ; croissance continue et irréversible en substrat ; lois (stacking interdit, abrasion proscrite) ; entrer dans un vaisseau est un engagement |
 | 08-hypothese-memoire-par-croissance.md | hypothèse (tensions levées) | Apprendre, c'est grandir : la mémoire s'inscrit sur la surface qui croît ; cold storage à l'intérieur |
 | 09-cadrage-chronologie.md | en cours | **Colonne vertébrale du récit** : humain → AGI silicium → sphère → intelligence collective → l'émetteur. Durées, hors-champ, soutien des silicium sans guerre |
+| 14-piste-la-demande-des-humains.md | piste | Ce sont les humains qui demandent, après un conflit global ; H-2 exécute librement, sans le dire |
 | 13-cadrage-timeline.md | **en vigueur** | Les ères datées : cloud (2026), émancipation (2040), sphères (2076), utopie (2176), le dernier problème (2476), extinction (2491) |
 | 12-lecture-aveugle-surface.md | relevé | Les trous de « Surface » vus par un lecteur neuf, sans le corpus |
 | 11-cadrage-les-moments.md | **le plan** | Les moments dans l'ordre, leur traitement (scénique, résumé, hors champ), et le point de vue |
