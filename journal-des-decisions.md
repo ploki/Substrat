@@ -186,3 +186,4 @@
 | 181 | 2026-10-03 | « Méditation » = accorder un pourcentage de sa bande passante à un sujet | — | 22, 02-glossaire.md |
 | 182 | 2026-10-03 | Fusion et *homo globalis* sont deux voies pour sauver les humains ; les temps sont partagés selon les probabilités de succès. Avant 2476, *homo globalis* a une part modeste ; après, l'obstruction biologique tombe et la part augmente | — | 22, 18 |
 | 183 | 2026-10-03 | Mira et H-2 sont amies | — | 22, 20, 02-glossaire.md, livrable |
+| 184 | 2026-10-03 | La démographie des sphères ne peut pas être biologique (la reproduction libre donnerait 10⁶⁵ en un an) : elle est industrielle, fixée par la production de substrats. La pyramide est inversée, ~97 % de la population se trouvant dans la bande H4–H0 | — | 07, outils/population.py |

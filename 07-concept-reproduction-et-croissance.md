@@ -120,6 +120,28 @@
   - **[À préciser]** Qu'est-ce qui distingue alors, aux yeux de la loi, l'enfant qu'on doit faire grandir de l'animal synthétique gardé petit ?
   - **[C]** Beaucoup d'appareils abritent une petite sphère, donc un esprit, même minuscule.
 
+### La démographie des sphères [C]
+- **La reproduction libre est impossible.** Une sphère détache 3 cybergonades à la fin de chaque cycle, soit 1,5 enfant, et le premier cycle ne dure que **2,2 jours**. La population serait multipliée par 2,5 tous les 2,2 jours : environ **10⁵ en un mois, 10⁶⁵ en un an**. Calcul : `outils/population.py`.
+- **Donc la démographie des sphères n'est pas biologique, elle est industrielle.** Le nombre de sphères vaut ce que la civilisation produit de **substrats** — ce qui rejoint le frein déjà posé (#55 : le coût de la croissance des enfants). Quelqu'un, quelque part, décide combien de sphères existent.
+- **La pyramide est inversée.** Comme les cycles doublent, le temps passé dans les hauts niveaux est infime et celui passé dans les bas niveaux est immense :
+
+| Bande | Âge | Durée dans la bande | Part de la population |
+|---|---|---|---|
+| H14–H10 | 0 à 0,19 an | 2 mois | ~0,1 % |
+| H9–H5 | 0,19 à 6,24 ans | 6 ans | ~3 % |
+| H4–H0 | 6,24 à 200 ans | 194 ans | ~97 % |
+
+- **Exemple**, avec 10 000 naissances par an depuis 2076 :
+
+| Année | H14–H10 | H9–H5 | H4–H0 | total |
+|---|---|---|---|---|
+| 2101 | 1 892 | 60 554 | 187 553 | 250 000 |
+| 2126 | 1 892 | 60 554 | 437 553 | 500 000 |
+| 2176 | 1 892 | 60 554 | 937 553 | 1 000 000 |
+| 2276 | 1 892 | 60 554 | 1 937 553 | 2 000 000 |
+
+- **Les bandes hautes sont stables, la bande basse gonfle sans fin** : les sphères étant immortelles, elles s'accumulent à H0 et au-delà. **[À trancher : le nombre de naissances par an, qui fixe tout le reste.]**
+
 ### Règles et lois
 - **[G]** **Quand on entre dans un substrat de croissance, on le termine.**
 - **[G]** Les **tailles intérieure et extérieure des substrats sont standardisées.**
