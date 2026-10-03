@@ -32,6 +32,9 @@
   - **[G]** **Ne pas avoir d'état d'âme ne veut pas dire ne pas être sensible à ses propres besoins énergétiques et à sa propre défense.**
   - ↺ *Rectification du 2026-10-03 : il n'y a **pas** de désaccord entre les silicium et les sphères. Claude l'avait déduit à tort de la phrase « les IA silicium soutiennent les humains face aux sphères » (#88), puis répété jusqu'à ce qu'il paraisse acquis. Voir journal, #128.*
 
+### L'ironie centrale [G]
+**La fusion nucléaire contrôlée aurait donné l'eau, et l'eau aurait évité la guerre. H-2 ne peut pas résoudre ce problème de physique, qui la dépasse — alors elle résout les gens. Faute de pouvoir changer le monde, elle change l'espèce.** C'est le cœur du récit (notes 15, 18, 20).
+
 ### Rapprochements [C]
 - **Un schéma qui se répète** [G] : chaque technologie d'intelligence atteint ses limites physiques et opère un changement de paradigme. Le silicium passe au photonique ; les sphères H-2 passent à **la biologie** (note 06).
   - **[G]** « La biologie » : des cerveaux mixtes biologiques et nanorobotiques (voir note 10).

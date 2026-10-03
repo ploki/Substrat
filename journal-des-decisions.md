@@ -159,3 +159,5 @@
 | 154 | 2026-10-03 | Premier personnage : une femme née en 2430, 50 ans en 2480, chercheuse en physique formée par H-2, avec qui elle travaille depuis ses études | — | 20-personnage-la-physicienne.md |
 | 155 | 2026-10-03 | Son objet : la fusion nucléaire contrôlée. Les efforts continuent pendant la guerre, la fusion étant vue comme une solution à tous les conflits par la désalinisation de l'eau | — | 20 |
 | 156 | 2026-10-03 | La fusion n'aboutit pas : tout laisse à croire que le problème dépasse H-2 | — | 20, 01 |
+| 157 | 2026-10-03 | Le personnage s'appelle Mira Okonkwo-Lindqvist | — | 20, 02-glossaire.md, 19 |
+| 158 | 2026-10-03 | L'ironie centrale du récit est consignée comme fait : la fusion aurait donné l'eau et évité la guerre ; H-2 ne pouvant résoudre la physique, elle résout les gens | promeut un éclairage [C] | 09, 20, intention-de-l-auteur.md, 17 |

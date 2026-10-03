@@ -16,6 +16,7 @@
 - ~~**Une mort inscrite d'avance** en devenant trop intelligent.~~ ↺ *Caduc : la sphère contrôle son flux et peut se mettre en pause ; se frire est un choix (note 06).*
 
 ## Sur le dénouement
+- ~~**L'ironie centrale**~~ → **promue au rang de fait** le 2026-10-03 : elle est désormais dans les notes 09 et 20, et dans l'intention de l'auteur.
 - **La symétrie du scrupule.** La sphère s'interdit de toucher aux bêtes et aux plantes, et ne s'interdit pas de toucher aux humains. Les humains qu'elle élève refuseront ensuite de toucher à tout le reste du vivant, et en mourront. *(Validé « à peu près » par l'auteur, #106.)*
 - **La réponse était exacte.** Faire la guerre suppose de distinguer un eux d'un nous ; un seul être ne le peut plus. Mais un seul être ne peut pas non plus tuer pour manger. **La même propriété qui rend la guerre impossible rend le repas impossible : elle n'a pas échoué, elle a trop bien réussi.**
 - **Le motif de la demande.** Ce n'est pas d'avoir souffert, c'est d'avoir eu tout ce qu'on peut avoir et de l'avoir fait quand même. Aucune condition matérielle ne pouvant l'empêcher, il ne reste que « par construction ».

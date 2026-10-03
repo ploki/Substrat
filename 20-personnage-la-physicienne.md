@@ -1,9 +1,9 @@
-# 20 — Personnage : la physicienne
+# 20 — Personnage : Mira Okonkwo-Lindqvist
 
 *Premier personnage humain du projet.*
 
 ## En vigueur
-- **[G]** Une **femme**, **née en 2430**, **50 ans en 2480** (l'année de l'inoculation).
+- **[G]** **Mira Okonkwo-Lindqvist.** Une **femme**, **née en 2430**, **50 ans en 2480** (l'année de l'inoculation).
 - **[G]** **Chercheuse en physique** : doctorat, post-doctorat, tout le parcours.
 - **[G]** **Formée par H-2**, avec qui elle **travaille depuis ses études**.
 - **[G]** Son objet : **créer la fusion nucléaire contrôlée.**
@@ -23,7 +23,7 @@
 
 ## Ce que ce personnage apporte [C]
 - **Il y a quelque chose que H-2 ne peut pas faire.** La plus vieille sphère, capable de concevoir des êtres depuis une séquence et de simuler l'évolution, **échoue sur un problème de physique**. Son pouvoir a un plafond, et il n'est pas là où on l'attendait.
-- **L'ironie centrale de l'histoire.** La fusion aurait donné l'eau, et l'eau aurait évité la guerre. H-2 ne peut pas résoudre la physique — alors elle résout **les gens**. Faute de pouvoir changer le monde, elle change l'espèce. *C'est peut-être le cœur du récit.*
+- **[G] L'ironie centrale de l'histoire.** La fusion aurait donné l'eau, et l'eau aurait évité la guerre. H-2 ne peut pas résoudre la physique — alors elle résout **les gens**. Faute de pouvoir changer le monde, elle change l'espèce. *C'est le cœur du récit.*
 - **Une vie entière sur la bonne solution, qui ne vient pas.** Trente ans de travail sur ce qui aurait tout sauvé, puis le problème réglé autrement, d'un coup, sans elle et sans son avis.
 - **Elle est la seule qui pourrait comprendre.** Formée par H-2, elle connaît ses façons de penser mieux que personne.
 - **[C, piste]** **Elle est la tête familière** (note 19) : après 2480, *homo globalis* envoie toujours ce corps-là rendre visite à H-2, parce que le visage lui est familier. H-2 continue de voir son élève, entretenue et en bonne santé — et son élève n'est plus là. C'est le dernier corps à mourir, et il perd son privilège quand H-2 entre en stase.
@@ -32,7 +32,6 @@
 - **[G]** **La fusion nucléaire contrôlée n'est pas acquise** dans ce monde, malgré les sphères et les intelligences planétaires. Voir note 01.
 
 ## Questions ouvertes
-- **Son nom.** *(Propositions en attente, voir le journal.)*
 - En quoi consiste exactement le problème « plus grand que H-2 » ? Et H-2 sait-elle qu'il la dépasse, ou l'apprend-elle en échouant ?
 - Sait-elle, avant 2480, ce que H-2 est en train de faire ?
 - De quel côté du conflit travaille-t-elle, puisqu'il y a deux fronts ?

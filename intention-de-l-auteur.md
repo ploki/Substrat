@@ -4,6 +4,7 @@
 - **[G]** ↺ **Le projet, c'est l'histoire** : comment elle s'articule, **dans l'ordre**, et **quelle longueur passer sur chaque période**. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
 - **[G]** ↺ **La fin** : l'interrupteur de l'émetteur est poussé, les humains s'éteignent faute de stocks — et **la sphère ne grille pas : elle se met en pause**, curieuse de voir les 200 millions d'années à venir (note 19).
   - **[C]** Ce n'est donc ni un triomphe ni une catastrophe spectaculaire, mais un désastre doux suivi d'un retrait.
+- **[G]** **L'ironie centrale du récit** : la fusion aurait donné l'eau, l'eau aurait évité la guerre ; H-2 ne peut pas résoudre la physique, alors elle résout les gens. Faute de pouvoir changer le monde, elle change l'espèce.
 - **[G]** **Pas de guerre entre les générations d'intelligences.** Les IA silicium sont du côté des humains qui les exploitent, chaque belligérant ayant les siennes ; elles n'ont pas d'état d'âme et ne prennent pas parti contre les sphères.
 
 ### D'où l'on vient
