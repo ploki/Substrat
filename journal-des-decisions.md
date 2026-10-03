@@ -191,3 +191,4 @@
 | 185 | — | *(numéro jamais attribué : saut de numérotation de Claude, constaté le 2026-10-04. Aucune décision ne manque ici — seulement un compte faux.)* | — | — |
 | 186 | 2026-10-04 | Avant clôture de session : les éclairages de Claude restés hors du corpus sont consignés (hiérarchie morale en trois étages, le chantier personnel qui aboutit contre l'officiel qui échoue, l'erreur d'estimation, et cinq points sur Mira et H-2) | — | 17-eclairages.md |
 | 187 | 2026-10-04 | Trous de numérotation comblés : #127 et le message 82 avaient été perdus par un script planté en cours de lot, #185 n'avait jamais été attribué. Restaurés depuis la conversation, le saut signalé comme tel | — | journal-des-decisions.md, prompt-log.md |
+| 188 | 2026-10-04 | La nouvelle est du fan art de *Pluribus* : la boucle est voulue — chez Gilligan on reçoit la séquence par radio, ici *homo globalis* l'émet. Pourquoi : l'auteur l'assume comme hommage | — | 16, intention-de-l-auteur.md |

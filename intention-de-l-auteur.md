@@ -15,7 +15,7 @@
 - **[G]** Le cadre reste la **hard SF** (voir `01-cadrage-premisses.md`).
 - **[C → dépassé]** « L'élan va du monde vers les histoires » : vrai jusqu'au 2026-10-03, où l'auteur recentre tout sur l'histoire elle-même.
 - **[G]** Dans ce monde, **il importe peu que la sphère soit dans telle ou telle représentation**. Le corps est secondaire, et l'auteur ne veut pas en faire un enjeu.
-- **[G]** Référence revendiquée : la série ***Pluribus***.
+- **[G]** Référence revendiquée : la série ***Pluribus***. **La nouvelle en est du fan art**, et l'émetteur boucle sur elle volontairement (note 16).
 - **[G]** L'auteur **accepte de relâcher la hard SF** quand une idée le demande.
 - **[G]** Les humains entrent enfin dans le monde, par l'intelligence collective.
 - **[G]** **Le décor n'est pas l'objet** : la sandbox se passe sur la Terre normale, avec quelques romantisations. Les questions d'énergie et de cosmologie sont écartées. Ce qui intéresse l'auteur, ce sont **les êtres et leurs règles de vie**.
@@ -28,6 +28,7 @@
 - **[G]** **La culture n'est pas un problème** : on est sur Terre et on y reste.
 
 ## Historique
+- 2026-10-04 — La nouvelle est du fan art de *Pluribus* ; la boucle de l'émetteur est voulue.
 - 2026-10-03 — ↺ Recentrage : le projet est l'histoire, son articulation et son rythme ; la fin est l'interrupteur de l'émetteur ; pas de guerre.
 - 2026-10-03 — ↺ L'auteur abandonne l'histoire du contact et celle du Singleton. Le cœur du projet est désormais la lignée des intelligences : silicium → sphères → humains transformés.
 - 2026-10-03 — Ajout des refus constatés et des observations de Claude sur la manière de construire.
