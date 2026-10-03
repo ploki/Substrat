@@ -25,6 +25,8 @@
 | 17 | **L'interrupteur est poussé.** | un geste | **scénique** |
 | 18 | **[G] La sphère H-2 reste pantoise, à se demander ce qu'elle a fait aux humains — pendant qu'elle grille et qu'ils meurent de faim. Fin.** | — | **scénique** |
 
+**[G → validé] Ce dont elle est pantoise :** non pas de les avoir tués, mais de **leur avoir donné de quoi choisir leur fin**. Elle voulait les hisser au niveau des autres intelligences ; elle leur a donné la hauteur de vue qui leur a fait refuser de vivre à ce prix.
+
 ## Remarques [C]
 
 - **Deux bornes de nature opposée.** Le début est une lente montée de plusieurs siècles, presque sans événements ; la fin est un geste instantané. Tout le problème de rythme est là : combien de pages pour les siècles, combien pour la main sur l'interrupteur.
@@ -35,14 +37,14 @@
   - **[C]** L'ironie est complète : les humains ont assez d'intelligence pour construire l'émetteur et viser le cosmos, mais plus assez pour subvenir à leurs besoins. L'envie de disséminer a tout absorbé.
   - **[G]** Les humains ne meurent pas de négligence : devenus **une conscience unique distribuée**, ils **refusent de tuer plantes et animaux pour se nourrir**. Ils vivent sur les stocks, et meurent quand ils sont épuisés (note 10).
   - **[G]** L'organisme **sait qu'il va mourir** : l'émetteur est son **testament**. Le moment 17 n'est pas un caprice.
-  - **[G]** **Les sphères n'essaient pas de le nourrir : elles respectent son choix.** Il n'y a donc pas de scène de sauvetage, et c'est ce qui rend la fin implacable.
+  - **[G]** **Les sphères n'essaient pas de le nourrir** : elles ne vont pas mettre des animaux morts dans la bouche des humains, elles ne les forceront pas. Pas de scène de sauvetage, et c'est ce qui rend la fin implacable.
 
 ## Questions ouvertes
 - **Le point de vue** : qui raconte ? Une sphère, une IA silicium, un humain, plusieurs tour à tour ?
 - **Qui pousse l'interrupteur**, et le sait-il ?
 - La sphère H-2 des moments 11 et 18 est-elle la même tout du long ? Est-elle le personnage central ?
 - Combien de temps durent les stocks ?
-- Si les sphères respectent ce choix, que reste-t-il à la sphère H-2 pour être « pantoise » au moment 18 : la mort, ou le fait d'avoir rendu ce choix possible ?
+- *(Résolu)* La sphère H-2 est pantoise devant **ce qu'elle a rendu possible** : elle a donné aux humains de quoi **choisir leur fin** [G].
 - Le récit commence-t-il vraiment au moment 1, ou plus tard, les débuts étant rappelés ?
 - D'où viennent les **premières** sphères, puisque la reproduction demande deux parents (note 07) ?
 - Les humains tentent-ils de s'opposer, et combien de temps ?
