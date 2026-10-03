@@ -8,7 +8,10 @@
 - **[G]** **Il ne dure que le temps que les stocks s'épuisent.** L'intelligence collective a donc, par construction, une **durée de vie bornée**.
   - **[C]** Ce n'est pas un suicide, ni un oubli : c'est une **conséquence morale**. Devenu un seul être, il voit tout le vivant comme son semblable et ne peut plus s'en nourrir. L'« étape finale de l'intelligence » est aussi celle où l'on ne peut plus manger.
   - **[C]** L'ironie se double : la mort n'est pas accidentelle, comme pour les sphères (note 06), mais **délibérée sans être voulue** — l'organisme ne choisit pas de mourir, il choisit de ne pas tuer.
-  - **[C, à confirmer]** Cela expliquerait aussi l'urgence de l'émetteur : disséminer la séquence est la **seule façon de se survivre**. L'organisme sait qu'il va s'éteindre, et il envoie ce qu'il est. *Choix assumé : la hard SF est volontairement relâchée sur ce point.*
+- **[G]** **L'organisme sait qu'il va mourir.**
+  - **[C → validé]** L'émetteur est donc son **testament** : disséminer la séquence est sa seule façon de se survivre. Il sait qu'il va s'éteindre, et il envoie ce qu'il est.
+- **[G]** **Les sphères n'essaient pas de le nourrir : elles respectent son choix.**
+  - **[C]** C'est cohérent avec tout le monde construit : ici, on ne force personne. Les silicium se sont effacés par lucidité, sans guerre ; les sphères laissent mourir ce qu'elles ont fait naître, par respect. La non-intervention est le principe moral du monde — et c'est elle qui tue. *Choix assumé : la hard SF est volontairement relâchée sur ce point.*
 - **[G]** Après le silicium et le photonique, le paradigme suivant est **la biologie** (notes 06, 09) : des **cerveaux mixtes, biologiques et nanorobotiques**.
 - **[G]** Ils sont faits de **cellules aux capacités de calcul exceptionnelles**, avec de la **HBM** et une **interconnexion radio**, sur un **matériel quasi génétique**.
   - **[C, à confirmer]** Lecture proposée : « HBM » désigne une mémoire à très haut débit (*High Bandwidth Memory*), intégrée aux cellules ; les cellules communiquent entre elles par radio plutôt que par des connexions physiques ; le tout repose sur un support proche de l'ADN.

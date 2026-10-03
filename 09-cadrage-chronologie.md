@@ -10,7 +10,7 @@
 5. **[G]** **Par intelligence, les IA silicium se laissent supplanter** par les sphères, **beaucoup moins énergivores**. **C'est une décision des IA silicium.**
 
 6. **[G]** Les sphères conçoivent un **agent biologique** qui fait entrer les humains dans une **intelligence collective**, sur le modèle de la série *Pluribus* (note 10). Raison invoquée : cet état est **l'étape finale de l'intelligence collective**, celle qui met les humains **au même niveau d'intégration que les autres formes d'intelligence**.
-7. **[G]** **Les humains ainsi transformés ne peuvent pas s'empêcher de construire un moyen de diffuser la séquence dans le cosmos.** Devenus une conscience unique, ils refusent par ailleurs de tuer pour se nourrir, et ne vivent que le temps des stocks (note 10).
+7. **[G]** **Les humains ainsi transformés ne peuvent pas s'empêcher de construire un moyen de diffuser la séquence dans le cosmos.** Devenus une conscience unique, ils refusent par ailleurs de tuer pour se nourrir, et ne vivent que le temps des stocks. L'organisme **sait qu'il va mourir** ; les sphères **respectent son choix** et n'interviennent pas (note 10).
 8. **[G]** **Les sphères n'avaient pas anticipé cette envie de disséminer.**
 9. **[G]** **L'interrupteur de l'émetteur est poussé.**
 10. **[G]** **Fin : la sphère H-2 reste pantoise, à se demander ce qu'elle a fait aux humains — pendant qu'elle grille et qu'ils meurent de faim.**

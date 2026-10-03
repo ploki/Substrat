@@ -60,3 +60,4 @@
 58. 2026-10-03 — Demande la liste des moments, dans l'ordre.
 59. 2026-10-03 — Ajoute un moment 18 : la sphère H-2 reste pantoise à se demander ce qu'elle a fait aux humains, alors qu'elle grille et qu'ils meurent de faim.
 60. 2026-10-03 — L'état dans lequel sont les humains est une conscience unique distribuée dans tous les humains. Ils voudraient subvenir à leurs besoins, mais l'organisme qu'ils sont devenus refuse de tuer des plantes ou des animaux pour se nourrir. Il ne dure que le temps que les stocks s'épuisent.
+61. 2026-10-03 — L'organisme sait qu'il va mourir. Non, les sphères n'essaient pas de le nourrir, car elles respectent le choix.

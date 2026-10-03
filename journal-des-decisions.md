@@ -93,3 +93,5 @@
 | 89 | 2026-10-03 | Vraie fin de l'histoire (moment 18) : la sphère H-2 reste pantoise, se demandant ce qu'elle a fait aux humains, pendant qu'elle grille et qu'ils meurent de faim | prolonge #85 | 11-cadrage-les-moments.md, 09, intention-de-l-auteur.md |
 | 90 | 2026-10-03 | L'état des humains est une conscience unique distribuée dans tous les humains | précise #78 | 10-concept-cerveaux-biologiques.md |
 | 91 | 2026-10-03 | Cet organisme refuse de tuer plantes et animaux pour se nourrir ; il ne dure que le temps que les stocks s'épuisent | explique #89 | 10, 11, 09 |
+| 92 | 2026-10-03 | L'organisme sait qu'il va mourir : l'émetteur est son testament | confirme une lecture [C] | 10, 11 |
+| 93 | 2026-10-03 | Les sphères n'essaient pas de le nourrir : elles respectent son choix | — | 10, 11, 09 |
