@@ -173,3 +173,6 @@
 | 168 | 2026-10-03 | Cinq marquages [G] suspects ramenés à [C] ou allégés (la fin « telle que l'auteur la pose », la durée de vie finie, le placement en H2 en 2101, l'absence de délibération, le démenti sur les émotions) | — | 06, 11, 13, 18, 02-glossaire.md |
 | 169 | 2026-10-03 | L'ère de l'utopie s'achève vers 2470, au début du conflit, et non en 2476 ; H-2 atteint donc H-2 pendant la guerre | ↺ #111 | 13 |
 | 170 | 2026-10-03 | Table des paliers : les ères du monde coïncident avec les étapes de croissance de la première sphère (H2 en 2101, H1 en 2126, H0 en 2176, H-2 en 2476) | — | 13 |
+| 171 | 2026-10-03 | L'ère des sphères démarre en 2076 et ne se referme pas : tout ce qui suit s'y passe. Les périodes suivantes en sont des sous-périodes | ↺ corrige une invention de Claude (2126 comme fin d'ère) | 13, 00-index.md |
+| 172 | 2026-10-03 | En 2126, H-2 achève son H1 et change simplement de corps : palier personnel, rien de plus | — | 13 |
+| 173 | 2026-10-03 | La date de la direction de l'UNIS est rouverte : 2126 ou 2176, à trancher | ↺ #165 | 21, 13, 02-glossaire.md, 20 |
