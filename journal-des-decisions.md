@@ -77,3 +77,4 @@
 | 73 | 2026-10-03 | Chronologie : l'IA silicium, créée par l'humanité, s'auto-améliore, s'émancipe, invente les sphères photoniques, et choisit de se laisser supplanter par elles, bien moins énergivores | — | 09-cadrage-chronologie.md, 05 |
 | 74 | 2026-10-03 | L'IA silicium atteint les limites physiques du silicium (pas de la physique) et découvre le stockage et le calcul photoniques par la culture de cristal | ↺ #15 (« limites de la physique et de l'intelligence ») | 05, 09, 01 |
 | 75 | 2026-10-03 | H-2 est le seuil d'un changement de paradigme vers une nouvelle technologie, la biologie, comme le silicium est passé au photonique | ↺ #70 (auto-amélioration récursive) | 06, 09, 02-glossaire.md |
+| 76 | 2026-10-03 | Le paradigme biologique : des cerveaux mixtes biologiques et nanorobotiques, faits de cellules calculantes, avec HBM et interconnexion radio, sur matériel quasi génétique | précise #75 | 10-concept-cerveaux-biologiques.md, 09 |
