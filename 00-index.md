@@ -1,6 +1,6 @@
 # Projet : une histoire — la lignée des intelligences — index
 
-**Le projet, c'est l'histoire** : son articulation, son ordre, et la longueur à passer sur chaque période. Elle s'achève quand l'interrupteur de l'émetteur est poussé. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
+**Le projet, c'est l'histoire** : son articulation, son ordre, et la longueur à passer sur chaque période. Elle s'achève sur l'interrupteur de l'émetteur, puis sur la sphère H-2 pantoise, grillant devant des humains qui meurent de faim. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
 
 ## Méthode
 Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un journal des décisions, on produit des livrables quand l'auteur juge le corpus suffisant.

@@ -90,3 +90,4 @@
 | 86 | 2026-10-03 | Il faut entre 200 et 400 ans pour que les sphères en arrivent à concevoir l'agent ; le récit comporte des hors-champ | — | 09-cadrage-chronologie.md |
 | 87 | 2026-10-03 | Les sphères et les humains de l'intelligence collective se parlent en langue naturelle | — | 09-cadrage-chronologie.md |
 | 88 | 2026-10-03 | Les IA silicium soutiennent les humains face aux sphères ; pas de guerre | — | 09-cadrage-chronologie.md |
+| 89 | 2026-10-03 | Vraie fin de l'histoire (moment 18) : la sphère H-2 reste pantoise, se demandant ce qu'elle a fait aux humains, pendant qu'elle grille et qu'ils meurent de faim | prolonge #85 | 11-cadrage-les-moments.md, 09, intention-de-l-auteur.md |

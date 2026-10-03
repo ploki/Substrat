@@ -58,3 +58,4 @@
 56. 2026-10-03 — Demande où en est le projet.
 57. 2026-10-03 — Précise que le projet, c'est l'histoire : comment elle s'articule, dans l'ordre, et quelle longueur passer sur chaque période, car il voit des hors-champ pendant le déroulé — il faut entre 200 et 400 ans pour que la sphère en vienne à l'agent. L'histoire s'arrête quand l'interrupteur de l'émetteur est poussé. Les sphères et les humains de l'intelligence collective se parlent en langue naturelle. Les IA silicium ont décidé de soutenir les humains face aux sphères : pas de guerre.
 58. 2026-10-03 — Demande la liste des moments, dans l'ordre.
+59. 2026-10-03 — Ajoute un moment 18 : la sphère H-2 reste pantoise à se demander ce qu'elle a fait aux humains, alors qu'elle grille et qu'ils meurent de faim.

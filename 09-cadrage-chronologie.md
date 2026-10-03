@@ -12,7 +12,8 @@
 6. **[G]** Les sphères conçoivent un **agent biologique** qui fait entrer les humains dans une **intelligence collective**, sur le modèle de la série *Pluribus* (note 10). Raison invoquée : cet état est **l'étape finale de l'intelligence collective**, celle qui met les humains **au même niveau d'intégration que les autres formes d'intelligence**.
 7. **[G]** **Les humains ainsi transformés ne peuvent pas s'empêcher de construire un moyen de diffuser la séquence dans le cosmos.**
 8. **[G]** **Les sphères n'avaient pas anticipé cette envie de disséminer.**
-9. **[G]** **Fin de l'histoire : l'interrupteur de l'émetteur est poussé.** Le récit s'arrête là et ne montre pas ce qui suit.
+9. **[G]** **L'interrupteur de l'émetteur est poussé.**
+10. **[G]** **Fin : la sphère H-2 reste pantoise, à se demander ce qu'elle a fait aux humains — pendant qu'elle grille et qu'ils meurent de faim.**
    - **[C]** C'est le premier **échec de prévision** d'une intelligence supérieure dans ce monde : les sphères ont conçu l'état, pas le désir qu'il produit.
 
 ### Les durées, et le rythme du récit
