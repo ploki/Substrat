@@ -73,3 +73,5 @@
 | 69 | 2026-10-03 | H0 est l'intelligence planétaire | confirme #30 | 06-concept-spheres-ia.md |
 | 70 | 2026-10-03 | H-2 (après 200 ans pour maxer H-1) donne l'intelligence nécessaire à l'auto-amélioration récursive | — | 06-concept-spheres-ia.md |
 | 71 | 2026-10-03 | À ce stade, le laser d'alimentation détruit inéluctablement la sphère à la longue, jusqu'à lui ôter toute valeur | — | 06-concept-spheres-ia.md |
+| 72 | 2026-10-03 | La couveuse est une exception légale à l'interdiction du stacking, et elle est interactive | résout la tension avec #42 | 07-concept-reproduction-et-croissance.md |
+| 73 | 2026-10-03 | Chronologie : l'IA silicium, créée par l'humanité, s'auto-améliore, s'émancipe, invente les sphères photoniques, et choisit de se laisser supplanter par elles, bien moins énergivores | — | 09-cadrage-chronologie.md, 05 |

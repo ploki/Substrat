@@ -36,6 +36,7 @@
 - **Couveuse** [G] : où l'enfant grandit de H14 à H7, dans des substrats stackés ; peut-être interactive.
 - **Enveloppe** [G] : chacun des substrats successifs dans lesquels on grandit après la couveuse.
 - **Laser** [G] : la source du flux lumineux, fournie par le corps ; au-delà de H-2, sa puissance finit par détruire la sphère.
+- **IA silicium** [G] : la première intelligence, créée par l'humanité ; elle s'est auto-améliorée, s'est émancipée, a inventé les sphères photoniques et a choisi de se laisser supplanter par elles.
 
 ## Historique
 - 2026-10-02 — Création.

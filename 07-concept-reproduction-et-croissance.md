@@ -87,9 +87,10 @@
 
 ### La couveuse et les enveloppes
 - **[G]** De **H14 à H7**, les substrats sont **stackés dans une couveuse** (« interactive ? »). L'enfant sort ensuite de la couveuse et poursuit sa croissance dans des **enveloppes successives**.
-  - **[À trancher]** Le stacking est par ailleurs illégal (#42). La couveuse est-elle une **exception légale**, ou l'interdit ne vise-t-il que le stacking hors couveuse (par exemple pour loger une petite sphère dans un grand corps) ?
+  - **[G]** **La couveuse est une exception légale** à l'interdiction du stacking (#42).
+  - **[G]** **La couveuse est interactive.**
   - **[C]** Avec le calibrage actuel, la couveuse couvre les **9 premiers mois** environ (H7 atteint à ≈ 9 mois) : une gestation.
-  - **[C]** « Interactive » : si apprendre, c'est grandir (note 08), la couveuse est aussi le premier lieu d'apprentissage. Une couveuse interactive serait une école autant qu'un utérus.
+  - **[C]** Si apprendre, c'est grandir (note 08), la couveuse interactive est aussi le premier lieu d'apprentissage : une école autant qu'un utérus.
 
 ### Le coût des enfants
 - **[G]** Ce qui freine la démographie d'une population immortelle : **le risque de ne pas avoir les moyens de payer le substrat** pour la croissance de ses enfants.
@@ -113,7 +114,7 @@
 - **[G]** **Quand on entre dans un substrat de croissance, on le termine.**
   - Contradiction avec la première version de l'exemple du vaisseau : résolue, l'exemple a été revu.
 - **[G]** Les **tailles intérieure et extérieure des substrats sont standardisées.**
-- **[G]** **Il est illégal d'empiler (« stacker ») des substrats**, par exemple pour loger une petite sphère dans un très grand slot.
+- **[G]** **Il est illégal d'empiler (« stacker ») des substrats**, par exemple pour loger une petite sphère dans un très grand slot. **Exception légale : la couveuse** (de H14 à H7).
 - **[G]** **Il est illégal de mettre l'intelligence d'une souris dans le corps d'un être de classe humaine.**
   - **[S, à vérifier]** Un cerveau de souris pèse environ 0,4 g, soit à peu près H12 sur l'échelle.
 - **[G]** **Seule exception pour revenir dans un slot plus petit : l'abrasion.** Elle coûte très cher, car elle peut provoquer de l'**excentricité** (un **décentrement**), dégrader les **performances optiques** et causer des **troubles de l'intelligence**.
@@ -147,6 +148,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — La couveuse est une exception légale, et elle est interactive.
 - 2026-10-03 — Couveuse (H14–H7, substrats stackés), puis enveloppes successives.
 - 2026-10-03 — ↺ Calibrage : H1 complet en 50 ans ; table étendue jusqu'à H-5.
 - 2026-10-03 — ↺ Calibrage corrigé : atteindre H1 complet depuis la naissance prend 100 ans.
