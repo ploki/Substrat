@@ -43,7 +43,7 @@
 - **La fin, telle que l'auteur la pose [G] :** pas un triomphe ni une catastrophe spectaculaire, mais **un désastre en cours et une question sans réponse**. La sphère grille, les humains meurent de faim, et personne n'a voulu ça. L'intelligence collective, « étape finale » censée hisser les humains au niveau des autres, les a rendus incapables de se nourrir ; et son auteure, trop grande pour survivre à son propre flux, n'a plus le temps de comprendre.
   - **[C]** L'ironie est complète : les humains ont assez d'intelligence pour construire l'émetteur et viser le cosmos, mais plus assez pour subvenir à leurs besoins. L'envie de disséminer a tout absorbé.
   - **[G]** Les humains ne meurent pas de négligence : devenus **une conscience unique distribuée**, ils **refusent de tuer plantes et animaux pour se nourrir**. Ils vivent sur les stocks, et meurent quand ils sont épuisés (note 10).
-  - **[G]** L'organisme **sait qu'il va mourir** : l'émetteur est son **testament**. Le moment 17 n'est pas un caprice.
+  - **[G]** L'organisme **sait qu'il va mourir**. **[C]** D'où la lecture : l'émetteur est son **testament**. Le moment 17 n'est pas un caprice.
   - **[G]** **Les sphères n'essaient pas de le nourrir** : elles ne vont pas mettre des animaux morts dans la bouche des humains, elles ne les forceront pas. Pas de scène de sauvetage, et c'est ce qui rend la fin implacable.
 
 ## Questions ouvertes

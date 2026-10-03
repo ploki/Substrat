@@ -14,16 +14,18 @@
   - **[C]** Conséquence : le changement de paradigme n'est pas qu'une affaire d'énergie. Les silicium cherchent quelque chose qu'elles n'ont pas. Elles fabriquent ce qui pourra éprouver à leur place.
   - **[C]** Et **elles y parviennent** : les sphères ont des émotions comparables à celles des humains (note 06). Trois siècles plus tard, c'est ce succès qu'on leur reprochera pour les écarter de la guerre (note 15).
 
-### 2076–2176 — L'ère des sphères
+### 2076–2126 — L'ère des sphères
+*L'auteur donne cette ère comme allant de **2076 à 2126**. Ce qui suit, jusqu'à 2176, n'a pas encore reçu de nom. **[À préciser.]***
 - **[G]** **2076** : l'ère des sphères démarre. Les variétés de nouvelles intelligences se développent.
-- **[G]** **~2096** : des intelligences de qualité **enfant, puis pré-adulte** existent déjà.
+- **[G]** Des intelligences de qualité **enfant, puis pré-adulte** existent **depuis vingt ans** quand arrive 2101. **[C]** Soit à partir de ~2081.
 - **[G]** **2101** : il y a déjà **énormément de sphères d'intelligence de qualité humaine**.
   - **[G]** **« Qualité humaine » couvre plusieurs niveaux**, de la petite enfance à l'âge adulte complètement formé et très compétent. Ce n'est donc pas un synonyme de H1 : en 2101, la première génération est autour de H2, ce qui entre dans cette plage.
+### 2126–2176 — *(ère sans nom)*
 - **[G]** **2176** : la **première intelligence planétaire** arrive, au niveau de la meilleure intelligence silicium.
 - **[G]** Le **dernier problème écologique** est en passe d'être résolu. **Plus rien ne justifie l'existence de l'IA planétaire silicium face à la sphère.**
 
 ### 2176–2476 — L'ère de l'utopie
-- **[G]** Un **conflit global** éclate vers la fin de cette ère et la termine : l'activité solaire apporte un surplus d'infrarouge, l'eau et la nourriture deviennent difficiles d'accès, et les tensions pour les ressources vitales deviennent globales (note 15). L'utopie n'aura donc pas empêché la guerre.
+- **[C]** Un **conflit global** éclaterait vers la fin de cette ère et la terminerait — l'auteur n'a fixé que sa **fin**, après 2476 (#111) : l'activité solaire apporte un surplus d'infrarouge, l'eau et la nourriture deviennent difficiles d'accès, et les tensions pour les ressources vitales deviennent globales (note 15). L'utopie n'aura donc pas empêché la guerre.
 - **[G]** Trois siècles tranquilles. Connaissances, sagesse, mathématiques : tout avance encore, mais **n'apporte plus grand-chose de nouveau**, car **tous les indicateurs de qualité de vie sont déjà au maximum, pour tout le monde**.
   - **[C → validé, « à peu près »]** C'est le grand hors-champ du plan (moment 10) : trois siècles sans manque, donc sans récit. **Quand il n'y a plus rien à résoudre, la plus vieille sphère se trouve un dernier problème** — et c'est de cette plénitude que sort le dernier geste.
 

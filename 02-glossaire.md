@@ -29,7 +29,7 @@
 - **Cold storage** [G] : l'intérieur de la sphère, gardé moins éclairé, où migrent les souvenirs ; la place y est limitée et la mémoire compressée avec perte.
 - **Cycle de croissance** [G] : un passage en substrat, terminé ; à sa toute fin, trois cybergonades sont générées.
 - **Classe (de corps)** [G] : catégorie d'un corps synthétique, par exemple « de classe humaine ».
-- **Appliance** [G] : appareil qui a besoin d'une sphère pour fonctionner ; on peut l'équiper avec des cybergonades.
+- **Appliance** [C, terme de Claude ; l'auteur a dit « un appareil qui a besoin d'une sphère »] : appareil qui a besoin d'une sphère pour fonctionner ; on peut l'équiper avec des cybergonades.
 - **Couveuse** [G] : où l'enfant grandit de H14 à H7, dans des substrats stackés ; peut-être interactive.
 - **Enveloppe** [G] : chacun des substrats successifs dans lesquels on grandit après la couveuse.
 - **Laser** [G] : la source du flux lumineux, fournie par le corps ; à H-2, sa puissance finit par détruire la sphère. C'est **la seule exception à l'immortalité**.

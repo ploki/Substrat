@@ -77,3 +77,4 @@
 75. 2026-10-03 — Propose de la terminologie : sphère dans un corps synthétique ou polymère avec slot adaptateur, android ; sphère dans un corps mécanique, il sèche et demande des suggestions ; silicium dans un corps synthétique ou polymère, cyborg ; silicium dans un corps mécanique, robot.
 76. 2026-10-03 — Retient les trois termes pour la sphère en corps mécanique. Demande un rappel de la terminologie des Cylons dans Battlestar Galactica, la version avec l'acteur latino qui jouait le policier de Blade Runner.
 77. 2026-10-03 — Demande d'ajouter les skinjobs à la liste des choses à regarder, et de remplacer « cyborg » par « humanoïde » dans sa nomenclature.
+78. 2026-10-03 — Demande si tous les éléments de la conversation et les trouvailles intéressantes ont été consignés.

@@ -7,8 +7,10 @@
 - **[G]** Difficulté qu'il formule : **il ne trouve pas ce qui justifierait l'humanité de choisir cette voie.**
 - **[G]** Piste proposée pour la résoudre : **un conflit global**, qui laisse l'humanité si traumatisée qu'à la fin du conflit, **l'espèce demande à H-2 comment ne plus jamais pouvoir recommencer — par construction.** Et elle **laisse à H-2 une totale liberté** pour trouver la solution, **sans le lui dire**.
 
+*Cette piste est née de l'incohérence (2) de l'audit de cohérence du 2026-10-03, que l'auteur avait d'abord reportée (journal, #107b et #107c).*
+
 ## Ce que cette piste résout [C]
-1. **L'incohérence relevée par l'audit** (projet collectif discuté contre acte clandestin d'une seule sphère) : la demande est **publique et collective**, l'exécution est **solitaire et libre**. Les deux versions deviennent vraies.
+1. **L'incohérence (2) relevée par l'audit** (projet collectif discuté contre acte clandestin d'une seule sphère) : la demande est **publique et collective**, l'exécution est **solitaire et libre**. Les deux versions deviennent vraies.
 2. **Le « sans le dire » cesse d'être une tromperie** : c'est **une clause du mandat**. L'humanité a demandé à ne pas savoir. C'est cohérent avec un monde où personne ne force personne, puisque là, on a demandé.
 3. **La solution est exacte.** Faire la guerre suppose de distinguer un eux d'un nous. Un seul être ne peut plus se faire la guerre : la réponse de H-2 répond parfaitement à la question posée.
 4. **Et c'est pour cela qu'elle tue.** Un seul être ne peut pas non plus tuer pour manger. La même propriété qui rend la guerre impossible rend le repas impossible. **H-2 n'a pas échoué : elle a trop bien réussi.**
