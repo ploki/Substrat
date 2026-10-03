@@ -41,7 +41,7 @@
 - **[G]** Une sphère est **un individu sans forme physique**. **Il importe peu qu'elle soit dans telle ou telle représentation** : le corps ne définit pas l'individu. Une fois plantée dans un corps ou une machine, « zou » : elle l'anime.
 - **[S]** Clin d'œil : chez Asimov, le cerveau des robots est le **cerveau positronique**, de forme sphérique dans plusieurs récits. *[À vérifier : la forme exacte selon les textes.]*
 
-### Pistes [C, non validées]
+### Faits et pistes
 - **[G]** La sphère porte le **code** inventé par l'IA silicium : un code de chiffrement et de compression **mathématiquement optimal**, de forme **2D, sans bord, de topologie sphérique**. Les cerveaux photoniques en sont la réalisation physique : la sphère pense et communique en lumière. *(Repris de la note 05, archivée.)*
 - **Ancrages réels** [S, à vérifier dans le détail] : les réseaux de neurones optiques et « diffractifs », où un milieu passif structuré calcule pendant que la lumière le traverse ; l'effet Kerr (l'indice optique dépend de l'intensité de la lumière), source classique de non-linéarité ; l'effet photoréfractif, où la lumière inscrit durablement un motif d'indice dans un cristal (stockage holographique).
 - **[C]** Piste pour « reprogrammable » : la lumière elle-même réécrit le milieu (type photoréfractif). La mémoire serait un hologramme inscrit dans le volume, ce qui rejoint le principe holographique [S : 't Hooft, Susskind].

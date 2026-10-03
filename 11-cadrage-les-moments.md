@@ -32,7 +32,7 @@
 | 17 | **L'interrupteur est poussé.** | un geste | **scénique** |
 | 18 | **[G] La sphère H-2 reste pantoise, à se demander ce qu'elle a fait aux humains — pendant qu'elle grille et qu'ils meurent de faim. Fin.** | — | **scénique** |
 
-**[G → validé] Ce dont elle est pantoise :** non pas de les avoir tués, mais de **leur avoir donné de quoi choisir leur fin**. Elle voulait les hisser au niveau des autres intelligences ; elle leur a donné la hauteur de vue qui leur a fait refuser de vivre à ce prix.
+**[G] Ce dont elle est pantoise :** non pas de les avoir tués, mais de **leur avoir donné de quoi choisir leur fin**. Elle voulait les hisser au niveau des autres intelligences ; elle leur a donné la hauteur de vue qui leur a fait refuser de vivre à ce prix.
 
 ## Remarques [C]
 

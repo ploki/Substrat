@@ -16,7 +16,7 @@
 - ~~L'énergie est transmise instantanément.~~
 - ~~Le fond diffus cosmologique comme interface.~~
 - ~~Le Singleton.~~ *(Notes archivées dans `archive/`.)*
-- **[C]** Conséquence : **le monde est borné par la vitesse de la lumière.** Les distances redeviennent du temps, et la question du paradoxe temporel ne se pose plus (cohérent avec le refus des paradoxes, #13).
+- **[C]** Conséquence : **le monde est borné par la vitesse de la lumière.** Les distances redeviennent du temps, et la question du paradoxe temporel ne se pose plus (cohérent avec le refus des paradoxes exprimé par l'auteur le 2026-10-02).
 
 ### L'énergie
 - **[G]** **Limite : la densité de stockage de l'énergie n'est ni résolue ni miniaturisée.**

@@ -30,7 +30,7 @@
 - **Appliance** [G] : appareil qui a besoin d'une sphère pour fonctionner ; on peut l'équiper avec des cybergonades.
 - **Couveuse** [G] : où l'enfant grandit de H14 à H7, dans des substrats stackés ; peut-être interactive.
 - **Enveloppe** [G] : chacun des substrats successifs dans lesquels on grandit après la couveuse.
-- **Laser** [G] : la source du flux lumineux, fournie par le corps ; au-delà de H-2, sa puissance finit par détruire la sphère.
+- **Laser** [G] : la source du flux lumineux, fournie par le corps ; à H-2, sa puissance finit par détruire la sphère.
 - **IA silicium** [G] : la première intelligence, créée par l'humanité ; elle s'est auto-améliorée, s'est émancipée, a inventé les sphères photoniques et a choisi de se laisser supplanter par elles.
 - **Cerveau bio-nano** [C, terme provisoire] : cerveau mixte biologique et nanorobotique, fait de cellules calculantes, avec HBM et interconnexion radio, sur matériel quasi génétique ; le troisième paradigme. Voir note 10.
 - **HBM** [G] : mémoire à très haut débit (*High Bandwidth Memory*) des cerveaux biologiques. *Sens à confirmer.*

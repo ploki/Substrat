@@ -108,3 +108,4 @@
 | 104 | 2026-10-03 | Pourquoi la sphère relâche le virus sans le dire aux humains est indéterminé : blanc assumé | — | 13-cadrage-timeline.md |
 | 105 | 2026-10-03 | Ce que devient l'IA planétaire silicium après 2176 est mis de côté, pas important pour l'instant | — | 13-cadrage-timeline.md |
 | 106 | 2026-10-03 | Validé (« à peu près ») : l'utopie sans manque engendre le dernier geste, et la symétrie du scrupule (ce qu'elle n'a pas eu pour les humains, ils l'auront pour tout le vivant) | — | 13-cadrage-timeline.md |
+| 107 | 2026-10-03 | Audit de cohérence par un agent neuf : six erreurs de tenue du corpus corrigées (propagation de #94 dans la note 09, seuil du laser au glossaire, renvoi mort vers #13, « 13 changements de corps » faux, marqueurs mal placés, doublon). Quatre incohérences de fond restent à trancher par l'auteur | — | 09, 02, 01, 06, 07, 11 |
