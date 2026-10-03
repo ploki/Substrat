@@ -5,7 +5,7 @@
   1. la médecine ;
   2. le transhumanisme ;
   3. ~~le warp drive~~ → **abandonné** (2026-10-03) : plus de voyage plus rapide que la lumière ;
-  4. l'AGI (intelligence artificielle générale) : conçue par l'humanité, sur silicium, elle s'est améliorée récursivement jusqu'aux limites physiques du silicium, puis a inventé le cerveau photonique (notes 05, 09) ;
+  4. l'AGI (intelligence artificielle générale) : conçue par l'humanité, sur silicium, elle s'est améliorée récursivement jusqu'aux limites physiques du silicium, puis a inventé le cerveau photonique (notes 06, 09) ;
   5. le contrôle de la gravité.
 - **[G]** **La hard SF est volontairement relâchée** pour la classe des êtres biologiques, qui communiquent par radio (note 10).
 - **[C, à confirmer]** Lecture proposée : la physique et la science restent rigoureuses partout ailleurs, et la rigueur porte sur les **conséquences** de ces acquis.
@@ -14,8 +14,8 @@
 - ~~L'humanité a été contactée.~~
 - ~~Le warp drive.~~
 - ~~L'énergie est transmise instantanément.~~
-- ~~Le fond diffus cosmologique comme interface (note 05).~~
-- ~~Le Singleton (notes 03, 04).~~
+- ~~Le fond diffus cosmologique comme interface.~~
+- ~~Le Singleton.~~ *(Notes archivées dans `archive/`.)*
 - **[C]** Conséquence : **le monde est borné par la vitesse de la lumière.** Les distances redeviennent du temps, et la question du paradoxe temporel ne se pose plus (cohérent avec le refus des paradoxes, #13).
 
 ### L'énergie

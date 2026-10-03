@@ -112,7 +112,6 @@
 
 ### Règles et lois
 - **[G]** **Quand on entre dans un substrat de croissance, on le termine.**
-  - Contradiction avec la première version de l'exemple du vaisseau : résolue, l'exemple a été revu.
 - **[G]** Les **tailles intérieure et extérieure des substrats sont standardisées.**
 - **[G]** **Il est illégal d'empiler (« stacker ») des substrats**, par exemple pour loger une petite sphère dans un très grand slot. **Exception légale : la couveuse** (de H14 à H7).
 - **[G]** **Il est illégal de mettre l'intelligence d'une souris dans le corps d'un être de classe humaine.**
@@ -133,16 +132,13 @@
 - **[C]** De H14 à H1, il faut **13 doublements**. La croissance est continue, mais on change de corps à chaque fois qu'on dépasse le format de son socket : 13 changements de corps, de l'enfance au niveau H1, soit des rites de passage tout trouvés.
 
 ## Questions ouvertes
-- ~~Le parent régénère-t-il le détrompeur donné ?~~ → oui, dans le liquide [G].
-- ~~La sphère dort-elle pendant sa croissance ?~~ → non, le substrat la bloque mécaniquement [G].
-- ~~La croissance est-elle irréversible ?~~ → oui, sauf abrasion, coûteuse et risquée [G].
 - Qui légifère et fait respecter les lois sur les substrats et les corps ?
 - Que fait l'excentricité à l'esprit d'une sphère ?
 - ~~Garder volontairement un enfant petit est-il légal ?~~ → non [G]. ~~Un être resté petit peut-il payer lui-même sa croissance ?~~ → non [G].
 - Comment concilier une croissance continue avec l'effet de seuil H1 → H0 (note 06) : le saut se produit-il exactement à 2 L, ou progressivement ?
 - L'enfant hérite-t-il de quelque chose (mémoire, traits) par la demi-sphère de chaque parent ?
-- ~~L'enfant a-t-il des cybergonades à la naissance ?~~ → non [G]. Quand lui poussent-elles : en remplissant pour la première fois son logement ?
-- ~~Par crans ou en continu ?~~ → en continu [G]. Que se passe-t-il au-delà de H1, et jusqu'où va-t-on ?
+- Quand lui poussent-elles : en remplissant pour la première fois son logement ?
+- Que se passe-t-il au-delà de H1, et jusqu'où va-t-on ?
 - D'où vient le liquide de croissance, qui le produit, qui le contrôle ?
 - D'où vient la poudre de sphère, quelle part du substrat représente-t-elle, et qui en fait le commerce ?
 

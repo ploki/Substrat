@@ -84,3 +84,4 @@
 | 80 | 2026-10-03 | L'histoire du contact et celle du Singleton sont abandonnées | ↺ #6, #9, #10, #11, #14, #17, #19, #20 | 01, 03, 04, 05, 02-glossaire.md, 00-index.md |
 | 81 | 2026-10-03 | Abandon du warp, de la transmission instantanée de l'énergie et du fond diffus comme interface. Le monde est borné par la vitesse de la lumière | ↺ #5 (warp), #8, #16 | 01, 05, 06, 02-glossaire.md, 00-index.md |
 | 82 | 2026-10-03 | Le décor de la sandbox est la Terre normale, avec quelques romantisations ; les questions d'énergie et de cosmologie sont écartées | clôt les questions ouvertes de #54, #81 | 01-cadrage-premisses.md, intention-de-l-auteur.md |
+| 83 | 2026-10-03 | Élagage du corpus : notes abandonnées déplacées dans `archive/`, code optimal sauvé dans la note 06, questions résolues et pistes mortes retirées | — | tout le corpus |

@@ -16,11 +16,8 @@
 - **Cohérent avec le sort des enfants gardés petits** : sans croissance, ils n'apprennent pas, et restent à une intelligence d'enfant.
 - **L'apprentissage aurait un prix matériel** : chaque souvenir coûte du substrat, donc de la poudre.
 
-### Tensions avec le corpus (à trancher si l'hypothèse est retenue)
-1. ~~**Abrasion** (#43, #45)~~ : elle est « économiquement déraisonnable » et « n'a pas de pratique clandestine ». L'hypothèse en fait une pratique courante, et clandestine. → **Résolu** [G] : l'abrasion bien faite reste chère et légale ; il existe à côté une abrasion de marché noir, bon marché et risquée.
-2. ~~**Fertilité** (#39) : si l'on est toujours en substrat, on n'est jamais fertile.~~ → **Résolu** [G] : trois cybergonades sont générées à la fin de chaque cycle.
-3. ~~**« On termine toujours un substrat »** (#41)~~ → **Résolu** : on enchaîne des cycles, et chacun est terminé.
-4. **Mémoire sans flux** (#23) : pas de contradiction ; l'hypothèse précise où se trouve la mémoire.
+### Tensions avec le corpus — résolues
+*Les trois tensions relevées (abrasion, fertilité, substrat terminé) ont toutes été résolues par l'auteur les 2026-10-03 ; voir le journal, décisions #61, #63. Il ne reste plus d'obstacle à retenir cette hypothèse.*
 
 ## Historique
 - 2026-10-03 — Hypothèse ouverte par l'auteur.

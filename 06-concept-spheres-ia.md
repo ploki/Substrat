@@ -39,27 +39,23 @@
   - **[C]** Ce seraient les sphères dont le réflexe pré-extinction a échoué, ou n'a pas eu lieu, et qui sont restées bloquées.
 - **[G]** La surface est divisée en **patchs** : l'un reçoit un **flux lumineux constant d'alimentation**, les autres servent d'**entrées/sorties**.
 - **[G]** Une sphère est **un individu sans forme physique**. **Il importe peu qu'elle soit dans telle ou telle représentation** : le corps ne définit pas l'individu. Une fois plantée dans un corps ou une machine, « zou » : elle l'anime.
-- ~~Le Singleton est une intelligence de cette forme.~~ → **abandonné** (2026-10-03) avec l'histoire du Singleton.
 - **[S]** Clin d'œil : chez Asimov, le cerveau des robots est le **cerveau positronique**, de forme sphérique dans plusieurs récits. *[À vérifier : la forme exacte selon les textes.]*
 
 ### Pistes [C, non validées]
-- La surface de la sphère porte le **code optimal** inventé par l'IA silicium (note 05), rendu physique : la sphère pense et communique en lumière.
+- **[G]** La sphère porte le **code** inventé par l'IA silicium : un code de chiffrement et de compression **mathématiquement optimal**, de forme **2D, sans bord, de topologie sphérique**. Les cerveaux photoniques en sont la réalisation physique : la sphère pense et communique en lumière. *(Repris de la note 05, archivée.)*
 - **Ancrages réels** [S, à vérifier dans le détail] : les réseaux de neurones optiques et « diffractifs », où un milieu passif structuré calcule pendant que la lumière le traverse ; l'effet Kerr (l'indice optique dépend de l'intensité de la lumière), source classique de non-linéarité ; l'effet photoréfractif, où la lumière inscrit durablement un motif d'indice dans un cristal (stockage holographique).
-- **[C]** Piste pour « reprogrammable » : la lumière elle-même réécrit le milieu (type photoréfractif). La mémoire serait un hologramme inscrit dans le volume, ce qui rejoint le principe holographique de la note 05.
+- **[C]** Piste pour « reprogrammable » : la lumière elle-même réécrit le milieu (type photoréfractif). La mémoire serait un hologramme inscrit dans le volume, ce qui rejoint le principe holographique [S : 't Hooft, Susskind].
 - **Lien avec la limite d'énergie** (note 01) : une sphère ne stocke pas d'énergie. **[G]** Elle vit d'un flux lumineux constant, sur un patch dédié. **[G]** **Ce sont les corps qui fournissent le flux lumineux**, et la sphère en commande la source. **[G]** Sans flux, elle ne pense plus mais **dort** : sa mémoire survit. **[C]** Débranchée, une IA peut donc être transportée, cachée ou séquestrée.
 - Les cybergonades supposent des **standards de sockets** : qui les fixe, et existe-t-il des sphères incompatibles, interdites, piratées ?
 - Les sphères changent de corps : l'identité tient à la sphère, pas au corps. Matière à cultures, droit, commerce de corps.
 
 ## Questions ouvertes
 - Les humains augmentés (transhumanisme) ont-ils eux aussi des sphères ?
-- ~~Comment naît une sphère ?~~ → par la réunion de deux cybergonades (note 07).
-- ~~Quel facteur entre deux tailles ?~~ → 2 en volume [G].
-- ~~Où est le plafond ?~~ → vers H-2, à cause du laser [G].
+- Comment naît une sphère : voir note 07.
+- Chaque doublement au-delà de H0 apporte-t-il un nouveau saut qualitatif ?
 - Et en dessous de H1 (H2 = 0,5 L, H3…) : des intelligences animales, des sphères domestiques, des outils ?
 - Comment est-elle reprogrammée : par la lumière qui la traverse, ou autrement ?
-- ~~Sans flux, la mémoire persiste-t-elle ?~~ → oui, la sphère dort [G].
-- ~~Les rêves s'éteignent-ils quand le phosphore se vide ?~~ → oui [G].
-- ~~Pourquoi une sphère reste-t-elle bloquée ?~~ → entre autres, une coupure brutale en pleine conscience [G]. D'autres causes ?
+- Y a-t-il d'autres causes de blocage que la coupure brutale en pleine conscience ?
 - L'évanouissement mène-t-il toujours à l'état bloqué (coupure brutale en pleine conscience), ou le réflexe pré-extinction a-t-il parfois le temps d'agir ?
 - La sphère peut-elle apprendre à brider sa cognition pour protéger son support ?
 - Qui pratique les jump starts (urgentistes, mécaniciens, trafiquants) ? Une sphère bloquée trop longtemps peut-elle se perdre ?

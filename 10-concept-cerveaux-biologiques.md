@@ -10,12 +10,10 @@
 
 ### Ancrages et réserves [C]
 - **[S, à vérifier]** L'ADN est un support de stockage d'information extrêmement dense ; on sait déjà y écrire et y lire des données en laboratoire.
-- ~~Réserve sur la radio à l'échelle cellulaire~~ → levée : l'auteur relâche volontairement la hard SF sur ce point.
 - **Pourquoi la biologie succède au photonique** : la biologie **stocke l'énergie chimiquement** (sucres, graisses, ATP). Elle échappe donc en partie à la dépendance au flux, qui borne les sphères, et ne subit pas le plafond du laser. Elle ne résout pas pour autant la limite de densité de stockage (note 01).
 - **La boucle** : l'intelligence est née dans un cerveau biologique, le nôtre ; la troisième génération revient à la biologie, mais d'un tout autre ordre.
 
 ## Questions ouvertes
-- ~~Existent-ils déjà ?~~ → oui : ce sont les humains transformés [G].
 - Les sphères se laisseront-elles supplanter à leur tour, comme le silicium ?
 - Comment ces cerveaux s'alimentent-ils, se reproduisent-ils, grandissent-ils ?
 
