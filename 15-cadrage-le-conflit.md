@@ -21,7 +21,7 @@
 
 ### Ce qui suit
 - **[G]** Le conflit s'achève **après 2476**, quand la sphère est déjà H-2 (décision #111).
-- **[G]** ↺ Le conflit **n'arrive pas à s'arrêter de lui-même** : les humains vont vers leur destruction. C'est **la sphère qui décide** alors de créer le virus, sans leur dire (note 18). *Les humains ne demandent rien : la piste de la note 14 est abandonnée.*
+- **[G]** ↺ Le conflit **n'arrive pas à s'arrêter de lui-même** : les humains vont vers leur destruction. C'est **la sphère qui décide**, seule, de créer le virus, sans leur dire — les autres sphères partageant son avis (note 18). *Les humains ne demandent rien : la piste de la note 14 est abandonnée.*
 
 ## Questions ouvertes
 - Quand le conflit commence-t-il, et combien de temps dure-t-il ?
