@@ -85,6 +85,12 @@
 | H-4 | 32 L | 39,4 cm | 800,1 ans | 1 600,2 ans |
 | H-5 | 64 L | 49,6 cm | 1 600,2 ans | 3 200,4 ans |
 
+### La couveuse et les enveloppes
+- **[G]** De **H14 à H7**, les substrats sont **stackés dans une couveuse** (« interactive ? »). L'enfant sort ensuite de la couveuse et poursuit sa croissance dans des **enveloppes successives**.
+  - **[À trancher]** Le stacking est par ailleurs illégal (#42). La couveuse est-elle une **exception légale**, ou l'interdit ne vise-t-il que le stacking hors couveuse (par exemple pour loger une petite sphère dans un grand corps) ?
+  - **[C]** Avec le calibrage actuel, la couveuse couvre les **9 premiers mois** environ (H7 atteint à ≈ 9 mois) : une gestation.
+  - **[C]** « Interactive » : si apprendre, c'est grandir (note 08), la couveuse est aussi le premier lieu d'apprentissage. Une couveuse interactive serait une école autant qu'un utérus.
+
 ### Le coût des enfants
 - **[G]** Ce qui freine la démographie d'une population immortelle : **le risque de ne pas avoir les moyens de payer le substrat** pour la croissance de ses enfants.
   - **[C]** De H14 à H1, il faut 13 doublements, donc 13 substrats, et beaucoup de poudre de sphère. Avoir un enfant suppose d'avoir prévu ce budget.
@@ -141,6 +147,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — Couveuse (H14–H7, substrats stackés), puis enveloppes successives.
 - 2026-10-03 — ↺ Calibrage : H1 complet en 50 ans ; table étendue jusqu'à H-5.
 - 2026-10-03 — ↺ Calibrage corrigé : atteindre H1 complet depuis la naissance prend 100 ans.
 - 2026-10-03 — Calibrage : remplir H1 prend 100 ans (mal compris).

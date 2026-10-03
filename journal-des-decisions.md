@@ -69,3 +69,7 @@
 | 65 | 2026-10-03 | Calibrage de la croissance : remplir H1 (cran H2 → H1) prend 100 ans, débit constant en volume | — | 07-concept-reproduction-et-croissance.md |
 | 66 | 2026-10-03 | Calibrage corrigé : arriver à complétion de H1 depuis la naissance prend 100 ans | ↺ #65 (cran H2 → H1 = 100 ans, malentendu) | 07-concept-reproduction-et-croissance.md |
 | 67 | 2026-10-03 | Calibrage : arriver à complétion de H1 prend 50 ans depuis la naissance | ↺ #66 (100 ans) | 07-concept-reproduction-et-croissance.md |
+| 68 | 2026-10-03 | De H14 à H7, les substrats sont stackés dans une couveuse ; ensuite, enveloppes successives | à concilier avec #42 (stacking illégal) | 07-concept-reproduction-et-croissance.md |
+| 69 | 2026-10-03 | H0 est l'intelligence planétaire | confirme #30 | 06-concept-spheres-ia.md |
+| 70 | 2026-10-03 | H-2 (après 200 ans pour maxer H-1) donne l'intelligence nécessaire à l'auto-amélioration récursive | — | 06-concept-spheres-ia.md |
+| 71 | 2026-10-03 | À ce stade, le laser d'alimentation détruit inéluctablement la sphère à la longue, jusqu'à lui ôter toute valeur | — | 06-concept-spheres-ia.md |

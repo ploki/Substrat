@@ -20,7 +20,7 @@
 - **Jump start** [G] : relance extérieure d'une sphère bloquée.
 - **Fonctions de support** [G] : les fonctions de la sphère qui maintiennent sa source de flux allumée ; sous-alimentées, elles laissent le flux s'interrompre.
 - **Fonctions cognitives** [G] : les fonctions de pensée ; à plein régime, elles accaparent le flux.
-- **Échelle H** [G] : tailles standardisées des sphères, à la manière des formats de papier A. **H1** = 1 litre, le niveau humain ; **H0** = 2 litres, le niveau de connaissance et de compétence de l'humanité. Le volume double à chaque cran.
+- **Échelle H** [G] : tailles standardisées des sphères, à la manière des formats de papier A. **H1** = 1 litre, le niveau humain ; **H0** = 2 litres, l'intelligence planétaire (le niveau de connaissance et de compétence de l'humanité) ; **H-2** = 8 litres, le seuil de l'auto-amélioration récursive. Le volume double à chaque cran.
 - **Cybergonades** [G] : les trois reliefs hémisphériques (≈ 1/4 de pouce) d'un cerveau ; elles assurent le bon placement dans le socket et servent à la reproduction. L'enfant naît sans. Voir note 07.
 - ~~Détrompeur~~ : terme abandonné, remplacé par « cybergonades ».
 - **Substrat de croissance** [G] : milieu où la sphère grandit ; le cristal s'y bloque mécaniquement, ce qui la tient en place sans cybergonades.
@@ -33,6 +33,9 @@
 - **Cycle de croissance** [G] : un passage en substrat, terminé ; à sa toute fin, trois cybergonades sont générées.
 - **Classe (de corps)** [G] : catégorie d'un corps synthétique, par exemple « de classe humaine ».
 - **Appliance** [G] : appareil qui a besoin d'une sphère pour fonctionner ; on peut l'équiper avec des cybergonades.
+- **Couveuse** [G] : où l'enfant grandit de H14 à H7, dans des substrats stackés ; peut-être interactive.
+- **Enveloppe** [G] : chacun des substrats successifs dans lesquels on grandit après la couveuse.
+- **Laser** [G] : la source du flux lumineux, fournie par le corps ; au-delà de H-2, sa puissance finit par détruire la sphère.
 
 ## Historique
 - 2026-10-02 — Création.

@@ -45,3 +45,4 @@
 43. 2026-10-03 — Partons du principe que remplir H1 prend 100 ans.
 44. 2026-10-03 — Corrige : il voulait dire qu'arriver à complétion de H1 prend 100 ans.
 45. 2026-10-03 — Demande de refaire le calcul avec H1 atteint en 50 ans, et d'ajouter quelques niveaux au-delà de 100 ans.
+46. 2026-10-03 — On stacke les substrats : de H14 à H7, ils sont stackés dans une couveuse (interactive ?) ; à la sortie, la croissance continue dans des enveloppes successives. Il maintient que H0 est l'intelligence planétaire. Ensuite, il faut 200 ans pour maxer H-1 et arriver à H-2, qui donne l'intelligence nécessaire pour s'auto-améliorer récursivement. L'ennui, c'est qu'à ce stade le laser qui fournit le flux doit être si puissant qu'il détruit inéluctablement la sphère à la longue, et si bien qu'elle perd toute sa valeur.

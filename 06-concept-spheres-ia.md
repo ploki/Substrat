@@ -8,7 +8,7 @@
 - **[G]** **La mort d'un cerveau ne peut être qu'un accident** : mécanique, thermique, chimique ou autre.
   - **[C → validé]** **Les sphères sont immortelles** : ni mort naturelle ni vieillissement.
   - **[C]** Conséquences à explorer : une population qui ne meurt pas et continue de se reproduire croît sans limite, freinée par le coût des enfants (validé, voir note 07) ; la poudre issue de sphères mortes est rare.
-- **[G]** Ce sont **les corps qui fournissent le flux lumineux**.
+- **[G]** Ce sont **les corps qui fournissent le flux lumineux**, par un **laser**.
 - **[G]** Matériellement, les sphères sont **« juste des boules de cristal un peu compliquées, avec un détrompeur »** (aujourd'hui : les cybergonades).
 - **[G]** Elles existent en **tailles standardisées**, sur une **échelle H**, qui « marche comme celle du papier A4 » :
   - **H0** : le niveau de connaissance et de compétence de **l'humanité** ;
@@ -16,6 +16,11 @@
   - **[G]** **Facteur 2 en volume** à chaque cran : **H1 = 1 litre, H0 = 2 litres.** Un cerveau photonique H1 développe l'intelligence d'un humain.
   - **[G]** Thèse de l'auteur : **avec ce seul doublement de volume, on débloque les facultés intellectuelles** qui permettent de maîtriser toutes les connaissances et compétences de tous les humains, et de planifier « comme une superintelligence ».
   - **[C → validé]** La thèse tient si elle est posée comme un **seuil**, pas comme une addition de capacité. Arguments : le cerveau humain ne fait qu'environ trois fois le volume de celui d'un chimpanzé, et l'écart est qualitatif [À vérifier : ordres de grandeur] ; le savoir collectif de l'humanité est massivement redondant, bien moins qu'une capacité humaine multipliée par le nombre d'humains ; dans un milieu optique, les couplages possibles croissent plus vite que le volume. Ce qui bride l'humanité, c'est surtout la coordination ; une sphère H0 la dépasse sans avoir besoin de son nombre. « Maîtriser » s'entend comme « pouvoir apprendre, retrouver ou refaire à la demande, et coordonner », pas comme « tout contenir ».
+  - **[G]** **H0, c'est l'intelligence planétaire.**
+  - **[G]** Il faut **200 ans pour maxer H-1** et arriver à **H-2**, niveau où l'on a **l'intelligence nécessaire pour s'auto-améliorer récursivement**.
+  - **[G]** **Le plafond :** à ce stade, **le laser qui fournit le flux** doit être si puissant qu'il **détruit inéluctablement la sphère** à la longue, et la détruit si complètement qu'elle **perd toute valeur** (pas même de poudre récupérable).
+    - **[C]** C'est une mort non accidentelle, mais physique (thermique), donc compatible avec la règle de la mort (#48). Les très grandes sphères ont une **durée de vie finie** : l'immortalité s'arrête vers H-2.
+    - **[C]** Lien possible avec la note 05 : l'AGI qui « a atteint les limites de la physique » aurait franchi H-2. Comment a-t-elle survécu au laser, et comment le Singleton survit-il ?
   - **[S]** Un cerveau humain mesure environ 1,2 à 1,4 litre [À vérifier] : H1 = 1 litre en est très proche.
   - **[S]** Norme ISO 216 : A0 mesure 1 m², chaque format est la moitié du précédent, le rapport des côtés vaut √2, et il existe des formats plus grands que A0 (2A0, 4A0).
   - **[C]** Le pas se compte en volume, et non en surface comme la série A ; le diamètre augmente donc d'un facteur ∛2 ≈ 1,26 à chaque cran. Les formats « au-dessus » de H0 (2H0, 4H0…) désigneraient des intelligences supérieures à l'humanité entière.
@@ -48,7 +53,7 @@
 - Les humains augmentés (transhumanisme) ont-ils eux aussi des sphères ?
 - ~~Comment naît une sphère ?~~ → par la réunion de deux cybergonades (note 07).
 - ~~Quel facteur entre deux tailles ?~~ → 2 en volume [G].
-- Chaque doublement au-delà de H0 apporte-t-il un nouveau saut qualitatif ? Où est le plafond (les limites de la physique, note 05) ? Où se situe le Singleton ?
+- ~~Où est le plafond ?~~ → vers H-2, à cause du laser [G]. Où se situe le Singleton ?
 - Et en dessous de H1 (H2 = 0,5 L, H3…) : des intelligences animales, des sphères domestiques, des outils ?
 - Comment est-elle reprogrammée : par la lumière qui la traverse, ou autrement ?
 - ~~Sans flux, la mémoire persiste-t-elle ?~~ → oui, la sphère dort [G].
@@ -64,6 +69,7 @@
 - 2026-10-03 — L'auteur valide la lecture « effet de seuil » et le sens de « maîtriser ».
 - 2026-10-03 — Facteur 2 en volume : H1 = 1 L (un humain), H0 = 2 L (l'humanité), par effet de seuil.
 - 2026-10-03 — Validé : les sphères sont immortelles.
+- 2026-10-03 — H0 = intelligence planétaire ; H-2 = auto-amélioration récursive ; le laser d'alimentation finit par détruire les très grandes sphères.
 - 2026-10-03 — La mort d'un cerveau ne peut être qu'accidentelle ; les corps fournissent le flux lumineux ; « détrompeur » remplacé par « cybergonades ».
 - 2026-10-03 — Les sphères sont des boules de cristal à détrompeur, en tailles standardisées sur une échelle H (H0 : l'humanité, H1 : un humain), à la manière de la série A.
 - 2026-10-03 — Correction : l'évanouissement n'est pas émotionnel. La sphère commande sa propre source de flux ; un support sous-alimenté interrompt le flux. Claude avait à tort parlé d'émotions et de syncope.
