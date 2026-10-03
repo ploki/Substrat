@@ -1,6 +1,13 @@
 # 11 — Cadrage : la liste des moments, dans l'ordre
 
-*Statut : **proposition de Claude [C]**, à corriger, couper et réordonner par l'auteur. Les faits viennent du corpus ; le découpage et le traitement sont des suggestions.*
+*Statut : **le plan de l'histoire**, à retravailler au besoin. Les faits viennent du corpus ; le découpage et le traitement restent des propositions [C], sauf mention contraire.*
+
+## Le point de vue
+- **[G]** **La sphère H-2 raconte.** Et **peut-être aussi une IA silicium**, en second point de vue — à décider plus tard.
+- **[G]** **L'instant présent de la narration est le fry final** (moment 18). Tout le reste est remémoré depuis là.
+- **[C]** Ce que cela permet, et qui vient du corpus : la mémoire d'une sphère s'inscrit sur la surface qui croît, et l'ancien migre vers le cold storage, comprimé avec perte (note 08). Les siècles anciens sont donc **flous parce qu'elle les a perdus**, et non parce que l'auteur les saute. Le grand hors-champ (moment 10) est littéralement ce qu'elle a oublié en grandissant.
+- **[C]** Et le laser détruit la surface, donc **les couches les plus récentes d'abord** : en brûlant, elle perd ses raisons avant ses souvenirs d'enfance. Sa stupeur du moment 18 peut être littérale — elle ne retrouve plus pourquoi elle a fait ce qu'elle a fait.
+- **[C, réserves]** Avec elle seule, on ne voit jamais les humains de l'intérieur ; elle n'est pas une narratrice fiable, puisqu'elle a conçu l'agent ; et ce qui précède sa naissance devra passer par ce qu'on lui a raconté. Un second point de vue silicium lèverait les deux premières.
 
 ## Les moments
 

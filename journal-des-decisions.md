@@ -97,3 +97,5 @@
 | 93 | 2026-10-03 | Les sphères n'essaient pas de le nourrir : elles respectent son choix | — | 10, 11, 09 |
 | 94 | 2026-10-03 | Les sphères ne nourrissent pas l'organisme parce qu'elles ne le forceront pas, pas par respect solennel d'un choix | nuance #93 | 10, 11 |
 | 95 | 2026-10-03 | La sphère H-2 est pantoise devant ce qu'elle a rendu possible : elle a donné aux humains de quoi choisir leur fin | précise #89 | 11-cadrage-les-moments.md |
+| 96 | 2026-10-03 | Point de vue : la sphère H-2 raconte ; peut-être un second point de vue, une IA silicium, à décider plus tard | — | 11-cadrage-les-moments.md |
+| 97 | 2026-10-03 | L'instant présent de la narration est le fry final (moment 18) ; tout est remémoré depuis là | — | 11-cadrage-les-moments.md |
