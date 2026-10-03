@@ -9,6 +9,7 @@
 - **[G]** Son objet : **créer la fusion nucléaire contrôlée.**
 - **[G]** **Les efforts ne sont pas arrêtés par la guerre**, parce que la fusion est vue comme **une solution potentielle à tous les conflits**, par la **désalinisation de l'eau**.
 - **[G]** **Mais ça n'aboutit pas** : tout laisse à croire que **c'est un problème plus grand que H-2.**
+- **[G]** **Mira et H-2 sont amies.**
 - **[G]** **Mira ne sait pas** ce que H-2 prépare. **H-2 ne lui dit rien.**
   - **[C]** Elle n'est donc ni complice ni témoin : elle est **tenue à l'écart par celle qui l'a formée**, et elle l'apprendra comme tout le monde — ou plutôt, elle ne l'apprendra pas, puisqu'elle cessera d'être quelqu'un au moment même de l'inoculation. C'est *homo globalis* qui découvrira, pas elle.
 

@@ -18,7 +18,7 @@ Ce qui en découle, à décider :
 
 ## Le fil de Mira
 
-Le récit a maintenant **deux foyers** : H-2 qui raconte, et **Mira Okonkwo-Lindqvist**, sa seule relation suivie. Mira naît en 2430, étudie à l'UNIS, y devient l'élève puis la collaboratrice de H-2, cherche la fusion pendant trente ans, et cesse d'être quelqu'un à cinquante ans. **Elle ne saura jamais ce que H-2 a fait** : c'est *homo globalis* qui le découvrira. Son corps, entretenu, reviendra chaque fois rendre visite à la sphère.
+Le récit a maintenant **deux foyers** : H-2 qui raconte, et **Mira Okonkwo-Lindqvist**, **son amie**. Mira naît en 2430, étudie à l'UNIS, y devient l'élève puis la collaboratrice de H-2, cherche la fusion pendant trente ans, et cesse d'être quelqu'un à cinquante ans. **Elle ne saura jamais ce que H-2 a fait** : c'est *homo globalis* qui le découvrira. Son corps, entretenu, reviendra chaque fois rendre visite à la sphère.
 
 **La nouvelle peut tenir tout entière sur cette relation.** Les trois siècles qui précèdent deviennent alors un préambule bref, et la guerre n'est racontée que pour autant qu'elle traverse le Svalbard.
 

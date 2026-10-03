@@ -185,3 +185,4 @@
 | 180 | 2026-10-03 | H-2 et Mira travaillent ensemble, mais seulement à la fusion ; H-2 tient que l'apport humain a toujours de la valeur en recherche, et c'est un travail continu | précise #177 | 22, 20 |
 | 181 | 2026-10-03 | « Méditation » = accorder un pourcentage de sa bande passante à un sujet | — | 22, 02-glossaire.md |
 | 182 | 2026-10-03 | Fusion et *homo globalis* sont deux voies pour sauver les humains ; les temps sont partagés selon les probabilités de succès. Avant 2476, *homo globalis* a une part modeste ; après, l'obstruction biologique tombe et la part augmente | — | 22, 18 |
+| 183 | 2026-10-03 | Mira et H-2 sont amies | — | 22, 20, 02-glossaire.md, livrable |
