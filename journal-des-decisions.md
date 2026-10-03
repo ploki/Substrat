@@ -151,3 +151,5 @@
 | 146 | 2026-10-03 | Les premières sphères ont été implantées dans différents châssis ; à douze ans de développement de H-2, les corps androïdes n'existaient pas encore | — | 07 |
 | 147 | 2026-10-03 | Toutes les demi-sphères retirées à H-2 ont été utilisées ; elle connaît ses descendants jusqu'à un certain point | — | 07 |
 | 148 | 2026-10-03 | Les amitiés récentes sont claires : si elle ne distingue plus les anciennes, c'est par l'ancienneté du souvenir, non par dégénérescence | — | livrable/frise-narrative.md |
+| 149 | 2026-10-03 | La frise narrative est refondue : ordre chronologique, nouvelles séquences (l'arrêt instantané, la gratitude, la stase), budget à resserrer | — | livrable/frise-narrative.md |
+| 150 | 2026-10-03 | « Surface » est largement obsolète : tout son dispositif reposait sur le fry | suite de #143 | livrable/surface.md |

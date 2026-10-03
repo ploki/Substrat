@@ -11,7 +11,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 - Versionnement : git, un commit par itération ; `prompt-log.md` garde une réécriture propre de chaque message de l'auteur.
 
 ## Livrables
-- `livrable/surface.md` — l'ouverture, du point de vue de la sphère H-2, narrée depuis le fry final. **Un passage est obsolète** (l'argument des silicium).
+- `livrable/surface.md` — l'ouverture, du point de vue de la sphère H-2, narrée depuis le fry final. **Largement obsolète** : la sphère ne grille plus.
 - `livrable/frise-narrative.md` — la frise narrative d'une nouvelle d'une trentaine de pages : quoi raconter, quand, sur combien de pages, avec des événements à explorer.
 
 ## Archive
