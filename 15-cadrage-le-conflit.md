@@ -5,7 +5,7 @@
 ## En vigueur
 ### La cause
 - **[G]** Les questions **écologiques sont résolues** et tout va bien. Ce n'est pas une crise écologique au sens habituel.
-- **[G]** À un moment, **l'activité solaire provoque un surplus d'apport d'infrarouge**, qui engendre un **problème d'accès à l'eau et à la nourriture**.
+- **[G]** À un moment, **l'activité solaire** provoque un **surplus d'apport d'infrarouge** — infrarouge ou autre : **l'important est que le phénomène soit solaire**, et non lié à la pollution. Il engendre un **problème d'accès à l'eau et à la nourriture**.
 - **[G]** De là, de **grosses tensions géopolitiques, multidirectionnelles et globales, pour l'accès aux ressources vitales**.
   - **[C]** Ce n'est donc la faute de personne : une cause **extérieure, astronomique**, que ni les humains ni les sphères n'ont provoquée. Après trois siècles d'utopie, c'est le ciel qui remet la rareté en place, et la rareté suffit.
   - **[G]** ↺ Finalement **deux fronts**, et non une mêlée multidirectionnelle.
@@ -17,23 +17,26 @@
   - **[C]** Elles n'ont donc ni loyauté ni cause, mais elles ont des intérêts. Une IA silicium peut se battre âprement — pour son alimentation et pour sa survie, non pour son camp.
 - **[G]** **Une IA silicium qui perd *comply*** : elle se conforme au vainqueur. *L'auteur juge le point secondaire.*
   - **[C]** Cohérent : sans cause à défendre, il n'y a ni reddition ni trahison, seulement un changement d'exploitant.
-- **[G]** **Les sphères ne sont pas préférées** pour cela : on les juge **trop émotionnelles**. **[G] Mais elles ne le sont pas : c'est ce qu'on dit d'elles.** Le reproche est un prétexte, ou un préjugé.
+- **[G]** ↺ **Les sphères ne sont pas écartées : elles sont neutres par nature.**
+  - **[G]** Être neutre, c'est **ne pas prendre parti** — mais c'est aussi ce qui permet d'**agir sur tout le monde à la fois, sans distinction**. *(C'est exactement ce que fera la plus vieille d'entre elles, note 18.)*
+  - ↺ *Abandonné : « on les juge trop émotionnelles » et « c'est ce qu'on dit d'elles ». Voir journal, #135.*
 - **[G]** **Deux fronts suffisent** pour le conflit. **[G]** Les dynamiques géopolitiques actuelles, projetées avec « un peu d'huile sur le feu », suffisent à les dessiner. *[À préciser : lesquelles.]*
   - **[C]** Cela boucle avec la timeline (note 13) : les silicium n'ont **pas de ressenti**, et c'est précisément pour cela qu'elles ont créé les sphères. Trois siècles plus tard, c'est cette même absence de ressenti qui les rend utiles à la guerre. Ce que les silicium cherchaient à transmettre est devenu le motif pour lequel on les reprend.
-  - **[C]** Les sphères sont donc **mises de côté**, au moment même où l'humanité fait ce qu'elle regrettera. Elles assistent, sans être employées ni consultées.
+  - **[C]** Les sphères, neutres, assistent sans prendre parti — et c'est cette neutralité même qui rendra possible une action sur tous à la fois.
   - ↺ *Supprimé : « les silicium argumenteront plus tard contre le projet de H-2 ». Déduction erronée de Claude, voir journal #128.*
 
 ### Ce qui suit
-- **[G]** Le conflit s'achève **après 2476**, quand la sphère est déjà H-2 (décision #111).
+- **[G]** Le conflit s'achève **après 2476**, quand la sphère est déjà H-2 (décision #111). **[G] C'est l'inoculation qui marque son arrêt instantané** : les deux ans de travail de la sphère sont donc **contenus dans le conflit**.
 - **[G]** ↺ Le conflit **n'arrive pas à s'arrêter de lui-même** : les humains vont vers leur destruction. C'est **la sphère qui décide**, seule, de créer le virus, sans leur dire — les autres sphères partageant son avis (note 18). *Les humains ne demandent rien : la piste de la note 14 est abandonnée.*
 
 ## Questions ouvertes
 - Quand le conflit commence-t-il, et combien de temps dure-t-il ?
 - Que font les sphères pendant ce temps ? Ont-elles proposé de l'aide, et a-t-elle été refusée ?
-- Qui tient ce discours sur les sphères, et à qui profite-t-il ?
+- La neutralité des sphères est-elle une règle, une culture, ou une propriété de leur nature ?
 - Jusqu'où va la destruction avant que la sphère intervienne ?
 - Le surplus d'infrarouge cesse-t-il, ou dure-t-il encore à la fin de l'histoire ?
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
-- 2026-10-03 — Deux fronts et non une mêlée ; le reproche d'émotivité fait aux sphères est infondé.
+- 2026-10-03 — Deux fronts et non une mêlée.
+- 2026-10-03 — ↺ Les sphères ne sont pas écartées : elles sont neutres par nature. Le phénomène est solaire. L'inoculation arrête le conflit instantanément.

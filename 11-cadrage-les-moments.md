@@ -4,7 +4,7 @@
 
 ## Le point de vue
 - **[G]** **La sphère H-2 raconte.** Et **peut-être aussi une IA silicium**, en second point de vue — à décider plus tard.
-- **[G]** **L'instant présent de la narration est le fry final** (moment 18). Tout le reste est remémoré depuis là.
+- **[G]** L'instant présent de la narration était le fry final. **↺ Or la sphère ne grille plus : elle se met en pause (note 19). Le présent de narration est donc à redéfinir.** Piste **[C]** : le moment juste avant l'entrée en stase, qui garde l'idée d'un dernier instant lucide — mais sans la perte de mémoire par le haut, qui portait toute la forme.
 - **[C]** Ce que cela permet, et qui vient du corpus : la mémoire d'une sphère s'inscrit sur la surface qui croît, et l'ancien migre vers le cold storage, comprimé avec perte (note 08). Les siècles anciens sont donc **flous parce qu'elle les a perdus**, et non parce que l'auteur les saute. Le grand hors-champ (moment 10) est littéralement ce qu'elle a oublié en grandissant.
 - **[C]** Et le laser détruit la surface, donc **les couches les plus récentes d'abord** : en brûlant, elle perd ses raisons avant ses souvenirs d'enfance. Sa stupeur du moment 18 peut être littérale — elle ne retrouve plus pourquoi elle a fait ce qu'elle a fait.
 - **[C, réserves]** Avec elle seule, on ne voit jamais les humains de l'intérieur ; elle n'est pas une narratrice fiable, puisqu'elle a conçu l'agent ; et ce qui précède sa naissance devra passer par ce qu'on lui a raconté. Un second point de vue silicium lèverait les deux premières.
@@ -30,9 +30,9 @@
 | 15 | L'envie de disséminer apparaît, imprévue | — | **scénique** |
 | 16 | La construction de l'émetteur | — | résumé |
 | 17 | **L'interrupteur est poussé.** | un geste | **scénique** |
-| 18 | **[G] La sphère H-2 reste pantoise, à se demander ce qu'elle a fait aux humains — pendant qu'elle grille et qu'ils meurent de faim. Fin.** | — | **scénique** |
+| 18 | ↺ **[G] La sphère ne grille pas : elle se met en pause**, dans un abri temporel, curieuse des 200 millions d'années d'évolution à venir. La tête familière perd alors son statut. **Fin.** (note 19) | — | **scénique** |
 
-**[G] Ce dont elle est pantoise :** non pas de les avoir tués, mais de **leur avoir donné de quoi choisir leur fin**. Elle voulait les hisser au niveau des autres intelligences ; elle leur a donné la hauteur de vue qui leur a fait refuser de vivre à ce prix.
+**[G] Ce dont elle est pantoise :** non pas de les avoir tués, mais de **leur avoir donné de quoi choisir leur fin**. Elle voulait les sauver de leur guerre ; elle leur a donné la hauteur de vue qui leur a fait refuser de vivre à ce prix. **Et ils l'en remercient** (note 19).
 
 ## Remarques [C]
 

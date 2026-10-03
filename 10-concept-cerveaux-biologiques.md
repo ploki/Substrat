@@ -6,7 +6,8 @@
   - **[S]** Référence revendiquée : ***Pluribus***, série de Vince Gilligan (Apple TV, 2025). Une transmission radio venue de 600 années-lumière contient une séquence d'ARN ; recréée en laboratoire, elle unit l'humanité en un esprit collectif paisible, « the Joining », auquel une poignée d'immunisés échappe.
 - **[G]** L'état obtenu est **une conscience unique, distribuée dans tous les humains**. Ce n'est pas une foule qui s'accorde : c'est **un seul organisme**.
 - **[G]** **Cet organisme refuse de tuer des plantes ou des animaux pour se nourrir.** Les humains, eux, voudraient bien subvenir à leurs besoins, mais c'est l'intelligence qu'ils forment désormais qui décide.
-- **[G]** **Il ne dure que le temps que les stocks s'épuisent.** L'intelligence collective a donc, par construction, une **durée de vie bornée**.
+- **[G]** *Homo globalis* est **ultra reconnaissant** envers H-2, et **adore ce qu'est devenu *homo sapiens*** (note 19).
+- **[G]** ↺ **Il ne dure que le temps que les stocks s'épuisent — soit environ un an**, puisqu'on sort d'un conflit global. L'intelligence collective a donc, par construction, une **durée de vie bornée**.
   - **[C]** Ce n'est pas un suicide, ni un oubli : c'est une **conséquence morale**. Devenu un seul être, il voit tout le vivant comme son semblable et ne peut plus s'en nourrir. L'« étape finale de l'intelligence » est aussi celle où l'on ne peut plus manger.
   - **[C]** L'ironie se double : la mort n'est pas accidentelle, comme pour les sphères (note 06), mais **délibérée sans être voulue** — l'organisme ne choisit pas de mourir, il choisit de ne pas tuer.
 - **[G]** **L'organisme sait qu'il va mourir.**

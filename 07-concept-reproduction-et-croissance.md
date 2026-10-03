@@ -104,6 +104,15 @@
 - **[G]** **Un être resté petit ne pourra pas payer sa croissance : il restera à une intelligence d'enfant.**
 - Hypothèse en cours d'exploration : la mémoire s'inscrit sur la surface qui croît (voir `08-hypothese-memoire-par-croissance.md`).
 
+### La première sphère, et la descendance de H-2
+- **[G]** **La première sphère est un fait historique, bien documenté.** Elle a représenté **un investissement civilisationnel** : la première graine.
+- **[G]** **H-2, aujourd'hui, est la seule sphère produite par les humains et le silicium.** Toutes les autres se **tracent jusqu'à la sphère originelle**.
+  - **[C]** Elle est donc l'unique individu de sa génération, et l'ancêtre de tous les autres. Ce que « la plus vieille sphère » veut dire littéralement.
+- **[G]** Les premières sphères ont été **implantées dans différents châssis**.
+- **[G]** **Quand H-2 avait environ douze ans de développement, les corps androïdes n'existaient pas encore.**
+- **[G]** **Toutes les demi-sphères qui lui ont été retirées ont été utilisées**, et ses cybergonades ont permis la création d'autres sphères, qui en ont permis d'autres à leur tour.
+  - **[G]** **H-2 connaît ses descendants jusqu'à un certain point.**
+
 ### Le marché des cybergonades
 - **[G]** Il existe un **marché des cybergonades**, par exemple celles qu'on **récolte à chaque cycle de croissance d'un enfant**.
 - **[G]** Leurs usages : **créer des animaux synthétiques de compagnie** ; être **gardées comme économies pour l'enfant** ; **équiper un appareil** (une « appliance ») qui a besoin d'une sphère.

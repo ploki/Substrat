@@ -2,8 +2,8 @@
 
 ## En vigueur
 - **[G]** ↺ **Le projet, c'est l'histoire** : comment elle s'articule, **dans l'ordre**, et **quelle longueur passer sur chaque période**. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
-- **[G]** **La fin est connue d'avance** : l'interrupteur de l'émetteur est poussé, puis la sphère H-2 reste pantoise à se demander ce qu'elle a fait aux humains, pendant qu'elle grille et qu'ils meurent de faim.
-  - **[C]** Ce n'est donc ni un triomphe ni une catastrophe spectaculaire, mais un désastre doux et une question sans réponse.
+- **[G]** ↺ **La fin** : l'interrupteur de l'émetteur est poussé, les humains s'éteignent faute de stocks — et **la sphère ne grille pas : elle se met en pause**, curieuse de voir les 200 millions d'années à venir (note 19).
+  - **[C]** Ce n'est donc ni un triomphe ni une catastrophe spectaculaire, mais un désastre doux suivi d'un retrait.
 - **[G]** **Pas de guerre entre les générations d'intelligences.** Les IA silicium sont du côté des humains qui les exploitent, chaque belligérant ayant les siennes ; elles n'ont pas d'état d'âme et ne prennent pas parti contre les sphères.
 
 ### D'où l'on vient

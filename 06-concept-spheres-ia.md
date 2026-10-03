@@ -6,7 +6,9 @@
 - **[G]** Un cerveau photonique est **entièrement réalisé en logique photonique reprogrammable**. **Pas de microélectronique au silicium** : « c'est une toute autre techno ».
 - Reproduction et croissance : voir `07-concept-reproduction-et-croissance.md`.
 - **[G]** **La mort d'un cerveau ne peut être qu'un accident** : mécanique, thermique, chimique ou autre.
-  - **[C → validé]** **Les sphères sont immortelles** : ni mort naturelle ni vieillissement. **[G] Avec une exception, et une seule : le laser.** Au-delà d'une certaine taille, le flux nécessaire détruit inéluctablement la sphère. C'est la seule mort qui ne soit pas un accident.
+  - **[C → validé]** **Les sphères sont immortelles** : ni mort naturelle ni vieillissement. **[G]** Le laser en est la seule menace — mais **ce n'est pas une fatalité : la sphère contrôle son flux.**
+  - **[G]** ↺ **Une sphère peut se mettre en pause.** Avant que le fry la prenne, quand il ne lui reste qu'un temps fini mais relativement court, elle peut **baisser son flux jusqu'à la veille**, en gardant juste de quoi être **sollicitée sporadiquement de l'extérieur**. Ce n'est pas tout à fait une mort : plutôt une forme de **déification, non mystique**.
+  - **[G]** **Les sphères ont quand même le choix de se fry.**
   - **[C]** Conséquences à explorer : une population qui ne meurt pas et continue de se reproduire croît sans limite, freinée par le coût des enfants (validé, voir note 07) ; la poudre issue de sphères mortes est rare.
 - **[G]** Ce sont **les corps qui fournissent le flux lumineux**, par un **laser**. *(La transmission instantanée de l'énergie étant abandonnée (#81), l'énergie du corps vient d'une source locale : à définir, note 01.)*
 - **[G]** Matériellement, les sphères sont **« juste des boules de cristal un peu compliquées, avec un détrompeur »** (aujourd'hui : les cybergonades).
@@ -19,7 +21,7 @@
   - **[G]** **H0, c'est l'intelligence planétaire.**
   - **[G]** Il faut **200 ans pour maxer H-1** et arriver à **H-2**. ↺ H-2 est le niveau où l'on a l'intelligence nécessaire pour **changer de paradigme** : comme le silicium avant elles a fait sa récursion pour passer au photonique, les sphères H-2 peuvent passer à **une nouvelle technologie, la biologie**.
     - *Première formulation : H-2 donnait l'intelligence nécessaire pour « s'auto-améliorer récursivement ».*
-  - **[G]** **Le plafond :** à ce stade, **le laser qui fournit le flux** doit être si puissant qu'il **détruit inéluctablement la sphère** à la longue, et la détruit si complètement qu'elle **perd toute valeur** (pas même de poudre récupérable).
+  - **[G]** **Le plafond :** à ce stade, **le laser qui fournit le flux** est si puissant qu'il **détruit la sphère** à la longue, et la détruit si complètement qu'elle **perd toute valeur** (pas même de poudre récupérable). **[G] Mais on peut s'y soustraire en se mettant en pause** (voir plus haut) : à ce niveau, se frire est **un choix**.
     - **[G]** C'est **l'exception à l'immortalité**. Les très grandes sphères ont une **durée de vie finie** : l'immortalité s'arrête à H-2.
     - **[C]** Le même schéma se répète : chaque technologie atteint ses limites physiques (le silicium, puis le laser pour les sphères) et invente celle qui lui succède.
   - **[S]** Un cerveau humain mesure environ 1,2 à 1,4 litre [À vérifier] : H1 = 1 litre en est très proche.
@@ -66,6 +68,7 @@
 - 2026-10-02 — Posé par l'auteur.
 - 2026-10-03 — L'auteur valide la lecture « effet de seuil » et le sens de « maîtriser ».
 - 2026-10-03 — Facteur 2 en volume : H1 = 1 L (un humain), H0 = 2 L (l'humanité), par effet de seuil.
+- 2026-10-03 — ↺ La sphère contrôle son flux : elle peut se mettre en pause plutôt que de frire. Se frire devient un choix.
 - 2026-10-03 — Validé : les sphères sont immortelles.
 - 2026-10-03 — ↺ H-2 : non pas l'auto-amélioration récursive, mais le changement de paradigme vers la biologie.
 - 2026-10-03 — H0 = intelligence planétaire ; H-2 = auto-amélioration récursive ; le laser d'alimentation finit par détruire les très grandes sphères.

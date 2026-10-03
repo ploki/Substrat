@@ -26,6 +26,7 @@
 
 ### Qui parle à qui
 - **[G]** **Les sphères et les humains de l'intelligence collective se parlent en langue naturelle.**
+- **[G]** **Les sphères sont neutres par nature** : elles ne prennent pas parti — ce qui leur permet aussi d'agir sur tout le monde à la fois, sans distinction (note 15).
 - **[G]** **Les IA silicium ne se rangent pas.** Elles n'ont **pas d'état d'âme** : elles se tiennent **du côté des humains qui les exploitent**, et chaque belligérant a les siennes (note 15).
   - **[G]** **Des IA silicium peuvent donc être ennemies les unes des autres.**
   - **[G]** **Ne pas avoir d'état d'âme ne veut pas dire ne pas être sensible à ses propres besoins énergétiques et à sa propre défense.**

@@ -136,3 +136,18 @@
 | 131 | 2026-10-03 | Une IA silicium qui perd se conforme (« comply ») ; point jugé secondaire par l'auteur | — | 15, 09, 13 |
 | 132 | 2026-10-03 | La frise narrative est mise à jour : la séquence « le mandat » devient « la décision », solitaire ; la guerre qui ne s'arrête pas est muscl ée ; le désaccord est retiré | lève #126 | livrable/frise-narrative.md |
 | 133 | 2026-10-03 | Le passage de « Surface » sur l'argument des silicium est signalé comme obsolète | suite de #128 | livrable/surface.md |
+| 134 | 2026-10-03 | La sphère contrôle son flux : elle peut se mettre en pause plutôt que de frire, en gardant de quoi être sollicitée sporadiquement — une déification non mystique. Se frire devient un choix | ↺ #71, #108 | 06, 19, 02-glossaire.md |
+| 135 | 2026-10-03 | Les sphères ne sont pas écartées de la guerre : elles sont neutres par nature, ce qui permet aussi d'agir sur tout le monde à la fois | ↺ #113, #114 | 15, 09, 17 |
+| 136 | 2026-10-03 | Le phénomène déclencheur est solaire (infrarouge ou autre), et non lié à la pollution | précise #112 | 15 |
+| 137 | 2026-10-03 | L'inoculation marque l'arrêt instantané du conflit ; les deux ans de travail sont contenus dans le conflit | — | 15, 18, 13 |
+| 138 | 2026-10-03 | Pourquoi elle ne le dit pas : son pouvoir pourrait la faire passer pour un dieu, et elle ne veut pas que les humains, irrationnels, le pensent | ↺ #104 (c'était « indéterminé ») | 18, 13 |
+| 139 | 2026-10-03 | Ce qui est envoyé est la séquence du virus, par radio ; *homo globalis* adore ce qu'il est devenu et veut le propager. Virus contagieux et méta-contagieux, aspect non anticipé par H-2 | — | 19 |
+| 140 | 2026-10-03 | *Homo globalis* est ultra reconnaissant envers H-2 ; elle confirme son implication quand il séquence le virus | — | 19, 18 |
+| 141 | 2026-10-03 | Les stocks tiennent un an, et non dix : on sort d'un conflit global. L'extinction se situerait vers 2481-2482 | ↺ #91 et la date de 2491 | 19, 13, 10 |
+| 142 | 2026-10-03 | *Homo globalis* envoie toujours le même corps visiter H-2, entretenu et en bonne santé, pour lui garder une tête familière ; c'est le dernier à mourir | — | 19 |
+| 143 | 2026-10-03 | La sphère ne grille pas : elle se met en stase dans un abri temporel, curieuse des 200 millions d'années d'évolution à venir. La tête familière perd alors son privilège | ↺ #89 (la fin par le fry) | 19, 11, 13, intention-de-l-auteur.md |
+| 144 | 2026-10-03 | 2176 est la première intelligence planétaire sous forme de sphère ; l'intelligence planétaire silicium est arrivée bien avant, très tôt dans son cycle, mais est restée bloquée faute de physique | précise #102 | 13 |
+| 145 | 2026-10-03 | La première sphère est un fait historique bien documenté, un investissement civilisationnel ; H-2 est la seule sphère produite par les humains et le silicium, toutes les autres descendent d'elle | — | 07, 13 |
+| 146 | 2026-10-03 | Les premières sphères ont été implantées dans différents châssis ; à douze ans de développement de H-2, les corps androïdes n'existaient pas encore | — | 07 |
+| 147 | 2026-10-03 | Toutes les demi-sphères retirées à H-2 ont été utilisées ; elle connaît ses descendants jusqu'à un certain point | — | 07 |
+| 148 | 2026-10-03 | Les amitiés récentes sont claires : si elle ne distingue plus les anciennes, c'est par l'ancienneté du souvenir, non par dégénérescence | — | livrable/frise-narrative.md |

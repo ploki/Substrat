@@ -1,6 +1,6 @@
 # Projet : une histoire — la lignée des intelligences — index
 
-**Le projet, c'est l'histoire** : son articulation, son ordre, et la longueur à passer sur chaque période. Elle s'achève sur l'interrupteur de l'émetteur, puis sur la sphère H-2 pantoise, grillant devant des humains qui meurent de faim. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
+**Le projet, c'est l'histoire** : son articulation, son ordre, et la longueur à passer sur chaque période. Elle s'achève sur l'interrupteur de l'émetteur, l'extinction des humains, et la mise en pause de la sphère H-2. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
 
 ## Méthode
 Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un journal des décisions, on produit des livrables quand l'auteur juge le corpus suffisant.
@@ -38,6 +38,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 | 17-eclairages.md | vivant, non validé | Les lectures proposées par Claude, gardées pour plus tard — pas des faits du monde |
 | 16-references.md | vivant | Les références à regarder : *Pluribus*, les *skinjobs* |
 | 15-cadrage-le-conflit.md | en cours | Le conflit global : surplus d'infrarouge solaire, accès à l'eau et à la nourriture, tensions globales ; les belligérants ont leurs IA silicium, les sphères écartées car trop émotionnelles |
+| 19-la-fin.md | en vigueur | L'envoi de la séquence, la gratitude d'*homo globalis*, l'extinction en un an, et la mise en pause de la sphère |
 | 18-la-decision-de-la-sphere.md | en vigueur | La sphère décide seule de créer le virus, voyant que la guerre mène les humains à leur destruction |
 | 14-piste-la-demande-des-humains.md | **abandonnée** | Ce sont les humains qui demandent, après un conflit global ; H-2 exécute librement, sans le dire |
 | 13-cadrage-timeline.md | **en vigueur** | Les ères datées : cloud (2026), émancipation (2040), sphères (2076), utopie (2176), le dernier problème (2476), extinction (2491) |

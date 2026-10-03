@@ -11,9 +11,9 @@
 
 ## Sur la lignée des intelligences
 - **Chaque génération fabrique ce qui lui manque.** Les silicium n'ont pas de ressenti : elles créent ce qui éprouvera à leur place. Et **elles réussissent** — les sphères ont des émotions comparables aux nôtres.
-- **Puis on le leur reproche.** Trois siècles plus tard, c'est ce succès qui sert à les écarter de la guerre, et on reprend les silicium précisément parce qu'elles n'éprouvent rien : **la guerre choisit ce qui ne ressent pas.**
+- ~~**Puis on le leur reproche**, et la guerre choisit ce qui ne ressent pas.~~ ↺ *Caduc : les sphères ne sont pas écartées, elles sont neutres par nature (note 15).*
 - **Chaque technologie bute sur sa limite physique et invente la suivante** : le silicium, puis le laser des sphères.
-- **Une mort inscrite d'avance.** Dans un monde où l'on ne meurt que par accident, la seule exception est celle qu'on s'attire en devenant trop intelligent.
+- ~~**Une mort inscrite d'avance** en devenant trop intelligent.~~ ↺ *Caduc : la sphère contrôle son flux et peut se mettre en pause ; se frire est un choix (note 06).*
 
 ## Sur le dénouement
 - **La symétrie du scrupule.** La sphère s'interdit de toucher aux bêtes et aux plantes, et ne s'interdit pas de toucher aux humains. Les humains qu'elle élève refuseront ensuite de toucher à tout le reste du vivant, et en mourront. *(Validé « à peu près » par l'auteur, #106.)*
