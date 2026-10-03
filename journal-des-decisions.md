@@ -161,3 +161,5 @@
 | 156 | 2026-10-03 | La fusion n'aboutit pas : tout laisse à croire que le problème dépasse H-2 | — | 20, 01 |
 | 157 | 2026-10-03 | Le personnage s'appelle Mira Okonkwo-Lindqvist | — | 20, 02-glossaire.md, 19 |
 | 158 | 2026-10-03 | L'ironie centrale du récit est consignée comme fait : la fusion aurait donné l'eau et évité la guerre ; H-2 ne pouvant résoudre la physique, elle résout les gens | promeut un éclairage [C] | 09, 20, intention-de-l-auteur.md, 17 |
+| 159 | 2026-10-03 | Mira ne sait pas ce que H-2 prépare : H-2 ne lui dit rien | — | 20 |
+| 160 | 2026-10-03 | Il faut situer son lieu de travail dans un endroit moins affecté par le phénomène solaire et peu impliqué dans le conflit | — | 20 |

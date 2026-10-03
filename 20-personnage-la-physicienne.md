@@ -9,6 +9,8 @@
 - **[G]** Son objet : **créer la fusion nucléaire contrôlée.**
 - **[G]** **Les efforts ne sont pas arrêtés par la guerre**, parce que la fusion est vue comme **une solution potentielle à tous les conflits**, par la **désalinisation de l'eau**.
 - **[G]** **Mais ça n'aboutit pas** : tout laisse à croire que **c'est un problème plus grand que H-2.**
+- **[G]** **Mira ne sait pas** ce que H-2 prépare. **H-2 ne lui dit rien.**
+  - **[C]** Elle n'est donc ni complice ni témoin : elle est **tenue à l'écart par celle qui l'a formée**, et elle l'apprendra comme tout le monde — ou plutôt, elle ne l'apprendra pas, puisqu'elle cessera d'être quelqu'un au moment même de l'inoculation. C'est *homo globalis* qui découvrira, pas elle.
 
 ## Sa vie dans la frise
 
@@ -33,8 +35,8 @@
 
 ## Questions ouvertes
 - En quoi consiste exactement le problème « plus grand que H-2 » ? Et H-2 sait-elle qu'il la dépasse, ou l'apprend-elle en échouant ?
-- Sait-elle, avant 2480, ce que H-2 est en train de faire ?
-- De quel côté du conflit travaille-t-elle, puisqu'il y a deux fronts ?
+- **Où travaille-t-elle ?** Il faut un endroit sur Terre **moins affecté** par le phénomène solaire et **pas trop impliqué dans le conflit**. *(Propositions en attente.)*
+- De quel côté du conflit se trouve cet endroit, ou est-il hors des deux ?
 - Comment une sphère neutre peut-elle former une humaine, et depuis quand H-2 enseigne-t-elle ?
 
 ## Historique

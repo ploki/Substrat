@@ -89,3 +89,4 @@
 88. 2026-10-03 — Compte sur Claude pour la cohérence des dates ; l'écart de 30 à 34 pages n'est pas grave, c'est l'ordre de grandeur qui compte. Demande d'archiver « Surface ».
 89. 2026-10-03 — Choisit « avant la stase ». Le personnage : 50 ans en 2480, chercheuse en physique (doctorat, post-doctorat), formée par H-2, qui travaille avec elle depuis ses études à créer la fusion nucléaire contrôlée. Demande plusieurs noms compatibles avec beaucoup de pays. Les efforts ne sont pas arrêtés par la guerre, la fusion étant vue comme une solution potentielle à tous les conflits par la désalinisation de l'eau, mais ça n'aboutit pas : tout laisse à croire que c'est un problème plus grand que H-2.
 90. 2026-10-03 — Retient le nom Mira Okonkwo-Lindqvist et demande de consigner l'ironie centrale.
+91. 2026-10-03 — Mira ne sait pas : H-2 ne lui dit rien. Il faut trouver un endroit sur Terre qui serait moins affecté et pas trop impliqué dans le conflit.
