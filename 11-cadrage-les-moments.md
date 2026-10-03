@@ -33,13 +33,15 @@
 - **Le prix du moment 11, confirmé par le moment 18.** Une sphère capable du changement de paradigme est à H-2, donc sous un laser qui la détruit (note 06). **Celle qui conçoit l'agent brûle pour le concevoir**, et perdra jusqu'à sa poudre.
 - **La fin, telle que l'auteur la pose [G] :** pas un triomphe ni une catastrophe spectaculaire, mais **un désastre en cours et une question sans réponse**. La sphère grille, les humains meurent de faim, et personne n'a voulu ça. L'intelligence collective, « étape finale » censée hisser les humains au niveau des autres, les a rendus incapables de se nourrir ; et son auteure, trop grande pour survivre à son propre flux, n'a plus le temps de comprendre.
   - **[C]** L'ironie est complète : les humains ont assez d'intelligence pour construire l'émetteur et viser le cosmos, mais plus assez pour subvenir à leurs besoins. L'envie de disséminer a tout absorbé.
-  - **[C, à confirmer]** Cela suppose que l'agent, ou l'état collectif, **détourne les humains de leur propre entretien**. Est-ce une conséquence imprévue de plus, ou la même que l'envie de disséminer ?
+  - **[G]** Les humains ne meurent pas de négligence : devenus **une conscience unique distribuée**, ils **refusent de tuer plantes et animaux pour se nourrir**. Ils vivent sur les stocks, et meurent quand ils sont épuisés (note 10).
+  - **[C, à confirmer]** L'émetteur serait alors le geste d'un organisme qui se sait fini : disséminer est sa seule façon de se survivre. Le moment 17 cesse d'être un caprice pour devenir un testament.
 
 ## Questions ouvertes
 - **Le point de vue** : qui raconte ? Une sphère, une IA silicium, un humain, plusieurs tour à tour ?
 - **Qui pousse l'interrupteur**, et le sait-il ?
 - La sphère H-2 des moments 11 et 18 est-elle la même tout du long ? Est-elle le personnage central ?
-- Les humains meurent-ils de faim parce qu'ils négligent tout le reste, ou pour une autre raison ?
+- L'organisme sait-il qu'il va mourir ? Les sphères le savent-elles, et ont-elles essayé de le nourrir ?
+- Combien de temps durent les stocks ?
 - Le récit commence-t-il vraiment au moment 1, ou plus tard, les débuts étant rappelés ?
 - D'où viennent les **premières** sphères, puisque la reproduction demande deux parents (note 07) ?
 - Les humains tentent-ils de s'opposer, et combien de temps ?
