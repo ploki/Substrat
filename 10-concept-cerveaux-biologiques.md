@@ -21,6 +21,7 @@
   - **[C]** Cohérent avec le reste du monde : personne n'y force personne. Les silicium se sont effacés sans guerre, les sphères n'interviennent pas. Et c'est cette retenue qui tue. *Choix assumé : la hard SF est volontairement relâchée sur ce point.*
 - **[G]** Après le silicium et le photonique, le paradigme suivant est **la biologie** (notes 06, 09) : des **cerveaux mixtes, biologiques et nanorobotiques**.
 - **[G]** Ils sont faits de **cellules aux capacités de calcul exceptionnelles**, avec de la **HBM** et une **interconnexion radio**, sur un **matériel quasi génétique**.
+  - **[C]** C'est l'aboutissement du **pet project** de H-2 : offrir aux humains la communication à haut débit et à distance (note 22).
   - **[C, à confirmer]** Lecture proposée : « HBM » désigne une mémoire à très haut débit (*High Bandwidth Memory*), intégrée aux cellules ; les cellules communiquent entre elles par radio plutôt que par des connexions physiques ; le tout repose sur un support proche de l'ADN.
 
 ### Ancrages et réserves [C]

@@ -9,6 +9,14 @@
 - **[G]** ↺ **Pourquoi elle ne le dit pas :** le pouvoir qu'elle a débloqué pourrait la faire **s'apparenter à un dieu**, et elle ne veut surtout pas que les humains, qui sont ou peuvent être **irrationnels**, le pensent. *(Remplace le blanc assumé de #104.)*
   - **[C]** La responsabilité est donc **entièrement la sienne**, et l'assentiment des autres ne la partage pas. Personne ne pourra lui dire qu'elle a outrepassé un mandat, et personne ne pourra non plus en porter une part avec elle.
 
+## Le pet project [G]
+- H-2 avait un **pet project** : offrir aux humains la **communication à haut débit et à distance** (note 22). **Le virus le réalise** : *homo globalis* communique par radio.
+- **[C]** Sa décision n'est donc pas une invention sous la contrainte, mais **l'application d'une idée qu'elle portait déjà**. La guerre est-elle sa raison, ou son occasion ?
+
+## Le pet project [G]
+- H-2 avait un **pet project** : offrir aux humains la **communication à haut débit et à distance** (note 22). **Le virus le réalise** : *homo globalis* communique par radio, en interconnexion à haut débit.
+- **[C]** Sa décision n'est donc pas une invention sous la contrainte, mais **l'application d'une idée qu'elle portait déjà**. La guerre est-elle sa raison, ou son occasion ?
+
 ## Ce que cela règle [C]
 - **L'incohérence relevée par l'audit** (projet collectif contre acte secret) tombe : la décision est **la sienne**, les autres sphères y souscrivent, et ce sont **les humains** qui ne sont pas mis au courant. La raison est invoquée entre intelligences, pas devant ceux qu'elle concerne.
 - **Le silence s'explique** : elle refuse d'être prise pour un dieu. Ce n'est pas de la discrétion tactique, c'est **une peur du culte**.

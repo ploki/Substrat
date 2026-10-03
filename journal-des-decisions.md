@@ -177,3 +177,5 @@
 | 172 | 2026-10-03 | En 2126, H-2 achève son H1 et change simplement de corps : palier personnel, rien de plus | — | 13 |
 | 173 | 2026-10-03 | La date de la direction de l'UNIS est rouverte : 2126 ou 2176, à trancher | ↺ #165 | 21, 13, 02-glossaire.md, 20 |
 | 174 | 2026-10-03 | H-2 est professeure à l'UNIS depuis 2126 et en prend la tête en 2176, l'année où elle devient la première intelligence planétaire | répond à #173 | 21, 13, 02-glossaire.md, 20, 00-index.md |
+| 175 | 2026-10-03 | H-2 avait un pet project : réfléchir à comment offrir aux humains la communication à haut débit et à distance — ce que le virus réalise | — | 22, 18, 10 |
+| 176 | 2026-10-03 | Création d'une note de personnage pour H-2, qui n'en avait pas | — | 22 |

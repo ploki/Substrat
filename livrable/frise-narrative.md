@@ -2,6 +2,8 @@
 
 *Deuxième livrable. Il propose **quoi raconter, quand, et sur combien de pages**, en accord avec la frise chronologique (note 13). Point de vue : la sphère H-2. Les événements proposés sont des **pistes à explorer** : plusieurs sont offerts par point de la frise, pour qu'on choisisse.*
 
+*Quatrième version, 2026-10-03. Nouveauté : **le pet project de H-2** — offrir aux humains la communication à haut débit et à distance —, qui court sous toute la nouvelle et que le virus réalise.*
+
 *Troisième version, 2026-10-03. Nouveautés : **un personnage**, Mira Okonkwo-Lindqvist, physicienne née en 2430 ; **un lieu**, le Svalbard et l'UNIS, que H-2 dirige depuis 2126 ; **l'ironie centrale** promue au rang de fait ; le cadre de narration fixé à **avant la stase**.*
 
 ---
@@ -61,6 +63,7 @@ Trois pages pour trois cents ans. Il ne s'y passe presque rien, et c'est ce qu'i
 - **c.** **L'ennui de l'achevé.** Tous les indicateurs au maximum ; les mathématiques avancent et n'apportent plus rien.
 - **d.** **Les amitiés humaines**, qui durent chacune une vie. Les récentes sont nettes ; si elle ne distingue plus les anciennes, c'est **l'âge du souvenir**, pas une défaillance.
 - **e.** **Sa propre croissance**, qui occupe tout ce temps : elle grandit vers une capacité dont personne n'a encore besoin.
+- **f.** **Le pet project.** Depuis des siècles, elle retourne un problème sans urgence : **comment donner aux humains la communication à haut débit et à distance**. Elle parle avec eux à la bouche, un mot après l'autre, alors qu'elle pourrait tout transmettre d'un bloc. C'est le fil qui, sans qu'on le sache, mène à la fin.
 
 ### 2bis. Mira — 2450-2470
 L'arrivée du second foyer.
@@ -68,6 +71,7 @@ L'arrivée du second foyer.
 - **b.** **Pourquoi celle-là.** Ce que H-2 voit en Mira qu'elle n'a pas vu chez les autres. *(À trouver — c'est ce qui justifie toute la nouvelle.)*
 - **c.** **La fusion.** Doctorat, post-doctorat : elles choisissent le problème ensemble. Il est énorme, et il est le bon : l'eau, l'énergie, tout en découle.
 - **d.** **Les aurores.** Le ciel au-dessus du Svalbard, illuminé par le Soleil même qui, plus bas, assèche les terres.
+- **e.** **Trente ans à la vitesse de la parole.** Leur collaboration se fait en mots, lentement. Scène possible : H-2 évoque son pet project devant Mira, sans y attacher d'importance — et le lecteur, lui, s'en souviendra.
 
 ### 3. La guerre qui ne s'arrête pas — ~2470-2480
 La cause de tout, vue depuis un archipel qu'elle n'atteint pas.
@@ -84,6 +88,7 @@ Une délibération solitaire, menée pendant que la guerre continue.
 - **a.** **Le pouvoir, et l'interdit qu'elle se donne.** Elle vient de débloquer de quoi concevoir des êtres depuis une séquence et simuler l'évolution. Elle décide aussitôt de **ne pas s'en servir sur Terre**, pour l'équilibre de la faune. C'est la règle qu'elle enfreindra.
 - **b.** **Le basculement.** Le jour, ou le fait précis, où elle se dit que la guerre n'ira pas en s'arrêtant.
 - **c.** **Le raisonnement.** Elle s'interdit de toucher aux bêtes, et elle va toucher aux humains. Comment elle se le formule.
+- **c'.** **Le pet project revient.** Elle a la solution depuis toujours : donner aux humains la communication à haut débit. Il ne lui manquait qu'un motif de l'appliquer. **La guerre est-elle sa raison, ou son occasion ?** La scène peut laisser la question ouverte — elle-même ne tranchera pas.
 - **d.** **La neutralité retournée.** Ne pas prendre parti, c'est aussi pouvoir agir sur tous à la fois, sans distinction. C'est ce qui rend son geste possible — et c'est peut-être ce qui le lui suggère.
 - **e.** **Pourquoi elle se tait.** Son pouvoir pourrait la faire passer pour un dieu. Elle ne veut surtout pas que des êtres irrationnels le pensent. Scène possible : elle imagine ce qu'ils feraient d'elle.
 - **e'.** **Mira ne sait rien.** Elle travaille dans le bâtiment d'à côté. H-2 ne lui dit rien, et c'est peut-être la seule décision du récit qu'on ne lui pardonnera pas.
@@ -138,5 +143,6 @@ Une délibération solitaire, menée pendant que la guerre continue.
 ## Questions que l'écriture tranchera
 - **À qui H-2 parle-t-elle**, puisqu'elle raconte avant la stase ?
 - **Pourquoi Mira ?** Ce que H-2 a vu en elle, et qui justifie toute la nouvelle.
+- **Le pet project est-il connu de Mira ?** Et H-2 se ment-elle à elle-même sur ses motifs ?
 - **Dit-elle quelque chose** avant l'émetteur ?
 - **Qui, un jour, pourrait la réveiller** ?

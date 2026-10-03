@@ -34,6 +34,7 @@
 - **[G]** **La fusion nucléaire contrôlée n'est pas acquise** dans ce monde, malgré les sphères et les intelligences planétaires. Voir note 01.
 
 ## Questions ouvertes
+- Mira sait-elle que H-2 réfléchit à la communication à haut débit (note 22) ?
 - En quoi consiste exactement le problème « plus grand que H-2 » ? Et H-2 sait-elle qu'il la dépasse, ou l'apprend-elle en échouant ?
 - De quel côté du conflit se trouve le Svalbard, ou est-il hors des deux ? *(Voir note 21.)*
 - Comment une sphère neutre peut-elle former une humaine, et depuis quand H-2 enseigne-t-elle ?
