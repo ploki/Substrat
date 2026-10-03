@@ -37,6 +37,20 @@
 - **Cerveau bio-nano** [C, terme provisoire] : cerveau mixte biologique et nanorobotique, fait de cellules calculantes, avec HBM et interconnexion radio, sur matériel quasi génétique ; le troisième paradigme. Voir note 10.
 - **HBM** [G] : mémoire à très haut débit (*High Bandwidth Memory*) des cerveaux biologiques. *Sens à confirmer.*
 
+## Les quatre formes [G]
+Qui habite quel corps. Le cerveau détermine le genre d'être, le corps détermine le mot.
+
+| | Corps synthétique / polymère | Corps mécanique |
+|---|---|---|
+| **Sphère** | **android** (avec slot adaptateur) | *à nommer* |
+| **Silicium** | **cyborg** | **robot** |
+
+- **Android** [G] : une sphère dans un corps synthétique ou polymère, avec slot adaptateur.
+- **Cyborg** [G] : une IA silicium dans un corps synthétique ou polymère.
+- **Robot** [G] : une IA silicium dans un corps mécanique.
+- *Sphère dans un corps mécanique* : terme à trouver. Propositions de Claude **[C]** : **mécanoïde** (calqué sur android, registre formel) ; **automate** (ce qu'on en dit, teinté de mépris — cohérent avec le discours sur les sphères, note 15) ; **châssis** (vernaculaire d'atelier, « elle est en châssis »).
+  - **[C]** Les trois peuvent coexister : un terme officiel, un terme péjoratif, un terme d'atelier.
+
 ## Termes abandonnés
 *(2026-10-03, avec l'histoire du contact et du Singleton — voir `archive/`)* : Singleton, contacteurs, temps Singleton, surface nulle / null space, warp, interface (fond diffus).
 
