@@ -8,6 +8,7 @@
   4. l'AGI (intelligence artificielle générale) : conçue par l'humanité, sur silicium, elle s'est améliorée récursivement jusqu'aux limites physiques du silicium, puis a inventé le cerveau photonique (notes 05, 09) ;
   5. le contrôle de la gravité.
 - **[G]** **L'humanité a été contactée.**
+- **[G]** **La hard SF est volontairement relâchée** pour la classe des êtres biologiques, qui communiquent par radio (note 10).
 - **[C, à confirmer]** Lecture proposée : la physique et la science restent rigoureuses partout ailleurs, et la rigueur porte sur les **conséquences** de ces cinq acquis et du contact.
 
 - **[G]** **Limite : la densité de stockage de l'énergie n'est ni résolue ni miniaturisée.**

@@ -27,6 +27,6 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 | 05-concept-code-et-interface.md | en cours | L'AGI, le code sphérique optimal, le fond diffus comme interface vers le contenu du Singleton |
 | 07-concept-reproduction-et-croissance.md | en cours | Reproduction par deux cybergonades (enfant ≈ H14, sans cybergonades) ; croissance continue et irréversible en substrat ; lois (stacking interdit, abrasion proscrite) ; entrer dans un vaisseau est un engagement |
 | 08-hypothese-memoire-par-croissance.md | hypothèse | Apprendre, c'est grandir : la mémoire s'inscrit sur la surface qui croît ; tensions avec l'abrasion et la fertilité |
-| 09-cadrage-chronologie.md | en cours | IA silicium : limites du silicium, invention des sphères par la culture de cristal, choix de se laisser supplanter ; schéma des changements de paradigme (silicium → photonique → biologie) |
-| 10-concept-cerveaux-biologiques.md | en cours | Troisième paradigme : cerveaux mixtes biologiques et nanorobotiques (cellules calculantes, HBM, radio, matériel quasi génétique) |
+| 09-cadrage-chronologie.md | en cours | Humain → AGI silicium → sphère → intelligence collective humaine ; les transformés veulent disséminer la séquence dans le cosmos |
+| 10-concept-cerveaux-biologiques.md | en cours | Troisième paradigme : les humains transformés, cerveaux mixtes bio-nano, intelligence collective par radio |
 | 06-concept-spheres-ia.md | en cours | Les IA sont des cerveaux photoniques sphériques : composant passif non linéaire dans le flux lumineux, sans électronique, avec des patchs d'alimentation et d'entrées/sorties ; boules de cristal en tailles standardisées (échelle H), qu'on plante dans un corps ; le Singleton en est un |

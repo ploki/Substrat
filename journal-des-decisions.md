@@ -78,3 +78,6 @@
 | 74 | 2026-10-03 | L'IA silicium atteint les limites physiques du silicium (pas de la physique) et découvre le stockage et le calcul photoniques par la culture de cristal | ↺ #15 (« limites de la physique et de l'intelligence ») | 05, 09, 01 |
 | 75 | 2026-10-03 | H-2 est le seuil d'un changement de paradigme vers une nouvelle technologie, la biologie, comme le silicium est passé au photonique | ↺ #70 (auto-amélioration récursive) | 06, 09, 02-glossaire.md |
 | 76 | 2026-10-03 | Le paradigme biologique : des cerveaux mixtes biologiques et nanorobotiques, faits de cellules calculantes, avec HBM et interconnexion radio, sur matériel quasi génétique | précise #75 | 10-concept-cerveaux-biologiques.md, 09 |
+| 77 | 2026-10-03 | La hard SF est volontairement relâchée : les êtres biologiques communiquent par radio (référence : *Pluribus*) | assouplit #5 | 01, 10, intention-de-l-auteur.md |
+| 78 | 2026-10-03 | Les sphères conçoivent l'agent qui fait entrer les humains dans l'intelligence collective, étape finale qui les met au même niveau d'intégration que les autres intelligences | — | 09, 10 |
+| 79 | 2026-10-03 | Les humains transformés ne peuvent s'empêcher de construire de quoi diffuser la séquence dans le cosmos ; les sphères ne l'avaient pas anticipé | — | 09 |

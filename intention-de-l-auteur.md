@@ -8,7 +8,10 @@
 - **[G]** Le cadre reste la **hard SF** (voir `01-cadrage-premisses.md`).
 - **[C]** L'élan va du monde vers les histoires, pas l'inverse : le monde passe d'abord, les récits en découlent.
 - **[G]** Dans ce monde, **il importe peu que la sphère soit dans telle ou telle représentation**. Le corps est secondaire, et l'auteur ne veut pas en faire un enjeu.
-- **[G]** Refus constatés : **pas de paradoxe temporel** ; **pas d'émotions plaquées** sur les mécanismes des IA ; **pas d'humains pour l'instant** (« j'ai toujours parlé de corps synthétiques »).
+- **[G]** Référence revendiquée : la série ***Pluribus***.
+- **[G]** L'auteur **accepte de relâcher la hard SF** quand une idée le demande.
+- **[G]** Les humains entrent enfin dans le monde, par l'intelligence collective.
+- **[G]** Refus constatés : **pas de paradoxe temporel** ; **pas d'émotions plaquées** sur les mécanismes des IA ; **pas d'humains pour l'instant** (« j'ai toujours parlé de corps synthétiques ») — consigne valable pour la partie sur les sphères.
 - **[C, à confirmer]** Manière de construire : l'auteur part d'un **mécanisme physique**, puis en tire les règles, la loi et l'économie. Ce sont les **coûts** plus que les interdits qui gouvernent le monde (l'abrasion est légale mais déraisonnable). Les engagements y sont irréversibles (entrer dans un vaisseau).
 - **[C, à confirmer]** Un motif unique traverse le monde : **la sphère de lumière**, à toutes les échelles (code optimal, fond diffus, cerveaux, Singleton).
 
