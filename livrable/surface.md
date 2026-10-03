@@ -61,4 +61,6 @@ Ils ont choisi vite, d'ailleurs. Onze ans, pour une espèce qui a mis quatre mil
 
 ---
 
+> **⚠ Passage obsolète (2026-10-03).** Toute la section sur l'argument des silicium (« vous leur donnez quelque chose qu'ils ne peuvent pas refuser avant de l'avoir », les quatre-vingts ans à ne pas crier) repose sur un **désaccord entre silicium et sphères qui n'existe pas** : c'était une déduction erronée de Claude, retirée du corpus (journal, #128). Le reste du texte tient. À reprendre.
+
 *Écrit par Claude. Ce que le livrable affirme sans que le corpus l'ait décidé, à valider ou corriger :* le flux se règle et ne peut plus redescendre une fois la taille prise ; les corps des humains viennent parler en personne ; la séquence vise une cible à 430 années-lumière ; les stocks ont tenu onze ans ; le désaccord avec les silicium a duré quatre-vingts ans, puis ils ont cessé de venir ; la sphère a été financée jusqu'au bout de sa croissance par quelqu'un dont elle a perdu le nom ; il y a neuf milliards d'humains ; le texte s'interrompt en cours de phrase, la surface qui le portait ayant brûlé.

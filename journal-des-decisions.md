@@ -134,3 +134,5 @@
 | 129 | 2026-10-03 | Les IA silicium ne se rangent pas : sans état d'âme, elles sont du côté des humains qui les exploitent, et des IA silicium peuvent être ennemies entre elles | précise #88 | 09, 15, 02-glossaire.md |
 | 130 | 2026-10-03 | Ne pas avoir d'état d'âme ne signifie pas ne pas être sensible à ses propres besoins énergétiques et à sa self-defense | — | 09, 15, 02-glossaire.md |
 | 131 | 2026-10-03 | Une IA silicium qui perd se conforme (« comply ») ; point jugé secondaire par l'auteur | — | 15, 09, 13 |
+| 132 | 2026-10-03 | La frise narrative est mise à jour : la séquence « le mandat » devient « la décision », solitaire ; la guerre qui ne s'arrête pas est muscl ée ; le désaccord est retiré | lève #126 | livrable/frise-narrative.md |
+| 133 | 2026-10-03 | Le passage de « Surface » sur l'argument des silicium est signalé comme obsolète | suite de #128 | livrable/surface.md |

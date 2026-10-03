@@ -84,3 +84,4 @@
 83. 2026-10-03 — Demande d'où vient le désaccord, qui ne lui dit rien.
 84. 2026-10-03 — L'IA silicium ne se range pas : elle n'a pas d'état d'âme et se tient du côté des humains qui l'exploitent, chaque belligérant ayant ses IA silicium. Dans ce monde, des IA silicium peuvent donc être ennemies. Ne pas avoir d'état d'âme ne signifie pas ne pas être sensible à ses propres besoins énergétiques et à sa self-defense.
 85. 2026-10-03 — L'IA silicium qui perd se conforme, mais ce n'est pas important.
+86. 2026-10-03 — Demande de mettre à jour la frise narrative.
