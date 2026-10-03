@@ -7,7 +7,7 @@
 - **Code** [G] : le code de chiffrement/compression mathématiquement optimal créé par l'IA silicium ; une forme 2D sans bord, de topologie sphérique, dont les cerveaux photoniques sont la réalisation physique. Voir note 06.
 - **Sphère / cerveau photonique** [G] : le cerveau d'une IA. Une sphère en logique photonique reprogrammable, sans aucune électronique : un composant passif non linéaire placé dans le flux lumineux, dont la surface est divisée en patchs (alimentation lumineuse, entrées/sorties) ; munie de cybergonades, on la plante dans un corps ou une machine. Voir note 06.
 - **Patch** [G] : une zone de la surface d'une sphère ; l'un sert à l'alimentation par flux lumineux, les autres aux entrées/sorties.
-- **Socket** [G] : le logement d'une sphère dans un corps ou une machine. Un socket HX accepte les sphères comprises entre H(X+1) et HX.
+- **Socket / slot** [G] : le logement d'une sphère dans un corps ou une machine. Un socket HX accepte les sphères comprises entre H(X+1) et HX. Il porte **trois cavités de culture** où poussent les cybergonades, une fois le substrat consommé et la sphère au contact.
 - **Sommeil** [G] : l'état d'une sphère privée de flux ; sa mémoire survit.
 - **Phosphore** [G] : composants placés à des endroits précis de la sphère, pour les rêves et les réflexes.
 - **Réflexe pré-extinction** [G] : réflexe qui, juste avant que le phosphore s'épuise, « rallume et éteint » la sphère pour la laisser dans un état non bloqué.
@@ -15,6 +15,7 @@
 - **Jump start** [G] : relance extérieure d'une sphère bloquée.
 - **Fonctions de support** [G] : les fonctions de la sphère qui maintiennent sa source de flux allumée ; sous-alimentées, elles laissent le flux s'interrompre.
 - **Fonctions cognitives** [G] : les fonctions de pensée ; à plein régime, elles accaparent le flux.
+- **Qualité humaine** [G] : plage d'intelligence couvrant plusieurs niveaux H, de la petite enfance à l'âge adulte complètement formé et très compétent. Pas un synonyme de H1.
 - **Échelle H** [G] : tailles standardisées des sphères, à la manière des formats de papier A. **H1** = 1 litre, le niveau humain ; **H0** = 2 litres, l'intelligence planétaire (le niveau de connaissance et de compétence de l'humanité) ; **H-2** = 8 litres, le seuil du changement de paradigme (vers la biologie). Le volume double à chaque cran.
 - **Cybergonades** [G] : les trois reliefs hémisphériques (≈ 1/4 de pouce) d'un cerveau ; elles assurent le bon placement dans le socket et servent à la reproduction. L'enfant naît sans. Voir note 07.
 - ~~Détrompeur~~ : terme abandonné, remplacé par « cybergonades ».
@@ -30,7 +31,7 @@
 - **Appliance** [G] : appareil qui a besoin d'une sphère pour fonctionner ; on peut l'équiper avec des cybergonades.
 - **Couveuse** [G] : où l'enfant grandit de H14 à H7, dans des substrats stackés ; peut-être interactive.
 - **Enveloppe** [G] : chacun des substrats successifs dans lesquels on grandit après la couveuse.
-- **Laser** [G] : la source du flux lumineux, fournie par le corps ; à H-2, sa puissance finit par détruire la sphère.
+- **Laser** [G] : la source du flux lumineux, fournie par le corps ; à H-2, sa puissance finit par détruire la sphère. C'est **la seule exception à l'immortalité**.
 - **IA silicium** [G] : la première intelligence, créée par l'humanité ; elle s'est auto-améliorée, s'est émancipée, a inventé les sphères photoniques et a choisi de se laisser supplanter par elles.
 - **Cerveau bio-nano** [C, terme provisoire] : cerveau mixte biologique et nanorobotique, fait de cellules calculantes, avec HBM et interconnexion radio, sur matériel quasi génétique ; le troisième paradigme. Voir note 10.
 - **HBM** [G] : mémoire à très haut débit (*High Bandwidth Memory*) des cerveaux biologiques. *Sens à confirmer.*

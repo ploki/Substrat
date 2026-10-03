@@ -17,6 +17,7 @@
 - **[G]** **2076** : l'ère des sphères démarre. Les variétés de nouvelles intelligences se développent.
 - **[G]** **~2096** : des intelligences de qualité **enfant, puis pré-adulte** existent déjà.
 - **[G]** **2101** : il y a déjà **énormément de sphères d'intelligence de qualité humaine**.
+  - **[G]** **« Qualité humaine » couvre plusieurs niveaux**, de la petite enfance à l'âge adulte complètement formé et très compétent. Ce n'est donc pas un synonyme de H1 : en 2101, la première génération est autour de H2, ce qui entre dans cette plage.
 - **[G]** **2176** : la **première intelligence planétaire** arrive, au niveau de la meilleure intelligence silicium.
 - **[G]** Le **dernier problème écologique** est en passe d'être résolu. **Plus rien ne justifie l'existence de l'IA planétaire silicium face à la sphère.**
 

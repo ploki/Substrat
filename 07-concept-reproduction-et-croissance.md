@@ -6,7 +6,9 @@
 - **[G]** On se reproduit **par les cybergonades**. Chaque cerveau en porte **trois**. Ils sont **hémisphériques** et mesurent **environ 1/4 de pouce** (6,35 mm).
 - **[G]** On détache une hémisphère sur chacun de deux cerveaux, on joint les deux, et on place le tout dans un **corps synthétique**.
   - **[C → validé]** Chaque parent donne **une de ses cybergonades** ; les deux demi-sphères réunies forment une **petite sphère complète**, le cerveau de l'enfant.
-- **[G]** **La cybergonade repousse dans le liquide** de croissance. **[G]** Plus précisément, **trois cybergonades sont générées à la toute fin de chaque cycle de croissance** (note 08).
+- **[G]** **Trois cybergonades sont générées à la toute fin de chaque cycle de croissance.**
+- **[G]** **Mécanisme :** une fois qu'elle a consommé tout son substrat, la sphère est **en contact avec son slot**, où se trouvent **trois cavités de culture** destinées aux cybergonades. Elles y poussent.
+  - **[C]** Cela lève la tension de la note 08 : être « toujours en substrat » n'empêche pas la fertilité, puisque les cybergonades poussent précisément **quand le substrat est épuisé et que la sphère touche enfin son slot**. La fenêtre de fertilité est ce moment de contact, entre deux cycles.
 - **[G]** Avoir **trois** cybergonades empêche l'**autoreproduction** : « après, ça ne ferait plus son taf ».
   - **[C → validé]** Un cerveau peut perdre une cybergonade et rester fonctionnel avec les deux autres. Pour se reproduire seul, il lui faudrait en donner deux, et le dernier ne suffirait plus à tenir dans son socket ou à fonctionner. Il faut donc deux parents.
 
@@ -22,7 +24,7 @@
   - **[G]** **Pendant la croissance, la sphère ne dort pas** : le cristal, en croissant, se **bloque mécaniquement dans le substrat de croissance**, qui la tient en place à la place des cybergonades.
 - **[G]** Être dans un **logement trop grand impose un substrat de croissance**, ce qui **interdit la reproduction** (plus de cybergonades).
 - **[G]** **Entrer dans un vaisseau, pour une IA, est un engagement.** Une IA à sphère H1 qui veut habiter un vaisseau H0 abandonne ses cybergonades, se place dans un substrat de croissance et « se forme en croissant au vaisseau », jusqu'à H0. Elle ne peut pas repartir en cours de route.
-  - **[C → validé]** Règle : **on n'est fertile que lorsque sa sphère remplit exactement son logement.** Une fois le substrat terminé, les cybergonades repoussent.
+  - **[C → validé]** Règle : **on n'est fertile que lorsque sa sphère remplit exactement son logement** — c'est-à-dire quand elle touche son slot et que les trois cavités de culture peuvent faire pousser les cybergonades.
   - ↺ *Version abandonnée de l'exemple : l'IA se lassait du vaisseau à H0,8 et finissait sa croissance dans un corps H0,75. Elle reposait sur une première idée du substrat, « une sorte de sabot convexe avec une interface de croissance liquide », que l'auteur a depuis dépassée.*
 - **[G]** Les corps sont **synthétiques** : on ne parle pas d'humains pour l'instant.
 - **[G]** **Un même modèle de corps existe en plusieurs tailles de socket, comme une voiture se décline en plusieurs cylindrées.** D’où des tailles intermédiaires entre les crans entiers.

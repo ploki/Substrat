@@ -17,7 +17,7 @@
 - **L'apprentissage aurait un prix matériel** : chaque souvenir coûte du substrat, donc de la poudre.
 
 ### Tensions avec le corpus — résolues
-*Les trois tensions relevées (abrasion, fertilité, substrat terminé) ont toutes été résolues par l'auteur les 2026-10-03 ; voir le journal, décisions #61, #63. Il ne reste plus d'obstacle à retenir cette hypothèse.*
+*Les trois tensions relevées (abrasion, fertilité, substrat terminé) ont toutes été résolues par l'auteur le 2026-10-03 ; voir le journal, décisions #61, #63, #110. La fertilité en particulier : les cybergonades poussent dans les trois cavités de culture du slot, au moment où le substrat est épuisé et où la sphère touche enfin son logement (note 07). Il ne reste plus d'obstacle à retenir cette hypothèse.*
 
 ## Historique
 - 2026-10-03 — Hypothèse ouverte par l'auteur.

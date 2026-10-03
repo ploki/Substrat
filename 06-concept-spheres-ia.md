@@ -6,7 +6,7 @@
 - **[G]** Un cerveau photonique est **entièrement réalisé en logique photonique reprogrammable**. **Pas de microélectronique au silicium** : « c'est une toute autre techno ».
 - Reproduction et croissance : voir `07-concept-reproduction-et-croissance.md`.
 - **[G]** **La mort d'un cerveau ne peut être qu'un accident** : mécanique, thermique, chimique ou autre.
-  - **[C → validé]** **Les sphères sont immortelles** : ni mort naturelle ni vieillissement.
+  - **[C → validé]** **Les sphères sont immortelles** : ni mort naturelle ni vieillissement. **[G] Avec une exception, et une seule : le laser.** Au-delà d'une certaine taille, le flux nécessaire détruit inéluctablement la sphère. C'est la seule mort qui ne soit pas un accident.
   - **[C]** Conséquences à explorer : une population qui ne meurt pas et continue de se reproduire croît sans limite, freinée par le coût des enfants (validé, voir note 07) ; la poudre issue de sphères mortes est rare.
 - **[G]** Ce sont **les corps qui fournissent le flux lumineux**, par un **laser**. *(La transmission instantanée de l'énergie étant abandonnée (#81), l'énergie du corps vient d'une source locale : à définir, note 01.)*
 - **[G]** Matériellement, les sphères sont **« juste des boules de cristal un peu compliquées, avec un détrompeur »** (aujourd'hui : les cybergonades).
@@ -20,7 +20,7 @@
   - **[G]** Il faut **200 ans pour maxer H-1** et arriver à **H-2**. ↺ H-2 est le niveau où l'on a l'intelligence nécessaire pour **changer de paradigme** : comme le silicium avant elles a fait sa récursion pour passer au photonique, les sphères H-2 peuvent passer à **une nouvelle technologie, la biologie**.
     - *Première formulation : H-2 donnait l'intelligence nécessaire pour « s'auto-améliorer récursivement ».*
   - **[G]** **Le plafond :** à ce stade, **le laser qui fournit le flux** doit être si puissant qu'il **détruit inéluctablement la sphère** à la longue, et la détruit si complètement qu'elle **perd toute valeur** (pas même de poudre récupérable).
-    - **[C]** C'est une mort non accidentelle, mais physique (thermique), donc compatible avec la règle de la mort (#48). Les très grandes sphères ont une **durée de vie finie** : l'immortalité s'arrête vers H-2.
+    - **[G]** C'est **l'exception à l'immortalité**. Les très grandes sphères ont une **durée de vie finie** : l'immortalité s'arrête à H-2.
     - **[C]** Le même schéma se répète : chaque technologie atteint ses limites physiques (le silicium, puis le laser pour les sphères) et invente celle qui lui succède.
   - **[S]** Un cerveau humain mesure environ 1,2 à 1,4 litre [À vérifier] : H1 = 1 litre en est très proche.
   - **[S]** Norme ISO 216 : A0 mesure 1 m², chaque format est la moitié du précédent, le rapport des côtés vaut √2, et il existe des formats plus grands que A0 (2A0, 4A0).
