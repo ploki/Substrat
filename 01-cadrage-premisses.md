@@ -23,14 +23,19 @@
   - **[C, à confirmer]** Lecture proposée : on sait *produire* beaucoup d'énergie, mais pas la *stocker* de façon compacte. Pas de « batterie miracle » portative.
   - **[C, piste non validée]** Conséquences possibles : les corps et les machines dépendent d'une alimentation extérieure ; la *proximité d'une source d'énergie* comme enjeu géographique, économique et politique ; l'autonomie énergétique comme marqueur de statut ou de puissance.
 
+### Le décor
+- **[G]** **L'univers de la sandbox, c'est la Terre, normale**, avec éventuellement **quelques romantisations**.
+- **[G]** **Les questions d'énergie et de cosmologie sont hors sujet** : « on s'en fout de l'énergie et du monde ».
+  - **[C]** Autrement dit, le décor n'est pas l'objet du projet. Ce qui compte, ce sont **les êtres** : les sphères, leurs vies, leurs lois, leurs rapports. La Terre fournit un cadre familier qu'il est inutile de justifier.
+
 ## Questions ouvertes
 - « Résolus » : maîtrisés par qui, depuis quand, accessibles à tous ou non ?
-- **Reporté par l'auteur (2026-10-03) : toutes les questions d'énergie**, dont la source d'énergie des corps (le flux lumineux des sphères, note 06).
-- **Rouvert par les abandons :** l'énergie peut-elle être transmise à distance, autrement qu'instantanément ?
-- Sans voyage plus rapide que la lumière, le monde tient-il sur une seule planète, un seul système, ou plusieurs séparés par des siècles de trajet ?
+- **[À préciser]** « Quelques romantisations » : lesquelles, et jusqu'où ?
+- *(Énergie et cosmologie : classées sans suite par l'auteur, 2026-10-03.)*
 
 ## Historique
 - 2026-10-02 — Prémisses posées par l'auteur.
 - 2026-10-02 — Première limite posée : la densité de stockage de l'énergie.
 - 2026-10-02 — L'énergie est transmise instantanément *(abandonné le 2026-10-03)*.
+- 2026-10-03 — Le décor est la Terre normale ; énergie et cosmologie classées sans suite.
 - 2026-10-03 — ↺ Abandon du contact, du Singleton, du warp, de la transmission instantanée et du fond diffus.

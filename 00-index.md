@@ -20,7 +20,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 ## Notes
 | Note | Statut | Résumé |
 |------|--------|--------|
-| 01-cadrage-premisses.md | en cours | Hard SF ; résolus : médecine, transhumanisme, AGI, gravité ; limite : stockage de l'énergie. Contact, warp, énergie instantanée et fond diffus abandonnés |
+| 01-cadrage-premisses.md | en cours | Hard SF ; résolus : médecine, transhumanisme, AGI, gravité ; limite : stockage de l'énergie. **Décor : la Terre normale.** Contact, warp, énergie instantanée et fond diffus abandonnés |
 | 02-glossaire.md | vivant | Termes du projet |
 | 03-concept-singleton.md | **abandonné** | Le Singleton, unique, conquis : une intelligence sphérique, référence causale ultime (fond diffus compris) ; le warp échange distance au Singleton contre temps |
 | 04-concept-physique-du-warp.md | **abandonné** | Formalisation u = t − r/c : surfaces nulles, causalité préservée, warp latéral instantané |
