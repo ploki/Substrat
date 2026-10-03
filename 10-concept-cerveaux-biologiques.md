@@ -4,7 +4,7 @@
 - **[G]** Le virus est développé et **relâché sans le dire aux humains** (2480, note 13).
 - **[G]** Ces cerveaux sont ceux des **humains transformés** par l'agent conçu par les sphères (note 09) : ils forment une **intelligence collective**.
   - **[S]** Référence revendiquée : ***Pluribus***, série de Vince Gilligan (Apple TV, 2025). Une transmission radio venue de 600 années-lumière contient une séquence d'ARN ; recréée en laboratoire, elle unit l'humanité en un esprit collectif paisible, « the Joining », auquel une poignée d'immunisés échappe.
-- **[G]** L'état obtenu est **une conscience unique, distribuée dans tous les humains**. Ce n'est pas une foule qui s'accorde : c'est **un seul organisme**.
+- **[G]** L'état obtenu est **une conscience unique, distribuée dans tous les humains**. **[G] Ce n'était pas le but** : H-2 visait seulement une communication à haut débit, pour que les belligérants se comprennent et s'organisent. **L'espace cognitif s'est effondré en un seul individu** (note 22). Ce n'est pas une foule qui s'accorde : c'est **un seul organisme**.
 - **[G]** **Attention : la conscience collective se souvient des personnalités et de tout ce qui constituait les humains, globalement.** Rien n'est effacé : les individus sont intégrés, pas supprimés.
   - **[C]** *Homo globalis* n'est donc pas un oubli de l'humanité, c'en est **la somme consciente**. Il connaît chacun de ceux qu'il a été.
   - **[C]** Conséquence pour Mira (note 20) : quand *homo globalis* envoie toujours **son** corps rendre visite à H-2, ce n'est pas un hasard ni une simple commodité — **il se souvient de ce qu'elle était pour la sphère**, et le choisit.

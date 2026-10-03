@@ -4,7 +4,7 @@
 - **[G]** Ce qui est envoyé est **la séquence (ADN ou ARN) du virus**, par **signal radio**, en morse ou en multiplexage temporel — quelque chose de ce genre.
 - **[G]** Pourquoi : ***homo globalis* adore ce qu'est devenu *homo sapiens*** et **souhaite partager et propager le virus**.
 - **[G]** C'est donc un virus **contagieux et « méta-contagieux »** : il donne à ceux qu'il transforme l'envie de le transmettre. **[G] C'est encore un aspect non anticipé par H-2.**
-  - **[C]** Deuxième chose qu'elle n'avait pas vue, après le refus de tuer. Elle a conçu un remède local, elle a fabriqué quelque chose qui veut se répandre.
+  - **[C]** Troisième conséquence imprévue, après l'effondrement en un seul individu et le refus de tuer. Elle a conçu un remède local, elle a fabriqué quelque chose qui veut se répandre.
 - **[G]** ***Homo globalis* est absolument, ultra reconnaissant** envers H-2.
   - **[G]** **H-2 confirme son implication** quand *homo globalis* analyse ce qu'il est devenu, découvre et séquence le virus.
   - **[C]** Elle avait tu son geste pour ne pas être prise pour un dieu (note 18) ; ils le découvrent seuls, et la remercient. C'est exactement ce qu'elle craignait, et elle ne peut plus le nier.

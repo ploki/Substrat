@@ -12,6 +12,8 @@
 ## Le pet project [G]
 - H-2 avait un **pet project** : offrir aux humains la **communication à haut débit et à distance** (note 22). **Le virus le réalise** : *homo globalis* communique par radio.
 - **[C]** Sa décision n'est donc pas une invention sous la contrainte, mais **l'application d'une idée qu'elle portait déjà**. La guerre est-elle sa raison, ou son occasion ?
+- **[G] Ce qu'elle visait :** que les belligérants **se comprennent mieux** et **s'organisent ensemble** pour gérer la crise. **Pas** de refaire l'espèce.
+- **[G] Ce qu'elle n'attendait pas :** que **l'espace cognitif s'effondre en un seul individu** (note 22).
 
 ## Le pet project [G]
 - H-2 avait un **pet project** : offrir aux humains la **communication à haut débit et à distance** (note 22). **Le virus le réalise** : *homo globalis* communique par radio, en interconnexion à haut débit.

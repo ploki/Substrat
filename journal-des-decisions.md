@@ -179,3 +179,6 @@
 | 174 | 2026-10-03 | H-2 est professeure à l'UNIS depuis 2126 et en prend la tête en 2176, l'année où elle devient la première intelligence planétaire | répond à #173 | 21, 13, 02-glossaire.md, 20, 00-index.md |
 | 175 | 2026-10-03 | H-2 avait un pet project : réfléchir à comment offrir aux humains la communication à haut débit et à distance — ce que le virus réalise | — | 22, 18, 10 |
 | 176 | 2026-10-03 | Création d'une note de personnage pour H-2, qui n'en avait pas | — | 22 |
+| 177 | 2026-10-03 | Avec Mira, H-2 travaille à la fusion ; c'est sur son temps de méditation qu'elle pense à *homo globalis* | précise #175 | 22 |
+| 178 | 2026-10-03 | Ce qu'elle visait : que la communication à haut débit permette aux belligérants de mieux se comprendre et de s'organiser ensemble pour gérer la crise | — | 22, 18 |
+| 179 | 2026-10-03 | Elle ne s'attendait pas à ce que l'espace cognitif s'effondre en un seul individu : c'est la conséquence imprévue dont les autres découlent | — | 22, 18, 10, 19 |

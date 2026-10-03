@@ -99,3 +99,4 @@
 98. 2026-10-03 — Objecte qu'en 2126 H-2 change juste de skin, et demande pourquoi ce serait la fin de l'ère des sphères, qui ne fait que commencer.
 99. 2026-10-03 — 2126 : professeure à l'université ; 2176 : à la tête.
 100. 2026-10-03 — Autre idée : H-2 avait un pet project, réfléchir à comment offrir aux humains la communication à haut débit et à distance. Demande de mettre à jour la frise.
+101. 2026-10-03 — Avec Mira, H-2 travaille à la fusion ; elle pense à homo globalis sur son temps de méditation. Mais elle ne s'attendait pas à ce que l'espace cognitif s'effondre en un seul individu : pour elle, cela devait permettre aux belligérants de mieux se comprendre et de s'organiser ensemble pour gérer la crise.
