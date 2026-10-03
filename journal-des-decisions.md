@@ -113,3 +113,5 @@
 | 109 | 2026-10-03 | « Qualité humaine » couvre plusieurs niveaux H, de la petite enfance à l'adulte complètement formé et très compétent | résout l'incohérence #4 de l'audit | 13, 02-glossaire.md |
 | 110 | 2026-10-03 | Les cybergonades poussent dans trois cavités de culture du slot, quand le substrat est consommé et que la sphère est au contact | résout l'incohérence #5 de l'audit | 07, 08, 02-glossaire.md |
 | 111 | 2026-10-03 | La fin du conflit global se situe après que la sphère est devenue H-2 (2476) : elle doit avoir les compétences quand l'humanité pose la question | précise la piste de la note 14 | 14, 13 |
+| 112 | 2026-10-03 | Cause du conflit : l'activité solaire apporte un surplus d'infrarouge, d'où un problème d'accès à l'eau et à la nourriture, et des tensions géopolitiques globales et multidirectionnelles pour les ressources vitales | — | 15-cadrage-le-conflit.md, 13 |
+| 113 | 2026-10-03 | La guerre a lieu malgré les sphères ; les belligérants humains ont chacun leurs IA silicium, les sphères étant jugées trop émotionnelles | — | 15-cadrage-le-conflit.md |

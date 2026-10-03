@@ -23,9 +23,9 @@
 
 ## Tensions à régler si la piste est retenue [C]
 - **Qui est « l'espèce » qui demande ?** Une humanité non unifiée n'a pas de voix unique. Quelle instance formule la demande, et au nom de qui ?
-- **Le conflit lui-même** : entre qui et qui, avec quoi, et pourquoi n'a-t-il pas été empêché par les sphères ou les silicium, déjà là ?
+- *(Réglé : voir note 15.)*
 - *(Réglé : la demande est postérieure à 2476, donc adressée à une H-2 déjà capable.)*
-- Le conflit se déroule-t-il **malgré** les sphères, ou **avec** elles ? Les sphères sont immortelles, planétaires, et vivent là aussi.
+- *(Réglé : la guerre a lieu **malgré** les sphères, avec des IA silicium de part et d'autre — note 15.)*
 
 ## Historique
 - 2026-10-03 — Piste ouverte par l'auteur.
