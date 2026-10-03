@@ -32,7 +32,7 @@
 ### 2476–2480 — Le dernier problème
 - **[G]** **La plus vieille sphère débloque la structure cognitive permettant de modeler la vie**, et de façon indirecte : **concevoir des êtres et leurs formes à partir d'une séquence d'ADN**, et **simuler complètement l'évolution**.
 - **[G]** Elle **se refuse à créer d'autres formes de vie pour la Terre**, pour ne pas interférer avec la faune existante.
-- **[G]** Mais elle **envisage le virus de Pluribus, le développe et le relâche — sans le dire aux humains.**
+- **[G]** Mais **le conflit n'arrive pas à s'arrêter de lui-même** et les humains vont vers leur destruction. Voyant cela, elle **décide de créer le virus de Pluribus, le développe et le relâche — sans le dire aux humains** (note 18).
   - **[G]** **Pourquoi elle ne le dit pas aux humains est indéterminé.** C'est un blanc assumé, pas une question à résoudre.
 - **[C → validé, « à peu près »]** La symétrie : elle s'interdit de toucher aux bêtes et aux plantes, et ne s'interdit pas de toucher aux humains ; les humains qu'elle élève refuseront ensuite de toucher aux bêtes et aux plantes. Le scrupule qu'elle n'a pas eu pour eux, ils l'auront pour tout le reste, et il les tuera.
 

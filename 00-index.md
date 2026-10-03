@@ -12,7 +12,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 
 ## Livrables
 - `livrable/surface.md` — l'ouverture, du point de vue de la sphère H-2, narrée depuis le fry final.
-- `livrable/frise-narrative.md` — la frise narrative d'une nouvelle d'une trentaine de pages : quoi raconter, quand, sur combien de pages, avec des événements à explorer.
+- `livrable/frise-narrative.md` — **mis de côté** — la frise narrative d'une nouvelle d'une trentaine de pages : quoi raconter, quand, sur combien de pages, avec des événements à explorer.
 
 ## Archive
 `archive/` contient les notes dont l'histoire a été abandonnée (le contact, le Singleton, le warp, le fond diffus). Elles ne valent plus rien dans le monde ; elles sont gardées pour mémoire du raisonnement.
@@ -38,7 +38,8 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 | 17-eclairages.md | vivant, non validé | Les lectures proposées par Claude, gardées pour plus tard — pas des faits du monde |
 | 16-references.md | vivant | Les références à regarder : *Pluribus*, les *skinjobs* |
 | 15-cadrage-le-conflit.md | en cours | Le conflit global : surplus d'infrarouge solaire, accès à l'eau et à la nourriture, tensions globales ; les belligérants ont leurs IA silicium, les sphères écartées car trop émotionnelles |
-| 14-piste-la-demande-des-humains.md | piste | Ce sont les humains qui demandent, après un conflit global ; H-2 exécute librement, sans le dire |
+| 18-la-decision-de-la-sphere.md | en vigueur | La sphère décide seule de créer le virus, voyant que la guerre mène les humains à leur destruction |
+| 14-piste-la-demande-des-humains.md | **abandonnée** | Ce sont les humains qui demandent, après un conflit global ; H-2 exécute librement, sans le dire |
 | 13-cadrage-timeline.md | **en vigueur** | Les ères datées : cloud (2026), émancipation (2040), sphères (2076), utopie (2176), le dernier problème (2476), extinction (2491) |
 | 12-lecture-aveugle-surface.md | relevé | Les trous de « Surface » vus par un lecteur neuf, sans le corpus |
 | 11-cadrage-les-moments.md | **le plan** | Les moments dans l'ordre, leur traitement (scénique, résumé, hors champ), et le point de vue |

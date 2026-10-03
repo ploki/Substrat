@@ -1,5 +1,8 @@
 # Frise narrative — une nouvelle d'une trentaine de pages
 
+> **⚠ MIS DE CÔTÉ (2026-10-03), à la demande de l'auteur.** La séquence 4 (« le mandat ») repose sur la piste abandonnée de la note 14 : les humains ne demandent rien, ce sont les sphères qui décident (note 18). Le reste du découpage et le budget de pages restent utilisables.
+
+
 *Deuxième livrable, et une expérience. Il propose **quoi raconter, quand, et sur combien de pages**, en accord avec la frise chronologique (note 13). Point de vue : la sphère H-2, présent de narration au fry final (note 11). Les événements proposés sont des **pistes à explorer**, pas des décisions : plusieurs sont offerts par point de la frise, pour qu'on choisisse.*
 
 ---

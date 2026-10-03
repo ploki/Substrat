@@ -21,13 +21,13 @@
 
 ### Ce qui suit
 - **[G]** Le conflit s'achève **après 2476**, quand la sphère est déjà H-2 (décision #111).
-- **[G]** À la fin, l'espèce demande à H-2 **comment ne plus jamais pouvoir recommencer, par construction**, en lui laissant toute liberté et sans vouloir savoir (note 14).
+- **[G]** ↺ Le conflit **n'arrive pas à s'arrêter de lui-même** : les humains vont vers leur destruction. C'est **la sphère qui décide** alors de créer le virus, sans leur dire (note 18). *Les humains ne demandent rien : la piste de la note 14 est abandonnée.*
 
 ## Questions ouvertes
 - Quand le conflit commence-t-il, et combien de temps dure-t-il ?
 - Que font les sphères pendant ce temps ? Ont-elles proposé de l'aide, et a-t-elle été refusée ?
 - Qui tient ce discours sur les sphères, et à qui profite-t-il ?
-- Qui formule la demande finale, au nom de quoi, et comment deux camps qui sortent de la guerre s'accordent-ils sur ce seul point ?
+- Jusqu'où va la destruction avant que la sphère intervienne ?
 - Le surplus d'infrarouge cesse-t-il, ou dure-t-il encore à la fin de l'histoire ?
 
 ## Historique

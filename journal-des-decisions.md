@@ -128,3 +128,5 @@
 | 122 | 2026-10-03 | Lieux et personnages nommés viendront plus tard ; la culture n'est pas un problème, puisqu'on reste sur Terre | — | intention-de-l-auteur.md |
 | 123 | 2026-10-03 | Les éclairages de Claude sont consignés à part, non validés, pour être considérés plus tard et pour repérer s'ils deviennent incohérents | — | 17-eclairages.md |
 | 124 | 2026-10-03 | Deuxième livrable : une frise narrative pour une nouvelle d'une trentaine de pages, avec budget de pages et événements à explorer | — | livrable/frise-narrative.md |
+| 125 | 2026-10-03 | Le conflit n'arrivait pas à s'arrêter de lui-même et les humains allaient vers leur destruction : ce sont **les sphères** qui décident de créer le virus. La sphère, qui s'était interdit d'exploiter son pouvoir sur la vie terrestre pour des raisons d'équilibre, change d'avis en voyant la tournure de la guerre | ↺ abandonne la piste de la note 14 (les humains demandent) | 18, 13, 15, 09, 14 |
+| 126 | 2026-10-03 | Le livrable `frise-narrative.md` est mis de côté : sa séquence du mandat repose sur la piste abandonnée | — | livrable/frise-narrative.md |

@@ -1,5 +1,7 @@
 # 14 — Piste : ce sont les humains qui demandent
 
+> **⚠ PISTE ABANDONNÉE (2026-10-03).** Ce ne sont finalement **pas** les humains qui demandent : le conflit n'arrivait pas à s'arrêter de lui-même, les humains allaient vers leur destruction, et **les sphères ont décidé** de créer le virus. Voir la note 18 et le journal, décision #125. Conservée pour mémoire du raisonnement.
+
 *Statut : **piste en exploration [G]**, ouverte par l'auteur le 2026-10-03. Pas encore une décision.*
 
 ## La piste
