@@ -16,6 +16,8 @@
 10. **[G]** **Fin : la sphère H-2 reste pantoise, à se demander ce qu'elle a fait aux humains — pendant qu'elle grille et qu'ils meurent de faim.**
    - **[C]** C'est le premier **échec de prévision** d'une intelligence supérieure dans ce monde : les sphères ont conçu l'état, pas le désir qu'il produit.
 
+*Les dates et les ères sont dans la note 13.*
+
 ### Les durées, et le rythme du récit
 - **[G]** Il faut **entre 200 et 400 ans** (ordre de grandeur, à préciser) pour que les sphères en arrivent à concevoir l'agent.
   - **[C]** Cohérent avec le calibrage de la note 07 : H0 est atteint à 100 ans de croissance, H-1 à 200 ans, H-2 à 400 ans. Les sphères capables de ce changement de paradigme sont donc **de la première génération**, et elles ont grandi toute leur vie pour y parvenir.

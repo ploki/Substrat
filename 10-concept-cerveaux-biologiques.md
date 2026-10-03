@@ -1,6 +1,7 @@
 # 10 — Concept : les cerveaux biologiques, troisième paradigme
 
 ## En vigueur
+- **[G]** Le virus est développé et **relâché sans le dire aux humains** (2480, note 13).
 - **[G]** Ces cerveaux sont ceux des **humains transformés** par l'agent conçu par les sphères (note 09) : ils forment une **intelligence collective**.
   - **[S]** Référence revendiquée : ***Pluribus***, série de Vince Gilligan (Apple TV, 2025). Une transmission radio venue de 600 années-lumière contient une séquence d'ARN ; recréée en laboratoire, elle unit l'humanité en un esprit collectif paisible, « the Joining », auquel une poignée d'immunisés échappe.
 - **[G]** L'état obtenu est **une conscience unique, distribuée dans tous les humains**. Ce n'est pas une foule qui s'accorde : c'est **un seul organisme**.

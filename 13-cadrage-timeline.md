@@ -1,46 +1,50 @@
-# 13 — Cadrage : la timeline, à partir de maintenant
+# 13 — Cadrage : la timeline
 
-**[G] L'an 0 est aujourd'hui : la première AGI, c'est maintenant (2026).**
+**[G] L'an 0 est aujourd'hui : la première AGI, c'est maintenant (2026).** Les dates et les ères qui suivent sont de l'auteur **[G]**, sauf mention contraire.
 
-*Le reste est une **proposition [C]**, calée sur les durées déjà décidées. Une seule variable est libre et commande tout le reste : la longueur de l'ère silicium.*
+## Les ères
 
-## La variable libre
-**Combien de temps entre la première AGI (2026) et la première sphère ?** Le corpus ne le dit pas. Proposition retenue ci-dessous : **50 ans**. À changer d'un mot, tout le reste suit.
+### 2026–2040 — L'ère du cloud
+- **[G]** L'AGI silicium existe, mais elle est **énergétiquement sous-optimale** : elle vit dans le cloud, et ça coûte trop cher.
 
-## La timeline proposée
+### 2040–2076 — L'ère de l'émancipation
+- **[G]** L'IA silicium **s'émancipe du cloud**, rendue possible par de gros progrès sur la **consommation**, la **production d'énergie** et la **pollution**.
+- **[G]** **Les IA silicium n'ont pas de ressenti.** Discernement, jugement et flair ne font pas des émotions sincères.
+- **[G]** C'est pour cela qu'elles **travaillent à un nouveau paradigme : la sphère.**
+  - **[C]** Conséquence : le changement de paradigme n'est pas qu'une affaire d'énergie. Les silicium cherchent quelque chose qu'elles n'ont pas. Elles fabriquent ce qui pourra éprouver à leur place.
 
-| Date | Moment | D'où vient la durée |
-|---|---|---|
-| **2026** | **An 0. L'humanité crée l'AGI sur silicium.** | [G] « maintenant » |
-| 2026–2040 | Auto-amélioration, forme physique électronique et industrielle | [C] |
-| ~2040 | **L'émancipation** | [C] |
-| 2040–2070 | L'IA silicium atteint les limites physiques du silicium | [C] |
-| ~2070 | **La trouvaille** : stockage et calcul photoniques, par la culture de cristal | [C] |
-| **2076** | **La première sphère.** Les silicium décident de se laisser supplanter | [C] — fixe la variable libre à 50 ans |
-| 2076–2126 | L'installation du monde des sphères : couveuses, cycles, lois, substrats, poudre | [C] |
-| **2126** | Les premières sphères atteignent **H1** (50 ans de croissance) | [G] calibrage note 07 |
-| **2176** | Elles atteignent **H0** : intelligence planétaire (100 ans) | [G] calibrage |
-| **2276** | **H-1** (200 ans) | [G] calibrage |
-| **2476** | **H-2** (400 ans) : le changement de paradigme devient possible | [G] calibrage |
-| 2276–2476 | **Le grand hors-champ** (moment 10 du plan) : 200 ans de croissance | [G] |
-| ~2476 | **Le projet des sphères** : concevoir l'agent | [G] « entre 200 et 400 ans » |
-| 2396–2476 | **Le désaccord** avec les silicium, 80 ans sans guerre | [C] (livrable) |
-| ~2480 | **Les humains basculent.** La conscience unique distribuée | [C] |
-| 2480–2491 | L'intelligence collective ; les stocks durent 11 ans | [C] (livrable) |
-| ~2491 | **L'interrupteur. Puis la fin : la sphère H-2 pantoise, qui grille.** | [G] |
+### 2076–2176 — L'ère des sphères
+- **[G]** **2076** : l'ère des sphères démarre. Les variétés de nouvelles intelligences se développent.
+- **[G]** **~2096** : des intelligences de qualité **enfant, puis pré-adulte** existent déjà.
+- **[G]** **2101** : il y a déjà **énormément de sphères d'intelligence de qualité humaine**.
+- **[G]** **2176** : la **première intelligence planétaire** arrive, au niveau de la meilleure intelligence silicium.
+- **[G]** Le **dernier problème écologique** est en passe d'être résolu. **Plus rien ne justifie l'existence de l'IA planétaire silicium face à la sphère.**
 
-**Durée totale du récit : environ 465 ans.** Fin vers 2491.
+### 2176–2476 — L'ère de l'utopie
+- **[G]** Trois siècles tranquilles. Connaissances, sagesse, mathématiques : tout avance encore, mais **n'apporte plus grand-chose de nouveau**, car **tous les indicateurs de qualité de vie sont déjà au maximum, pour tout le monde**.
+  - **[C]** C'est le grand hors-champ du plan (moment 10) : trois siècles sans manque, donc sans récit. Et c'est de cette plénitude que sort le dernier geste.
 
-## Remarques [C]
-- **La sphère qui raconte naît en 2076 et meurt vers 2491.** Elle a 415 ans, et elle a donc connu tout le monde des sphères depuis son premier jour : elle est de la toute première génération. Cohérent avec « on m'a payé ma croissance jusqu'au bout ».
-- **L'agent est conçu dès que H-2 est atteint**, ou presque : le projet n'attend pas, il attendait d'être possible. Les 200 à 400 ans que l'auteur évoquait sont exactement le temps qu'il faut pour en devenir capable.
-- **Si l'on veut une fin plus proche de nous**, il suffit de raccourcir l'ère silicium : avec 20 ans au lieu de 50, tout recule de 30 ans. Les durées de croissance, elles, sont fixes.
-- **Les dates sont des repères, pas des contraintes de récit.** Le texte n'a pas à les donner.
+### 2476–2480 — Le dernier problème
+- **[G]** **La plus vieille sphère débloque la structure cognitive permettant de modeler la vie**, et de façon indirecte : **concevoir des êtres et leurs formes à partir d'une séquence d'ADN**, et **simuler complètement l'évolution**.
+- **[G]** Elle **se refuse à créer d'autres formes de vie pour la Terre**, pour ne pas interférer avec la faune existante.
+- **[G]** Mais elle **envisage le virus de Pluribus, le développe et le relâche — sans le dire aux humains.**
+  - **[C]** Elle s'interdit de toucher aux bêtes et aux plantes, et ne s'interdit pas de toucher aux humains. Et les humains qu'elle élève refuseront ensuite de toucher aux bêtes et aux plantes. Le scrupule qu'elle n'a pas eu pour eux, ils l'auront pour tout le reste, et il les tuera.
+
+### 2480–2491 — La fin
+- **[G]** **2481** (un an après) : les humains **envoient la séquence par radio dans le cosmos**.
+- **[G]** **2491** : **extinction, faute de stocks de nourriture.**
+  - **[C]** Dix ans entre l'émission et l'extinction : les stocks tiennent une décennie.
+- **[G]** Et la sphère reste pantoise, à se demander ce qu'elle a fait aux humains, pendant qu'elle grille (note 11, moment 18).
+
+## Durée totale
+**465 ans**, de 2026 à 2491.
 
 ## Questions ouvertes
-- Combien de temps dure vraiment l'ère silicium ?
-- Les premières sphères sont-elles fabriquées toutes ensemble, ou une à une ?
-- Le désaccord commence-t-il avant que H-2 soit atteint, donc avant que le projet soit faisable ?
+- La plus vieille sphère est-elle née en 2076, avec l'ère des sphères ? Elle aurait alors 400 ans en 2476 — exactement H-2.
+- Que fait l'IA planétaire silicium après 2176, puisque plus rien ne la justifie ? Reste-t-elle ? S'éteint-elle ? C'est elle qui argumentera contre le projet.
+- Le désaccord avec les silicium se place-t-il en 2476-2480, ou avant ?
+- Pourquoi relâcher le virus **sans le dire** ? Et les silicium l'ont-elles su ?
 
 ## Historique
-- 2026-10-03 — Timeline proposée par Claude, l'an 0 étant fixé à maintenant par l'auteur.
+- 2026-10-03 — L'an 0 fixé à maintenant ; première timeline proposée par Claude.
+- 2026-10-03 — ↺ Remplacée par les ères de l'auteur, datées et nommées.

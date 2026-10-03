@@ -101,3 +101,7 @@
 | 97 | 2026-10-03 | L'instant présent de la narration est le fry final (moment 18) ; tout est remémoré depuis là | — | 11-cadrage-les-moments.md |
 | 98 | 2026-10-03 | Lecture à l'aveugle de « Surface » : seuls les trous sont consignés, rien n'est corrigé pour l'instant | — | 12-lecture-aveugle-surface.md |
 | 99 | 2026-10-03 | L'an 0 de la timeline est maintenant : la première AGI, c'est 2026 | — | 13-cadrage-timeline.md |
+| 100 | 2026-10-03 | Les ères datées : cloud 2026-2040 ; émancipation du cloud 2040-2076 ; ère des sphères 2076-2176 ; utopie 2176-2476 ; dernier problème 2476-2480 ; extinction 2491 | ↺ remplace la timeline proposée | 13-cadrage-timeline.md |
+| 101 | 2026-10-03 | Les IA silicium n'ont pas de ressenti : c'est pourquoi elles travaillent au paradigme de la sphère | — | 13-cadrage-timeline.md |
+| 102 | 2026-10-03 | 2176 : la première intelligence planétaire égale la meilleure intelligence silicium ; plus rien ne justifie l'IA planétaire silicium | — | 13-cadrage-timeline.md |
+| 103 | 2026-10-03 | La plus vieille sphère débloque de quoi modeler la vie (concevoir des êtres depuis une séquence d'ADN, simuler l'évolution) ; elle se refuse à créer des formes de vie pour la Terre, mais développe et relâche le virus sans le dire aux humains | — | 13-cadrage-timeline.md, 10 |
