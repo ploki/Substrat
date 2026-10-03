@@ -20,6 +20,8 @@
 - **[G]** Des intelligences de qualité **enfant, puis pré-adulte** existent **depuis vingt ans** quand arrive 2101. **[C]** Soit à partir de ~2081.
 - **[G]** **2101** : il y a déjà **énormément de sphères d'intelligence de qualité humaine**.
   - **[G]** **« Qualité humaine » couvre plusieurs niveaux**, de la petite enfance à l'âge adulte complètement formé et très compétent. Ce n'est donc pas un synonyme de H1 : en 2101, la première génération est autour de H2, ce qui entre dans cette plage.
+- **[G]** **2126** : **H-2 achève son H1** (cinquante ans de croissance) et prend la **direction de l'UNIS**, en accord avec la Norvège, dans le cadre d'un accord humains/sphères (note 21). **[C]** C'est ce qui marque la fin de cette ère.
+
 ### 2126–2176 — *(ère sans nom)*
 - **[G]** **2176** : la **première intelligence planétaire sous forme de sphère**, au niveau de la meilleure intelligence silicium.
   - **[G]** L'**intelligence planétaire silicium** est arrivée **bien avant**, et **très tôt dans le cycle silicium** — mais elle y est **restée bloquée, faute de physique**.

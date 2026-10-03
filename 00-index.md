@@ -37,12 +37,12 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 | 17-eclairages.md | vivant, non validé | Les lectures proposées par Claude, gardées pour plus tard — pas des faits du monde |
 | 16-references.md | vivant | Les références à regarder : *Pluribus*, les *skinjobs* |
 | 15-cadrage-le-conflit.md | en cours | Le conflit global : surplus d'infrarouge solaire, accès à l'eau et à la nourriture, tensions globales ; les belligérants ont leurs IA silicium, les sphères écartées car trop émotionnelles |
-| 21-lieu-svalbard.md | en cours | Le Svalbard : l'UNIS dirigé par H-2, les aurores, un lieu neutre et épargné |
+| 21-lieu-svalbard.md | en cours | Le Svalbard : l'UNIS, plus grande université mixte, dirigée par H-2 depuis 2126 ; les aurores ; un lieu neutre et épargné |
 | 20-personnage-la-physicienne.md | en cours | **Mira Okonkwo-Lindqvist**, née en 2430, formée par H-2, qui cherche la fusion contrôlée et n'aboutit pas |
 | 19-la-fin.md | en vigueur | L'envoi de la séquence, la gratitude d'*homo globalis*, l'extinction en un an, et la mise en pause de la sphère |
 | 18-la-decision-de-la-sphere.md | en vigueur | La sphère décide seule de créer le virus, voyant que la guerre mène les humains à leur destruction |
 | 14-piste-la-demande-des-humains.md | **abandonnée** | Ce sont les humains qui demandent, après un conflit global ; H-2 exécute librement, sans le dire |
-| 13-cadrage-timeline.md | **en vigueur** | Les ères datées : cloud (2026), émancipation (2040), sphères (2076), utopie (2176), le dernier problème (2476), extinction et stase (2482) |
+| 13-cadrage-timeline.md | **en vigueur** | Les ères datées : cloud (2026), émancipation (2040), sphères (2076), UNIS (2126), utopie (2176), le dernier problème (2476), extinction et stase (2482) |
 | 12-lecture-aveugle-surface.md | relevé | Les trous de « Surface » vus par un lecteur neuf, sans le corpus |
 | 11-cadrage-les-moments.md | **le plan** | Les moments dans l'ordre, leur traitement (scénique, résumé, hors champ), et le point de vue |
 | 10-concept-cerveaux-biologiques.md | en cours | Troisième paradigme : les humains transformés en une conscience unique distribuée, qui se souvient de toutes les personnalités, refuse de tuer pour se nourrir et ne dure que le temps des stocks |

@@ -167,3 +167,4 @@
 | 162 | 2026-10-03 | L'University Centre in Svalbard est dirigé par H-2 depuis une date à déterminer, en accord avec la Norvège, dans le cadre d'un accord humains/sphères | — | 21 |
 | 163 | 2026-10-03 | *Homo globalis* se souvient des personnalités et de tout ce qui constituait les humains, globalement : rien n'est effacé | précise #90 | 10, 19, 02-glossaire.md |
 | 164 | 2026-10-03 | L'UNIS est la plus grande université mixte sphères/humains | — | 21 |
+| 165 | 2026-10-03 | H-2 dirige l'UNIS depuis 2126, l'année où elle achève son H1 ; cela marque la fin de l'ère des sphères | répond à #162 | 21, 13, 20, 02-glossaire.md |

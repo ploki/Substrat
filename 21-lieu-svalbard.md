@@ -4,10 +4,12 @@
 - **[G]** Le lieu de travail de Mira est le **Svalbard** (note 20).
 - **[G]** Les **aurores**, liées à l'activité solaire, y rendent **le paysage incroyable**.
   - **[C]** La même cause fait les deux : le Soleil qui assèche les basses latitudes illumine le ciel au-dessus d'elle. Elle travaille à réparer les effets d'un phénomène dont elle voit chaque nuit la plus belle manifestation.
-- **[G]** L'**University Centre in Svalbard (UNIS)** est **dirigé par H-2** depuis **une date à déterminer**, **en accord avec la Norvège**, dans le cadre d'un **accord entre humains et sphères**.
+- **[G]** L'**University Centre in Svalbard (UNIS)** est **dirigé par H-2 depuis 2126**, **en accord avec la Norvège**, dans le cadre d'un **accord entre humains et sphères**.
 - **[G]** **L'UNIS est la plus grande université mixte sphères/humains.**
   - **[C]** Mixte veut dire que **les sphères y sont enseignées autant qu'enseignantes** : les jeunes sphères, qui mettent des décennies à atteindre le niveau humain, y grandissent à côté d'étudiants humains dont la vie entière dure moins qu'un de leurs cycles.
-  - **[C, proposition de date : 2126]** C'est l'année où **H-2 achève son H1**, cinquante ans après sa fabrication (note 07) : la première sphère, parvenue à l'intelligence humaine complète, se voit confier l'enseignement. C'est aussi la **borne que l'auteur donne à l'ère des sphères** (2076-2126), ce qui donnerait un sens à la période suivante. *Autre possibilité : 2176, l'année de la première intelligence planétaire.*
+  - **[G → validé] 2126** est l'année où **H-2 achève son H1**, cinquante ans après sa fabrication (note 07) : la première sphère, parvenue à l'intelligence humaine complète, se voit confier l'enseignement. Elle vient elle-même de finir d'apprendre, et on lui donne une université.
+  - **[C]** C'est aussi ce qui **marque la fin de l'ère des sphères** (2076-2126) : cette ère s'achève quand la première d'entre elles est adulte et prend une charge.
+  - **[C]** Quand Mira y étudie, vers 2450, **H-2 dirige l'UNIS depuis plus de trois siècles** : pour elle, ce n'est pas une sphère qui enseigne, c'est l'institution même. Et pourtant elle en devient l'élève personnelle.
   - **[C]** C'est donc là que H-2 a formé Mira : l'enseignement est une fonction officielle de la sphère, encadrée par un traité.
 
 ### Pourquoi ce lieu tient [C]
@@ -17,7 +19,6 @@
 - **[C, non consigné ailleurs]** Si le Soleil fait fondre les glaces, le lieu le mieux pourvu en eau douce est aussi celui qui est en train de la perdre.
 
 ## Questions ouvertes
-- Depuis quand H-2 dirige-t-elle l'UNIS ?
 - Que dit l'accord humains/sphères, et qui l'a signé ?
 - H-2 y est-elle **physiquement** installée, ou dirige-t-elle à distance ?
 - Le Svalbard reste-t-il épargné jusqu'au bout du conflit ?
