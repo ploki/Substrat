@@ -19,12 +19,12 @@
   - **[G]** « La biologie » : des cerveaux mixtes biologiques et nanorobotiques (voir note 10).
 - La note 05 parle de « l'AGI » qui crée le code optimal sphérique : c'est **l'IA silicium**.
 - Le choix s'explique par la contrainte d'énergie du monde (note 01) : quand on ne sait pas stocker l'énergie, la sobriété est décisive.
-- Le contact, le Singleton et le fond diffus comme interface (notes 03 et 05) ne sont pas encore placés dans cette chronologie.
+- *(Le contact, le Singleton et le fond diffus ont été abandonnés le 2026-10-03 ; ils n'ont plus à être placés dans cette chronologie.)*
 - **[C, piste non validée]** Dans *Pluribus*, l'humanité **reçoit** une séquence venue de 600 années-lumière ; ici, elle **émet**. Et si le « contact » de nos prémisses était la réception d'un envoi du même genre, par une civilisation passée avant nous par le même chemin ? Le cycle se répéterait de civilisation en civilisation.
 
 ## Questions ouvertes
 - Les IA silicium existent-elles encore ? Se sont-elles éteintes, transférées dans des sphères, ou retirées ?
-- Où placer, dans cette chronologie, la découverte de l'interface, la conquête du Singleton et le contact ?
+- À quelle époque se situe le présent du monde, et à quelle distance les unes des autres sont ces étapes ?
 - Tous les humains sont-ils transformés ? Y a-t-il des immunisés, comme dans *Pluribus* ?
 - La diffusion a-t-elle eu lieu ? Les sphères ont-elles cherché à l'empêcher ?
 
