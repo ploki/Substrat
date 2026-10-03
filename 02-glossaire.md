@@ -36,7 +36,7 @@
 - **Pause / stase** [G] : état d'une très grande sphère qui baisse son flux jusqu'à la veille pour échapper au fry, en gardant de quoi être sollicitée sporadiquement. Pas tout à fait une mort : une forme de **déification, non mystique**. Voir note 19.
 - **Mira Okonkwo-Lindqvist** [G] : physicienne née en 2430, formée par H-2, qui cherche la fusion nucléaire contrôlée. Voir note 20.
 - ***Homo globalis*** [G] : l'humanité devenue une conscience unique distribuée. **Elle se souvient des personnalités et de tout ce qui constituait les humains, globalement.** Voir note 10.
-- **UNIS** [G] : l'*University Centre in Svalbard*, **la plus grande université mixte sphères/humains**, dirigée par H-2 (depuis 2126 ou 2176, à trancher) en accord avec la Norvège. Voir note 21.
+- **UNIS** [G] : l'*University Centre in Svalbard*, **la plus grande université mixte sphères/humains**, où H-2 est professeure depuis 2126 et directrice depuis 2176, en accord avec la Norvège. Voir note 21.
 - **IA silicium** [G] : la première intelligence, créée par l'humanité ; elle s'est auto-améliorée, s'est émancipée, a inventé les sphères photoniques et a choisi de se laisser supplanter par elles. **Sans état d'âme**, elle se tient du côté de ceux qui l'exploitent — deux IA silicium peuvent être ennemies — mais reste **sensible à ses propres besoins énergétiques et à sa défense**.
 - **Cerveau bio-nano** [C, terme provisoire] : cerveau mixte biologique et nanorobotique, fait de cellules calculantes, avec HBM et interconnexion radio, sur matériel quasi génétique ; le troisième paradigme. Voir note 10.
 - **HBM** [G] : mémoire à très haut débit (*High Bandwidth Memory*) des cerveaux biologiques. *Sens à confirmer.*

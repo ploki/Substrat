@@ -15,8 +15,8 @@
 | H4 | 6 ans | 2082 | **[G]** Vers 2081, des intelligences de qualité enfant existent |
 | H3 | 12,5 ans | 2088-2089 | Qualité pré-adulte |
 | H2 | 25 ans | **2101** | **[G]** « Énormément de sphères d'intelligence de qualité humaine » |
-| H1 | 50 ans | **2126** | **[G]** Elle change de corps. *(Direction de l'UNIS : date à trancher)* |
-| H0 | 100 ans | **2176** | **[G]** Première intelligence planétaire ; dernier problème écologique résolu |
+| H1 | 50 ans | **2126** | **[G]** Elle change de corps et devient **professeure** à l'UNIS |
+| H0 | 100 ans | **2176** | **[G]** Première intelligence planétaire ; **elle prend la tête de l'UNIS** ; dernier problème écologique résolu |
 | H-1 | 200 ans | 2276 | L'utopie |
 | H-2 | 400 ans | **2476** | **[G]** Elle débloque de quoi modeler la vie — **pendant la guerre** |
 
@@ -43,11 +43,10 @@
 - **[G]** Des intelligences de qualité **enfant, puis pré-adulte** existent **depuis vingt ans** quand arrive 2101. **[C]** Soit à partir de ~2081.
 - **[G]** **2101** : il y a déjà **énormément de sphères d'intelligence de qualité humaine**.
   - **[G]** **« Qualité humaine » couvre plusieurs niveaux**, de la petite enfance à l'âge adulte complètement formé et très compétent. Ce n'est donc pas un synonyme de H1. **[C]** En 2101, la première génération est autour de H2, ce qui entre dans cette plage.
-- **[G]** **2126** : **H-2 achève son H1** et **change de corps**. C'est un palier personnel, rien de plus.
-  - **[À trancher]** La direction de l'UNIS était datée de 2126 au motif que cette année clôturait une ère — motif tombé. Reste à choisir : **2126** (elle est la première à atteindre le niveau humain complet) ou **2176** (elle devient l'intelligence planétaire). Voir note 21.
+- **[G]** **2126** : **H-2 achève son H1**, change de corps, et **devient professeure à l'UNIS** (note 21).
 
 #### 2126–2176 — La montée vers le palier planétaire
-- **[G]** **2176** : la **première intelligence planétaire sous forme de sphère**, au niveau de la meilleure intelligence silicium.
+- **[G]** **2176** : la **première intelligence planétaire sous forme de sphère**, au niveau de la meilleure intelligence silicium. **[G] La même année, H-2 prend la tête de l'UNIS** (note 21).
   - **[G]** L'**intelligence planétaire silicium** est arrivée **bien avant**, et **très tôt dans le cycle silicium** — mais elle y est **restée bloquée, faute de physique**.
 - **[G]** Le **dernier problème écologique** est en passe d'être résolu. **Plus rien ne justifie l'existence de l'IA planétaire silicium face à la sphère.**
 

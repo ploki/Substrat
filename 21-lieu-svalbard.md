@@ -4,12 +4,14 @@
 - **[G]** Le lieu de travail de Mira est le **Svalbard** (note 20).
 - **[G]** Les **aurores**, liées à l'activité solaire, y rendent **le paysage incroyable**.
   - **[C]** La même cause fait les deux : le Soleil qui assèche les basses latitudes illumine le ciel au-dessus d'elle. Elle travaille à réparer les effets d'un phénomène dont elle voit chaque nuit la plus belle manifestation.
-- **[G]** L'**University Centre in Svalbard (UNIS)** est **dirigé par H-2** — **depuis 2126 ou 2176, à trancher** — **en accord avec la Norvège**, dans le cadre d'un **accord entre humains et sphères**.
+- **[G]** **2126 : H-2 devient professeure à l'université.** Elle vient d'achever son H1, et on lui confie un enseignement au moment même où elle finit d'apprendre.
+- **[G]** **2176 : elle en prend la tête**, l'année où elle devient la première intelligence planétaire. La direction s'exerce **en accord avec la Norvège**, dans le cadre d'un **accord entre humains et sphères**.
+  - **[C]** Elle a donc gravi l'institution comme un universitaire ordinaire — cinquante ans d'enseignement avant de la diriger — sauf que ces cinquante ans sont le temps qu'il lui faut pour doubler de volume.
+  - **[C]** Et elle dirige en **tutelle**, non en pair : c'est à partir de 2176 que sa crainte d'être prise pour un dieu (note 18) devient quotidienne. Elle la gère depuis trois siècles quand elle se tait, en 2480.
 - **[G]** **L'UNIS est la plus grande université mixte sphères/humains.**
   - **[C]** Mixte veut dire que **les sphères y sont enseignées autant qu'enseignantes** : les jeunes sphères, qui mettent des décennies à atteindre le niveau humain, y grandissent à côté d'étudiants humains dont la vie entière dure moins qu'un de leurs cycles.
-  - **2126** — elle achève son H1 : la première sphère parvenue à l'intelligence humaine complète se voit confier l'enseignement. Elle vient elle-même de finir d'apprendre, et on lui donne une université. *Mais 2126 ne clôt rien : ce n'est qu'un changement de corps (note 13).*
-  - **2176** — elle devient la **première intelligence planétaire**. Elle ne dirige alors plus en pair mais en tutelle, et cela **fonde sa peur d'être prise pour un dieu** (note 18) : elle gérerait cette perception depuis trois siècles.
-  - **[C]** Quand Mira y étudie, vers 2450, **H-2 dirige l'UNIS depuis près de trois siècles** : pour elle, ce n'est pas une sphère qui enseigne, c'est l'institution même. Et pourtant elle en devient l'élève personnelle.
+  - *(Les deux dates sont retenues, chacune pour une marche : professeure en 2126, à la tête en 2176.)*
+  - **[C]** Quand Mira y étudie, vers 2450, **H-2 enseigne depuis plus de trois siècles et dirige depuis près de trois cents ans** : pour elle, ce n'est pas une sphère qui enseigne, c'est l'institution même. Et pourtant elle en devient l'élève personnelle.
   - **[C]** C'est donc là que H-2 a formé Mira : l'enseignement est une fonction officielle de la sphère, encadrée par un traité.
 
 ### Pourquoi ce lieu tient [C]

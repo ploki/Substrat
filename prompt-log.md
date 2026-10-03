@@ -97,3 +97,4 @@
 96. 2026-10-03 — (audit relancé à sa demande)
 97. 2026-10-03 — Valide la borne de ~2470. Demande un petit tableau des ères, une ligne par taille H, et ce que changerait une nomination de H-2 à la fin de H0 plutôt que de H1.
 98. 2026-10-03 — Objecte qu'en 2126 H-2 change juste de skin, et demande pourquoi ce serait la fin de l'ère des sphères, qui ne fait que commencer.
+99. 2026-10-03 — 2126 : professeure à l'université ; 2176 : à la tête.

@@ -5,7 +5,7 @@
 ## En vigueur
 - **[G]** **Mira Okonkwo-Lindqvist.** Une **femme**, **née en 2430**, **50 ans en 2480** (l'année de l'inoculation).
 - **[G]** **Chercheuse en physique** : doctorat, post-doctorat, tout le parcours.
-- **[G]** **Formée par H-2**, avec qui elle **travaille depuis ses études**, à l'**University Centre in Svalbard**, que H-2 dirige depuis des siècles (note 21).
+- **[G]** **Formée par H-2**, avec qui elle **travaille depuis ses études**, à l'**University Centre in Svalbard**, où H-2 enseigne depuis 2126 et qu'elle dirige depuis 2176 (note 21).
 - **[G]** Son objet : **créer la fusion nucléaire contrôlée.**
 - **[G]** **Les efforts ne sont pas arrêtés par la guerre**, parce que la fusion est vue comme **une solution potentielle à tous les conflits**, par la **désalinisation de l'eau**.
 - **[G]** **Mais ça n'aboutit pas** : tout laisse à croire que **c'est un problème plus grand que H-2.**

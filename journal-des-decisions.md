@@ -176,3 +176,4 @@
 | 171 | 2026-10-03 | L'ère des sphères démarre en 2076 et ne se referme pas : tout ce qui suit s'y passe. Les périodes suivantes en sont des sous-périodes | ↺ corrige une invention de Claude (2126 comme fin d'ère) | 13, 00-index.md |
 | 172 | 2026-10-03 | En 2126, H-2 achève son H1 et change simplement de corps : palier personnel, rien de plus | — | 13 |
 | 173 | 2026-10-03 | La date de la direction de l'UNIS est rouverte : 2126 ou 2176, à trancher | ↺ #165 | 21, 13, 02-glossaire.md, 20 |
+| 174 | 2026-10-03 | H-2 est professeure à l'UNIS depuis 2126 et en prend la tête en 2176, l'année où elle devient la première intelligence planétaire | répond à #173 | 21, 13, 02-glossaire.md, 20, 00-index.md |
