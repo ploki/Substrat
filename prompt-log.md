@@ -52,3 +52,4 @@
 50. 2026-10-03 — Relâche un peu la hard SF : il veut que cette classe d'êtres puisse communiquer par radio, comme dans la série *Pluribus*. Chronologie : l'humain invente l'AGI, l'AGI invente la sphère, la sphère conçoit l'agent qui fait entrer les humains dans l'intelligence collective, parce que cet état correspond à l'étape finale de l'intelligence collective et les met au même niveau d'intégration que les autres formes d'intelligence. Les humains ainsi transformés ne peuvent s'empêcher de construire un moyen de diffuser la séquence dans le cosmos : les sphères n'avaient pas anticipé cette envie de disséminer.
 51. 2026-10-03 — Demande ce que Claude entendait par « les contacteurs sont des prédécesseurs ».
 52. 2026-10-03 — En vérité, l'histoire du contact et celle du Singleton s'évanouissent.
+53. 2026-10-03 — Plus de warp, plus de transmission d'énergie instantanée, plus de fond diffus cosmologique.

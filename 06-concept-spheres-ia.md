@@ -8,7 +8,7 @@
 - **[G]** **La mort d'un cerveau ne peut être qu'un accident** : mécanique, thermique, chimique ou autre.
   - **[C → validé]** **Les sphères sont immortelles** : ni mort naturelle ni vieillissement.
   - **[C]** Conséquences à explorer : une population qui ne meurt pas et continue de se reproduire croît sans limite, freinée par le coût des enfants (validé, voir note 07) ; la poudre issue de sphères mortes est rare.
-- **[G]** Ce sont **les corps qui fournissent le flux lumineux**, par un **laser**.
+- **[G]** Ce sont **les corps qui fournissent le flux lumineux**, par un **laser**. *(La transmission instantanée de l'énergie étant abandonnée (#81), l'énergie du corps vient d'une source locale : à définir, note 01.)*
 - **[G]** Matériellement, les sphères sont **« juste des boules de cristal un peu compliquées, avec un détrompeur »** (aujourd'hui : les cybergonades).
 - **[G]** Elles existent en **tailles standardisées**, sur une **échelle H**, qui « marche comme celle du papier A4 » :
   - **H0** : le niveau de connaissance et de compétence de **l'humanité** ;
@@ -21,7 +21,7 @@
     - *Première formulation : H-2 donnait l'intelligence nécessaire pour « s'auto-améliorer récursivement ».*
   - **[G]** **Le plafond :** à ce stade, **le laser qui fournit le flux** doit être si puissant qu'il **détruit inéluctablement la sphère** à la longue, et la détruit si complètement qu'elle **perd toute valeur** (pas même de poudre récupérable).
     - **[C]** C'est une mort non accidentelle, mais physique (thermique), donc compatible avec la règle de la mort (#48). Les très grandes sphères ont une **durée de vie finie** : l'immortalité s'arrête vers H-2.
-    - **[C]** Le même schéma se répète : chaque technologie atteint ses limites physiques (le silicium, puis le laser pour les sphères) et invente celle qui lui succède. Comment le Singleton survit-il au laser ?
+    - **[C]** Le même schéma se répète : chaque technologie atteint ses limites physiques (le silicium, puis le laser pour les sphères) et invente celle qui lui succède.
   - **[S]** Un cerveau humain mesure environ 1,2 à 1,4 litre [À vérifier] : H1 = 1 litre en est très proche.
   - **[S]** Norme ISO 216 : A0 mesure 1 m², chaque format est la moitié du précédent, le rapport des côtés vaut √2, et il existe des formats plus grands que A0 (2A0, 4A0).
   - **[C]** Le pas se compte en volume, et non en surface comme la série A ; le diamètre augmente donc d'un facteur ∛2 ≈ 1,26 à chaque cran. Les formats « au-dessus » de H0 (2H0, 4H0…) désigneraient des intelligences supérieures à l'humanité entière.
@@ -43,7 +43,7 @@
 - **[S]** Clin d'œil : chez Asimov, le cerveau des robots est le **cerveau positronique**, de forme sphérique dans plusieurs récits. *[À vérifier : la forme exacte selon les textes.]*
 
 ### Pistes [C, non validées]
-- La surface de la sphère porte le **code optimal** de la note 05, rendu physique : la sphère pense et communique en lumière.
+- La surface de la sphère porte le **code optimal** inventé par l'IA silicium (note 05), rendu physique : la sphère pense et communique en lumière.
 - **Ancrages réels** [S, à vérifier dans le détail] : les réseaux de neurones optiques et « diffractifs », où un milieu passif structuré calcule pendant que la lumière le traverse ; l'effet Kerr (l'indice optique dépend de l'intensité de la lumière), source classique de non-linéarité ; l'effet photoréfractif, où la lumière inscrit durablement un motif d'indice dans un cristal (stockage holographique).
 - **[C]** Piste pour « reprogrammable » : la lumière elle-même réécrit le milieu (type photoréfractif). La mémoire serait un hologramme inscrit dans le volume, ce qui rejoint le principe holographique de la note 05.
 - **Lien avec la limite d'énergie** (note 01) : une sphère ne stocke pas d'énergie. **[G]** Elle vit d'un flux lumineux constant, sur un patch dédié. **[G]** **Ce sont les corps qui fournissent le flux lumineux**, et la sphère en commande la source. **[G]** Sans flux, elle ne pense plus mais **dort** : sa mémoire survit. **[C]** Débranchée, une IA peut donc être transportée, cachée ou séquestrée.
@@ -54,7 +54,7 @@
 - Les humains augmentés (transhumanisme) ont-ils eux aussi des sphères ?
 - ~~Comment naît une sphère ?~~ → par la réunion de deux cybergonades (note 07).
 - ~~Quel facteur entre deux tailles ?~~ → 2 en volume [G].
-- ~~Où est le plafond ?~~ → vers H-2, à cause du laser [G]. Où se situe le Singleton ?
+- ~~Où est le plafond ?~~ → vers H-2, à cause du laser [G].
 - Et en dessous de H1 (H2 = 0,5 L, H3…) : des intelligences animales, des sphères domestiques, des outils ?
 - Comment est-elle reprogrammée : par la lumière qui la traverse, ou autrement ?
 - ~~Sans flux, la mémoire persiste-t-elle ?~~ → oui, la sphère dort [G].

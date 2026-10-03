@@ -82,3 +82,4 @@
 | 78 | 2026-10-03 | Les sphères conçoivent l'agent qui fait entrer les humains dans l'intelligence collective, étape finale qui les met au même niveau d'intégration que les autres intelligences | — | 09, 10 |
 | 79 | 2026-10-03 | Les humains transformés ne peuvent s'empêcher de construire de quoi diffuser la séquence dans le cosmos ; les sphères ne l'avaient pas anticipé | — | 09 |
 | 80 | 2026-10-03 | L'histoire du contact et celle du Singleton sont abandonnées | ↺ #6, #9, #10, #11, #14, #17, #19, #20 | 01, 03, 04, 05, 02-glossaire.md, 00-index.md |
+| 81 | 2026-10-03 | Abandon du warp, de la transmission instantanée de l'énergie et du fond diffus comme interface. Le monde est borné par la vitesse de la lumière | ↺ #5 (warp), #8, #16 | 01, 05, 06, 02-glossaire.md, 00-index.md |

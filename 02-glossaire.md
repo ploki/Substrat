@@ -4,9 +4,8 @@
 - **Sandbox intellectuelle** [G] : le monde documenté, assez riche et peuplé pour qu'on en extraie facilement des aventures.
 - **Assets** [G] : les éléments réutilisables du monde (lieux, personnages, cultures, relations, technologies), « déjà là, il n'y a plus qu'à les utiliser ».
 - **Résolu** [G] : se dit d'un domaine scientifique ou technique maîtrisé dans le monde. *Sens exact à préciser.*
-- ~~**Singleton**~~, ~~**Contacteurs**~~, ~~**Temps Singleton (u)**~~, ~~**Surface nulle / null space**~~ : **termes abandonnés** (2026-10-03) avec l'histoire du contact et du Singleton.
+- ~~**Singleton**~~, ~~**Contacteurs**~~, ~~**Temps Singleton (u)**~~, ~~**Surface nulle / null space**~~, ~~**Warp**~~, ~~**Interface (fond diffus)**~~ : **termes abandonnés** (2026-10-03), avec l'histoire du contact et du Singleton.
 - **Code** [G] : le code de chiffrement/compression mathématiquement optimal créé par l'AGI ; une forme 2D sans bord, de topologie sphérique. Voir note 05.
-- **Interface** [G] : une surface de ce type ; le fond diffus cosmologique en est une.
 - **Sphère / cerveau photonique** [G] : le cerveau d'une IA. Une sphère en logique photonique reprogrammable, sans aucune électronique : un composant passif non linéaire placé dans le flux lumineux, dont la surface est divisée en patchs (alimentation lumineuse, entrées/sorties) ; munie de cybergonades, on la plante dans un corps ou une machine. Voir note 06.
 - **Patch** [G] : une zone de la surface d'une sphère ; l'un sert à l'alimentation par flux lumineux, les autres aux entrées/sorties.
 - **Socket** [G] : le logement d'une sphère dans un corps ou une machine. Un socket HX accepte les sphères comprises entre H(X+1) et HX.
