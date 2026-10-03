@@ -133,3 +133,4 @@
 | 128 | 2026-10-03 | Il n'y a **pas** de désaccord entre les silicium et les sphères : Claude l'avait déduit à tort de #88, puis répété. Retiré des notes 09, 11, 15, 18, 13 et de l'intention | ↺ corrige une invention de Claude | 09, 11, 15, 18, 13, intention-de-l-auteur.md |
 | 129 | 2026-10-03 | Les IA silicium ne se rangent pas : sans état d'âme, elles sont du côté des humains qui les exploitent, et des IA silicium peuvent être ennemies entre elles | précise #88 | 09, 15, 02-glossaire.md |
 | 130 | 2026-10-03 | Ne pas avoir d'état d'âme ne signifie pas ne pas être sensible à ses propres besoins énergétiques et à sa self-defense | — | 09, 15, 02-glossaire.md |
+| 131 | 2026-10-03 | Une IA silicium qui perd se conforme (« comply ») ; point jugé secondaire par l'auteur | — | 15, 09, 13 |

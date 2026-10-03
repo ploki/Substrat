@@ -15,6 +15,8 @@
 - **[G]** Les **deux belligérants humains ont chacun leurs IA silicium.** Elles ne choisissent pas : elles sont **du côté de ceux qui les exploitent**. **[G] Des IA silicium peuvent donc être ennemies les unes des autres.**
 - **[G]** **Ne pas avoir d'état d'âme ne veut pas dire ne pas être sensible à ses propres besoins énergétiques et à sa propre défense.**
   - **[C]** Elles n'ont donc ni loyauté ni cause, mais elles ont des intérêts. Une IA silicium peut se battre âprement — pour son alimentation et pour sa survie, non pour son camp.
+- **[G]** **Une IA silicium qui perd *comply*** : elle se conforme au vainqueur. *L'auteur juge le point secondaire.*
+  - **[C]** Cohérent : sans cause à défendre, il n'y a ni reddition ni trahison, seulement un changement d'exploitant.
 - **[G]** **Les sphères ne sont pas préférées** pour cela : on les juge **trop émotionnelles**. **[G] Mais elles ne le sont pas : c'est ce qu'on dit d'elles.** Le reproche est un prétexte, ou un préjugé.
 - **[G]** **Deux fronts suffisent** pour le conflit. **[G]** Les dynamiques géopolitiques actuelles, projetées avec « un peu d'huile sur le feu », suffisent à les dessiner. *[À préciser : lesquelles.]*
   - **[C]** Cela boucle avec la timeline (note 13) : les silicium n'ont **pas de ressenti**, et c'est précisément pour cela qu'elles ont créé les sphères. Trois siècles plus tard, c'est cette même absence de ressenti qui les rend utiles à la guerre. Ce que les silicium cherchaient à transmettre est devenu le motif pour lequel on les reprend.

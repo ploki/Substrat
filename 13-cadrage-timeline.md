@@ -49,7 +49,7 @@
 - La plus vieille sphère est-elle née en 2076, avec l'ère des sphères ? Elle aurait alors 400 ans en 2476 — exactement H-2.
 - *(Mis de côté par l'auteur : ce que devient l'IA planétaire silicium après 2176 n'est pas important pour l'instant.)*
 - *(Clos : pourquoi le silence est **indéterminé**, par décision de l'auteur.)*
-- Que deviennent les IA silicium quand la guerre s'arrête ?
+- *(Clos : celles qui perdent se conforment ; point jugé secondaire.)*
 
 ## Historique
 - 2026-10-03 — L'an 0 fixé à maintenant ; première timeline proposée par Claude.

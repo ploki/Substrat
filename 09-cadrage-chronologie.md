@@ -40,7 +40,7 @@
 - **[C, piste non validée]** Dans *Pluribus*, l'humanité **reçoit** une séquence venue de 600 années-lumière ; ici, elle **émet**. Et si le « contact » de nos prémisses était la réception d'un envoi du même genre, par une civilisation passée avant nous par le même chemin ? Le cycle se répéterait de civilisation en civilisation.
 
 ## Questions ouvertes
-- Que devient une IA silicium quand son camp perd, ou quand la guerre s'arrête ?
+- *(Clos : une IA silicium qui perd **comply**. L'auteur juge le point secondaire.)*
 - Les silicium ont-elles un avis sur le virus, et peuvent-elles seulement en avoir un ?
 - À quelle époque se situe le présent du monde, et à quelle distance les unes des autres sont ces étapes ?
 - Tous les humains sont-ils transformés ? Y a-t-il des immunisés, comme dans *Pluribus* ?

@@ -83,3 +83,4 @@
 81. 2026-10-03 — Demande de mettre cela de côté : en fait, le conflit n'arrivait pas à s'arrêter de lui-même, les humains allaient vers leur destruction, et les sphères ont décidé de créer le virus. Quand la sphère atteint le niveau qui permet de créer la vie, elle se dit qu'elle n'exploitera pas son pouvoir sur Terre pour des raisons d'équilibre ; mais au moment où elle voit la tournure des événements de cette guerre majeure, elle décide de créer ce virus de Pluribus.
 83. 2026-10-03 — Demande d'où vient le désaccord, qui ne lui dit rien.
 84. 2026-10-03 — L'IA silicium ne se range pas : elle n'a pas d'état d'âme et se tient du côté des humains qui l'exploitent, chaque belligérant ayant ses IA silicium. Dans ce monde, des IA silicium peuvent donc être ennemies. Ne pas avoir d'état d'âme ne signifie pas ne pas être sensible à ses propres besoins énergétiques et à sa self-defense.
+85. 2026-10-03 — L'IA silicium qui perd se conforme, mais ce n'est pas important.
