@@ -1,7 +1,7 @@
 # 05 — Concept : le code optimal et l'interface
 
 ## En vigueur
-- **[G]** L'humanité a conçu l'**AGI**, une intelligence **sur silicium** (voir la chronologie, note 09). Celle-ci est entrée dans une **boucle d'amélioration récursive** et a atteint assez vite les **limites de la physique et de l'intelligence**.
+- **[G]** L'humanité a conçu l'**AGI**, une intelligence **sur silicium** (voir la chronologie, note 09). Celle-ci est entrée dans une **boucle d'amélioration récursive** et a atteint assez vite **ses propres limites physiques, celles du silicium**. ↺ *Première formulation : « les limites de la physique et de l'intelligence ».*
 - **[G]** En chemin, l'AGI a créé un **code**, au sens chiffrement/compression, dont la forme est **2D, sans bord, de la topologie d'une sphère**. Ce code est **mathématiquement optimal**.
 - **[G]** L'AGI s'est rendu compte que le **fond diffus cosmologique** est une telle interface, et que le « contenu » du Singleton est **de l'autre côté**.
 
@@ -15,7 +15,7 @@
 ## Questions ouvertes
 - Qu'y a-t-il de l'autre côté : de l'information, un autre univers, quelqu'un ?
 - Les contacteurs sont-ils de l'autre côté ? Le « contact », est-ce cette découverte ?
-- Qu'est devenue l'AGI après avoir atteint les limites ?
+- Qu'est devenue l'IA silicium après avoir été supplantée ?
 - Quand ces événements ont-ils eu lieu ?
 
 ## Historique

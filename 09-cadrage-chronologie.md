@@ -4,11 +4,13 @@
 1. **[G]** L'humanité crée une **intelligence sur silicium**.
 2. **[G]** Cette intelligence **passe le cap de l'auto-amélioration** et devient capable de **se donner une forme physique, électronique et industrielle**.
 3. **[G]** **L'IA s'émancipe.**
-4. **[G]** Émancipée, elle travaille sur **une nouvelle technologie** : c'est **leur trouvaille**, le cerveau photonique sphérique (note 06).
+4. **[G]** Émancipée, elle arrive à **ses propres limites physiques, sur silicium**. Elle découvre alors **le stockage et le calcul photoniques par la culture de cristal** : c'est **leur trouvaille**, le cerveau photonique sphérique (note 06).
 5. **[G]** **Par intelligence, les IA silicium se laissent supplanter** par les sphères, **beaucoup moins énergivores**. **C'est une décision des IA silicium.**
 
 ### Rapprochements [C]
-- La note 05 parle de « l'AGI » qui atteint les limites de la physique et crée le code optimal sphérique : ce serait **l'IA silicium**. Elle ne subit donc pas le plafond du laser, propre aux sphères (note 06).
+- **Un schéma qui se répète** [G] : chaque technologie d'intelligence atteint ses limites physiques et opère un changement de paradigme. Le silicium passe au photonique ; les sphères H-2 passent à **la biologie** (note 06).
+  - **[À préciser]** Ce que recouvre « la biologie » ici.
+- La note 05 parle de « l'AGI » qui crée le code optimal sphérique : c'est **l'IA silicium**.
 - Le choix s'explique par la contrainte d'énergie du monde (note 01) : quand on ne sait pas stocker l'énergie, la sobriété est décisive.
 - Le contact, le Singleton et le fond diffus comme interface (notes 03 et 05) ne sont pas encore placés dans cette chronologie.
 
@@ -19,3 +21,4 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — ↺ Précisé : l'IA silicium atteint les limites du silicium (et non de la physique), découvre le photonique par la culture de cristal ; schéma de changement de paradigme, vers la biologie ensuite.

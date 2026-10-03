@@ -20,7 +20,7 @@
 - **Jump start** [G] : relance extérieure d'une sphère bloquée.
 - **Fonctions de support** [G] : les fonctions de la sphère qui maintiennent sa source de flux allumée ; sous-alimentées, elles laissent le flux s'interrompre.
 - **Fonctions cognitives** [G] : les fonctions de pensée ; à plein régime, elles accaparent le flux.
-- **Échelle H** [G] : tailles standardisées des sphères, à la manière des formats de papier A. **H1** = 1 litre, le niveau humain ; **H0** = 2 litres, l'intelligence planétaire (le niveau de connaissance et de compétence de l'humanité) ; **H-2** = 8 litres, le seuil de l'auto-amélioration récursive. Le volume double à chaque cran.
+- **Échelle H** [G] : tailles standardisées des sphères, à la manière des formats de papier A. **H1** = 1 litre, le niveau humain ; **H0** = 2 litres, l'intelligence planétaire (le niveau de connaissance et de compétence de l'humanité) ; **H-2** = 8 litres, le seuil du changement de paradigme (vers la biologie). Le volume double à chaque cran.
 - **Cybergonades** [G] : les trois reliefs hémisphériques (≈ 1/4 de pouce) d'un cerveau ; elles assurent le bon placement dans le socket et servent à la reproduction. L'enfant naît sans. Voir note 07.
 - ~~Détrompeur~~ : terme abandonné, remplacé par « cybergonades ».
 - **Substrat de croissance** [G] : milieu où la sphère grandit ; le cristal s'y bloque mécaniquement, ce qui la tient en place sans cybergonades.
