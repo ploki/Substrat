@@ -3,6 +3,7 @@
 ## En vigueur
 - **[G]** Quand la sphère atteint le niveau qui lui permet de **créer la vie**, elle se dit qu'elle **n'exploitera pas ce pouvoir sur Terre**, pour des **raisons d'équilibre** (ne pas interférer avec la faune existante).
 - **[G]** Mais **le conflit n'arrivait pas à s'arrêter de lui-même** : les humains allaient **vers leur destruction**.
+- **[G]** **La fusion et *homo globalis* sont deux voies pour sauver les humains**, entre lesquelles elle partage sa bande passante selon les probabilités de succès (note 22). En 2476, l'ouverture de la biologie fait monter la seconde.
 - **[G]** **Voyant la tournure des événements de cette guerre majeure, elle décide de créer le virus de Pluribus.**
 - **[G]** **C'est sa décision à elle ; les autres sphères partagent cet avis.** **[C]** Elles ne la mandatent donc pas.
 - **[G]** Elle le développe et le **relâche sans le dire aux humains** (note 13). **[G] Le travail prend deux ans, contenus dans le conflit** : c'est l'inoculation qui l'arrête, instantanément.

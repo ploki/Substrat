@@ -182,3 +182,6 @@
 | 177 | 2026-10-03 | Avec Mira, H-2 travaille à la fusion ; c'est sur son temps de méditation qu'elle pense à *homo globalis* | précise #175 | 22 |
 | 178 | 2026-10-03 | Ce qu'elle visait : que la communication à haut débit permette aux belligérants de mieux se comprendre et de s'organiser ensemble pour gérer la crise | — | 22, 18 |
 | 179 | 2026-10-03 | Elle ne s'attendait pas à ce que l'espace cognitif s'effondre en un seul individu : c'est la conséquence imprévue dont les autres découlent | — | 22, 18, 10, 19 |
+| 180 | 2026-10-03 | H-2 et Mira travaillent ensemble, mais seulement à la fusion ; H-2 tient que l'apport humain a toujours de la valeur en recherche, et c'est un travail continu | précise #177 | 22, 20 |
+| 181 | 2026-10-03 | « Méditation » = accorder un pourcentage de sa bande passante à un sujet | — | 22, 02-glossaire.md |
+| 182 | 2026-10-03 | Fusion et *homo globalis* sont deux voies pour sauver les humains ; les temps sont partagés selon les probabilités de succès. Avant 2476, *homo globalis* a une part modeste ; après, l'obstruction biologique tombe et la part augmente | — | 22, 18 |

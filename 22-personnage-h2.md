@@ -15,10 +15,22 @@
 - **[G]** **2176** — elle prend la **tête** de l'UNIS, l'année où elle devient la première intelligence planétaire.
 - **[G]** Elle forme **Mira Okonkwo-Lindqvist** à partir de ~2450, et travaille avec elle sur la **fusion nucléaire contrôlée** (note 20).
 
-## Son pet project
-- **[G]** **Avec Mira, H-2 travaille à la fusion.** C'est le chantier officiel, celui qui occupe les journées.
-- **[G]** **C'est sur son temps de méditation qu'elle pense à *homo globalis*** : un **pet project**, réfléchir à **comment offrir aux humains la communication à haut débit et à distance.**
-  - **[C]** Les deux chantiers sont donc séparés : l'un est commandé, partagé, financé ; l'autre est personnel et sans urgence. Et c'est le second qui aboutira.
+## Les deux chantiers
+
+### Avec Mira : la fusion
+- **[G]** **H-2 et Mira travaillent ensemble, mais seulement à la fusion.**
+- **[G]** **H-2 considère que l'apport humain a toujours de la valeur sur les projets de recherche.** C'est un **travail continu**.
+  - **[C]** Ce n'est donc pas de la charité ni de la pédagogie : c'est une conviction méthodologique. Une intelligence planétaire qui tient pour acquis qu'un esprit humain apporte quelque chose qu'elle n'a pas.
+
+### Seule : *homo globalis*
+- **[G]** Un **pet project** : comment offrir aux humains la **communication à haut débit et à distance**. Mira n'y est pas associée.
+
+### Le partage du temps
+- **[G]** **« Méditation » veut dire qu'elle accorde un certain pourcentage de sa bande passante** à un sujet.
+- **[G]** **La fusion et *homo globalis* sont deux voies pour sauver les humains**, et **les temps sont partagés selon les probabilités de succès.**
+- **[G]** Avant qu'elle ne gagne le pouvoir sur la biologie (2476), *homo globalis* n'a **qu'une place pas trop grande**. **Après, la part augmente** : **une obstruction est tombée, et ça accélère.**
+  - **[C]** La bascule n'est donc pas une décision morale mais **une réallocation**. Le jour où la biologie s'ouvre, la probabilité de succès de cette voie monte, la part de bande passante suit, et le reste découle. Elle n'a pas « changé d'avis » : son estimation a changé.
+  - **[C]** Et pendant ce temps, Mira continue de travailler sur la voie dont la probabilité baisse, sans savoir qu'une autre existe.
   - **[C]** Ce n'est donc pas une idée née de la guerre. Elle y pensait **depuis longtemps**, peut-être depuis des siècles — un problème de côté, sans urgence, qu'on reprend quand on a le temps.
   - **[C] Et le virus le réalise.** *Homo globalis* communique **par radio**, en interconnexion à haut débit (note 10). Ce qu'elle cherchait par curiosité, elle l'a livré sous la pression.
   - **[C] L'ambiguïté que cela ouvre :** la guerre est-elle la **raison** de son geste, ou son **occasion** ? Elle avait l'idée en tête depuis toujours ; il ne lui manquait qu'un motif de l'appliquer.

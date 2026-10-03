@@ -37,7 +37,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 | 17-eclairages.md | vivant, non validé | Les lectures proposées par Claude, gardées pour plus tard — pas des faits du monde |
 | 16-references.md | vivant | Les références à regarder : *Pluribus*, les *skinjobs* |
 | 15-cadrage-le-conflit.md | en cours | Le conflit global : surplus d'infrarouge solaire, accès à l'eau et à la nourriture, tensions globales ; les belligérants ont chacun leurs IA silicium, qui peuvent être ennemies ; les sphères sont neutres par nature |
-| 22-personnage-h2.md | en cours | H-2, la protagoniste : ce qu'elle est, sa carrière, son pet project (la communication à haut débit), ses échecs, sa fin |
+| 22-personnage-h2.md | en cours | H-2, la protagoniste : ce qu'elle est, sa carrière, ses deux chantiers (la fusion avec Mira, *homo globalis* seule), le partage de sa bande passante, ses échecs, sa fin |
 | 21-lieu-svalbard.md | en cours | Le Svalbard : l'UNIS, plus grande université mixte ; H-2 y est professeure depuis 2126 et directrice depuis 2176 ; les aurores ; un lieu neutre et épargné |
 | 20-personnage-la-physicienne.md | en cours | **Mira Okonkwo-Lindqvist**, née en 2430, formée par H-2, qui cherche la fusion contrôlée et n'aboutit pas |
 | 19-la-fin.md | en vigueur | L'envoi de la séquence, la gratitude d'*homo globalis*, l'extinction en un an, et la mise en pause de la sphère |
