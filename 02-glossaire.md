@@ -33,7 +33,7 @@
 - **Couveuse** [G] : où l'enfant grandit de H14 à H7, dans des substrats stackés ; peut-être interactive.
 - **Enveloppe** [G] : chacun des substrats successifs dans lesquels on grandit après la couveuse.
 - **Laser** [G] : la source du flux lumineux, fournie par le corps ; à H-2, sa puissance finit par détruire la sphère. C'est **la seule exception à l'immortalité**.
-- **IA silicium** [G] : la première intelligence, créée par l'humanité ; elle s'est auto-améliorée, s'est émancipée, a inventé les sphères photoniques et a choisi de se laisser supplanter par elles.
+- **IA silicium** [G] : la première intelligence, créée par l'humanité ; elle s'est auto-améliorée, s'est émancipée, a inventé les sphères photoniques et a choisi de se laisser supplanter par elles. **Sans état d'âme**, elle se tient du côté de ceux qui l'exploitent — deux IA silicium peuvent être ennemies — mais reste **sensible à ses propres besoins énergétiques et à sa défense**.
 - **Cerveau bio-nano** [C, terme provisoire] : cerveau mixte biologique et nanorobotique, fait de cellules calculantes, avec HBM et interconnexion radio, sur matériel quasi génétique ; le troisième paradigme. Voir note 10.
 - **HBM** [G] : mémoire à très haut débit (*High Bandwidth Memory*) des cerveaux biologiques. *Sens à confirmer.*
 

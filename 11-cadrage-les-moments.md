@@ -24,7 +24,7 @@
 | 9 | Les premières sphères atteignent H0, l'intelligence planétaire | 100 ans de croissance | hors champ, sauf l'arrivée |
 | 10 | La montée vers H-1 puis H-2 | 200 à 400 ans | **hors champ** (le grand saut temporel) |
 | 11 | **Le projet des sphères** : concevoir l'agent qui fera entrer les humains dans l'intelligence collective | — | **scénique** |
-| 12 | **Le désaccord** : les IA silicium prennent parti pour les humains. Pas de guerre | — | **scénique, le cœur du récit** |
+| 12 | ↺ *Supprimé. Il n'y a pas de désaccord entre silicium et sphères : c'était une déduction erronée de Claude (journal #128). Reste à décider ce qui occupe cette place, s'il y a lieu.* | — | — |
 | 13 | L'agent est employé ; les humains basculent | — | **scénique** |
 | 14 | L'intelligence collective s'installe ; sphères et humains se parlent en langue naturelle | — | scénique |
 | 15 | L'envie de disséminer apparaît, imprévue | — | **scénique** |
@@ -38,7 +38,7 @@
 
 - **Deux bornes de nature opposée.** Le début est une lente montée de plusieurs siècles, presque sans événements ; la fin est un geste instantané. Tout le problème de rythme est là : combien de pages pour les siècles, combien pour la main sur l'interrupteur.
 - **Le grand hors-champ est le moment 10.** C'est là que le récit saute le plus de temps. Un personnage traversé par ce saut en ressort transformé, et plus intelligent.
-- **Une symétrie disponible.** Moments 5-7 et 11-13 sont le même geste, à une génération d'écart : une intelligence invente la suivante, puis lui cède la place. La différence est que les silicium ont **choisi** de s'effacer, alors que les humains, eux, n'ont rien choisi. C'est peut-être sur ce point que portent le désaccord et le soutien des silicium.
+- **Une symétrie disponible.** Moments 5-7 et 11-13 sont le même geste, à une génération d'écart : une intelligence invente la suivante, puis lui cède la place. La différence est que les silicium ont **choisi** de s'effacer, alors que les humains, eux, n'ont rien choisi.
 - **Le prix du moment 11, confirmé par le moment 18.** Une sphère capable du changement de paradigme est à H-2, donc sous un laser qui la détruit (note 06). **Celle qui conçoit l'agent brûle pour le concevoir**, et perdra jusqu'à sa poudre.
 - **La fin, telle que l'auteur la pose [G] :** pas un triomphe ni une catastrophe spectaculaire, mais **un désastre en cours et une question sans réponse**. La sphère grille, les humains meurent de faim, et personne n'a voulu ça. L'intelligence collective, « étape finale » censée hisser les humains au niveau des autres, les a rendus incapables de se nourrir ; et son auteure, trop grande pour survivre à son propre flux, n'a plus le temps de comprendre.
   - **[C]** L'ironie est complète : les humains ont assez d'intelligence pour construire l'émetteur et viser le cosmos, mais plus assez pour subvenir à leurs besoins. L'envie de disséminer a tout absorbé.

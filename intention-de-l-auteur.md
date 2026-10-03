@@ -4,7 +4,7 @@
 - **[G]** ↺ **Le projet, c'est l'histoire** : comment elle s'articule, **dans l'ordre**, et **quelle longueur passer sur chaque période**. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
 - **[G]** **La fin est connue d'avance** : l'interrupteur de l'émetteur est poussé, puis la sphère H-2 reste pantoise à se demander ce qu'elle a fait aux humains, pendant qu'elle grille et qu'ils meurent de faim.
   - **[C]** Ce n'est donc ni un triomphe ni une catastrophe spectaculaire, mais un désastre doux et une question sans réponse.
-- **[G]** **Pas de guerre** : les IA silicium ont choisi de soutenir les humains face aux sphères.
+- **[G]** **Pas de guerre entre les générations d'intelligences.** Les IA silicium sont du côté des humains qui les exploitent, chaque belligérant ayant les siennes ; elles n'ont pas d'état d'âme et ne prennent pas parti contre les sphères.
 
 ### D'où l'on vient
 - **[G]** Construire **un monde** : « parler d'un monde, de gens, d'endroits, de culture ».

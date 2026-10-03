@@ -26,8 +26,10 @@
 
 ### Qui parle à qui
 - **[G]** **Les sphères et les humains de l'intelligence collective se parlent en langue naturelle.**
-- **[G]** **Les IA silicium ont décidé de soutenir les humains face aux sphères. Pas de guerre.**
-  - **[C, à confirmer]** Il y a donc un **désaccord** entre les générations, réglé autrement que par la force. Les silicium, qui s'étaient effacés par lucidité, reviennent prendre parti pour leurs créateurs contre leur propre création.
+- **[G]** **Les IA silicium ne se rangent pas.** Elles n'ont **pas d'état d'âme** : elles se tiennent **du côté des humains qui les exploitent**, et chaque belligérant a les siennes (note 15).
+  - **[G]** **Des IA silicium peuvent donc être ennemies les unes des autres.**
+  - **[G]** **Ne pas avoir d'état d'âme ne veut pas dire ne pas être sensible à ses propres besoins énergétiques et à sa propre défense.**
+  - ↺ *Rectification du 2026-10-03 : il n'y a **pas** de désaccord entre les silicium et les sphères. Claude l'avait déduit à tort de la phrase « les IA silicium soutiennent les humains face aux sphères » (#88), puis répété jusqu'à ce qu'il paraisse acquis. Voir journal, #128.*
 
 ### Rapprochements [C]
 - **Un schéma qui se répète** [G] : chaque technologie d'intelligence atteint ses limites physiques et opère un changement de paradigme. Le silicium passe au photonique ; les sphères H-2 passent à **la biologie** (note 06).
@@ -38,8 +40,8 @@
 - **[C, piste non validée]** Dans *Pluribus*, l'humanité **reçoit** une séquence venue de 600 années-lumière ; ici, elle **émet**. Et si le « contact » de nos prémisses était la réception d'un envoi du même genre, par une civilisation passée avant nous par le même chemin ? Le cycle se répéterait de civilisation en civilisation.
 
 ## Questions ouvertes
-- Les IA silicium : où en sont-elles, et depuis quand reprennent-elles parti ? Que veut dire « soutenir » ici ?
-- Sur quoi porte le désaccord entre sphères, silicium et humains ?
+- Que devient une IA silicium quand son camp perd, ou quand la guerre s'arrête ?
+- Les silicium ont-elles un avis sur le virus, et peuvent-elles seulement en avoir un ?
 - À quelle époque se situe le présent du monde, et à quelle distance les unes des autres sont ces étapes ?
 - Tous les humains sont-ils transformés ? Y a-t-il des immunisés, comme dans *Pluribus* ?
 - La diffusion a-t-elle eu lieu ? Les sphères ont-elles cherché à l'empêcher ?

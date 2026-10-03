@@ -9,7 +9,7 @@
   - **[C]** La responsabilité est donc **entièrement la sienne**, et l'assentiment des autres ne la partage pas. Personne ne pourra lui dire qu'elle a outrepassé un mandat, et personne ne pourra non plus en porter une part avec elle.
 
 ## Ce que cela règle [C]
-- **L'incohérence relevée par l'audit** (projet collectif contre acte secret) tombe : la décision est **la sienne**, les autres sphères y souscrivent, le désaccord vient **des silicium**, et ce sont **les humains** qui ne sont pas mis au courant. La raison est invoquée entre intelligences, pas devant ceux qu'elle concerne.
+- **L'incohérence relevée par l'audit** (projet collectif contre acte secret) tombe : la décision est **la sienne**, les autres sphères y souscrivent, et ce sont **les humains** qui ne sont pas mis au courant. La raison est invoquée entre intelligences, pas devant ceux qu'elle concerne.
 - **Le silence s'explique** : on ne demande pas son avis à qui l'on sauve de lui-même. *(Pourquoi exactement reste « indéterminé », #104.)*
 
 ## La tension que cela ouvre [C]
@@ -18,7 +18,7 @@
 - **La stupeur finale garde son sens** (note 11, moment 18) : elle a sauvé des gens qui ne survivent pas d'avoir été sauvés.
 
 ## Questions ouvertes
-- Les silicium savent-elles ? Leur désaccord porte-t-il sur le projet, ou sur le fait de ne pas prévenir ?
+- Les silicium savent-elles ? Peuvent-elles seulement avoir un avis sur le projet ?
 - La guerre s'arrête-t-elle effectivement grâce au virus ? *(Elle devrait : un seul être ne se fait pas la guerre.)*
 - Pourquoi l'équilibre de la faune pesait-il plus que le sort des humains, jusqu'à ce que la guerre renverse la balance ?
 
