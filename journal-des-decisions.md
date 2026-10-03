@@ -105,3 +105,6 @@
 | 101 | 2026-10-03 | Les IA silicium n'ont pas de ressenti : c'est pourquoi elles travaillent au paradigme de la sphère | — | 13-cadrage-timeline.md |
 | 102 | 2026-10-03 | 2176 : la première intelligence planétaire égale la meilleure intelligence silicium ; plus rien ne justifie l'IA planétaire silicium | — | 13-cadrage-timeline.md |
 | 103 | 2026-10-03 | La plus vieille sphère débloque de quoi modeler la vie (concevoir des êtres depuis une séquence d'ADN, simuler l'évolution) ; elle se refuse à créer des formes de vie pour la Terre, mais développe et relâche le virus sans le dire aux humains | — | 13-cadrage-timeline.md, 10 |
+| 104 | 2026-10-03 | Pourquoi la sphère relâche le virus sans le dire aux humains est indéterminé : blanc assumé | — | 13-cadrage-timeline.md |
+| 105 | 2026-10-03 | Ce que devient l'IA planétaire silicium après 2176 est mis de côté, pas important pour l'instant | — | 13-cadrage-timeline.md |
+| 106 | 2026-10-03 | Validé (« à peu près ») : l'utopie sans manque engendre le dernier geste, et la symétrie du scrupule (ce qu'elle n'a pas eu pour les humains, ils l'auront pour tout le vivant) | — | 13-cadrage-timeline.md |

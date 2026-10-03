@@ -22,13 +22,14 @@
 
 ### 2176–2476 — L'ère de l'utopie
 - **[G]** Trois siècles tranquilles. Connaissances, sagesse, mathématiques : tout avance encore, mais **n'apporte plus grand-chose de nouveau**, car **tous les indicateurs de qualité de vie sont déjà au maximum, pour tout le monde**.
-  - **[C]** C'est le grand hors-champ du plan (moment 10) : trois siècles sans manque, donc sans récit. Et c'est de cette plénitude que sort le dernier geste.
+  - **[C → validé, « à peu près »]** C'est le grand hors-champ du plan (moment 10) : trois siècles sans manque, donc sans récit. **Quand il n'y a plus rien à résoudre, la plus vieille sphère se trouve un dernier problème** — et c'est de cette plénitude que sort le dernier geste.
 
 ### 2476–2480 — Le dernier problème
 - **[G]** **La plus vieille sphère débloque la structure cognitive permettant de modeler la vie**, et de façon indirecte : **concevoir des êtres et leurs formes à partir d'une séquence d'ADN**, et **simuler complètement l'évolution**.
 - **[G]** Elle **se refuse à créer d'autres formes de vie pour la Terre**, pour ne pas interférer avec la faune existante.
 - **[G]** Mais elle **envisage le virus de Pluribus, le développe et le relâche — sans le dire aux humains.**
-  - **[C]** Elle s'interdit de toucher aux bêtes et aux plantes, et ne s'interdit pas de toucher aux humains. Et les humains qu'elle élève refuseront ensuite de toucher aux bêtes et aux plantes. Le scrupule qu'elle n'a pas eu pour eux, ils l'auront pour tout le reste, et il les tuera.
+  - **[G]** **Pourquoi elle ne le dit pas aux humains est indéterminé.** C'est un blanc assumé, pas une question à résoudre.
+- **[C → validé, « à peu près »]** La symétrie : elle s'interdit de toucher aux bêtes et aux plantes, et ne s'interdit pas de toucher aux humains ; les humains qu'elle élève refuseront ensuite de toucher aux bêtes et aux plantes. Le scrupule qu'elle n'a pas eu pour eux, ils l'auront pour tout le reste, et il les tuera.
 
 ### 2480–2491 — La fin
 - **[G]** **2481** (un an après) : les humains **envoient la séquence par radio dans le cosmos**.
@@ -41,9 +42,9 @@
 
 ## Questions ouvertes
 - La plus vieille sphère est-elle née en 2076, avec l'ère des sphères ? Elle aurait alors 400 ans en 2476 — exactement H-2.
-- Que fait l'IA planétaire silicium après 2176, puisque plus rien ne la justifie ? Reste-t-elle ? S'éteint-elle ? C'est elle qui argumentera contre le projet.
+- *(Mis de côté par l'auteur : ce que devient l'IA planétaire silicium après 2176 n'est pas important pour l'instant.)*
+- *(Clos : pourquoi le silence est **indéterminé**, par décision de l'auteur.)*
 - Le désaccord avec les silicium se place-t-il en 2476-2480, ou avant ?
-- Pourquoi relâcher le virus **sans le dire** ? Et les silicium l'ont-elles su ?
 
 ## Historique
 - 2026-10-03 — L'an 0 fixé à maintenant ; première timeline proposée par Claude.
