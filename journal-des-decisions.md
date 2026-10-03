@@ -119,3 +119,4 @@
 | 115 | 2026-10-03 | Deux fronts suffisent pour le conflit, projetés depuis les dynamiques géopolitiques actuelles | ↺ nuance #112 (multidirectionnel) | 15-cadrage-le-conflit.md |
 | 116 | 2026-10-03 | Les sphères ont des émotions, comparables à celles des humains | — | 06, 13, 02-glossaire.md, intention-de-l-auteur.md |
 | 117 | 2026-10-03 | Terminologie des quatre formes : android (sphère + corps synthétique, avec slot adaptateur), cyborg (silicium + corps synthétique), robot (silicium + corps mécanique) ; reste à nommer la sphère en corps mécanique | — | 02-glossaire.md |
+| 118 | 2026-10-03 | La sphère en corps mécanique a trois noms selon le registre : mécanoïde (officiel), automate (péjoratif), châssis (atelier) | complète #117 | 02-glossaire.md |

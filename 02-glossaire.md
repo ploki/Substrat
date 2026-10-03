@@ -42,14 +42,16 @@ Qui habite quel corps. Le cerveau détermine le genre d'être, le corps détermi
 
 | | Corps synthétique / polymère | Corps mécanique |
 |---|---|---|
-| **Sphère** | **android** (avec slot adaptateur) | *à nommer* |
+| **Sphère** | **android** (avec slot adaptateur) | **mécanoïde** · **automate** · **châssis** |
 | **Silicium** | **cyborg** | **robot** |
 
 - **Android** [G] : une sphère dans un corps synthétique ou polymère, avec slot adaptateur.
 - **Cyborg** [G] : une IA silicium dans un corps synthétique ou polymère.
 - **Robot** [G] : une IA silicium dans un corps mécanique.
-- *Sphère dans un corps mécanique* : terme à trouver. Propositions de Claude **[C]** : **mécanoïde** (calqué sur android, registre formel) ; **automate** (ce qu'on en dit, teinté de mépris — cohérent avec le discours sur les sphères, note 15) ; **châssis** (vernaculaire d'atelier, « elle est en châssis »).
-  - **[C]** Les trois peuvent coexister : un terme officiel, un terme péjoratif, un terme d'atelier.
+- **Sphère dans un corps mécanique** [G] : **trois mots pour la même chose**, selon le registre.
+  - **Mécanoïde** : le terme officiel, calqué sur *android* (*mēchanē* + *eidos*). Celui de l'administration et des textes de loi.
+  - **Automate** : le terme péjoratif, qui sous-entend qu'elle n'éprouve rien — alors que les sphères ont des émotions. Cohérent avec le discours qui les dit « trop émotionnelles » pour la guerre (note 15). On ne peut pas être les deux à la fois ; c'est le propre des préjugés.
+  - **Châssis** : le vernaculaire d'atelier, par métonymie. « Elle est en châssis. »
 
 ## Termes abandonnés
 *(2026-10-03, avec l'histoire du contact et du Singleton — voir `archive/`)* : Singleton, contacteurs, temps Singleton, surface nulle / null space, warp, interface (fond diffus).
