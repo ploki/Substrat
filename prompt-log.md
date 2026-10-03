@@ -55,3 +55,5 @@
 53. 2026-10-03 — Plus de warp, plus de transmission d'énergie instantanée, plus de fond diffus cosmologique.
 54. 2026-10-03 — L'énergie et le monde importent peu : l'univers de la sandbox sera simplement la Terre normale, avec éventuellement quelques romantisations.
 55. 2026-10-03 — Estime qu'il est temps d'élaguer.
+56. 2026-10-03 — Demande où en est le projet.
+57. 2026-10-03 — Précise que le projet, c'est l'histoire : comment elle s'articule, dans l'ordre, et quelle longueur passer sur chaque période, car il voit des hors-champ pendant le déroulé — il faut entre 200 et 400 ans pour que la sphère en vienne à l'agent. L'histoire s'arrête quand l'interrupteur de l'émetteur est poussé. Les sphères et les humains de l'intelligence collective se parlent en langue naturelle. Les IA silicium ont décidé de soutenir les humains face aux sphères : pas de guerre.

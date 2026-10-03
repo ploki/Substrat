@@ -85,3 +85,8 @@
 | 81 | 2026-10-03 | Abandon du warp, de la transmission instantanée de l'énergie et du fond diffus comme interface. Le monde est borné par la vitesse de la lumière | ↺ #5 (warp), #8, #16 | 01, 05, 06, 02-glossaire.md, 00-index.md |
 | 82 | 2026-10-03 | Le décor de la sandbox est la Terre normale, avec quelques romantisations ; les questions d'énergie et de cosmologie sont écartées | clôt les questions ouvertes de #54, #81 | 01-cadrage-premisses.md, intention-de-l-auteur.md |
 | 83 | 2026-10-03 | Élagage du corpus : notes abandonnées déplacées dans `archive/`, code optimal sauvé dans la note 06, questions résolues et pistes mortes retirées | — | tout le corpus |
+| 84 | 2026-10-03 | Le projet est une histoire : son articulation, son ordre, et la longueur à passer sur chaque période | ↺ précise #3, #4 | intention-de-l-auteur.md, 00-index.md |
+| 85 | 2026-10-03 | L'histoire s'arrête quand l'interrupteur de l'émetteur est poussé | — | 09-cadrage-chronologie.md |
+| 86 | 2026-10-03 | Il faut entre 200 et 400 ans pour que les sphères en arrivent à concevoir l'agent ; le récit comporte des hors-champ | — | 09-cadrage-chronologie.md |
+| 87 | 2026-10-03 | Les sphères et les humains de l'intelligence collective se parlent en langue naturelle | — | 09-cadrage-chronologie.md |
+| 88 | 2026-10-03 | Les IA silicium soutiennent les humains face aux sphères ; pas de guerre | — | 09-cadrage-chronologie.md |

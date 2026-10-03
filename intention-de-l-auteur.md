@@ -1,12 +1,17 @@
 # Intention de l'auteur
 
 ## En vigueur
+- **[G]** ↺ **Le projet, c'est l'histoire** : comment elle s'articule, **dans l'ordre**, et **quelle longueur passer sur chaque période**. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
+- **[G]** **L'histoire s'arrête quand l'interrupteur de l'émetteur est poussé.** La fin est connue d'avance.
+- **[G]** **Pas de guerre** : les IA silicium ont choisi de soutenir les humains face aux sphères.
+
+### D'où l'on vient
 - **[G]** Construire **un monde** : « parler d'un monde, de gens, d'endroits, de culture ».
 - **[G]** Le concevoir « comme un openworld avec des NPC », avec « des amitiés, des inimitiés », puis « imaginer des histoires là-dedans, ou des aventures ».
 - **[G]** Piste : les livrables seraient des aventures. *(Question ouverte, pas encore une décision.)*
 - **[G]** Précision : il s'agit de « construire une sandbox intellectuelle bien peuplée de laquelle on peut extraire des aventures facilement. Les assets intellectuels sont là, il n'y a plus qu'à les utiliser. » « Open world / NPC » était une image, pas un projet de jeu.
 - **[G]** Le cadre reste la **hard SF** (voir `01-cadrage-premisses.md`).
-- **[C]** L'élan va du monde vers les histoires, pas l'inverse : le monde passe d'abord, les récits en découlent.
+- **[C → dépassé]** « L'élan va du monde vers les histoires » : vrai jusqu'au 2026-10-03, où l'auteur recentre tout sur l'histoire elle-même.
 - **[G]** Dans ce monde, **il importe peu que la sphère soit dans telle ou telle représentation**. Le corps est secondaire, et l'auteur ne veut pas en faire un enjeu.
 - **[G]** Référence revendiquée : la série ***Pluribus***.
 - **[G]** L'auteur **accepte de relâcher la hard SF** quand une idée le demande.
@@ -17,6 +22,7 @@
 - **[C, à confirmer]** Un motif traverse le monde : **la sphère de lumière** (le code optimal de l'IA silicium, rendu physique dans les cerveaux photoniques). *Les autres échelles de ce motif, fond diffus et Singleton, ont été abandonnées.*
 
 ## Historique
+- 2026-10-03 — ↺ Recentrage : le projet est l'histoire, son articulation et son rythme ; la fin est l'interrupteur de l'émetteur ; pas de guerre.
 - 2026-10-03 — ↺ L'auteur abandonne l'histoire du contact et celle du Singleton. Le cœur du projet est désormais la lignée des intelligences : silicium → sphères → humains transformés.
 - 2026-10-03 — Ajout des refus constatés et des observations de Claude sur la manière de construire.
 - 2026-10-02 — Précision : sandbox intellectuelle ; maintien de la hard SF, avec cinq domaines résolus et un premier contact.
