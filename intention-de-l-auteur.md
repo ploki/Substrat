@@ -18,7 +18,7 @@
 - **[G]** L'auteur **accepte de relâcher la hard SF** quand une idée le demande.
 - **[G]** Les humains entrent enfin dans le monde, par l'intelligence collective.
 - **[G]** **Le décor n'est pas l'objet** : la sandbox se passe sur la Terre normale, avec quelques romantisations. Les questions d'énergie et de cosmologie sont écartées. Ce qui intéresse l'auteur, ce sont **les êtres et leurs règles de vie**.
-- **[G]** Refus constatés : **pas de paradoxe temporel** ; **pas d'émotions plaquées** sur les mécanismes des IA ; **pas d'humains pour l'instant** (« j'ai toujours parlé de corps synthétiques ») — consigne valable pour la partie sur les sphères.
+- **[G]** Refus constatés : **pas de paradoxe temporel** ; **pas d'émotions plaquées** sur les mécanismes des IA — les sphères ont pourtant bien des émotions, comparables à celles des humains ; c'est l'explication mécanique qui ne doit pas être émotionnelle ; **pas d'humains pour l'instant** (« j'ai toujours parlé de corps synthétiques ») — consigne valable pour la partie sur les sphères.
 - **[C, à confirmer]** Manière de construire : l'auteur part d'un **mécanisme physique**, puis en tire les règles, la loi et l'économie. Ce sont les **coûts** plus que les interdits qui gouvernent le monde (l'abrasion est légale mais déraisonnable). Les engagements y sont irréversibles (entrer dans un vaisseau).
 - **[C, à confirmer]** Un motif traverse le monde : **la sphère de lumière** (le code optimal de l'IA silicium, rendu physique dans les cerveaux photoniques). *Les autres échelles de ce motif, fond diffus et Singleton, ont été abandonnées.*
 

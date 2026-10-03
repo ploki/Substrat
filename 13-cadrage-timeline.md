@@ -12,6 +12,7 @@
 - **[G]** **Les IA silicium n'ont pas de ressenti.** Discernement, jugement et flair ne font pas des émotions sincères.
 - **[G]** C'est pour cela qu'elles **travaillent à un nouveau paradigme : la sphère.**
   - **[C]** Conséquence : le changement de paradigme n'est pas qu'une affaire d'énergie. Les silicium cherchent quelque chose qu'elles n'ont pas. Elles fabriquent ce qui pourra éprouver à leur place.
+  - **[C]** Et **elles y parviennent** : les sphères ont des émotions comparables à celles des humains (note 06). Trois siècles plus tard, c'est ce succès qu'on leur reprochera pour les écarter de la guerre (note 15).
 
 ### 2076–2176 — L'ère des sphères
 - **[G]** **2076** : l'ère des sphères démarre. Les variétés de nouvelles intelligences se développent.

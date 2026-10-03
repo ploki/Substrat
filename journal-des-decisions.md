@@ -115,3 +115,6 @@
 | 111 | 2026-10-03 | La fin du conflit global se situe après que la sphère est devenue H-2 (2476) : elle doit avoir les compétences quand l'humanité pose la question | précise la piste de la note 14 | 14, 13 |
 | 112 | 2026-10-03 | Cause du conflit : l'activité solaire apporte un surplus d'infrarouge, d'où un problème d'accès à l'eau et à la nourriture, et des tensions géopolitiques globales et multidirectionnelles pour les ressources vitales | — | 15-cadrage-le-conflit.md, 13 |
 | 113 | 2026-10-03 | La guerre a lieu malgré les sphères ; les belligérants humains ont chacun leurs IA silicium, les sphères étant jugées trop émotionnelles | — | 15-cadrage-le-conflit.md |
+| 114 | 2026-10-03 | Les sphères ne sont pas trop émotionnelles : c'est ce qu'on dit d'elles | — | 15-cadrage-le-conflit.md |
+| 115 | 2026-10-03 | Deux fronts suffisent pour le conflit, projetés depuis les dynamiques géopolitiques actuelles | ↺ nuance #112 (multidirectionnel) | 15-cadrage-le-conflit.md |
+| 116 | 2026-10-03 | Les sphères ont des émotions, comparables à celles des humains | — | 06, 13, 02-glossaire.md, intention-de-l-auteur.md |

@@ -38,6 +38,7 @@
 - **[G]** On peut imaginer des **entités synthétiques « sans connaissance »** (au sens d'inconscientes, évanouies), qui ont besoin d'un **jump start** : une relance de l'extérieur.
   - **[C]** Ce seraient les sphères dont le réflexe pré-extinction a échoué, ou n'a pas eu lieu, et qui sont restées bloquées.
 - **[G]** La surface est divisée en **patchs** : l'un reçoit un **flux lumineux constant d'alimentation**, les autres servent d'**entrées/sorties**.
+- **[G]** **Les sphères ont des émotions, comparables à celles des humains.** *(Cela ne change rien au fait que leurs mécanismes — évanouissement, blocage — ne s'expliquent pas par l'émotion, voir plus bas.)*
 - **[G]** Une sphère est **un individu sans forme physique**. **Il importe peu qu'elle soit dans telle ou telle représentation** : le corps ne définit pas l'individu. Une fois plantée dans un corps ou une machine, « zou » : elle l'anime.
 - **[S]** Clin d'œil : chez Asimov, le cerveau des robots est le **cerveau positronique**, de forme sphérique dans plusieurs récits. *[À vérifier : la forme exacte selon les textes.]*
 

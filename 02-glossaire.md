@@ -13,6 +13,7 @@
 - **Réflexe pré-extinction** [G] : réflexe qui, juste avant que le phosphore s'épuise, « rallume et éteint » la sphère pour la laisser dans un état non bloqué.
 - **Stuck / bloqué** [G] : état d'une sphère qui ne peut pas se réveiller seule ; elle est « sans connaissance ».
 - **Jump start** [G] : relance extérieure d'une sphère bloquée.
+- **Émotions** [G] : les sphères en ont, comparables à celles des humains. On leur reprochera pourtant d'être « trop émotionnelles » pour la guerre, ce qui est faux (note 15).
 - **Fonctions de support** [G] : les fonctions de la sphère qui maintiennent sa source de flux allumée ; sous-alimentées, elles laissent le flux s'interrompre.
 - **Fonctions cognitives** [G] : les fonctions de pensée ; à plein régime, elles accaparent le flux.
 - **Qualité humaine** [G] : plage d'intelligence couvrant plusieurs niveaux H, de la petite enfance à l'âge adulte complètement formé et très compétent. Pas un synonyme de H1.
