@@ -19,6 +19,7 @@
 - **[C]** Conséquence : **le monde est borné par la vitesse de la lumière.** Les distances redeviennent du temps, et la question du paradoxe temporel ne se pose plus (cohérent avec le refus des paradoxes exprimé par l'auteur le 2026-10-02).
 
 ### L'énergie
+- **[G]** **La fusion nucléaire contrôlée n'est pas acquise**, malgré les sphères et les intelligences planétaires : tout laisse à croire que **le problème dépasse H-2** (note 20).
 - **[G]** **Limite : la densité de stockage de l'énergie n'est ni résolue ni miniaturisée.**
   - **[C, à confirmer]** Lecture proposée : on sait *produire* beaucoup d'énergie, mais pas la *stocker* de façon compacte. Pas de « batterie miracle » portative.
   - **[C, piste non validée]** Conséquences possibles : les corps et les machines dépendent d'une alimentation extérieure ; la *proximité d'une source d'énergie* comme enjeu géographique, économique et politique ; l'autonomie énergétique comme marqueur de statut ou de puissance.

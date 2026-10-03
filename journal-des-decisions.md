@@ -155,3 +155,7 @@
 | 150 | 2026-10-03 | « Surface » est largement obsolète : tout son dispositif reposait sur le fry | suite de #143 | livrable/surface.md |
 | 151 | 2026-10-03 | Dates arrêtées : inoculation 2480, émission 2481, extinction 2481-2482, stase 2482. Durée totale du récit : 456 ans | clôt #141 | 13, 19, 00-index.md |
 | 152 | 2026-10-03 | « Surface » est archivé | suite de #150 | archive/surface.md |
+| 153 | 2026-10-03 | Le cadre de narration est « avant la stase » (option a) | choisit parmi les options de la frise | 11, livrable/frise-narrative.md |
+| 154 | 2026-10-03 | Premier personnage : une femme née en 2430, 50 ans en 2480, chercheuse en physique formée par H-2, avec qui elle travaille depuis ses études | — | 20-personnage-la-physicienne.md |
+| 155 | 2026-10-03 | Son objet : la fusion nucléaire contrôlée. Les efforts continuent pendant la guerre, la fusion étant vue comme une solution à tous les conflits par la désalinisation de l'eau | — | 20 |
+| 156 | 2026-10-03 | La fusion n'aboutit pas : tout laisse à croire que le problème dépasse H-2 | — | 20, 01 |
