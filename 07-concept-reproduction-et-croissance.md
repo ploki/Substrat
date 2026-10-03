@@ -60,25 +60,30 @@
 - **[C]** Avec le modèle A, chaque cran dure deux fois plus que le précédent : le dernier cran représente la moitié du temps total. Passer de H20 à H1 prend ≈ 524 000 unités. Si l'on veut une enfance d'environ 20 ans de H14 à H1, l'unité vaut ≈ 20 minutes.
 - **[C]** Avec le modèle B, passer de H20 à H1 ne prend que ≈ 306 unités, et chaque cran ne dure qu'environ 1,26 fois plus que le précédent.
 
-- **[G]** ↺ Calibrage : **arriver à complétion de H1 prend 100 ans**, depuis la naissance (H14), avec le modèle A. L'unité de temps vaut alors ≈ 1.67 heure, soit environ 1 h 40.
-  - *Première lecture abandonnée : le seul cran H2 → H1 durait 100 ans (malentendu de Claude).*
+- **[G]** ↺ Calibrage : **arriver à complétion de H1 prend 50 ans** depuis la naissance (H14), avec le modèle A. L'unité de temps vaut alors ≈ 50 minutes.
+  - *Calibrages précédents : 100 ans pour atteindre H1 complet ; avant cela, 100 ans pour le seul cran H2 → H1 (malentendu de Claude).*
 
-| Cran atteint | Durée du cran | Âge depuis H14 (naissance) |
-|---|---|---|
-| H13 | 4,5 jours | 4,5 jours |
-| H12 | 8,9 jours | 13,4 jours |
-| H11 | 17,8 jours | 31,2 jours |
-| H10 | 35,7 jours | 2,2 mois |
-| H9 | 2,3 mois | 4,5 mois |
-| H8 | 4,7 mois | 9,2 mois |
-| H7 | 9,4 mois | 18,6 mois |
-| H6 | 18,8 mois | 3,1 ans |
-| H5 | 3,1 ans | 6,2 ans |
-| H4 | 6,3 ans | 12,5 ans |
-| H3 | 12,5 ans | 25 ans |
-| H2 | 25 ans | 50 ans |
-| H1 | 50 ans | 100 ans |
-| H0 | 100 ans | 200 ans |
+| Cran atteint | Volume | Diamètre | Durée du cran | Âge depuis H14 (naissance) |
+|---|---|---|---|---|
+| H13 | 0,24 mL | 7,8 mm | 2,2 jours | 2,2 jours |
+| H12 | 0,49 mL | 9,8 mm | 4,5 jours | 6,7 jours |
+| H11 | 0,98 mL | 12,3 mm | 8,9 jours | 15,6 jours |
+| H10 | 1,95 mL | 15,5 mm | 17,8 jours | 33,4 jours |
+| H9 | 3,91 mL | 19,5 mm | 35,7 jours | 2,3 mois |
+| H8 | 7,81 mL | 24,6 mm | 2,3 mois | 4,6 mois |
+| H7 | 16 mL | 31,0 mm | 4,7 mois | 9,3 mois |
+| H6 | 31 mL | 39,1 mm | 9,4 mois | 18,7 mois |
+| H5 | 62 mL | 49,2 mm | 18,8 mois | 3,1 ans |
+| H4 | 125 mL | 62,0 mm | 3,1 ans | 6,2 ans |
+| H3 | 250 mL | 78,2 mm | 6,3 ans | 12,5 ans |
+| H2 | 500 mL | 98,5 mm | 12,5 ans | 25 ans |
+| **H1** | 1 L | 12,4 cm | 25 ans | **50 ans** |
+| H0 | 2 L | 15,6 cm | 50 ans | 100 ans |
+| H-1 | 4 L | 19,7 cm | 100 ans | 200 ans |
+| H-2 | 8 L | 24,8 cm | 200 ans | 400 ans |
+| H-3 | 16 L | 31,3 cm | 400 ans | 800,1 ans |
+| H-4 | 32 L | 39,4 cm | 800,1 ans | 1 600,2 ans |
+| H-5 | 64 L | 49,6 cm | 1 600,2 ans | 3 200,4 ans |
 
 ### Le coût des enfants
 - **[G]** Ce qui freine la démographie d'une population immortelle : **le risque de ne pas avoir les moyens de payer le substrat** pour la croissance de ses enfants.
@@ -136,6 +141,7 @@
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
+- 2026-10-03 — ↺ Calibrage : H1 complet en 50 ans ; table étendue jusqu'à H-5.
 - 2026-10-03 — ↺ Calibrage corrigé : atteindre H1 complet depuis la naissance prend 100 ans.
 - 2026-10-03 — Calibrage : remplir H1 prend 100 ans (mal compris).
 - 2026-10-03 — Table des tailles H0–H20 et durées de croissance (modèles A et B).

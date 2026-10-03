@@ -44,3 +44,4 @@
 42. 2026-10-03 — Demande un tableau des tailles de H0 à H20 et, en supposant une unité de temps par unité de volume pour passer de H20 à H19, comment s'étale la croissance.
 43. 2026-10-03 — Partons du principe que remplir H1 prend 100 ans.
 44. 2026-10-03 — Corrige : il voulait dire qu'arriver à complétion de H1 prend 100 ans.
+45. 2026-10-03 — Demande de refaire le calcul avec H1 atteint en 50 ans, et d'ajouter quelques niveaux au-delà de 100 ans.

@@ -68,3 +68,4 @@
 | 64 | 2026-10-03 | Il importe peu qu'une sphère soit dans telle ou telle représentation ; le corps ne définit pas l'individu | écarte une piste [C] (frontière enfant / animal / appareil) | 06, 07, intention-de-l-auteur.md |
 | 65 | 2026-10-03 | Calibrage de la croissance : remplir H1 (cran H2 → H1) prend 100 ans, débit constant en volume | — | 07-concept-reproduction-et-croissance.md |
 | 66 | 2026-10-03 | Calibrage corrigé : arriver à complétion de H1 depuis la naissance prend 100 ans | ↺ #65 (cran H2 → H1 = 100 ans, malentendu) | 07-concept-reproduction-et-croissance.md |
+| 67 | 2026-10-03 | Calibrage : arriver à complétion de H1 prend 50 ans depuis la naissance | ↺ #66 (100 ans) | 07-concept-reproduction-et-croissance.md |
