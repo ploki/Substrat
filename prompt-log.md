@@ -95,3 +95,4 @@
 94. 2026-10-03 — 2126 est très bien ; demande de tout consigner.
 95. 2026-10-03 — Demande de mettre à jour la frise, puis de relancer l'audit de cohérence.
 96. 2026-10-03 — (audit relancé à sa demande)
+97. 2026-10-03 — Valide la borne de ~2470. Demande un petit tableau des ères, une ligne par taille H, et ce que changerait une nomination de H-2 à la fin de H0 plutôt que de H1.

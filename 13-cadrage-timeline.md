@@ -2,6 +2,26 @@
 
 **[G] L'an 0 est aujourd'hui : la première AGI, c'est maintenant (2026).** Les dates et les ères qui suivent sont de l'auteur **[G]**, sauf mention contraire.
 
+## La frise et la croissance de H-2
+**Les ères du monde sont les étapes de croissance de la première sphère.** Née en 2076, H-2 traverse l'échelle H, et ses paliers tombent sur les dates que l'auteur avait données indépendamment.
+
+| Niveau | Âge | Date | Ce qui se passe dans le monde |
+|---|---|---|---|
+| H14 | 0 | **2076** | Sa fabrication. Début de l'ère des sphères |
+| H13 → H8 | qq jours → 5 mois | 2076 | En couveuse |
+| H7 | 9 mois | 2076-2077 | Sortie de couveuse ; début des enveloppes successives |
+| H6 | 1,6 an | 2077-2078 | |
+| H5 | 3 ans | 2079 | |
+| H4 | 6 ans | 2082 | **[G]** Vers 2081, des intelligences de qualité enfant existent |
+| H3 | 12,5 ans | 2088-2089 | Qualité pré-adulte |
+| H2 | 25 ans | **2101** | **[G]** « Énormément de sphères d'intelligence de qualité humaine » |
+| H1 | 50 ans | **2126** | **[G]** Elle prend la direction de l'UNIS. Fin de l'ère des sphères |
+| H0 | 100 ans | **2176** | **[G]** Première intelligence planétaire ; dernier problème écologique résolu |
+| H-1 | 200 ans | 2276 | L'utopie |
+| H-2 | 400 ans | **2476** | **[G]** Elle débloque de quoi modeler la vie — **pendant la guerre** |
+
+*Les dates de 2101, 2126 et 2176 avaient été données par l'auteur sans ce calcul : elles tombent exactement sur H2, H1 et H0.*
+
 ## Les ères
 
 ### 2026–2040 — L'ère du cloud
@@ -28,7 +48,8 @@
 - **[G]** Le **dernier problème écologique** est en passe d'être résolu. **Plus rien ne justifie l'existence de l'IA planétaire silicium face à la sphère.**
 
 ### 2176–~2470 — L'ère de l'utopie
-> **[À trancher par l'auteur]** Cette ère était donnée comme allant jusqu'à **2476**. Or le phénomène solaire frappe vers 2468-2470 et la guerre court de 2470 à 2480 (notes 15, 20) : six ans de guerre tombaient à l'intérieur de « trois siècles tranquilles ». La borne proposée est donc **~2470**, début du conflit. *(La date de 2476 venait de #111, motivée par la piste abandonnée de la note 14 — elle n'a plus de raison d'être, puisque les humains ne demandent plus rien et que la sphère atteint H-2 en 2476, pendant la guerre.)*
+- **[G]** ↺ L'ère de l'utopie s'achève **vers 2470**, au début du conflit, et non en 2476. *(La borne de 2476 venait de #111, motivée par la piste abandonnée de la note 14.)*
+  - **[C]** Conséquence : **H-2 atteint H-2 en 2476, c'est-à-dire pendant la guerre.** Elle acquiert le pouvoir de modeler la vie au milieu du conflit, et non avant.
 - **[C]** Un **conflit global** éclaterait vers la fin de cette ère et la terminerait — l'auteur n'a fixé que sa **fin**, après 2476 (#111) : l'activité solaire apporte un surplus d'infrarouge, l'eau et la nourriture deviennent difficiles d'accès, et les tensions pour les ressources vitales deviennent globales (note 15). L'utopie n'aura donc pas empêché la guerre.
 - **[G]** Trois siècles tranquilles. Connaissances, sagesse, mathématiques : tout avance encore, mais **n'apporte plus grand-chose de nouveau**, car **tous les indicateurs de qualité de vie sont déjà au maximum, pour tout le monde**.
   - **[C → validé, « à peu près »]** C'est le grand hors-champ du plan (moment 10) : trois siècles sans manque, donc sans récit. **Quand il n'y a plus rien à résoudre, la plus vieille sphère se trouve un dernier problème** — et c'est de cette plénitude que sort le dernier geste.

@@ -171,3 +171,5 @@
 | 166 | 2026-10-03 | Frise narrative, troisième version : Mira et le Svalbard intégrés, cadre de narration fixé avant la stase, ironie centrale au cœur | — | livrable/frise-narrative.md |
 | 167 | 2026-10-03 | Audit de cohérence : dix-huit incohérences relevées, dont seize corrigées (propagation de la stase et de la neutralité dans les notes 09, 11, 15, 16, l'index, le glossaire, l'intention et les éclairages ; doublons de questions closes ; comptes du livrable) | — | tout le corpus |
 | 168 | 2026-10-03 | Cinq marquages [G] suspects ramenés à [C] ou allégés (la fin « telle que l'auteur la pose », la durée de vie finie, le placement en H2 en 2101, l'absence de délibération, le démenti sur les émotions) | — | 06, 11, 13, 18, 02-glossaire.md |
+| 169 | 2026-10-03 | L'ère de l'utopie s'achève vers 2470, au début du conflit, et non en 2476 ; H-2 atteint donc H-2 pendant la guerre | ↺ #111 | 13 |
+| 170 | 2026-10-03 | Table des paliers : les ères du monde coïncident avec les étapes de croissance de la première sphère (H2 en 2101, H1 en 2126, H0 en 2176, H-2 en 2476) | — | 13 |
