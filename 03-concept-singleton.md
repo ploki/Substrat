@@ -1,5 +1,7 @@
 # 03 — Concept : le Singleton
 
+> **⚠ PISTE ABANDONNÉE (2026-10-03).** L'auteur a écarté l'histoire du contact et celle du Singleton : « l'histoire du contact et l'histoire du Singleton s'évanouissent ». Cette note est conservée pour mémoire du raisonnement, mais **rien de ce qu'elle contient ne vaut plus dans le monde**. Voir le journal, décision #80.
+
 ## En vigueur
 - **[G]** Il existe dans l'univers une chose **unique**, qu'on appelle **le Singleton**.
 - **[G]** ↺ L'hypothèse de plusieurs Singletons a été explorée puis **écartée** : elle ouvrait la porte à des paradoxes temporels (voir note 04), et l'auteur ne veut pas de paradoxe. Le Singleton est donc bien unique, comme au départ. Voir note 04, section « Plusieurs Singletons (piste écartée) ».

@@ -81,3 +81,4 @@
 | 77 | 2026-10-03 | La hard SF est volontairement relâchée : les êtres biologiques communiquent par radio (référence : *Pluribus*) | assouplit #5 | 01, 10, intention-de-l-auteur.md |
 | 78 | 2026-10-03 | Les sphères conçoivent l'agent qui fait entrer les humains dans l'intelligence collective, étape finale qui les met au même niveau d'intégration que les autres intelligences | — | 09, 10 |
 | 79 | 2026-10-03 | Les humains transformés ne peuvent s'empêcher de construire de quoi diffuser la séquence dans le cosmos ; les sphères ne l'avaient pas anticipé | — | 09 |
+| 80 | 2026-10-03 | L'histoire du contact et celle du Singleton sont abandonnées | ↺ #6, #9, #10, #11, #14, #17, #19, #20 | 01, 03, 04, 05, 02-glossaire.md, 00-index.md |

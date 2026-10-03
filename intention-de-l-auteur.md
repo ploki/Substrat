@@ -16,6 +16,7 @@
 - **[C, à confirmer]** Un motif unique traverse le monde : **la sphère de lumière**, à toutes les échelles (code optimal, fond diffus, cerveaux, Singleton).
 
 ## Historique
+- 2026-10-03 — ↺ L'auteur abandonne l'histoire du contact et celle du Singleton. Le cœur du projet est désormais la lignée des intelligences : silicium → sphères → humains transformés.
 - 2026-10-03 — Ajout des refus constatés et des observations de Claude sur la manière de construire.
 - 2026-10-02 — Précision : sandbox intellectuelle ; maintien de la hard SF, avec cinq domaines résolus et un premier contact.
 - 2026-10-02 — Ouverture : « écrire une petite histoire de hard SF ».

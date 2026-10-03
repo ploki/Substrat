@@ -20,11 +20,11 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 ## Notes
 | Note | Statut | Résumé |
 |------|--------|--------|
-| 01-cadrage-premisses.md | en cours | Hard SF, cinq domaines résolus (médecine, transhumanisme, warp, AGI, gravité), premier contact ; limite : stockage de l'énergie ; énergie transmise instantanément |
+| 01-cadrage-premisses.md | en cours | Hard SF, cinq domaines résolus ; limite : stockage de l'énergie ; énergie transmise instantanément. Contact abandonné |
 | 02-glossaire.md | vivant | Termes du projet |
-| 03-concept-singleton.md | en cours | Le Singleton, unique, conquis : une intelligence sphérique, référence causale ultime (fond diffus compris) ; le warp échange distance au Singleton contre temps |
-| 04-concept-physique-du-warp.md | proposition [C] | Formalisation u = t − r/c : surfaces nulles, causalité préservée, warp latéral instantané |
-| 05-concept-code-et-interface.md | en cours | L'AGI, le code sphérique optimal, le fond diffus comme interface vers le contenu du Singleton |
+| 03-concept-singleton.md | **abandonné** | Le Singleton, unique, conquis : une intelligence sphérique, référence causale ultime (fond diffus compris) ; le warp échange distance au Singleton contre temps |
+| 04-concept-physique-du-warp.md | **abandonné** | Formalisation u = t − r/c : surfaces nulles, causalité préservée, warp latéral instantané |
+| 05-concept-code-et-interface.md | partiellement abandonné | L'AGI, le code sphérique optimal, le fond diffus comme interface vers le contenu du Singleton |
 | 07-concept-reproduction-et-croissance.md | en cours | Reproduction par deux cybergonades (enfant ≈ H14, sans cybergonades) ; croissance continue et irréversible en substrat ; lois (stacking interdit, abrasion proscrite) ; entrer dans un vaisseau est un engagement |
 | 08-hypothese-memoire-par-croissance.md | hypothèse | Apprendre, c'est grandir : la mémoire s'inscrit sur la surface qui croît ; tensions avec l'abrasion et la fertilité |
 | 09-cadrage-chronologie.md | en cours | Humain → AGI silicium → sphère → intelligence collective humaine ; les transformés veulent disséminer la séquence dans le cosmos |

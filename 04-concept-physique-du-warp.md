@@ -1,5 +1,7 @@
 # 04 — Concept : la physique du warp
 
+> **⚠ PISTE ABANDONNÉE (2026-10-03).** L'auteur a écarté l'histoire du contact et celle du Singleton : « l'histoire du contact et l'histoire du Singleton s'évanouissent ». Cette note est conservée pour mémoire du raisonnement, mais **rien de ce qu'elle contient ne vaut plus dans le monde**. Voir le journal, décision #80.
+
 ## En vigueur
 **[C, à valider]** Formalisation de la règle de l'auteur (note 03).
 
