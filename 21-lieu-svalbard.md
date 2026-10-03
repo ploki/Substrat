@@ -5,7 +5,9 @@
 - **[G]** Les **aurores**, liées à l'activité solaire, y rendent **le paysage incroyable**.
   - **[C]** La même cause fait les deux : le Soleil qui assèche les basses latitudes illumine le ciel au-dessus d'elle. Elle travaille à réparer les effets d'un phénomène dont elle voit chaque nuit la plus belle manifestation.
 - **[G]** L'**University Centre in Svalbard (UNIS)** est **dirigé par H-2** depuis **une date à déterminer**, **en accord avec la Norvège**, dans le cadre d'un **accord entre humains et sphères**.
-  - **[À déterminer]** La date, et la nature de l'accord.
+- **[G]** **L'UNIS est la plus grande université mixte sphères/humains.**
+  - **[C]** Mixte veut dire que **les sphères y sont enseignées autant qu'enseignantes** : les jeunes sphères, qui mettent des décennies à atteindre le niveau humain, y grandissent à côté d'étudiants humains dont la vie entière dure moins qu'un de leurs cycles.
+  - **[C, proposition de date : 2126]** C'est l'année où **H-2 achève son H1**, cinquante ans après sa fabrication (note 07) : la première sphère, parvenue à l'intelligence humaine complète, se voit confier l'enseignement. C'est aussi la **borne que l'auteur donne à l'ère des sphères** (2076-2126), ce qui donnerait un sens à la période suivante. *Autre possibilité : 2176, l'année de la première intelligence planétaire.*
   - **[C]** C'est donc là que H-2 a formé Mira : l'enseignement est une fonction officielle de la sphère, encadrée par un traité.
 
 ### Pourquoi ce lieu tient [C]

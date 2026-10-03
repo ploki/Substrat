@@ -166,3 +166,4 @@
 | 161 | 2026-10-03 | Le lieu est le Svalbard, où les aurores liées à l'activité solaire rendent le paysage incroyable | répond à #160 | 21, 20 |
 | 162 | 2026-10-03 | L'University Centre in Svalbard est dirigé par H-2 depuis une date à déterminer, en accord avec la Norvège, dans le cadre d'un accord humains/sphères | — | 21 |
 | 163 | 2026-10-03 | *Homo globalis* se souvient des personnalités et de tout ce qui constituait les humains, globalement : rien n'est effacé | précise #90 | 10, 19, 02-glossaire.md |
+| 164 | 2026-10-03 | L'UNIS est la plus grande université mixte sphères/humains | — | 21 |

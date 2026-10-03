@@ -91,3 +91,4 @@
 90. 2026-10-03 — Retient le nom Mira Okonkwo-Lindqvist et demande de consigner l'ironie centrale.
 91. 2026-10-03 — Mira ne sait pas : H-2 ne lui dit rien. Il faut trouver un endroit sur Terre qui serait moins affecté et pas trop impliqué dans le conflit.
 92. 2026-10-03 — Retient le Svalbard, où les aurores liées à l'activité solaire rendent le paysage incroyable. L'University Centre in Svalbard est dirigé par H-2 depuis une date à déterminer, en accord avec la Norvège, dans le cadre d'un accord entre humains et sphères. Attention avec homo globalis : il faut noter que la conscience collective se souvient des personnalités et de tout ce qui constituait les humains, globalement.
+93. 2026-10-03 — Demande une proposition de date pour l'UNIS. L'UNIS est la plus grande université mixte sphères/humains.
