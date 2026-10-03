@@ -43,10 +43,11 @@ Qui habite quel corps. Le cerveau détermine le genre d'être, le corps détermi
 | | Corps synthétique / polymère | Corps mécanique |
 |---|---|---|
 | **Sphère** | **android** (avec slot adaptateur) | **mécanoïde** · **automate** · **châssis** |
-| **Silicium** | **cyborg** | **robot** |
+| **Silicium** | **humanoïde** | **robot** |
 
 - **Android** [G] : une sphère dans un corps synthétique ou polymère, avec slot adaptateur.
-- **Cyborg** [G] : une IA silicium dans un corps synthétique ou polymère.
+- **Humanoïde** [G] : une IA silicium dans un corps synthétique ou polymère. ↺ *Remplace « cyborg », abandonné le 2026-10-03.*
+  - **[C]** À surveiller à l'écriture : *android* et *humanoïde* sont quasi synonymes dans l'usage courant, et c'est pourtant ici la distinction entre sphère et silicium. Le contexte devra la porter.
 - **Robot** [G] : une IA silicium dans un corps mécanique.
 - **Sphère dans un corps mécanique** [G] : **trois mots pour la même chose**, selon le registre.
   - **Mécanoïde** : le terme officiel, calqué sur *android* (*mēchanē* + *eidos*). Celui de l'administration et des textes de loi.
