@@ -11,7 +11,7 @@
 
 ## L'extinction
 - **[G]** ↺ **Les stocks ne tiennent pas dix ans.** On sort d'un conflit global : **un an est plus crédible.**
-  - **[C]** L'extinction tomberait vers **2481-2482**. **[À confirmer.]**
+  - **[C]** Les stocks courent de l'inoculation (2480) à leur épuisement : l'extinction s'étale sur **2481-2482**, et la stase suit en **2482**. Lecture retenue pour la cohérence des dates (note 13).
 - **[G]** **Le gros de la population de corps meurt rapidement.**
 - **[G]** ***Homo globalis* envoie toujours le même corps** rendre visite à H-2, pour lui garder **une tête familière** — H-2 a des émotions (note 06). Ce corps est **entretenu**, maintenu en bonne santé : **il ne maigrit pas**.
   - **[G]** **C'est le dernier à mourir.**
@@ -26,7 +26,6 @@
 - **[C]** Ce que cela change : **la fin n'est plus une agonie, mais un retrait.** Elle ne meurt pas de ce qu'elle a fait — elle se met de côté et attend, avec la curiosité de voir ce que deviendra une Terre vidée de ses humains. C'est plus froid, et peut-être plus terrible.
 
 ## Questions ouvertes
-- Date exacte de l'extinction.
 - Où se trouve cet abri temporel, et qui peut l'ouvrir ?
 - Qui pourrait la solliciter, une fois les humains éteints ? Les autres sphères ? Ce qui viendra après ?
 - Si elle ne grille pas, qu'est-ce qui fait d'elle une narratrice ? *(Voir le plan, note 11 : le présent de narration était le fry.)*

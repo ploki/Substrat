@@ -1,6 +1,6 @@
 # 12 — Lecture à l'aveugle de « Surface » : les trous
 
-*Un agent neuf a lu `livrable/surface.md` seul, sans le corpus, le 2026-10-03. On ne consigne ici que **ce qu'il n'a pas compris** : ce sont les trous du livrable, pas du monde. Rien n'est à corriger tant que l'auteur ne l'a pas décidé.*
+*(Le livrable est désormais dans `archive/surface.md`.)* Un agent neuf l'a lu seul, sans le corpus, le 2026-10-03. On ne consigne ici que **ce qu'il n'a pas compris** : ce sont les trous du livrable, pas du monde. Rien n'est à corriger tant que l'auteur ne l'a pas décidé.*
 
 ## Trous francs
 | # | Trou | Ce que le lecteur a dû inventer | Statut |

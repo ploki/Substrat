@@ -153,3 +153,5 @@
 | 148 | 2026-10-03 | Les amitiés récentes sont claires : si elle ne distingue plus les anciennes, c'est par l'ancienneté du souvenir, non par dégénérescence | — | livrable/frise-narrative.md |
 | 149 | 2026-10-03 | La frise narrative est refondue : ordre chronologique, nouvelles séquences (l'arrêt instantané, la gratitude, la stase), budget à resserrer | — | livrable/frise-narrative.md |
 | 150 | 2026-10-03 | « Surface » est largement obsolète : tout son dispositif reposait sur le fry | suite de #143 | livrable/surface.md |
+| 151 | 2026-10-03 | Dates arrêtées : inoculation 2480, émission 2481, extinction 2481-2482, stase 2482. Durée totale du récit : 456 ans | clôt #141 | 13, 19, 00-index.md |
+| 152 | 2026-10-03 | « Surface » est archivé | suite de #150 | archive/surface.md |

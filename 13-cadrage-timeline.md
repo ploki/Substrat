@@ -38,13 +38,17 @@
 - **[C → validé, « à peu près »]** La symétrie : elle s'interdit de toucher aux bêtes et aux plantes, et ne s'interdit pas de toucher aux humains ; les humains qu'elle élève refuseront ensuite de toucher aux bêtes et aux plantes. Le scrupule qu'elle n'a pas eu pour eux, ils l'auront pour tout le reste, et il les tuera.
 
 ### 2480–2482 — La fin
-- **[G]** **2481** (un an après le relâchement) : les humains **envoient la séquence du virus par radio dans le cosmos** (note 19).
+- **2480** — le virus est relâché ; l'inoculation **arrête le conflit instantanément** ; *homo globalis* apparaît.
+- **2480-2481** — les premières conversations ; *homo globalis* analyse ce qu'il est devenu, séquence le virus, remonte jusqu'à H-2, qui confirme.
+- **2481** — **un an après le relâchement**, la séquence est **envoyée par radio dans le cosmos** [G].
 - **[G]** ↺ **Les stocks ne tiennent pas dix ans : on sort d'un conflit global, un an est plus crédible.**
-  - **[C]** L'extinction tomberait donc vers **2481-2482**, et non en 2491. **[À confirmer : la date exacte.]**
+- **2481-2482** — **extinction.** Le gros des corps meurt vite ; la tête familière, entretenue, est le dernier.
+- **2482** — **H-2 se met en stase.**
+  - **[C]** Les stocks courent de l'inoculation (2480) à leur épuisement : environ un an, l'extinction s'achevant en **2482**. C'est la lecture retenue pour la cohérence des dates.
 - **[G]** ↺ **La sphère ne grille pas** : elle se met en **pause**, dans un abri temporel (note 19).
 
 ## Durée totale
-**environ 456 ans**, de 2026 à ~2482. *(À confirmer avec la date d'extinction.)*
+**456 ans**, de 2026 à 2482.
 
 ## Questions ouvertes
 - La plus vieille sphère est-elle née en 2076, avec l'ère des sphères ? Elle aurait alors 400 ans en 2476 — exactement H-2.

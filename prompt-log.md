@@ -86,3 +86,4 @@
 85. 2026-10-03 — L'IA silicium qui perd se conforme, mais ce n'est pas important.
 86. 2026-10-03 — Demande de mettre à jour la frise narrative.
 87. 2026-10-03 — Écrit ses remarques directement dans la frise narrative et demande de les prendre en compte, de corriger les notes et de reformer la frise, en commitant ses remarques d'abord.
+88. 2026-10-03 — Compte sur Claude pour la cohérence des dates ; l'écart de 30 à 34 pages n'est pas grave, c'est l'ordre de grandeur qui compte. Demande d'archiver « Surface ».

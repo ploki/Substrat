@@ -11,11 +11,10 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 - Versionnement : git, un commit par itération ; `prompt-log.md` garde une réécriture propre de chaque message de l'auteur.
 
 ## Livrables
-- `livrable/surface.md` — l'ouverture, du point de vue de la sphère H-2, narrée depuis le fry final. **Largement obsolète** : la sphère ne grille plus.
 - `livrable/frise-narrative.md` — la frise narrative d'une nouvelle d'une trentaine de pages : quoi raconter, quand, sur combien de pages, avec des événements à explorer.
 
 ## Archive
-`archive/` contient les notes dont l'histoire a été abandonnée (le contact, le Singleton, le warp, le fond diffus). Elles ne valent plus rien dans le monde ; elles sont gardées pour mémoire du raisonnement.
+`archive/` contient ce qui a été abandonné : les notes du contact, du Singleton, du warp et du fond diffus, la piste de la demande des humains, et le livrable `surface.md`, dont tout le dispositif reposait sur un fry qui n'a plus lieu. Rien de tout cela ne vaut plus ; c'est gardé pour mémoire du raisonnement.
 
 ## Fichiers de suivi
 - `intention-de-l-auteur.md` — à lire en premier.
@@ -41,7 +40,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 | 19-la-fin.md | en vigueur | L'envoi de la séquence, la gratitude d'*homo globalis*, l'extinction en un an, et la mise en pause de la sphère |
 | 18-la-decision-de-la-sphere.md | en vigueur | La sphère décide seule de créer le virus, voyant que la guerre mène les humains à leur destruction |
 | 14-piste-la-demande-des-humains.md | **abandonnée** | Ce sont les humains qui demandent, après un conflit global ; H-2 exécute librement, sans le dire |
-| 13-cadrage-timeline.md | **en vigueur** | Les ères datées : cloud (2026), émancipation (2040), sphères (2076), utopie (2176), le dernier problème (2476), extinction (2491) |
+| 13-cadrage-timeline.md | **en vigueur** | Les ères datées : cloud (2026), émancipation (2040), sphères (2076), utopie (2176), le dernier problème (2476), extinction et stase (2482) |
 | 12-lecture-aveugle-surface.md | relevé | Les trous de « Surface » vus par un lecteur neuf, sans le corpus |
 | 11-cadrage-les-moments.md | **le plan** | Les moments dans l'ordre, leur traitement (scénique, résumé, hors champ), et le point de vue |
 | 10-concept-cerveaux-biologiques.md | en cours | Troisième paradigme : les humains transformés en une conscience unique distribuée, qui refuse de tuer pour se nourrir et ne dure que le temps des stocks |
