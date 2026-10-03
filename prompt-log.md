@@ -42,3 +42,4 @@
 40. 2026-10-03 — Il peut aussi exister un marché des cybergonades, par exemple celles qu'on récolte à chaque cycle de croissance d'un enfant. On peut s'en servir pour créer des animaux synthétiques de compagnie, les garder comme économies pour l'enfant, ou simplement équiper un appareil qui a besoin d'une sphère. Sur le coût de l'abrasion : il parle d'une abrasion bien faite, qui évite les problèmes de désalignement. Ceux qui se liment le cerveau au marché noir ne sont pas très nets.
 41. 2026-10-03 — Non : c'est un monde où il importe peu que la sphère soit dans telle ou telle représentation.
 42. 2026-10-03 — Demande un tableau des tailles de H0 à H20 et, en supposant une unité de temps par unité de volume pour passer de H20 à H19, comment s'étale la croissance.
+43. 2026-10-03 — Partons du principe que remplir H1 prend 100 ans.

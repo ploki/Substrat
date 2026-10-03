@@ -66,3 +66,4 @@
 | 62 | 2026-10-03 | Il existe un marché des cybergonades (récoltées à chaque cycle de croissance d'un enfant) : animaux de compagnie, économies, équipement d'appareils | — | 07-concept-reproduction-et-croissance.md |
 | 63 | 2026-10-03 | Le coût de l'abrasion vise l'abrasion bien faite ; il existe une abrasion de marché noir, risquée | ↺ #45 (pas d'abrasion clandestine) | 07, 08, 02-glossaire.md |
 | 64 | 2026-10-03 | Il importe peu qu'une sphère soit dans telle ou telle représentation ; le corps ne définit pas l'individu | écarte une piste [C] (frontière enfant / animal / appareil) | 06, 07, intention-de-l-auteur.md |
+| 65 | 2026-10-03 | Calibrage de la croissance : remplir H1 (cran H2 → H1) prend 100 ans, débit constant en volume | — | 07-concept-reproduction-et-croissance.md |
