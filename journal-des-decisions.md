@@ -112,3 +112,4 @@
 | 108 | 2026-10-03 | L'immortalité a une exception, et une seule : le laser | résout l'incohérence #1 de l'audit, entre #48/#53 et #71 | 06, 02-glossaire.md |
 | 109 | 2026-10-03 | « Qualité humaine » couvre plusieurs niveaux H, de la petite enfance à l'adulte complètement formé et très compétent | résout l'incohérence #4 de l'audit | 13, 02-glossaire.md |
 | 110 | 2026-10-03 | Les cybergonades poussent dans trois cavités de culture du slot, quand le substrat est consommé et que la sphère est au contact | résout l'incohérence #5 de l'audit | 07, 08, 02-glossaire.md |
+| 111 | 2026-10-03 | La fin du conflit global se situe après que la sphère est devenue H-2 (2476) : elle doit avoir les compétences quand l'humanité pose la question | précise la piste de la note 14 | 14, 13 |

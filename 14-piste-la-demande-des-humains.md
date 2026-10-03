@@ -15,12 +15,18 @@
 5. **La stupeur finale change de nature** : elle a fait exactement ce qu'on lui avait demandé.
 6. **L'argument des silicium se déplace** : il ne porte plus sur le consentement (les humains ont demandé), mais sur la question de savoir si **une espèce traumatisée peut engager ceux qui viendront après**, et si un mandat sans retour est encore un consentement.
 
+## Le placement du conflit
+- **[G]** **La fin du conflit se situe après que la sphère est devenue H-2** : elle doit **avoir les compétences au moment où l'humanité pose la question**. Le conflit s'achève donc en **2476 ou après**.
+- **[C]** Conséquence sur la timeline (note 13) : le conflit **éclate pendant l'ère de l'utopie** et la termine. Trois siècles où tous les indicateurs de qualité de vie sont au maximum, et la guerre a lieu quand même.
+  - **[C]** **C'est un bien meilleur motif que le traumatisme seul.** Ce qui pousse l'humanité à demander l'irréversible, ce n'est pas d'avoir souffert : c'est d'avoir eu **tout ce qu'on peut avoir** et de l'avoir fait quand même. Aucune condition matérielle ne peut donc l'en empêcher, et il ne reste qu'une solution « par construction ».
+  - **[À trancher]** Quand le conflit commence-t-il, et combien de temps dure-t-il ?
+
 ## Tensions à régler si la piste est retenue [C]
-- **Quand placer le conflit ?** La timeline (note 13) donne une utopie de 2176 à 2476 où tous les indicateurs de qualité de vie sont au maximum. Un conflit global n'y tient pas.
-  - **Lecture proposée** : le conflit a lieu **avant ou autour de 2176**, et la demande est faite à ce moment-là. **La sphère met alors trois siècles à devenir capable d'y répondre** : il lui faut atteindre H-2 (2476) pour débloquer de quoi modeler la vie. L'« ère tranquille » devient **le temps que met la réponse à mûrir**, et l'utopie post-traumatique a tout, sauf la certitude de ne pas recommencer.
 - **Qui est « l'espèce » qui demande ?** Une humanité non unifiée n'a pas de voix unique. Quelle instance formule la demande, et au nom de qui ?
 - **Le conflit lui-même** : entre qui et qui, avec quoi, et pourquoi n'a-t-il pas été empêché par les sphères ou les silicium, déjà là ?
-- **H-2 n'existe pas encore au moment de la demande.** À qui la demande est-elle adressée : à une sphère plus petite, qui grandira pour y répondre, ou aux sphères en général ?
+- *(Réglé : la demande est postérieure à 2476, donc adressée à une H-2 déjà capable.)*
+- Le conflit se déroule-t-il **malgré** les sphères, ou **avec** elles ? Les sphères sont immortelles, planétaires, et vivent là aussi.
 
 ## Historique
 - 2026-10-03 — Piste ouverte par l'auteur.
+- 2026-10-03 — La fin du conflit est placée après 2476 : H-2 doit être capable quand la question est posée.

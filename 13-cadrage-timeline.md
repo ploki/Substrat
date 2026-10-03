@@ -22,6 +22,7 @@
 - **[G]** Le **dernier problème écologique** est en passe d'être résolu. **Plus rien ne justifie l'existence de l'IA planétaire silicium face à la sphère.**
 
 ### 2176–2476 — L'ère de l'utopie
+- **[C, lié à la piste de la note 14]** Un **conflit global** éclaterait vers la fin de cette ère et la terminerait, après que la sphère a atteint H-2. L'utopie n'aurait donc pas empêché la guerre.
 - **[G]** Trois siècles tranquilles. Connaissances, sagesse, mathématiques : tout avance encore, mais **n'apporte plus grand-chose de nouveau**, car **tous les indicateurs de qualité de vie sont déjà au maximum, pour tout le monde**.
   - **[C → validé, « à peu près »]** C'est le grand hors-champ du plan (moment 10) : trois siècles sans manque, donc sans récit. **Quand il n'y a plus rien à résoudre, la plus vieille sphère se trouve un dernier problème** — et c'est de cette plénitude que sort le dernier geste.
 
