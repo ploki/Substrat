@@ -15,7 +15,7 @@
 - **[G]** Le cadre reste la **hard SF** (voir `01-cadrage-premisses.md`).
 - **[C → dépassé]** « L'élan va du monde vers les histoires » : vrai jusqu'au 2026-10-03, où l'auteur recentre tout sur l'histoire elle-même.
 - **[G]** Dans ce monde, **il importe peu que la sphère soit dans telle ou telle représentation**. Le corps est secondaire, et l'auteur ne veut pas en faire un enjeu.
-- **[G]** Référence revendiquée : la série ***Pluribus***. **La nouvelle en est du fan art**, et l'émetteur boucle sur elle volontairement (note 16).
+- **[G]** Référence revendiquée : la série ***Pluribus***. **La nouvelle en est du fan art**, et l'émetteur boucle sur elle volontairement : notre Terre est une civilisation émettrice parmi d'autres (note 16).
 - **[G]** L'auteur **accepte de relâcher la hard SF** quand une idée le demande.
 - **[G]** Les humains entrent enfin dans le monde, par l'intelligence collective.
 - **[G]** **Le décor n'est pas l'objet** : la sandbox se passe sur la Terre normale, avec quelques romantisations. Les questions d'énergie et de cosmologie sont écartées. Ce qui intéresse l'auteur, ce sont **les êtres et leurs règles de vie**.
