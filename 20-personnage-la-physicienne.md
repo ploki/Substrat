@@ -12,7 +12,7 @@
 - **[G]** **Mira et H-2 sont amies.**
 - **[G]** **Mira ne sait pas** ce que H-2 prépare. **H-2 ne lui dit rien.**
 - **[G]** **Mira n'est pas au courant du pet project** de H-2 (note 22) : elle en ignore jusqu'à l'existence.
-- **[G]** **Ces dernières années, elles se sont rapprochées.**
+- **[G]** ↺ **Elles se rapprochent pendant le doctorat de Mira**, quand celle-ci **décide de rester au Svalbard** pour y poursuivre ses recherches sur la fusion. *(D'abord formulé « ces dernières années ».)*
   - **[G]** C'est pour cela que ***homo globalis* choisit le corps de Mira** comme tête familière (note 19) — et ce choix va de soi : c'était **« une relation intime homo/sphère »**. *[« Intime » : proche comme un couple, mais sans attraction sexuelle ni amoureuse — précision de l'auteur, 2026-10-04.]*
   - **[C → validé]** Elle n'est donc ni complice ni témoin : elle est **tenue à l'écart par celle qui l'a formée**, et elle l'apprendra comme tout le monde — ou plutôt, elle ne l'apprendra pas, puisqu'elle cessera d'être quelqu'un au moment même de l'inoculation. C'est *homo globalis* qui découvrira, pas elle.
 
@@ -20,7 +20,7 @@
 
 | Âge | Date | |
 |---|---|---|
-| 0–38 | 2430–2468 | La fin de l'utopie. Études à l'UNIS, doctorat, post-doctorat ; la rencontre avec H-2 |
+| 0–38 | 2430–2468 | La fin de l'utopie. Études à l'UNIS, la rencontre avec H-2 ; **pendant le doctorat, elle choisit de rester au Svalbard, et elles se rapprochent** ; post-doctorat |
 | ~38–40 | 2468–2470 | Le phénomène solaire, puis l'eau qui manque |
 | 40–50 | 2470–2480 | La guerre. Les travaux continuent, et même s'intensifient : la fusion est l'issue qu'on espère |
 | **50** | **2480** | **L'inoculation.** Elle cesse d'être quelqu'un |
@@ -44,5 +44,6 @@
 - Comment une sphère neutre peut-elle former une humaine, et depuis quand H-2 enseigne-t-elle ?
 
 ## Historique
+- 2026-10-04 — ↺ Le rapprochement se place pendant le doctorat, quand Mira décide de rester au Svalbard.
 - 2026-10-04 — Validé : Mira est la tête familière ; elle ne saura jamais ; l'échec sur le plasma. Posé : Mira ignore le pet project ; elles se sont rapprochées ces dernières années.
 - 2026-10-03 — Personnage posé par l'auteur.

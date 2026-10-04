@@ -24,7 +24,7 @@ La protagoniste est **la sphère H-2**, la première de toutes, née en 2076. On
 
 ## Le fil de Mira
 
-Le récit a maintenant **deux foyers** : Niobé qui raconte, et **Mira Okonkwo-Lindqvist**. Leur relation est **intime** : proches comme un couple, mais **sans attraction sexuelle ni amoureuse**, et elles se sont **rapprochées ces dernières années**. Mira naît en 2430, étudie à l'UNIS, y devient l'élève puis la collaboratrice de Niobé, cherche la fusion pendant trente ans, et cesse d'être quelqu'un à cinquante ans. **Elle ignore jusqu'à l'existence du pet project, et ne saura jamais ce que Niobé a fait** : c'est *homo globalis* qui le découvrira. Son corps, entretenu, reviendra chaque fois rendre visite à la sphère : c'est **la tête familière**, et ce choix va de soi.
+Le récit a maintenant **deux foyers** : Niobé qui raconte, et **Mira Okonkwo-Lindqvist**. Leur relation est **intime** : proches comme un couple, mais **sans attraction sexuelle ni amoureuse**, et elles se sont **rapprochées pendant le doctorat de Mira**, quand celle-ci a choisi de rester au Svalbard. Mira naît en 2430, étudie à l'UNIS, y devient l'élève puis la collaboratrice de Niobé, cherche la fusion pendant trente ans, et cesse d'être quelqu'un à cinquante ans. **Elle ignore jusqu'à l'existence du pet project, et ne saura jamais ce que Niobé a fait** : c'est *homo globalis* qui le découvrira. Son corps, entretenu, reviendra chaque fois rendre visite à la sphère : c'est **la tête familière**, et ce choix va de soi.
 
 **La nouvelle peut tenir tout entière sur cette relation.** Les trois siècles qui précèdent deviennent alors un préambule bref, et la guerre n'est racontée que pour autant qu'elle traverse le Svalbard.
 
@@ -77,6 +77,7 @@ L'arrivée du second foyer.
 - **a.** **L'étudiante.** Elle arrive à l'UNIS vers vingt ans. Niobé y est depuis trois siècles : ce n'est pas une enseignante, c'est l'institution.
 - **b.** **Pourquoi celle-là.** Ce que Niobé voit en Mira qu'elle n'a pas vu chez les autres. *(À trouver — c'est ce qui justifie toute la nouvelle.)*
 - **c.** **La fusion.** Doctorat, post-doctorat : elles choisissent le problème ensemble. Il est énorme, et il est le bon : l'eau, l'énergie, tout en découle.
+- **c'.** **Rester.** Pendant son doctorat, Mira décide de rester au Svalbard pour continuer la fusion. **C'est là qu'elles se rapprochent**, jusqu'à être proches comme un couple, sans attraction sexuelle ni amoureuse. Scène possible : la décision de rester, et ce qu'elle change entre elles.
 - **d.** **Les aurores.** Le ciel au-dessus du Svalbard, illuminé par le Soleil même qui, plus bas, assèche les terres.
 - **e.** **Trente ans à la vitesse de la parole.** Leur collaboration se fait en mots, lentement. **Elle ne lui parle jamais du pet project** : Mira en ignore jusqu'à l'existence. — et le lecteur, lui, s'en souviendra.
 
@@ -85,7 +86,6 @@ La cause de tout, vue depuis un archipel qu'elle n'atteint pas.
 - **a.** **Le Soleil.** Le moment où l'on mesure le surplus, et où l'on comprend ce qu'il implique pour l'eau. Rien à voir avec la pollution : c'est le ciel.
 - **a'.** **Le Svalbard tient.** Démilitarisé par traité, épargné par la latitude, il devient l'endroit d'où l'on regarde. Et la glace qui fond y donne, pour un temps, plus d'eau douce que partout ailleurs.
 - **a''.** **Les travaux s'intensifient.** La fusion devient l'issue qu'on espère, pour dessaler l'eau et arrêter la guerre. On finance, on presse. **Et ça n'aboutit pas.**
-- **a'''.** **Le rapprochement.** Ces dernières années, les deux se sont rapprochées, jusqu'à être proches comme un couple, sans attraction sexuelle ni amoureuse. La guerre, l'urgence, le travail partagé à l'écart du monde.
 - **b.** **Ce qui ne s'arrête pas.** Chaque fois qu'on croit que c'est fini, ça reprend. Montrer la mécanique, pas la bataille.
 - **c.** **La neutralité.** Les sphères ne prennent pas parti — par nature. Scène possible : ce que c'est que d'être neutre quand on pourrait agir.
 - **d.** **Deux silicium ennemies.** Même espèce, même absence d'état d'âme, de part et d'autre du front, chacune âpre pour son alimentation et sa survie, aucune pour une cause. Vu par une sphère, c'est peut-être le plus étrange de cette guerre.
@@ -144,7 +144,7 @@ Une délibération solitaire, menée pendant que la guerre continue.
 - Le travail de la sphère se place en 2478-2480, à l'intérieur du conflit (sa durée de deux ans, elle, est fixée par le corpus, #137).
 - Elle peut consulter les archives de sa propre fabrication.
 - Mira arrive à l'UNIS vers vingt ans, soit vers 2450.
-- « Ces dernières années », le temps de leur rapprochement, est placé pendant la guerre (vers 2470-2480).
+- Son doctorat, et donc le rapprochement, se place dans les années 2450.
 - Le Svalbard reste épargné jusqu'au bout du conflit.
 - Elle tente, ou ne tente pas, de dissuader *homo globalis* d'émettre.
 - La tête familière est le tout dernier corps vivant au moment où elle entre en stase.

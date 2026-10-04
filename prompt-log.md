@@ -121,3 +121,4 @@
 119. 2026-10-04 — Naturalisée en 2126, quand elle devient professeure. Le niobate de lithium est essentiel à toutes les sphères. Niobé a choisi une apparence féminine, de façon constante, mais ne s'identifie ni comme femelle ni comme mâle.
 120. 2026-10-04 — « Elle », c'est bien : les humains la qualifient naturellement ainsi, Niobé n'a pas de problème avec ça, et qu'on s'adresse « à lui » la surprendrait probablement, par rupture d'habitude.
 121. 2026-10-04 — Demande de mettre à jour la frise narrative avec Niobé.
+122. 2026-10-04 — Veut qu'elles se rapprochent au moment du doctorat de Mira, quand Mira décide de rester au Svalbard pour y continuer ses recherches sur la fusion.

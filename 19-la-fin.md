@@ -13,7 +13,7 @@
 - **[G]** ↺ **Les stocks ne tiennent pas dix ans.** On sort d'un conflit global : **un an est plus crédible.**
   - **[C]** Les stocks courent de l'inoculation (2480) à leur épuisement : l'extinction s'étale sur **2481-2482**, et la stase suit en **2482**. Lecture retenue pour la cohérence des dates (note 13).
 - **[G]** **Le gros de la population de corps meurt rapidement.**
-- **[G]** ***Homo globalis* envoie toujours le même corps** rendre visite à H-2, pour lui garder **une tête familière** : **[C → validé]** **celui de Mira Okonkwo-Lindqvist** (note 20). **[G]** C'est *homo globalis* qui le choisit, et le choix va de soi : elles s'étaient rapprochées ces dernières années, « une relation intime homo/sphère » — proche comme un couple, sans attraction sexuelle ni amoureuse. H-2 a des émotions (note 06). Ce corps est **entretenu**, maintenu en bonne santé : **il ne maigrit pas**.
+- **[G]** ***Homo globalis* envoie toujours le même corps** rendre visite à H-2, pour lui garder **une tête familière** : **[C → validé]** **celui de Mira Okonkwo-Lindqvist** (note 20). **[G]** C'est *homo globalis* qui le choisit, et le choix va de soi : elles s'étaient rapprochées depuis le doctorat de Mira, « une relation intime homo/sphère » — proche comme un couple, sans attraction sexuelle ni amoureuse. H-2 a des émotions (note 06). Ce corps est **entretenu**, maintenu en bonne santé : **il ne maigrit pas**.
   - **[G]** **C'est le dernier à mourir.**
   - **[C]** Une attention délicate d'un organisme qui se **souvient** de ce que ce visage était pour elle (note 10), et qui le garde en vie pour elle.
 
