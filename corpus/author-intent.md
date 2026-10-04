@@ -12,7 +12,7 @@
 - **[G]** Le concevoir « comme un openworld avec des NPC », avec « des amitiés, des inimitiés », puis « imaginer des histoires là-dedans, ou des aventures ».
 - **[G]** Piste : les livrables seraient des aventures. *(Question ouverte, pas encore une décision.)*
 - **[G]** Précision : il s'agit de « construire une sandbox intellectuelle bien peuplée de laquelle on peut extraire des aventures facilement. Les assets intellectuels sont là, il n'y a plus qu'à les utiliser. » « Open world / NPC » était une image, pas un projet de jeu.
-- **[G]** Le cadre reste la **hard SF** (voir `corpus/01-framing-premises.md`).
+- **[G]** Le cadre reste la **hard SF** (voir `01-framing-premises.md`).
 - **[G]** Dans ce monde, **il importe peu que la sphère soit dans telle ou telle représentation**. Le corps est secondaire, et l'auteur ne veut pas en faire un enjeu.
 - **[G]** Référence revendiquée : la série ***Pluribus***. **La nouvelle en est du fan art**, et l'émetteur boucle sur elle volontairement : notre Terre est une civilisation émettrice parmi d'autres (note 16).
 - **[G]** L'auteur **accepte de relâcher la hard SF** quand une idée le demande.

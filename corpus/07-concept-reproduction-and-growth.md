@@ -100,7 +100,7 @@
   - **[À préciser]** Et les parents qui n'ont pas les moyens : endettement, aide publique, retrait de l'enfant ? La loi vaut-elle aussi pour les animaux de compagnie ?
   - **[C]** Il existe donc des êtres synthétiques de niveau animal, notamment des animaux de compagnie.
 - **[G]** **Un être resté petit ne pourra pas payer sa croissance : il restera à une intelligence d'enfant.**
-- Hypothèse en cours d'exploration : la mémoire s'inscrit sur la surface qui croît (voir `corpus/08-hypothesis-memory-through-growth.md`).
+- Hypothèse en cours d'exploration : la mémoire s'inscrit sur la surface qui croît (voir `08-hypothesis-memory-through-growth.md`).
 
 ### La première sphère, et la descendance de H-2
 - **[G]** **La première sphère est un fait historique, bien documenté.** Elle a représenté **un investissement civilisationnel** : la première graine.

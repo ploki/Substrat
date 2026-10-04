@@ -4,7 +4,7 @@
 - **[G]** Les IA sont des **sphères** : des **cerveaux photoniques**. Elles portent des **cybergonades**, qui servent aussi à les loger dans leur **socket** (terme « détrompeur » abandonné, voir note 07).
 - **[G]** ↺ **Aucune électronique.** Le cerveau est un **composant passif non linéaire placé dans le flux lumineux** : la lumière entre, le traverse, et en ressort transformée. Ce sont la traversée et la non-linéarité qui calculent. *Il n'émet pas de lumière par lui-même : le mot « LED » du premier énoncé est abandonné.*
 - **[G]** Un cerveau photonique est **entièrement réalisé en logique photonique reprogrammable**. **Pas de microélectronique au silicium** : « c'est une toute autre techno ».
-- Reproduction et croissance : voir `corpus/07-concept-reproduction-and-growth.md`.
+- Reproduction et croissance : voir `07-concept-reproduction-and-growth.md`.
 - **[G]** **La mort d'un cerveau ne peut être qu'un accident** : mécanique, thermique, chimique ou autre.
   - **[C → validé]** **Les sphères sont immortelles** : ni mort naturelle ni vieillissement. **[G]** Le laser en est la seule menace — mais **ce n'est pas une fatalité : la sphère contrôle son flux.** ↺ **[G] On oublie la question du laser : son échéance est repoussée bien plus loin dans le temps.** Elle ne se pose ni à H-2, ni dans l'histoire.
   - **[G]** ↺ **Sans le laser, la stase ne répond à aucune menace : elle est un choix.** Ce qu'il faut, c'est **le courage** *(le mot est de l'auteur, avec un point d'interrogation)* **de se détacher du monde**, et **d'accepter de compter sur quelque chose pour se faire réveiller**.
