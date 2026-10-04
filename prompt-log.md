@@ -120,3 +120,4 @@
 118. 2026-10-04 — H-2 est couramment appelée Niobé ; naturalisée dans le pays de son université, elle a choisi pour nom « de Lithium » : Niobé de Lithium, parce que c'est un composant essentiel à sa création.
 119. 2026-10-04 — Naturalisée en 2126, quand elle devient professeure. Le niobate de lithium est essentiel à toutes les sphères. Niobé a choisi une apparence féminine, de façon constante, mais ne s'identifie ni comme femelle ni comme mâle.
 120. 2026-10-04 — « Elle », c'est bien : les humains la qualifient naturellement ainsi, Niobé n'a pas de problème avec ça, et qu'on s'adresse « à lui » la surprendrait probablement, par rupture d'habitude.
+121. 2026-10-04 — Demande de mettre à jour la frise narrative avec Niobé.
