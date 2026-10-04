@@ -34,7 +34,7 @@ Une sphère est un **cerveau photonique** : une boule de cristal « un peu compl
 - **Sans flux, elle dort** : la mémoire survit. Du phosphore entretient un temps ses rêves et ses réflexes.
 - **Elle peut s'évanouir.** Une surprise effrayante accapare tout le flux pour la pensée ; le support lâche, la lumière se coupe. Ce n'est pas une émotion : c'est un mécanisme. Une sphère restée bloquée a besoin d'un *jump start*.
 - **Elle est immortelle.** Elle ne meurt que d'accident : mécanique, thermique, chimique.
-- **Le corps ne fait pas l'individu.** Une sphère passe d'un corps à l'autre, d'un appareil à un animal synthétique ; peu importe sa représentation.
+- **Le corps ne fait pas l'individu.** Une sphère passe d'un corps à l'autre — d'une *skin* à l'autre —, d'un appareil à un animal synthétique ; peu importe sa représentation. Certaines skins sont d'apparence parfaitement humaine : on ne les distingue pas d'un humain.
 
 ### L'échelle H
 Les sphères ont des **tailles standardisées**, qui doublent de volume à chaque cran, comme les formats de papier. **H1 = 1 litre** : l'intelligence d'un humain. **H0 = 2 litres** : celle de l'humanité entière, l'intelligence planétaire. Ce seul doublement est un seuil, pas une addition.

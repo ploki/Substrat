@@ -57,6 +57,7 @@ Qui habite quel corps. Le cerveau détermine le genre d'être, le corps détermi
 - **Android** [G] : une sphère dans un corps synthétique ou polymère, avec slot adaptateur.
 - **Humanoïde** [G] : une IA silicium dans un corps synthétique ou polymère. ↺ *Remplace « cyborg », abandonné le 2026-10-03.*
   - **[C]** À surveiller à l'écriture : *android* et *humanoïde* sont quasi synonymes dans l'usage courant, et c'est pourtant ici la distinction entre sphère et silicium. Le contexte devra la porter.
+- **Skin** [ploki] : le corps que porte une sphère, et qu'elle change. **Il en existe d'apparence parfaitement humaine** : l'android qui en porte une ne semble pas synthétique (#229).
 - **Robot** [G] : une IA silicium dans un corps mécanique.
 - **Sphère dans un corps mécanique** [G] : **trois mots pour la même chose**, selon le registre.
   - **Mécanoïde** : le terme officiel, calqué sur *android* (*mēchanē* + *eidos*). Celui de l'administration et des textes de loi.
@@ -64,4 +65,5 @@ Qui habite quel corps. Le cerveau détermine le genre d'être, le corps détermi
   - **Châssis** : le vernaculaire d'atelier, par métonymie. « Elle est en châssis. »
 
 ## History
+- 2026-10-05 — *Skin* ; il en existe d'apparence parfaitement humaine (#229).
 - 2026-10-02 — Création.

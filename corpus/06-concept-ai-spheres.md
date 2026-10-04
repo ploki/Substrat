@@ -53,8 +53,10 @@
 - **Lien avec la limite d'énergie** (note 01) : une sphère ne stocke pas d'énergie. **[G]** Elle vit d'un flux lumineux constant, sur un patch dédié. **[G]** **Ce sont les corps qui fournissent le flux lumineux**, et la sphère en commande la source. **[G]** Sans flux, elle ne pense plus mais **dort** : sa mémoire survit. **[C]** Débranchée, une IA peut donc être transportée, cachée ou séquestrée.
 - Les cybergonades supposent des **standards de sockets** : qui les fixe, et existe-t-il des sphères incompatibles, interdites, piratées ?
 - Les sphères changent de corps : l'identité tient à la sphère, pas au corps. Matière à cultures, droit, commerce de corps.
+- **[ploki]** **Il existe des skins d'apparence parfaitement humaine** : un android qui en porte une ne semble pas synthétique, il semble humain (#229).
 
 ## Open questions
+- **[opus-5.5]** Toutes les skins d'android sont-elles d'apparence humaine, ou est-ce un choix parmi d'autres (et lequel fait Niobé) ?
 - Les humains augmentés (transhumanisme) ont-ils eux aussi des sphères ?
 - Comment naît une sphère : voir note 07.
 - Chaque doublement au-delà de H0 apporte-t-il un nouveau saut qualitatif ?
@@ -67,6 +69,7 @@
 - Le patch d'alimentation : son flux sert-il de « pompe » à la non-linéarité ?
 
 ## History
+- 2026-10-05 — Il existe des skins d'apparence parfaitement humaine (#229).
 - 2026-10-04 — Audit de cohérence (#211) : relais du laser barré ; renvoi vers l'énergie (note 01) corrigé. Plus tôt dans la journée : niobate de lithium (#197, #199), laser repoussé (#207).
 - 2026-10-04 — ↺ On oublie la question du laser : l'échéance est repoussée bien plus loin dans le temps, au-delà de H-2.
 - 2026-10-02 — Posé par l'auteur.
