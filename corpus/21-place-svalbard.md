@@ -1,6 +1,6 @@
 # 21 — Lieu : le Svalbard
 
-## En vigueur
+## Current
 - **[G]** Le lieu de travail de Mira est le **Svalbard** (note 20).
 - **[G]** Les **aurores**, liées à l'activité solaire, y rendent **le paysage incroyable**.
   - **[C]** La même cause fait les deux : le Soleil qui assèche les basses latitudes illumine le ciel au-dessus d'elle. Elle travaille à réparer les effets d'un phénomène dont elle voit chaque nuit la plus belle manifestation.
@@ -20,10 +20,10 @@
 - **[S, à vérifier]** Le Svalbard abrite la **réserve mondiale de semences**, dont la fonction est de **conserver le vivant** — à quelques kilomètres d'un laboratoire qui cherche de quoi sauver l'espèce, pendant qu'une sphère s'interdit de toucher à la faune.
 - **[C, non consigné ailleurs]** Si le Soleil fait fondre les glaces, le lieu le mieux pourvu en eau douce est aussi celui qui est en train de la perdre.
 
-## Questions ouvertes
+## Open questions
 - Que dit l'accord humains/sphères, et qui l'a signé ?
 - H-2 y est-elle **physiquement** installée, ou dirige-t-elle à distance ?
 - Le Svalbard reste-t-il épargné jusqu'au bout du conflit ?
 
-## Historique
+## History
 - 2026-10-03 — Lieu posé par l'auteur.

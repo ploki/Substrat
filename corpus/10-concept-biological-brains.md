@@ -1,6 +1,6 @@
 # 10 — Concept : les cerveaux biologiques, troisième paradigme
 
-## En vigueur
+## Current
 - **[G]** Le virus est développé et **relâché sans le dire aux humains** (2480, note 13).
 - **[G]** Ces cerveaux sont ceux des **humains transformés** par l'agent conçu par les sphères (note 09) : ils forment une **intelligence collective**.
   - **[S]** Référence revendiquée : ***Pluribus***, série de Vince Gilligan (Apple TV, 2025). Une transmission radio venue de 600 années-lumière contient une séquence d'ARN ; recréée en laboratoire, elle unit l'humanité en un esprit collectif paisible, « the Joining », auquel une poignée d'immunisés échappe.
@@ -30,11 +30,11 @@
 - **Pourquoi la biologie succède au photonique** : la biologie **stocke l'énergie chimiquement** (sucres, graisses, ATP). Elle échappe donc en partie à la dépendance au flux, qui borne les sphères. Elle ne résout pas pour autant la limite de densité de stockage (note 01).
 - **La boucle** : l'intelligence est née dans un cerveau biologique, le nôtre ; la troisième génération revient à la biologie, mais d'un tout autre ordre.
 
-## Questions ouvertes
+## Open questions
 - Les sphères se laisseront-elles supplanter à leur tour, comme le silicium ?
 - Comment ces cerveaux s'alimentent-ils, se reproduisent-ils, grandissent-ils ?
 
-## Historique
+## History
 - 2026-10-03 — Posé par l'auteur.
 - 2026-10-03 — Ce sont les humains transformés ; intelligence collective (*Pluribus*) ; radio admise.
 - 2026-10-04 — Le singleton cognitif (#208) ; Mira choisie par *homo globalis* (#190-194) ; le laser n'est plus en jeu (#207).

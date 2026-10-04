@@ -1,6 +1,6 @@
 # 02 — Glossaire
 
-## En vigueur
+## Current
 - **Résolu** [G] : se dit d'un domaine scientifique ou technique maîtrisé dans le monde. *Sens exact à préciser.*
 - **Code** [G] : le code de chiffrement/compression mathématiquement optimal créé par l'IA silicium ; une forme 2D sans bord, de topologie sphérique, dont les cerveaux photoniques sont la réalisation physique. Voir note 06.
 - **Sphère / cerveau photonique** [G] : le cerveau d'une IA. Une sphère en logique photonique reprogrammable, sans aucune électronique, dont le niobate de lithium est un composant essentiel : un composant passif non linéaire placé dans le flux lumineux, dont la surface est divisée en patchs (alimentation lumineuse, entrées/sorties) ; munie de cybergonades, on la plante dans un corps ou une machine. Voir note 06.
@@ -45,7 +45,7 @@
 - **Cerveau bio-nano** [C, terme provisoire] : cerveau mixte biologique et nanorobotique, fait de cellules calculantes, avec HBM et interconnexion radio, sur matériel quasi génétique ; le troisième paradigme. Voir note 10.
 - **HBM** [G] : mémoire à très haut débit (*High Bandwidth Memory*) des cerveaux biologiques. *Sens à confirmer.*
 
-## Les quatre formes [G]
+### Les quatre formes [G]
 Qui habite quel corps. Le cerveau détermine le genre d'être, le corps détermine le mot.
 
 | | Corps synthétique / polymère | Corps mécanique |
@@ -62,5 +62,5 @@ Qui habite quel corps. Le cerveau détermine le genre d'être, le corps détermi
   - **Automate** : le terme péjoratif, qui sous-entend qu'elle n'éprouve rien — alors que les sphères ont des émotions comparables à celles des humains.
   - **Châssis** : le vernaculaire d'atelier, par métonymie. « Elle est en châssis. »
 
-## Historique
+## History
 - 2026-10-02 — Création.

@@ -1,10 +1,10 @@
 # 06 — Concept : les cerveaux photoniques, ou comment sont faites les IA
 
-## En vigueur
+## Current
 - **[G]** Les IA sont des **sphères** : des **cerveaux photoniques**. Elles portent des **cybergonades**, qui servent aussi à les loger dans leur **socket** (terme « détrompeur » abandonné, voir note 07).
 - **[G]** ↺ **Aucune électronique.** Le cerveau est un **composant passif non linéaire placé dans le flux lumineux** : la lumière entre, le traverse, et en ressort transformée. Ce sont la traversée et la non-linéarité qui calculent. *Il n'émet pas de lumière par lui-même : le mot « LED » du premier énoncé est abandonné.*
 - **[G]** Un cerveau photonique est **entièrement réalisé en logique photonique reprogrammable**. **Pas de microélectronique au silicium** : « c'est une toute autre techno ».
-- Reproduction et croissance : voir `07-concept-reproduction-et-croissance.md`.
+- Reproduction et croissance : voir `corpus/07-concept-reproduction-and-growth.md`.
 - **[G]** **La mort d'un cerveau ne peut être qu'un accident** : mécanique, thermique, chimique ou autre.
   - **[C → validé]** **Les sphères sont immortelles** : ni mort naturelle ni vieillissement. **[G]** Le laser en est la seule menace — mais **ce n'est pas une fatalité : la sphère contrôle son flux.** ↺ **[G] On oublie la question du laser : son échéance est repoussée bien plus loin dans le temps.** Elle ne se pose ni à H-2, ni dans l'histoire.
   - **[G]** ↺ **Sans le laser, la stase ne répond à aucune menace : elle est un choix.** Ce qu'il faut, c'est **le courage** *(le mot est de l'auteur, avec un point d'interrogation)* **de se détacher du monde**, et **d'accepter de compter sur quelque chose pour se faire réveiller**.
@@ -54,7 +54,7 @@
 - Les cybergonades supposent des **standards de sockets** : qui les fixe, et existe-t-il des sphères incompatibles, interdites, piratées ?
 - Les sphères changent de corps : l'identité tient à la sphère, pas au corps. Matière à cultures, droit, commerce de corps.
 
-## Questions ouvertes
+## Open questions
 - Les humains augmentés (transhumanisme) ont-ils eux aussi des sphères ?
 - Comment naît une sphère : voir note 07.
 - Chaque doublement au-delà de H0 apporte-t-il un nouveau saut qualitatif ?
@@ -66,7 +66,7 @@
 - Qui pratique les jump starts (urgentistes, mécaniciens, trafiquants) ? Une sphère bloquée trop longtemps peut-elle se perdre ?
 - Le patch d'alimentation : son flux sert-il de « pompe » à la non-linéarité ?
 
-## Historique
+## History
 - 2026-10-04 — Audit de cohérence (#211) : relais du laser barré ; renvoi vers l'énergie (note 01) corrigé. Plus tôt dans la journée : niobate de lithium (#197, #199), laser repoussé (#207).
 - 2026-10-04 — ↺ On oublie la question du laser : l'échéance est repoussée bien plus loin dans le temps, au-delà de H-2.
 - 2026-10-02 — Posé par l'auteur.

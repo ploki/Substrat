@@ -1,6 +1,8 @@
-# Journal des décisions
+# Decision log
 
-| # | Date | Décision | Remplace | Fichier |
+*Une ligne par décision structurelle ou changement d'avis : la décision et pourquoi (systématiquement depuis #188), ce qu'elle remplace (↺ pour un revirement), le fichier concerné. Les lignes gardent les noms et chemins du jour où elles ont été écrites : avant #220, les fichiers portaient leurs anciens noms français (voir #220).*
+
+| # | Date | Decision | Replaces | File |
 |---|------|----------|----------|---------|
 | 1 | 2026-10-02 | Projet : écrire une petite histoire de hard SF | — | intention-de-l-auteur.md |
 | 2 | 2026-10-02 | Versionnement (c) : git + commit par itération + prompt-log | — | 00-index.md |

@@ -1,6 +1,6 @@
 # Intention de l'auteur
 
-## En vigueur
+## Current
 - **[G]** ↺ **Le projet, c'est l'histoire** : comment elle s'articule, **dans l'ordre**, et **quelle longueur passer sur chaque période**. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
 - **[G]** ↺ **La fin** : l'interrupteur de l'émetteur est poussé, les humains s'éteignent faute de stocks — et **la sphère se met en pause**, plutôt que de voir périr Mira, curieuse de voir les 200 millions d'années à venir (note 19).
   - **[C]** Ce n'est donc ni un triomphe ni une catastrophe spectaculaire, mais un désastre doux suivi d'un retrait.
@@ -12,7 +12,7 @@
 - **[G]** Le concevoir « comme un openworld avec des NPC », avec « des amitiés, des inimitiés », puis « imaginer des histoires là-dedans, ou des aventures ».
 - **[G]** Piste : les livrables seraient des aventures. *(Question ouverte, pas encore une décision.)*
 - **[G]** Précision : il s'agit de « construire une sandbox intellectuelle bien peuplée de laquelle on peut extraire des aventures facilement. Les assets intellectuels sont là, il n'y a plus qu'à les utiliser. » « Open world / NPC » était une image, pas un projet de jeu.
-- **[G]** Le cadre reste la **hard SF** (voir `01-cadrage-premisses.md`).
+- **[G]** Le cadre reste la **hard SF** (voir `corpus/01-framing-premises.md`).
 - **[G]** Dans ce monde, **il importe peu que la sphère soit dans telle ou telle représentation**. Le corps est secondaire, et l'auteur ne veut pas en faire un enjeu.
 - **[G]** Référence revendiquée : la série ***Pluribus***. **La nouvelle en est du fan art**, et l'émetteur boucle sur elle volontairement : notre Terre est une civilisation émettrice parmi d'autres (note 16).
 - **[G]** L'auteur **accepte de relâcher la hard SF** quand une idée le demande.
@@ -26,7 +26,7 @@
 - **[G]** Ils devaient venir « plus tard » — **et ils sont venus le 2026-10-03** : **Mira Okonkwo-Lindqvist** (note 20) et le **Svalbard**, avec l'UNIS (note 21).
 - **[G]** **La culture n'est pas un problème** : on est sur Terre et on y reste.
 
-## Historique
+## History
 - 2026-10-04 — La stase : plutôt que de voir périr Mira, par la malédiction de l'attachement (#209).
 - 2026-10-04 — La nouvelle est du fan art de *Pluribus* ; la boucle de l'émetteur est voulue.
 - 2026-10-03 — ↺ Recentrage : le projet est l'histoire, son articulation et son rythme ; la fin est l'interrupteur de l'émetteur ; pas de guerre.

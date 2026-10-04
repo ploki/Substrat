@@ -9,7 +9,7 @@ que la civilisation produit de substrats (notes 07, 55).
 Ce script suppose donc un **nombre constant de naissances par an** et donne la
 répartition par bande, à une date donnée.
 
-Usage : python3 outils/population.py [naissances_par_an]
+Usage : python3 instrumenta/population.py [naissances_par_an]
 """
 import sys
 

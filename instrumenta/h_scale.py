@@ -1,7 +1,7 @@
 """Échelle H des cerveaux photoniques : H1 = 1 L, le volume double à chaque cran vers H0, H-1…
 
-Usage : python3 outils/echelle_h.py            -> table des tailles
-        python3 outils/echelle_h.py 6.35       -> niveau H d'une sphère de 6,35 mm de diamètre
+Usage : python3 instrumenta/h_scale.py            -> table des tailles
+        python3 instrumenta/h_scale.py 6.35       -> niveau H d'une sphère de 6,35 mm de diamètre
 """
 import math, sys
 

@@ -1,6 +1,6 @@
 # 01 — Cadrage : les prémisses du monde
 
-## En vigueur
+## Current
 - **[G]** Genre : **hard SF** « comme d'hab », avec des exceptions, des domaines considérés comme **résolus** :
   1. la médecine ;
   2. le transhumanisme ;
@@ -24,11 +24,11 @@
 - **[G]** **Les questions d'énergie et de cosmologie sont hors sujet** : « on s'en fout de l'énergie et du monde ».
   - **[C]** Autrement dit, le décor n'est pas l'objet du projet. Ce qui compte, ce sont **les êtres** : les sphères, leurs vies, leurs lois, leurs rapports. La Terre fournit un cadre familier qu'il est inutile de justifier.
 
-## Questions ouvertes
+## Open questions
 - « Résolus » : maîtrisés par qui, depuis quand, accessibles à tous ou non ?
 - **[À préciser]** « Quelques romantisations » : lesquelles, et jusqu'où ?
 
-## Historique
+## History
 - 2026-10-02 — Prémisses posées par l'auteur.
 - 2026-10-02 — Première limite posée : la densité de stockage de l'énergie.
 - 2026-10-02 — L'énergie est transmise instantanément *(abandonné le 2026-10-03)*.

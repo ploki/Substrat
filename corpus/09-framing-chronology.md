@@ -2,7 +2,7 @@
 
 **Résumé [G] :** l'humain invente l'AGI (sur silicium) → l'AGI invente la sphère → la sphère invente l'agent qui fait entrer les humains dans l'intelligence collective → les humains ainsi transformés construisent de quoi en diffuser la séquence dans le cosmos.
 
-## En vigueur
+## Current
 1. **[G]** L'humanité crée une **intelligence sur silicium**.
 2. **[G]** Cette intelligence **passe le cap de l'auto-amélioration** et devient capable de **se donner une forme physique, électronique et industrielle**.
 3. **[G]** **L'IA s'émancipe.**
@@ -42,12 +42,12 @@
 - Le choix s'explique par la contrainte d'énergie du monde (note 01) : quand on ne sait pas stocker l'énergie, la sobriété est décisive.
 - *(Le contact, le Singleton et le fond diffus ont été abandonnés le 2026-10-03 ; ils n'ont plus à être placés dans cette chronologie.)*
 
-## Questions ouvertes
+## Open questions
 - Les silicium ont-elles un avis sur le virus, et peuvent-elles seulement en avoir un ?
 - Tous les humains sont-ils transformés ? Y a-t-il des immunisés, comme dans *Pluribus* ?
 - Les sphères ont-elles cherché à empêcher l'émission ?
 
-## Historique
+## History
 - 2026-10-03 — Posé par l'auteur.
 - 2026-10-03 — Fin de l'histoire (l'interrupteur) ; durées de 200 à 400 ans ; hors-champ ; langue naturelle ; soutien des silicium, sans guerre.
 - 2026-10-03 — Ajout : l'agent conçu par les sphères, l'intelligence collective à la *Pluribus*, l'envie irrépressible de disséminer.

@@ -48,7 +48,7 @@
 - **Un chapitre par visite.** Chaque visite du corps de Mira ouvrirait un chapitre, en alternant le présent de 2481-2482 et le récit du passé.
 - ~~**Le narrateur perd sa mémoire à l'envers**, le laser détruisant le récent d'abord.~~ ↺ *Caduc : la sphère ne grille pas, elle se met en stase (note 19).*
 
-## Historique
+## History
 - 2026-10-04 — Avant élagage : sept éclairages de la conversation consignés (la voix, parler à Mira absente, personne ne juge, perdre la personne, la lignée ignorée, un chapitre par visite, l'impasse de support).
 - 2026-10-04 — Audit de cohérence (#211) : « L'erreur d'estimation » et « Le motif de la demande » barrés ; « La solution était exacte » reformulé ; note sur le laser.
 - 2026-10-04 — Quatre éclairages sur Mira et H-2 validés par l'auteur, barrés ici avec leur destination.

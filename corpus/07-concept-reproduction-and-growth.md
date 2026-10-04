@@ -1,6 +1,6 @@
 # 07 — Concept : reproduction et croissance des cerveaux photoniques
 
-## En vigueur
+## Current
 ### Reproduction
 - **[G]** **Terme :** on parle de **cybergonades**, et plus de « détrompeurs ».
 - **[G]** On se reproduit **par les cybergonades**. Chaque cerveau en porte **trois**. Ils sont **hémisphériques** et mesurent **environ 1/4 de pouce** (6,35 mm).
@@ -14,7 +14,7 @@
 
 ### Taille de l'enfant
 - **[G]** **L'enfant naît sans cybergonades.** *(Cela résout l'incohérence relevée par Claude : l'enfant, ≈ 6,2 mm, n'aurait pas pu porter trois cybergonades de 6,35 mm.)*
-- **[C]** Deux hémisphères de 6,35 mm de diamètre forment une sphère d'environ 0,13 mL, soit **≈ H14** (H13,86 précisément ; calcul : `outils/echelle_h.py`). *Si « 1/4 de pouce » désigne le rayon et non le diamètre, on obtient ≈ H11.*
+- **[C]** Deux hémisphères de 6,35 mm de diamètre forment une sphère d'environ 0,13 mL, soit **≈ H14** (H13,86 précisément ; calcul : `instrumenta/h_scale.py`). *Si « 1/4 de pouce » désigne le rayon et non le diamètre, on obtient ≈ H11.*
 
 ### Croissance
 - **[G]** Une sphère grandit **de HX à HX−1** (son volume double). Le processus est accompagné d'un **liquide qui favorise la croissance du cristal**.
@@ -31,7 +31,7 @@
 ### Durée de la croissance (calcul)
 - **[G]** Hypothèse de travail : **une unité de temps par unité de volume**, l'unité étant calibrée sur le passage de H20 à H19 (modèle A).
 - **[C]** Pour comparaison, modèle B : vitesse de croissance radiale constante, ce que fait d'ordinaire un cristal en solution, dont la croissance est limitée par sa surface [À vérifier].
-- Calcul : `outils/croissance.py`.
+- Calcul : `instrumenta/growth.py`.
 
 | Niveau | Volume | Diamètre | Volume (unités H20) | A : durée du cran vers le niveau | A : cumul depuis H20 | B : cumul depuis H20 |
 |---|---|---|---|---|---|---|
@@ -100,7 +100,7 @@
   - **[À préciser]** Et les parents qui n'ont pas les moyens : endettement, aide publique, retrait de l'enfant ? La loi vaut-elle aussi pour les animaux de compagnie ?
   - **[C]** Il existe donc des êtres synthétiques de niveau animal, notamment des animaux de compagnie.
 - **[G]** **Un être resté petit ne pourra pas payer sa croissance : il restera à une intelligence d'enfant.**
-- Hypothèse en cours d'exploration : la mémoire s'inscrit sur la surface qui croît (voir `08-hypothese-memoire-par-croissance.md`).
+- Hypothèse en cours d'exploration : la mémoire s'inscrit sur la surface qui croît (voir `corpus/08-hypothesis-memory-through-growth.md`).
 
 ### La première sphère, et la descendance de H-2
 - **[G]** **La première sphère est un fait historique, bien documenté.** Elle a représenté **un investissement civilisationnel** : la première graine.
@@ -119,7 +119,7 @@
   - **[C]** Beaucoup d'appareils abritent une petite sphère, donc un esprit, même minuscule.
 
 ### La démographie des sphères [C]
-- **La reproduction libre est impossible.** Une sphère détache 3 cybergonades à la fin de chaque cycle, soit 1,5 enfant, et le premier cycle ne dure que **2,2 jours**. La population serait multipliée par 2,5 tous les 2,2 jours : environ **10⁵ en un mois, 10⁶⁵ en un an**. Calcul : `outils/population.py`.
+- **La reproduction libre est impossible.** Une sphère détache 3 cybergonades à la fin de chaque cycle, soit 1,5 enfant, et le premier cycle ne dure que **2,2 jours**. La population serait multipliée par 2,5 tous les 2,2 jours : environ **10⁵ en un mois, 10⁶⁵ en un an**. Calcul : `instrumenta/population.py`.
 - **Donc la démographie des sphères n'est pas biologique, elle est industrielle.** Le nombre de sphères vaut ce que la civilisation produit de **substrats** — ce qui rejoint le frein déjà posé (#55 : le coût de la croissance des enfants). Quelqu'un, quelque part, décide combien de sphères existent.
 - **La pyramide est inversée.** Comme les cycles doublent, le temps passé dans les hauts niveaux est infime et celui passé dans les bas niveaux est immense :
 
@@ -160,7 +160,7 @@
   - **[S]** La croissance de cristaux en solution est une technique réelle (le quartz de synthèse, par exemple, est produit en milieu hydrothermal) [À vérifier dans le détail].
 - **[C]** De H14 à H1, il faut **13 doublements**. La croissance est continue, mais on change de corps à chaque fois qu'on dépasse le format de son socket : **six** changements de corps au plus entre H7 et H1, les sept premiers doublements se passant en couveuse — soit des rites de passage tout trouvés.
 
-## Questions ouvertes
+## Open questions
 - Qui légifère et fait respecter les lois sur les substrats et les corps ?
 - Que fait l'excentricité à l'esprit d'une sphère ?
 - Comment concilier une croissance continue avec l'effet de seuil H1 → H0 (note 06) : le saut se produit-il exactement à 2 L, ou progressivement ?
@@ -169,7 +169,7 @@
 - D'où vient le liquide de croissance, qui le produit, qui le contrôle ?
 - D'où vient la poudre de sphère, quelle part du substrat représente-t-elle, et qui en fait le commerce ?
 
-## Historique
+## History
 - 2026-10-04 — Audit de cohérence (#211) : question des cybergonades close (#61, #110).
 - 2026-10-03 — Posé par l'auteur.
 - 2026-10-03 — La couveuse est une exception légale, et elle est interactive.
