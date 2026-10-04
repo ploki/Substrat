@@ -112,6 +112,7 @@ Chaque affirmation dit de qui elle vient : **[ploki]** l'auteur, **[opus-5.5]** 
 | `partus/` | les livrables |
 | `instrumenta/` | les scripts |
 | `archive/` | les pistes abandonnées |
+| `supellex/` | les images et les portraits |
 
 Pour entrer : `corpus/author-intent.md`, puis `corpus/00-story-index.md`.
 

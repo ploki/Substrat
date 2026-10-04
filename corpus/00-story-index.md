@@ -11,7 +11,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 
 ## Conventions
 - **La structure du corpus est en anglais** (noms de fichiers et de dossiers, sections *Current*, *Open questions*, *History*, marqueurs) ; le corps des notes et la conversation restent en français.
-- Dossiers : `corpus/` (index, notes, glossaire, intention, `glosses.md`, journaux), `partus/` (livrables), `instrumenta/` (scripts), `archive/` (abandons, gardés pour mémoire).
+- Dossiers : `corpus/` (index, notes, glossaire, intention, `glosses.md`, journaux), `partus/` (livrables), `instrumenta/` (scripts), `archive/` (abandons, gardés pour mémoire), `supellex/` (images et portraits, #228).
 - Notes `NN-type-subject.md` (NN = ordre de création ; types : framing, concept, hypothesis, source, decision, character, place). Chaque note : *Current*, puis *Open questions*, puis *History*.
 - `glosses.md` : les lectures de Claude, non validées ; les entrées barrées y restent, avec leur cause.
 - Provenance, **à partir du 2026-10-04** (#220) : **[ploki]** l'auteur (Guillaume Gimenez) · **[opus-5.5]** l'agent, proposition non validée · **[opus-5.5 → ploki]** proposé par l'agent, validé par l'auteur · **[S]** source · **[Unverified]** fait non sourcé · **[opus-5.5 as ploki]** décidé par procuration. L'agent se nomme toujours par son modèle.

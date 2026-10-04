@@ -2,6 +2,10 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+154\. 2026-10-05 — Oui : un dossier `supellex/`, pour les images et les portraits.
+
+153\. 2026-10-05 — Demande comment on dit « asset » en latin.
+
 152\. 2026-10-04 — Demande d'ajouter au README que le projet est tenu avec le skill Maieutics, avec un lien. Le dépôt est git@github.com:ploki/Substrat.git.
 
 151\. 2026-10-04 — Pour la description du dépôt, a le début : « Le Codex de Niobé ».
