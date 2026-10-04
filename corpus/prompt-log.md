@@ -2,6 +2,8 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+158\. 2026-10-05 — Dans le README, entre le premier paragraphe et la première puce : expliquer que le lecteur peut télécharger le dépôt, l'ouvrir avec Claude, lancer le skill Maieutics et jouer à poser des questions au modèle pour obtenir des informations.
+
 157\. 2026-10-05 — Demande de placer le passage sur la maïeutique juste avant « Le monde » dans le README.
 
 156\. 2026-10-05 — L'image est une caricature de Niobé : une discoball au Svalbard. Elle fait partie du monde. Demande de mettre à jour le README.

@@ -16,6 +16,8 @@ Ce dépôt en est le monde. La fin de la nouvelle n'y est pas racontée.
 
 Le projet est tenu avec le skill [**Maieutics**](https://github.com/ploki/Maieutics), pour Claude. Le monde naît d'un **dialogue entre l'auteur et une IA**, selon une méthode maïeutique : l'auteur ne sait pas d'avance tout ce qu'il cherche, et le dialogue sert à le lui faire trouver et formuler. L'IA pose des questions, propose, objecte ; l'auteur tranche.
 
+**Vous pouvez y jouer vous aussi.** Clonez le dépôt (`git clone https://github.com/ploki/Substrat.git`), installez le skill [Maieutics](https://github.com/ploki/Maieutics), puis ouvrez [Claude Code](https://claude.com/claude-code) dans le dossier et lancez `/maieutics`. Le modèle lit le corpus et fait le point sur le projet ; à vous ensuite de lui poser des questions sur le monde (comment grandit une sphère, ce que dit la loi sur l'abrasion, qui est Mira…) pour en apprendre davantage.
+
 - **Les notes.** Tout ce qui prend de la substance est consigné dans une note (un concept, un lieu, un personnage, un cadrage). Chacune s'ouvre sur ce qui vaut aujourd'hui (*Current*), puis les questions ouvertes, puis l'histoire du raisonnement.
 - **Les journaux.** Chaque décision est notée avec sa raison, et chaque changement d'avis y reste visible (`corpus/decision-log.md`). Chaque message de l'auteur est réécrit et gardé, le plus récent en premier (`corpus/prompt-log.md`). Rien n'est effacé : on peut toujours savoir pourquoi le monde est tel qu'il est.
 - **Les calculs.** Quand des chiffres apparaissent (tailles, durées de croissance, population), on écrit un script plutôt que de raisonner de tête. Les tableaux de l'échelle H en viennent.
