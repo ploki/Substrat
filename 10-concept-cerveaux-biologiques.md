@@ -25,6 +25,7 @@
   - **[C, à confirmer]** Lecture proposée : « HBM » désigne une mémoire à très haut débit (*High Bandwidth Memory*), intégrée aux cellules ; les cellules communiquent entre elles par radio plutôt que par des connexions physiques ; le tout repose sur un support proche de l'ADN.
 
 ### Ancrages et réserves [C]
+- **[G, hypothèse du moment]** Ce qui borne les sphères et pousse vers la biologie : **la continuité du développement**. Une sphère grandit par étapes, en **changeant d'enveloppe à chaque cran** ; la biologie se développe **en continu**. (#215)
 - **[S, à vérifier]** L'ADN est un support de stockage d'information extrêmement dense ; on sait déjà y écrire et y lire des données en laboratoire.
 - **Pourquoi la biologie succède au photonique** : la biologie **stocke l'énergie chimiquement** (sucres, graisses, ATP). Elle échappe donc en partie à la dépendance au flux, qui borne les sphères~~, et ne subit pas le plafond du laser~~. *(Caduc : le laser n'est plus en jeu, #207.)* Elle ne résout pas pour autant la limite de densité de stockage (note 01).
 - **La boucle** : l'intelligence est née dans un cerveau biologique, le nôtre ; la troisième génération revient à la biologie, mais d'un tout autre ordre.

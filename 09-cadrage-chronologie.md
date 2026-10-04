@@ -38,6 +38,7 @@
 ### Rapprochements [C]
 - **Un schéma qui se répète** [G] : chaque technologie d'intelligence atteint ses limites physiques et opère un changement de paradigme. Le silicium passe au photonique ; les sphères H-2 passent à **la biologie** (note 06).
   - **[G]** « La biologie » : des cerveaux mixtes biologiques et nanorobotiques (voir note 10).
+  - **[G, hypothèse du moment]** Ce qui borne les sphères et pousse vers la biologie : **la continuité du développement**. Une sphère grandit par étapes, en **changeant d'enveloppe à chaque cran** ; la biologie se développe **en continu**. (#215)
 - Le code optimal sphérique attribué à « l'AGI » est l'œuvre de **l'IA silicium** (note 06).
 - Le choix s'explique par la contrainte d'énergie du monde (note 01) : quand on ne sait pas stocker l'énergie, la sobriété est décisive.
 - *(Le contact, le Singleton et le fond diffus ont été abandonnés le 2026-10-03 ; ils n'ont plus à être placés dans cette chronologie.)*

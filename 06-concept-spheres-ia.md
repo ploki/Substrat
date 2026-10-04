@@ -27,7 +27,8 @@
   - ↺ **[G] On oublie la question du laser : son échéance est repoussée bien plus loin dans le temps.** Elle ne se pose ni à H-2, ni dans l'histoire. *Ce qui suit est la version précédente, qui plaçait le plafond à H-2 :*
   - ~~**[G]** **Le plafond :** à ce stade, **le laser qui fournit le flux** est si puissant qu'il **détruit la sphère** à la longue, et la détruit si complètement qu'elle **perd toute valeur** (pas même de poudre récupérable). **[G] Mais on peut s'y soustraire en se mettant en pause** (voir plus haut) : à ce niveau, se frire est **un choix**.~~
     - **[G]** C'est **l'exception à l'immortalité** — mais une exception à laquelle on peut se soustraire : **se frire est un choix** (#134), **à une échéance bien au-delà de H-2**.
-    - **[C]** Le même schéma se répète : chaque technologie atteint ses limites physiques (le silicium, ~~puis le laser pour les sphères~~ *[caduc, #207 : la limite des sphères à H-2 reste à nommer]*) et invente celle qui lui succède.
+    - **[C]** Le même schéma se répète : chaque technologie atteint ses limites physiques (le silicium, ~~puis le laser pour les sphères~~ *[caduc, #207]*) et invente celle qui lui succède.
+    - **[G, hypothèse du moment]** Ce qui borne les sphères et pousse vers la biologie : **la continuité du développement**. Une sphère grandit par étapes, en **changeant d'enveloppe à chaque cran** ; la biologie se développe **en continu**. (#215)
   - **[S]** Un cerveau humain mesure environ 1,2 à 1,4 litre [À vérifier] : H1 = 1 litre en est très proche.
   - **[S]** Norme ISO 216 : A0 mesure 1 m², chaque format est la moitié du précédent, le rapport des côtés vaut √2, et il existe des formats plus grands que A0 (2A0, 4A0).
   - **[C]** Le pas se compte en volume, et non en surface comme la série A ; le diamètre augmente donc d'un facteur ∛2 ≈ 1,26 à chaque cran. Les formats « au-dessus » de H0 (2H0, 4H0…) désigneraient des intelligences supérieures à l'humanité entière.
