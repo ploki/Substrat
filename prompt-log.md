@@ -127,3 +127,4 @@
 125. 2026-10-04 — Niobé parle sans crainte de jugement, car homo globalis est ravi de sa nouvelle existence, et l'action de Niobé était la bonne, sans aucun doute ni défaut.
 126. 2026-10-04 — Constate une contradiction et demande de réexpliquer la timeline à partir du point où l'ancienne vision cloche, et ce qu'on pourrait construire.
 127. 2026-10-04 — On oublie la question du laser : l'échéance est repoussée plus loin dans le temps. Niobé n'avait vraiment pas anticipé les deux choses, le singleton cognitif et la méta-contagion. Les sphères connaissent la malédiction de l'attachement : Mira est parmi les derniers corps, et Niobé préfère partir en stase plutôt que de la voir périr.
+128. 2026-10-04 — Oui : de l'étonnement et de la peine, pas de culpabilité.

@@ -55,7 +55,7 @@
 - **[G]** **Ce qu'elle n'attendait pas : que l'espace cognitif s'effondre en un seul individu** — **le singleton cognitif**. **[G] Elle ne l'avait vraiment pas anticipé, pas plus que la méta-contagion.**
   - **[C]** C'est **la** conséquence imprévue, celle dont les autres découlent. Elle voulait des gens qui se parlent mieux ; elle a obtenu **une seule personne**. Le refus de tuer pour se nourrir et la méta-contagion (note 19) sont des conséquences de cet effondrement, pas des erreurs séparées.
   - **[C]** Son geste était donc **mesuré** à ses yeux : améliorer la communication, pas refaire l'espèce. Ce qui rend sa stupeur finale exacte — elle n'a pas voulu ce qui est arrivé, et elle l'a pourtant provoqué.
-  - **[C]** Et cela déplace la faute : non pas d'avoir agi sans prévenir, mais d'avoir **mal estimé l'effet** de ce qu'elle relâchait. Une erreur de calcul, chez quelqu'un qui ne se trompe jamais.
+  - ~~**[C]** Et cela déplace la faute : non pas d'avoir agi sans prévenir, mais d'avoir **mal estimé l'effet** de ce qu'elle relâchait. Une erreur de calcul, chez quelqu'un qui ne se trompe jamais.~~ ↺ *Caduc (2026-10-04) : l'action de Niobé était la bonne, sans défaut ; l'imprévu n'est pas une faute, et elle n'en éprouve aucune culpabilité.*
   - **[C]** Ce qui motive le pet project : elle parle avec des humains depuis trois cents ans, **avec la bouche**, un mot après l'autre, pendant qu'elle pourrait tout transmettre d'un bloc. *[C → validé] :* Trente ans de travail avec Mira à cette vitesse-là.
 
 ## Ses deux échecs et sa décision
@@ -70,6 +70,7 @@
 - **[G]** Elle raconte **sans crainte de jugement** : *homo globalis* est ravi de sa nouvelle existence.
 
 ## Sa fin
+- **[G]** **Son action était la bonne, sans doute ni défaut.** À la fin, elle éprouve **de l'étonnement et de la peine, pas de culpabilité**.
 - **[G]** Elle se met en **stase** en 2482, curieuse des 200 millions d'années d'évolution à venir — et parce que, connaissant **la malédiction de l'attachement**, **elle préfère partir plutôt que de voir périr Mira**, qui est parmi les derniers corps (note 19).
 - **[G]** Le laser n'est pas en jeu : son échéance est repoussée bien au-delà de H-2 (note 06).
 

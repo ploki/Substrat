@@ -32,7 +32,7 @@
 | 17 | **L'interrupteur est poussé.** | un geste | **scénique** |
 | 18 | ↺ **[G] La sphère se met en pause**, dans un abri temporel, curieuse des 200 millions d'années d'évolution à venir — **et plutôt que de voir périr Mira** (note 19). La tête familière perd alors son statut. **Fin.** (note 19) | — | **scénique** |
 
-**[G] Ce dont elle est pantoise :** non pas de les avoir tués, mais de **leur avoir donné de quoi choisir leur fin**. Elle voulait les sauver de leur guerre ; elle leur a donné la hauteur de vue qui leur a fait refuser de vivre à ce prix. **Et ils l'en remercient** (note 19).
+**[G] Ce dont elle est pantoise :** **ni doute ni culpabilité : de l'étonnement et de la peine**. Non pas de les avoir tués, mais de **leur avoir donné de quoi choisir leur fin**. Elle voulait les sauver de leur guerre ; elle leur a donné la hauteur de vue qui leur a fait refuser de vivre à ce prix. **Et ils l'en remercient** (note 19).
 
 ## Remarques [C]
 
