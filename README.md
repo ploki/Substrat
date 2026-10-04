@@ -2,7 +2,9 @@
 
 *La bible d'un univers de hard SF : la Terre de 2026 à 2482, où trois formes d'intelligence se succèdent.*
 
-On y suit la plus ancienne d'entre elles, **Niobé de Lithium**, la première sphère. La nouvelle tirée de cet univers est à venir ; ce dépôt en est le monde.
+**Substrat est un projet de construction de monde, en vue d'y créer des aventures.** La première est une nouvelle, en cours d'écriture : on y suit la plus ancienne des sphères, **Niobé de Lithium**. Ce qu'on gagne à mener une aventure jusqu'au bout, c'est un monde qui a de l'épaisseur, et sur lequel on peut construire les suivantes.
+
+Ce dépôt en est le monde. La fin de la nouvelle n'y est pas racontée.
 
 ---
 
@@ -91,19 +93,26 @@ La suite appartient à la nouvelle.
 
 ---
 
-## Le dépôt
+## Comment ce monde est construit
 
-Cet univers est construit par dialogue entre l'auteur et une IA, selon la méthode *maieutics* : on parle, l'IA consigne dans des notes, et un journal garde chaque décision et chaque changement d'avis.
+Le monde naît d'un **dialogue entre l'auteur et une IA**, selon une méthode maïeutique : l'auteur ne sait pas d'avance tout ce qu'il cherche, et le dialogue sert à le lui faire trouver et formuler. L'IA pose des questions, propose, objecte ; l'auteur tranche.
+
+- **Les notes.** Tout ce qui prend de la substance est consigné dans une note (un concept, un lieu, un personnage, un cadrage). Chacune s'ouvre sur ce qui vaut aujourd'hui (*Current*), puis les questions ouvertes, puis l'histoire du raisonnement.
+- **Les journaux.** Chaque décision est notée avec sa raison, et chaque changement d'avis y reste visible (`corpus/decision-log.md`). Chaque message de l'auteur est réécrit et gardé, le plus récent en premier (`corpus/prompt-log.md`). Rien n'est effacé : on peut toujours savoir pourquoi le monde est tel qu'il est.
+- **Les calculs.** Quand des chiffres apparaissent (tailles, durées de croissance, population), on écrit un script plutôt que de raisonner de tête. Les tableaux de l'échelle H en viennent.
+- **Les livrables.** Quand l'auteur juge le corpus mûr, on en tire un livrable : pour l'instant, la frise narrative de la nouvelle.
+- **Les relectures.** Des agents neufs, qui n'ont rien écrit, relisent le travail : à l'aveugle, pour voir ce qu'un lecteur comprend sans le corpus, ou en audit, pour traquer les contradictions.
+- **L'élagage.** Les pistes abandonnées (un premier contact, un Singleton, un warp…) partent dans `archive/`, gardées pour mémoire du raisonnement.
+
+Chaque affirmation dit de qui elle vient : **[ploki]** l'auteur, **[opus-5.5]** une proposition de l'IA, **[opus-5.5 → ploki]** une proposition validée par l'auteur. Les notes plus anciennes utilisent **[G]** et **[C]**.
 
 | | |
 |---|---|
 | `corpus/` | les notes, le glossaire, l'intention de l'auteur, les journaux |
-| `partus/` | les livrables : la frise narrative de la nouvelle |
-| `instrumenta/` | les scripts : l'échelle H, la croissance, la population des sphères |
+| `partus/` | les livrables |
+| `instrumenta/` | les scripts |
 | `archive/` | les pistes abandonnées |
 
 Pour entrer : `corpus/author-intent.md`, puis `corpus/00-story-index.md`.
-
-Chaque affirmation dit de qui elle vient : **[ploki]** l'auteur, **[opus-5.5]** une proposition de l'IA, **[opus-5.5 → ploki]** une proposition validée. Les notes plus anciennes utilisent **[G]** et **[C]**.
 
 La nouvelle est du fan art de la série *Pluribus*.

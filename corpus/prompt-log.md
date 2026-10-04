@@ -2,6 +2,10 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+150\. 2026-10-04 — Oui, c'est une vitrine. Ce qu'on gagne à finaliser une aventure, c'est un monde qui a de l'épaisseur, sur lequel on peut construire.
+
+149\. 2026-10-04 — Non, garder la fin pour la nouvelle. Ensuite, le README doit expliquer que c'est un projet de construction de monde en vue de créer des aventures, et expliquer un peu le processus.
+
 148\. 2026-10-04 — La première : la bible de l'univers.
 
 147\. 2026-10-04 — Non : veut que, de façon abstraite, le dépôt soit le monde qu'on décrit.

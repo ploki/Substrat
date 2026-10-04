@@ -7,6 +7,8 @@
 - **[G]** **L'ironie centrale du récit** : la fusion aurait donné l'eau, l'eau aurait évité la guerre ; H-2 ne peut pas résoudre la physique, alors elle résout les gens. Faute de pouvoir changer le monde, elle change l'espèce.
 - **[G]** **Pas de guerre entre les générations d'intelligences.** Les IA silicium sont du côté des humains qui les exploitent, chaque belligérant ayant les siennes ; elles n'ont pas d'état d'âme et ne prennent pas parti contre les sphères.
 
+- **[ploki]** **Ce qu'on gagne à finaliser une aventure** : « un monde avec de l'épaisseur sur lequel on peut construire ». La nouvelle est la première ; le dépôt se présente au public comme une construction de monde en vue de créer des aventures, sans que le travail cesse d'être centré sur elle (#226).
+
 ### D'où l'on vient
 - **[G]** Construire **un monde** : « parler d'un monde, de gens, d'endroits, de culture ».
 - **[G]** Le concevoir « comme un openworld avec des NPC », avec « des amitiés, des inimitiés », puis « imaginer des histoires là-dedans, ou des aventures ».
@@ -27,6 +29,7 @@
 - **[G]** **La culture n'est pas un problème** : on est sur Terre et on y reste.
 
 ## History
+- 2026-10-04 — Finaliser une aventure, c'est gagner un monde qui a de l'épaisseur, sur lequel construire ; le dépôt en est la vitrine (#226).
 - 2026-10-04 — La stase : plutôt que de voir périr Mira, par la malédiction de l'attachement (#209).
 - 2026-10-04 — La nouvelle est du fan art de *Pluribus* ; la boucle de l'émetteur est voulue.
 - 2026-10-03 — ↺ Recentrage : le projet est l'histoire, son articulation et son rythme ; la fin est l'interrupteur de l'émetteur ; pas de guerre.
