@@ -95,7 +95,7 @@ La suite appartient à la nouvelle.
 
 ## Comment ce monde est construit
 
-Le monde naît d'un **dialogue entre l'auteur et une IA**, selon une méthode maïeutique : l'auteur ne sait pas d'avance tout ce qu'il cherche, et le dialogue sert à le lui faire trouver et formuler. L'IA pose des questions, propose, objecte ; l'auteur tranche.
+Le projet est tenu avec le skill [**Maieutics**](https://github.com/ploki/Maieutics), pour Claude. Le monde naît d'un **dialogue entre l'auteur et une IA**, selon une méthode maïeutique : l'auteur ne sait pas d'avance tout ce qu'il cherche, et le dialogue sert à le lui faire trouver et formuler. L'IA pose des questions, propose, objecte ; l'auteur tranche.
 
 - **Les notes.** Tout ce qui prend de la substance est consigné dans une note (un concept, un lieu, un personnage, un cadrage). Chacune s'ouvre sur ce qui vaut aujourd'hui (*Current*), puis les questions ouvertes, puis l'histoire du raisonnement.
 - **Les journaux.** Chaque décision est notée avec sa raison, et chaque changement d'avis y reste visible (`corpus/decision-log.md`). Chaque message de l'auteur est réécrit et gardé, le plus récent en premier (`corpus/prompt-log.md`). Rien n'est effacé : on peut toujours savoir pourquoi le monde est tel qu'il est.

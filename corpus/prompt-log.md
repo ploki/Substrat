@@ -2,6 +2,10 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+152\. 2026-10-04 — Demande d'ajouter au README que le projet est tenu avec le skill Maieutics, avec un lien. Le dépôt est git@github.com:ploki/Substrat.git.
+
+151\. 2026-10-04 — Pour la description du dépôt, a le début : « Le Codex de Niobé ».
+
 150\. 2026-10-04 — Oui, c'est une vitrine. Ce qu'on gagne à finaliser une aventure, c'est un monde qui a de l'épaisseur, sur lequel on peut construire.
 
 149\. 2026-10-04 — Non, garder la fin pour la nouvelle. Ensuite, le README doit expliquer que c'est un projet de construction de monde en vue de créer des aventures, et expliquer un peu le processus.
