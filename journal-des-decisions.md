@@ -204,3 +204,4 @@
 | 198 | 2026-10-04 | Niobé se fait naturaliser en 2126, l'année où elle devient professeure à l'UNIS | répond à une question ouverte de #196 | 22, 13, 21, 02-glossaire.md |
 | 199 | 2026-10-04 | Le niobate de lithium est un composant essentiel de toutes les sphères, pas seulement de la première | précise #197 | 06, 22, 02-glossaire.md |
 | 200 | 2026-10-04 | Niobé a choisi une apparence féminine, de façon constante, mais ne s'identifie ni comme femelle ni comme mâle. Pourquoi : l'auteur tranche la question du genre laissée ouverte dans la note 22 | clôt la question du genre (le « il » isolé du 2026-10-03) | 22, 02-glossaire.md |
+| 201 | 2026-10-04 | On dit « elle » : les humains la désignent naturellement ainsi, Niobé n'y voit aucun problème, et « lui » la surprendrait par rupture d'habitude | confirme l'usage proposé par Claude | 22, 02-glossaire.md |

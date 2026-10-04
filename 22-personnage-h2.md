@@ -10,7 +10,7 @@
 
 ## Son genre
 - **[G]** Niobé a fait le choix d'une **apparence féminine, de façon constante**, mais **ne s'identifie ni comme femelle ni comme mâle**.
-- **[C]** Le corpus continue de dire « elle », ce qui suit son apparence sans rien dire de son identité.
+- **[G]** **On dit « elle ».** Les humains la désignent naturellement ainsi, et Niobé n'y voit aucun problème. **Qu'on s'adresse « à lui » la surprendrait probablement**, par rupture d'habitude.
 - **[C]** « H-2 » reste sa désignation par la taille, et le nom qu'on lui donne dans le corpus.
 
 ## Ce qu'elle est
