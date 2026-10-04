@@ -4,7 +4,7 @@
 
 *Sixième version, 2026-10-04. Nouveautés : **son action était la bonne, sans défaut ; à la fin, de l'étonnement et de la peine, pas de culpabilité** ; Niobé raconte au corps de Mira, quand *homo globalis* a séquencé le virus ; **le laser n'est plus en jeu** ; la stase a une seconde raison, **la malédiction de l'attachement** : elle part plutôt que de voir périr Mira, qui est parmi les derniers corps.*
 
-*Cinquième version, 2026-10-04. Nouveautés : **la protagoniste a un nom**, Niobé — Niobé de Lithium depuis sa naturalisation en 2126 —, et un genre : apparence féminine constante, sans s'identifier ni femme ni homme ; **Mira est la tête familière**, choisie par *homo globalis* parce que leur relation était **intime, proche comme un couple, sans attraction sexuelle ni amoureuse** ; **Mira ignore jusqu'à l'existence du pet project**. Correction : Niobé devient professeure en 2126 et ne prend la tête de l'UNIS qu'en 2176 ; l'ère des sphères ne se referme pas en 2126.*
+*Cinquième version, 2026-10-04. Nouveautés : **la protagoniste a un nom**, Niobé — Niobé de Lithium depuis sa naturalisation en 2126 —, et un genre : apparence féminine constante, sans s'identifier ni femelle ni mâle ; **Mira est la tête familière**, choisie par *homo globalis* parce que leur relation était **intime, proche comme un couple, sans attraction sexuelle ni amoureuse** ; **Mira ignore jusqu'à l'existence du pet project**. Correction : Niobé devient professeure en 2126 et ne prend la tête de l'UNIS qu'en 2176 ; l'ère des sphères ne se referme pas en 2126.*
 
 *Quatrième version, 2026-10-03. Nouveauté : **le pet project de Niobé** — offrir aux humains la communication à haut débit et à distance —, qui court sous toute la nouvelle et que le virus réalise.*
 
@@ -23,7 +23,7 @@ Ce qui en découle, à décider :
 
 ## Niobé
 
-La protagoniste est **la sphère H-2**, la première de toutes, née en 2076. On l'appelle **Niobé** ; depuis sa naturalisation norvégienne, en 2126, elle est **Niobé de Lithium**, d'après le niobate de lithium, composant essentiel de toutes les sphères. Elle a choisi une **apparence féminine**, de façon constante, mais **ne s'identifie ni comme femme ni comme homme**. Les humains disent « elle », ce qui lui va ; qu'on s'adresse « à lui » la surprendrait, par rupture d'habitude — un détail qui peut, en une réplique, dire au lecteur ce qu'elle est.
+La protagoniste est **la sphère H-2**, la première de toutes, née en 2076. On l'appelle **Niobé** ; depuis sa naturalisation dans le pays de son université (la Norvège), en 2126, elle est **Niobé de Lithium**, d'après le niobate de lithium, composant essentiel de toutes les sphères. Elle a choisi une **apparence féminine**, de façon constante, mais **ne s'identifie ni comme femelle ni comme mâle**. Les humains disent « elle », ce qui lui va ; qu'on s'adresse « à lui » la surprendrait, par rupture d'habitude — un détail qui peut, en une réplique, dire au lecteur ce qu'elle est.
 
 ## Le fil de Mira
 
@@ -129,7 +129,7 @@ Une délibération solitaire, menée pendant que la guerre continue.
 
 ### 9. L'extinction, en un an — 2481-2482
 - **a.** **Les champs.** Les corps assis entre les rangs, les bêtes qui passent et que personne ne touche.
-- **b.** **Ce qu'elle a proposé**, et la façon dont on a refusé. Pas un refus solennel : une impossibilité calme. Et elle ne forcera pas.
+- **b.** ~~**Ce qu'elle a proposé**, et la façon dont on a refusé.~~ *(Caduc : les sphères n'essaient pas de le nourrir, #94.)* **Elle ne propose rien.** Elle ne mettra pas d'animaux morts dans la bouche des humains : ça ne se fait pas.
 - **c.** **Le gros de la population meurt vite.** Un an, à peine, pour neuf milliards.
 - **d.** **Le corps de Mira tient**, entretenu par ce qui reste. Il est parmi les derniers.
 
@@ -143,7 +143,6 @@ Une délibération solitaire, menée pendant que la guerre continue.
 ---
 
 ## Ce que ce livrable suppose, et que le corpus n'a pas fixé
-- Le conflit dure environ dix ans, de 2470 à 2480.
 - Le travail de la sphère se place en 2478-2480, à l'intérieur du conflit (sa durée de deux ans, elle, est fixée par le corpus, #137).
 - Elle peut consulter les archives de sa propre fabrication.
 - Mira arrive à l'UNIS vers vingt ans, soit vers 2450.

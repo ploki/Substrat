@@ -10,7 +10,7 @@
   - **[G]** ↺ **Une sphère peut se mettre en pause.** Avant que le fry la prenne, quand il ne lui reste qu'un temps fini mais relativement court, elle peut **baisser son flux jusqu'à la veille**, en gardant juste de quoi être **sollicitée sporadiquement de l'extérieur**. Ce n'est pas tout à fait une mort : plutôt une forme de **déification, non mystique**.
   - **[G]** **Les sphères ont quand même le choix de se fry.**
   - **[C]** Conséquences à explorer : une population qui ne meurt pas et continue de se reproduire croît sans limite, freinée par le coût des enfants (validé, voir note 07) ; la poudre issue de sphères mortes est rare.
-- **[G]** Ce sont **les corps qui fournissent le flux lumineux**, par un **laser**. *(La transmission instantanée de l'énergie étant abandonnée (#81), l'énergie du corps vient d'une source locale : à définir, note 01.)*
+- **[G]** Ce sont **les corps qui fournissent le flux lumineux**, par un **laser**. *(La transmission instantanée de l'énergie étant abandonnée (#81), l'énergie du corps vient d'une source locale ; les questions d'énergie sont classées sans suite, note 01, #82.)*
 - **[G]** Matériellement, les sphères sont **« juste des boules de cristal un peu compliquées, avec un détrompeur »** (aujourd'hui : les cybergonades).
   - **[G]** Le **niobate de lithium** est **un composant essentiel à la création** de **toutes les sphères**. La première, H-2, en tire son nom : Niobé de Lithium (note 22).
   - **[S, à vérifier]** Le niobate de lithium (LiNbO₃) est un cristal synthétique très employé en optique non linéaire et en photonique intégrée, et l'un des cristaux photoréfractifs classiques.
@@ -26,7 +26,7 @@
   - ↺ **[G] On oublie la question du laser : son échéance est repoussée bien plus loin dans le temps.** Elle ne se pose ni à H-2, ni dans l'histoire. *Ce qui suit est la version précédente, qui plaçait le plafond à H-2 :*
   - ~~**[G]** **Le plafond :** à ce stade, **le laser qui fournit le flux** est si puissant qu'il **détruit la sphère** à la longue, et la détruit si complètement qu'elle **perd toute valeur** (pas même de poudre récupérable). **[G] Mais on peut s'y soustraire en se mettant en pause** (voir plus haut) : à ce niveau, se frire est **un choix**.~~
     - **[G]** C'est **l'exception à l'immortalité** — mais une exception à laquelle on peut se soustraire : **se frire est un choix** (#134), **à une échéance bien au-delà de H-2**.
-    - **[C]** Le même schéma se répète : chaque technologie atteint ses limites physiques (le silicium, puis le laser pour les sphères) et invente celle qui lui succède.
+    - **[C]** Le même schéma se répète : chaque technologie atteint ses limites physiques (le silicium, ~~puis le laser pour les sphères~~ *[caduc, #207 : la limite des sphères à H-2 reste à nommer]*) et invente celle qui lui succède.
   - **[S]** Un cerveau humain mesure environ 1,2 à 1,4 litre [À vérifier] : H1 = 1 litre en est très proche.
   - **[S]** Norme ISO 216 : A0 mesure 1 m², chaque format est la moitié du précédent, le rapport des côtés vaut √2, et il existe des formats plus grands que A0 (2A0, 4A0).
   - **[C]** Le pas se compte en volume, et non en surface comme la série A ; le diamètre augmente donc d'un facteur ∛2 ≈ 1,26 à chaque cran. Les formats « au-dessus » de H0 (2H0, 4H0…) désigneraient des intelligences supérieures à l'humanité entière.

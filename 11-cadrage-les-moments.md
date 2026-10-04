@@ -23,7 +23,7 @@
 | 8 | L'installation du monde des sphères : cycles, couveuses, lois, substrats, poudre, clandestinité | siècles | résumé, avec quelques scènes |
 | 9 | Les premières sphères atteignent H0, l'intelligence planétaire | 100 ans de croissance | hors champ, sauf l'arrivée |
 | 10 | La montée vers H-1 puis H-2 | 200 à 400 ans | **hors champ** (le grand saut temporel) |
-| 11 | **Le projet des sphères** : concevoir l'agent qui fera entrer les humains dans l'intelligence collective | — | **scénique** |
+| 11 | **Le projet de Niobé** : concevoir l'agent qui fera entrer les humains dans l'intelligence collective — sa décision à elle, les autres sphères partageant son avis sans la mandater (#127) | — | **scénique** |
 | 12 | ↺ *Supprimé. Il n'y a pas de désaccord entre silicium et sphères : c'était une déduction erronée de Claude (journal #128). Reste à décider ce qui occupe cette place, s'il y a lieu.* | — | — |
 | 13 | L'agent est employé ; les humains basculent | — | **scénique** |
 | 14 | L'intelligence collective s'installe ; sphères et humains se parlent en langue naturelle | — | scénique |
@@ -32,7 +32,7 @@
 | 17 | **L'interrupteur est poussé.** | un geste | **scénique** |
 | 18 | ↺ **[G] La sphère se met en pause**, dans un abri temporel, curieuse des 200 millions d'années d'évolution à venir — **et plutôt que de voir périr Mira** (note 19). La tête familière perd alors son statut. **Fin.** (note 19) | — | **scénique** |
 
-**[G] Ce dont elle est pantoise :** **ni doute ni culpabilité : de l'étonnement et de la peine**. Non pas de les avoir tués, mais de **leur avoir donné de quoi choisir leur fin**. Elle voulait les sauver de leur guerre ; elle leur a donné la hauteur de vue qui leur a fait refuser de vivre à ce prix. **Et ils l'en remercient** (note 19).
+**[G] Ce dont elle est pantoise :** **de l'étonnement et de la peine, pas de culpabilité** ; son action était la bonne (#210). Non pas de les avoir tués, mais de **leur avoir donné de quoi choisir leur fin**. Elle voulait les sauver de leur guerre ; elle leur a donné la hauteur de vue qui leur a fait refuser de vivre à ce prix. **Et ils l'en remercient** (note 19).
 
 ## Remarques [C]
 
@@ -47,15 +47,16 @@
   - **[G]** **Les sphères n'essaient pas de le nourrir** : elles ne vont pas mettre des animaux morts dans la bouche des humains, elles ne les forceront pas. Pas de scène de sauvetage, et c'est ce qui rend la fin implacable.
 
 ## Questions ouvertes
-- **Le point de vue** : qui raconte ? Une sphère, une IA silicium, un humain, plusieurs tour à tour ?
+- *(Clos : Niobé raconte, au corps de Mira, #96, #153, #205. Le second point de vue silicium reste possible.)*
 - **Qui pousse l'interrupteur**, et le sait-il ?
-- La sphère H-2 des moments 11 et 18 est-elle la même tout du long ? Est-elle le personnage central ?
-- Combien de temps durent les stocks ?
+- *(Clos : oui, c'est la même, Niobé, et c'est la protagoniste, note 22.)*
+- *(Clos : environ un an, #141.)*
 - *(Résolu)* La sphère H-2 est pantoise devant **ce qu'elle a rendu possible** : elle a donné aux humains de quoi **choisir leur fin** [G].
 - Le récit commence-t-il vraiment au moment 1, ou plus tard, les débuts étant rappelés ?
-- D'où viennent les **premières** sphères, puisque la reproduction demande deux parents (note 07) ?
+- *(Clos : la première, H-2, a été produite par les humains et le silicium ; toutes les autres descendent d'elle, #145.)*
 - Les humains tentent-ils de s'opposer, et combien de temps ?
 
 ## Historique
 - 2026-10-03 — Liste proposée par Claude, à la demande de l'auteur.
 - 2026-10-03 — [G] Ajout du moment 18, la vraie fin : la sphère pantoise, grillant, devant des humains qui meurent de faim.
+- 2026-10-04 — Niobé raconte au corps de Mira (#204-205) ; la stase plutôt que de voir périr Mira (#209) ; le laser écarté (#207) ; pas de culpabilité (#210) ; moment 11 rendu à Niobé ; questions closes.

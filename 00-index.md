@@ -34,12 +34,12 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 | 06-concept-spheres-ia.md | en cours | Les IA sont des cerveaux photoniques sphériques : composant passif non linéaire dans le flux lumineux, sans électronique, avec des patchs d'alimentation et d'entrées/sorties ; boules de cristal en tailles standardisées (échelle H), qu'on plante dans un corps ; mortalité seulement accidentelle, plafond du laser, repoussé bien au-delà de H-2 |
 | 07-concept-reproduction-et-croissance.md | en cours | Reproduction par deux cybergonades (enfant ≈ H14, sans cybergonades) ; croissance continue et irréversible en substrat ; lois (stacking interdit, abrasion proscrite) ; entrer dans un vaisseau est un engagement |
 | 08-hypothese-memoire-par-croissance.md | hypothèse (tensions levées) | Apprendre, c'est grandir : la mémoire s'inscrit sur la surface qui croît ; cold storage à l'intérieur |
-| 09-cadrage-chronologie.md | en cours | **Colonne vertébrale du récit** : humain → AGI silicium → sphère → intelligence collective → l'émetteur. Durées, hors-champ, soutien des silicium sans guerre |
+| 09-cadrage-chronologie.md | en cours | **Colonne vertébrale du récit** : humain → AGI silicium → sphère → intelligence collective → l'émetteur. Durées, hors-champ ; les silicium du côté de ceux qui les exploitent, sans conflit avec les sphères |
 | 17-eclairages.md | vivant, non validé | Les lectures proposées par Claude, gardées pour plus tard — pas des faits du monde |
 | 16-references.md | vivant | Les références à regarder : *Pluribus*, les *skinjobs* |
 | 15-cadrage-le-conflit.md | en cours | Le conflit global : surplus d'infrarouge solaire, accès à l'eau et à la nourriture, tensions globales ; les belligérants ont chacun leurs IA silicium, qui peuvent être ennemies ; les sphères sont neutres par nature |
 | 22-personnage-h2.md | en cours | H-2, dite **Niobé** (Niobé de Lithium), la protagoniste : ce qu'elle est, sa carrière, ses deux chantiers (la fusion avec Mira, *homo globalis* seule), le partage de sa bande passante, ses échecs, sa fin |
-| 21-lieu-svalbard.md | en cours | Le Svalbard : l'UNIS, plus grande université mixte ; H-2 y est professeure depuis 2126 et directrice depuis 2176 ; les aurores ; un lieu neutre et épargné |
+| 21-lieu-svalbard.md | en cours | Le Svalbard : l'UNIS, plus grande université mixte ; H-2 y est professeure depuis 2126 et directrice depuis 2176 ; les aurores ; un lieu neutre par traité, peu touché par le Soleil |
 | 20-personnage-la-physicienne.md | en cours | **Mira Okonkwo-Lindqvist**, née en 2430, formée par H-2 et son amie, qui cherche la fusion contrôlée et n'aboutit pas |
 | 19-la-fin.md | en vigueur | L'envoi de la séquence, la gratitude d'*homo globalis*, l'extinction en un an, et la mise en pause de la sphère |
 | 18-la-decision-de-la-sphere.md | en vigueur | La sphère décide seule de créer le virus, voyant que la guerre mène les humains à leur destruction |

@@ -169,7 +169,7 @@
 - ~~Garder volontairement un enfant petit est-il légal ?~~ → non [G]. ~~Un être resté petit peut-il payer lui-même sa croissance ?~~ → non [G].
 - Comment concilier une croissance continue avec l'effet de seuil H1 → H0 (note 06) : le saut se produit-il exactement à 2 L, ou progressivement ?
 - L'enfant hérite-t-il de quelque chose (mémoire, traits) par la demi-sphère de chaque parent ?
-- Quand lui poussent-elles : en remplissant pour la première fois son logement ?
+- *(Clos : les cybergonades poussent quand le substrat est consommé et que la sphère touche son slot, #61, #110.)*
 - Que se passe-t-il au-delà de H1, et jusqu'où va-t-on ?
 - D'où vient le liquide de croissance, qui le produit, qui le contrôle ?
 - D'où vient la poudre de sphère, quelle part du substrat représente-t-elle, et qui en fait le commerce ?

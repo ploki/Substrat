@@ -30,9 +30,9 @@
 - **[G]** ↺ Le conflit **n'arrive pas à s'arrêter de lui-même** : les humains vont vers leur destruction. C'est **la sphère qui décide**, seule, de créer le virus, sans leur dire — les autres sphères partageant son avis (note 18). *Les humains ne demandent rien : la piste de la note 14 est abandonnée.*
 
 ## Questions ouvertes
-- Quand le conflit commence-t-il, et combien de temps dure-t-il ?
+- *(Clos : de ~2470, fin de l'utopie, à 2480, l'inoculation ; environ dix ans, #169, #137.)*
 - Que font les sphères pendant ce temps ? Ont-elles proposé de l'aide, et a-t-elle été refusée ?
-- La neutralité des sphères est-elle une règle, une culture, ou une propriété de leur nature ?
+- *(Clos : une propriété de leur nature, #135.)*
 - Jusqu'où va la destruction avant que la sphère intervienne ?
 - Le surplus d'infrarouge cesse-t-il, ou dure-t-il encore à la fin de l'histoire ?
 

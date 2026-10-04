@@ -43,7 +43,7 @@
 - *(Clos : Mira n'est pas au courant du pet project [G].)*
 - En quoi consiste exactement le problème « plus grand que H-2 » ? Et H-2 sait-elle qu'il la dépasse, ou l'apprend-elle en échouant ?
 - De quel côté du conflit se trouve le Svalbard, ou est-il hors des deux ? *(Voir note 21.)*
-- Comment une sphère neutre peut-elle former une humaine, et depuis quand H-2 enseigne-t-elle ?
+- Comment une sphère neutre peut-elle former une humaine ? *(Depuis quand elle enseigne : 2126, #174.)*
 
 ## Historique
 - 2026-10-04 — ↺ Le rapprochement se place pendant le doctorat, quand Mira décide de rester au Svalbard.

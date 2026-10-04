@@ -10,15 +10,14 @@
 - **[G]** ↺ **Pourquoi elle ne le dit pas :** le pouvoir qu'elle a débloqué pourrait la faire **s'apparenter à un dieu**, et elle ne veut surtout pas que les humains, qui sont ou peuvent être **irrationnels**, le pensent. *(Remplace le blanc assumé de #104.)*
   - **[C]** La responsabilité est donc **entièrement la sienne**, et l'assentiment des autres ne la partage pas. Personne ne pourra lui dire qu'elle a outrepassé un mandat, et personne ne pourra non plus en porter une part avec elle.
 
-## Le pet project [G]
-- H-2 avait un **pet project** : offrir aux humains la **communication à haut débit et à distance** (note 22). **Le virus le réalise** : *homo globalis* communique par radio.
+## Après
+- **[G]** Plus tard, quand *homo globalis* a séquencé le virus et ne voit que deux pistes, les silicium ou les sphères, **Niobé lui raconte tout**, par le corps de Mira (note 19). Et **il lui en est absolument, ultra reconnaissant.**
+
+## Le pet project
+- **[G]** H-2 avait un **pet project** : offrir aux humains la **communication à haut débit et à distance** (note 22). **[C, implicite dans #177 et #182, à confirmer]** **Le virus le réalise** : *homo globalis* communique par radio.
 - **[C]** Sa décision n'est donc pas une invention sous la contrainte, mais **l'application d'une idée qu'elle portait déjà**. La guerre est-elle sa raison, ou son occasion ?
 - **[G] Ce qu'elle visait :** que les belligérants **se comprennent mieux** et **s'organisent ensemble** pour gérer la crise. **Pas** de refaire l'espèce.
 - **[G] Ce qu'elle n'attendait pas :** que **l'espace cognitif s'effondre en un seul individu** (note 22).
-
-## Le pet project [G]
-- H-2 avait un **pet project** : offrir aux humains la **communication à haut débit et à distance** (note 22). **Le virus le réalise** : *homo globalis* communique par radio, en interconnexion à haut débit.
-- **[C]** Sa décision n'est donc pas une invention sous la contrainte, mais **l'application d'une idée qu'elle portait déjà**. La guerre est-elle sa raison, ou son occasion ?
 
 ## Ce que cela règle [C]
 - **L'incohérence relevée par l'audit** (projet collectif contre acte secret) tombe : la décision est **la sienne**, les autres sphères y souscrivent, et ce sont **les humains** qui ne sont pas mis au courant. La raison est invoquée entre intelligences, pas devant ceux qu'elle concerne.
@@ -31,9 +30,9 @@
 
 ## Questions ouvertes
 - Les silicium savent-elles ? Peuvent-elles seulement avoir un avis sur le projet ?
-- **[G]** Plus tard, quand *homo globalis* a séquencé le virus et ne voit que deux pistes, les silicium ou les sphères, **Niobé lui raconte tout**, par le corps de Mira (note 19). Et **il lui en est absolument, ultra reconnaissant.**
-- La guerre s'arrête-t-elle effectivement grâce au virus ? *(Elle devrait : un seul être ne se fait pas la guerre.)*
+- *(Clos : oui, l'inoculation arrête la guerre instantanément, #137.)*
 - Pourquoi l'équilibre de la faune pesait-il plus que le sort des humains, jusqu'à ce que la guerre renverse la balance ?
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur, en remplacement de la piste de la note 14.
+- 2026-10-04 — Niobé raconte tout quand *homo globalis* a séquencé le virus (#205) ; doublon du pet project retiré ; question de l'arrêt de la guerre close.

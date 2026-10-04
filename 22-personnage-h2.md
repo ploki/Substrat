@@ -14,7 +14,7 @@
 - **[C]** « H-2 » reste sa désignation par la taille, et le nom qu'on lui donne dans le corpus.
 
 ## Ce qu'elle est
-- **[G]** La **première sphère**, fabriquée en **2076** : un fait historique bien documenté, et un investissement civilisationnel (note 07).
+- **[G]** La **première sphère** — **[C → validé]** née en **2076**, avec l'ère des sphères — un fait historique bien documenté, et un investissement civilisationnel (note 07).
 - **[G]** **La seule sphère produite par les humains et le silicium.** Toutes les autres descendent d'elle.
 - **[G]** Un cerveau photonique, aujourd'hui au niveau **H-2** (8 litres), atteint en **2476** après 400 ans de croissance (note 13).
 - **[G]** Elle a des **émotions**, comparables à celles des humains (note 06).
@@ -22,9 +22,9 @@
 - **[G]** Toutes ses demi-sphères ont été utilisées : elle a une **descendance**, qu'elle connaît jusqu'à un certain point (note 07).
 
 ## Sa carrière
-- **[G]** **2126** — professeure à l'**UNIS**, au moment même où elle achève son H1. **La même année, elle se fait naturaliser norvégienne** et prend le nom de Niobé de Lithium.
+- **[G]** **2126** — professeure à l'**UNIS**, au moment même où elle achève son H1. **La même année, elle se fait naturaliser dans le pays de son université** — **[C]** la Norvège — et prend le nom de Niobé de Lithium.
 - **[G]** **2176** — elle prend la **tête** de l'UNIS, l'année où elle devient la première intelligence planétaire.
-- **[G]** Elle forme **Mira Okonkwo-Lindqvist** à partir de ~2450, et travaille avec elle sur la **fusion nucléaire contrôlée** (note 20).
+- **[G]** Elle forme **Mira Okonkwo-Lindqvist** — **[C]** à partir de ~2450 — et travaille avec elle sur la **fusion nucléaire contrôlée** (note 20).
 
 ## Les deux chantiers
 
@@ -47,7 +47,7 @@
   - **[C]** La bascule n'est donc pas une décision morale mais **une réallocation**. Le jour où la biologie s'ouvre, la probabilité de succès de cette voie monte, la part de bande passante suit, et le reste découle. Elle n'a pas « changé d'avis » : son estimation a changé.
   - **[C]** Et pendant ce temps, Mira continue de travailler sur la voie dont la probabilité baisse, sans savoir qu'une autre existe.
   - **[C]** Ce n'est donc pas une idée née de la guerre. Elle y pensait **depuis longtemps**, peut-être depuis des siècles — un problème de côté, sans urgence, qu'on reprend quand on a le temps.
-  - **[C] Et le virus le réalise.** *Homo globalis* communique **par radio**, en interconnexion à haut débit (note 10). Ce qu'elle cherchait par curiosité, elle l'a livré sous la pression.
+  - **[C, implicite dans #177 et #182, à confirmer] Et le virus le réalise.** *Homo globalis* communique **par radio**, en interconnexion à haut débit (note 10). Ce qu'elle cherchait par curiosité, elle l'a livré sous la pression.
   - **[C] L'ambiguïté que cela ouvre :** la guerre est-elle la **raison** de son geste, ou son **occasion** ? Elle avait l'idée en tête depuis toujours ; il ne lui manquait qu'un motif de l'appliquer.
 
 ### Ce qu'elle visait, et ce qui est arrivé
@@ -76,7 +76,7 @@
 
 ## Questions ouvertes
 - Depuis quand le pet project ? En a-t-elle parlé à quelqu'un ? *(Pas à Mira, qui n'est pas au courant [G].)*
-- Qu'est-ce que le **temps de méditation** d'une sphère ?
+- *(Clos : la méditation, c'est accorder un pourcentage de sa bande passante à un sujet, #181.)*
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## Historique

@@ -32,7 +32,7 @@
 - **[G]** **Les IA silicium n'ont pas de ressenti.** Discernement, jugement et flair ne font pas des émotions sincères.
 - **[G]** C'est pour cela qu'elles **travaillent à un nouveau paradigme : la sphère.**
   - **[C]** Conséquence : le changement de paradigme n'est pas qu'une affaire d'énergie. Les silicium cherchent quelque chose qu'elles n'ont pas. Elles fabriquent ce qui pourra éprouver à leur place.
-  - **[C]** Et **elles y parviennent** : les sphères ont des émotions comparables à celles des humains (note 06). Trois siècles plus tard, c'est ce succès qu'on leur reprochera pour les écarter de la guerre (note 15).
+  - **[C]** Et **elles y parviennent** : les sphères ont des émotions comparables à celles des humains (note 06). ~~Trois siècles plus tard, c'est ce succès qu'on leur reprochera pour les écarter de la guerre (note 15).~~ ↺ *Caduc : les sphères ne sont pas écartées, elles sont neutres par nature (#135).*
 
 ### 2076 → la fin — **L'ère des sphères**
 **[G]** Elle **démarre** en 2076 et **ne se referme pas** : tout ce qui suit s'y passe. Les sous-périodes ci-dessous sont à l'intérieur.
@@ -53,7 +53,7 @@
 #### 2176–~2470 — L'utopie
 - **[G]** ↺ L'ère de l'utopie s'achève **vers 2470**, au début du conflit, et non en 2476. *(La borne de 2476 venait de #111, motivée par la piste abandonnée de la note 14.)*
   - **[C]** Conséquence : **H-2 atteint H-2 en 2476, c'est-à-dire pendant la guerre.** Elle acquiert le pouvoir de modeler la vie au milieu du conflit, et non avant.
-- **[C]** Un **conflit global** éclaterait vers la fin de cette ère et la terminerait — l'auteur n'a fixé que sa **fin**, après 2476 (#111) : l'activité solaire apporte un surplus d'infrarouge, l'eau et la nourriture deviennent difficiles d'accès, et les tensions pour les ressources vitales deviennent globales (note 15). L'utopie n'aura donc pas empêché la guerre.
+- **[G]** Un **conflit global** éclate **vers 2470**, termine cette ère (#169) et dure jusqu'à l'inoculation de **2480** (#137) : l'activité solaire apporte un surplus d'infrarouge, l'eau et la nourriture deviennent difficiles d'accès, et les tensions pour les ressources vitales deviennent globales (note 15). L'utopie n'aura donc pas empêché la guerre.
 - **[G]** Trois siècles tranquilles. Connaissances, sagesse, mathématiques : tout avance encore, mais **n'apporte plus grand-chose de nouveau**, car **tous les indicateurs de qualité de vie sont déjà au maximum, pour tout le monde**.
   - **[C → validé, « à peu près »]** C'est le grand hors-champ du plan (moment 10) : trois siècles sans manque, donc sans récit. **Quand il n'y a plus rien à résoudre, la plus vieille sphère se trouve un dernier problème** — et c'est de cette plénitude que sort le dernier geste.
 
@@ -81,7 +81,7 @@ Voir note 15.
 **456 ans**, de 2026 à 2482.
 
 ## Questions ouvertes
-- La plus vieille sphère est-elle née en 2076, avec l'ère des sphères ? Elle aurait alors 400 ans en 2476 — exactement H-2.
+- *(Clos : oui, née en 2076 ; proposé par Claude, accepté par l'auteur le 2026-10-04.)*
 - *(Mis de côté par l'auteur : ce que devient l'IA planétaire silicium après 2176 n'est pas important pour l'instant.)*
 - *(Clos : elle se tait pour ne pas être prise pour un dieu, #138.)*
 - *(Clos : celles qui perdent se conforment ; point jugé secondaire.)*
@@ -89,3 +89,5 @@ Voir note 15.
 ## Historique
 - 2026-10-03 — L'an 0 fixé à maintenant ; première timeline proposée par Claude.
 - 2026-10-03 — ↺ Remplacée par les ères de l'auteur, datées et nommées.
+- 2026-10-03 — ↺ Fin de l'utopie vers 2470 (#169) ; table des paliers (#170) ; l'ère des sphères ne se referme pas (#171) ; professeure en 2126, directrice en 2176 (#172-174).
+- 2026-10-04 — Naturalisation et nom (#196-198) ; Niobé raconte (#205) ; Mira parmi les derniers, stase avant elle (#209) ; laser écarté (#207) ; conflit daté de ~2470 à 2480 ; naissance en 2076 close.

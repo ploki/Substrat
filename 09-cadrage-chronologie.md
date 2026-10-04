@@ -13,8 +13,8 @@
 7. **[G]** **Les humains ainsi transformés ne peuvent pas s'empêcher de construire un moyen de diffuser la séquence dans le cosmos.** Devenus une conscience unique, ils refusent par ailleurs de tuer pour se nourrir, et ne vivent que le temps des stocks. L'organisme **sait qu'il va mourir** ; les sphères n'interviennent pas — non par respect solennel d'un choix, mais parce qu'elles ne vont pas mettre des animaux morts dans la bouche des humains (note 10).
 8. **[G]** **Les sphères n'avaient pas anticipé cette envie de disséminer.**
 9. **[G]** **L'interrupteur de l'émetteur est poussé.**
-10. **[G]** **Fin :** les humains s'éteignent faute de stocks, et la sphère H-2 reste pantoise, à se demander ce qu'elle a fait aux humains — **ni doute ni culpabilité : de l'étonnement et de la peine** (#210). **Elle se met en stase**, plutôt que de voir périr Mira (note 19).
-   - **[C]** C'est le premier **échec de prévision** d'une intelligence supérieure dans ce monde : les sphères ont conçu l'état, pas le désir qu'il produit.
+10. **[G]** **Fin :** les humains s'éteignent faute de stocks, et la sphère H-2 reste pantoise devant ce qu'elle a fait aux humains — sans douter d'avoir bien agi : **de l'étonnement et de la peine, pas de culpabilité** (#210). *(Première formulation : « à se demander ce qu'elle a fait aux humains ».)* **Elle se met en stase**, plutôt que de voir périr Mira (note 19).
+   - ~~**[C]** C'est le premier **échec de prévision** d'une intelligence supérieure dans ce monde : les sphères ont conçu l'état, pas le désir qu'il produit.~~ ↺ *Caduc (2026-10-04) : elle n'a anticipé ni l'état (le singleton cognitif) ni le désir (la méta-contagion), #208.*
 
 *Les dates et les ères sont dans la note 13.*
 
@@ -41,17 +41,18 @@
 - Le code optimal sphérique attribué à « l'AGI » est l'œuvre de **l'IA silicium** (note 06).
 - Le choix s'explique par la contrainte d'énergie du monde (note 01) : quand on ne sait pas stocker l'énergie, la sobriété est décisive.
 - *(Le contact, le Singleton et le fond diffus ont été abandonnés le 2026-10-03 ; ils n'ont plus à être placés dans cette chronologie.)*
-- **[C, piste non validée]** Dans *Pluribus*, l'humanité **reçoit** une séquence venue de 600 années-lumière ; ici, elle **émet**. Et si le « contact » de nos prémisses était la réception d'un envoi du même genre, par une civilisation passée avant nous par le même chemin ? Le cycle se répéterait de civilisation en civilisation.
+- ~~**[C, piste non validée]** Dans *Pluribus*, l'humanité **reçoit** une séquence venue de 600 années-lumière ; ici, elle **émet**. Et si le « contact » de nos prémisses était la réception d'un envoi du même genre, par une civilisation passée avant nous par le même chemin ? Le cycle se répéterait de civilisation en civilisation.~~ ↺ *Caduc (2026-10-04) : le contact est abandonné (#80) ; la boucle avec *Pluribus* est désormais posée par l'auteur : une civilisation émettrice parmi d'autres, sans lien littéral (#189, note 16).*
 
 ## Questions ouvertes
 - *(Clos : une IA silicium qui perd **comply**. L'auteur juge le point secondaire.)*
 - Les silicium ont-elles un avis sur le virus, et peuvent-elles seulement en avoir un ?
-- À quelle époque se situe le présent du monde, et à quelle distance les unes des autres sont ces étapes ?
+- *(Clos : les dates et les ères sont dans la note 13.)*
 - Tous les humains sont-ils transformés ? Y a-t-il des immunisés, comme dans *Pluribus* ?
-- La diffusion a-t-elle eu lieu ? Les sphères ont-elles cherché à l'empêcher ?
+- *(Clos : la séquence est émise en 2481, #151.)* Les sphères ont-elles cherché à l'empêcher ?
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
 - 2026-10-03 — Fin de l'histoire (l'interrupteur) ; durées de 200 à 400 ans ; hors-champ ; langue naturelle ; soutien des silicium, sans guerre.
 - 2026-10-03 — Ajout : l'agent conçu par les sphères, l'intelligence collective à la *Pluribus*, l'envie irrépressible de disséminer.
 - 2026-10-03 — ↺ Précisé : l'IA silicium atteint les limites du silicium (et non de la physique), découvre le photonique par la culture de cristal ; schéma de changement de paradigme, vers la biologie ensuite.
+- 2026-10-04 — Audit : la fin sans culpabilité (#210) ; Niobé raconte (#204-206) ; la stase avant Mira (#209) ; pistes caduques barrées ; questions closes.

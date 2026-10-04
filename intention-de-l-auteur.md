@@ -28,6 +28,7 @@
 - **[G]** **La culture n'est pas un problème** : on est sur Terre et on y reste.
 
 ## Historique
+- 2026-10-04 — La stase : plutôt que de voir périr Mira, par la malédiction de l'attachement (#209).
 - 2026-10-04 — La nouvelle est du fan art de *Pluribus* ; la boucle de l'émetteur est voulue.
 - 2026-10-03 — ↺ Recentrage : le projet est l'histoire, son articulation et son rythme ; la fin est l'interrupteur de l'émetteur ; pas de guerre.
 - 2026-10-03 — ↺ L'auteur abandonne l'histoire du contact et celle du Singleton. Le cœur du projet est désormais la lignée des intelligences : silicium → sphères → humains transformés.
