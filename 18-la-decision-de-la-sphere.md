@@ -29,6 +29,7 @@
 - **La stupeur finale garde son sens** (note 11, moment 18) : elle a sauvé des gens qui ne survivent pas d'avoir été sauvés.
 
 ## Questions ouvertes
+- **[À trancher — audit C5, #211]** **La peur d'être prise pour un dieu.** Elle se taisait pour cette raison (#138) ; elle raconte pourtant tout, sans crainte de jugement (#205-206). La crainte disparaît-elle, et pourquoi ne l'empêche-t-elle plus de parler ? Dépendent de la réponse : la frise 4e et 7c (« exactement ce qu'elle redoutait »).
 - Les silicium savent-elles ? Peuvent-elles seulement avoir un avis sur le projet ?
 - *(Clos : oui, l'inoculation arrête la guerre instantanément, #137.)*
 - Pourquoi l'équilibre de la faune pesait-il plus que le sort des humains, jusqu'à ce que la guerre renverse la balance ?

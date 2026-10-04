@@ -40,6 +40,7 @@
 - **[G]** **La fusion nucléaire contrôlée n'est pas acquise** dans ce monde, malgré les sphères et les intelligences planétaires. Voir note 01.
 
 ## Questions ouvertes
+- **[À trancher — audit C4, #211]** **Le silence envers Mira, face à « sans défaut » (#210).** Niobé déclasse le projet de son amie sans le lui dire (note 22) ; la frise parle de « la seule décision du récit qu'on ne lui pardonnera pas » (4e'). « Sans défaut » couvre-t-il aussi ce silence ?
 - *(Clos : Mira n'est pas au courant du pet project [G].)*
 - En quoi consiste exactement le problème « plus grand que H-2 » ? Et H-2 sait-elle qu'il la dépasse, ou l'apprend-elle en échouant ?
 - De quel côté du conflit se trouve le Svalbard, ou est-il hors des deux ? *(Voir note 21.)*

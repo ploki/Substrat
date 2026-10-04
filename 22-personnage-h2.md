@@ -75,6 +75,8 @@
 - **[G]** Le laser n'est pas en jeu : son échéance est repoussée bien au-delà de H-2 (note 06). La stase est un choix, qui demande **le courage de se détacher du monde** et de **compter sur quelque chose pour se faire réveiller**.
 
 ## Questions ouvertes
+- **[À trancher — audit C4, #211]** **Le silence envers Mira, face à « sans défaut » (#210).** Niobé déclasse le projet de son amie sans le lui dire (note 22) ; la frise parle de « la seule décision du récit qu'on ne lui pardonnera pas » (4e'). « Sans défaut » couvre-t-il aussi ce silence ?
+- **[À trancher — audit C3, #211]** **Ce que visait Niobé.** La note 09 dit que l'agent fait entrer les humains dans « l'étape finale de l'intelligence collective », au « même niveau d'intégration » que les autres intelligences ; #178-179 disent qu'elle ne visait qu'une meilleure communication entre belligérants, la conscience unique n'étant pas le but. La première formule est-elle son but, la justification donnée aux autres sphères, ou abandonnée ?
 - Depuis quand le pet project ? En a-t-elle parlé à quelqu'un ? *(Pas à Mira, qui n'est pas au courant [G].)*
 - *(Clos : la méditation, c'est accorder un pourcentage de sa bande passante à un sujet, #181.)*
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.

@@ -13,6 +13,7 @@
 ## Sur la lignée des intelligences
 - **Chaque génération fabrique ce qui lui manque.** Les silicium n'ont pas de ressenti : elles créent ce qui éprouvera à leur place. Et **elles réussissent** — les sphères ont des émotions comparables aux nôtres.
 - ~~**Puis on le leur reproche**, et la guerre choisit ce qui ne ressent pas.~~ ↺ *Caduc : les sphères ne sont pas écartées, elles sont neutres par nature (note 15).*
+- **Une impasse de support, pas de pensée.** La limite des sphères (#215) a la même forme que celle du silicium : leur matériel les bloque, pas leur intelligence. Le changement d'enveloppe est aux sphères ce que le silicium était au silicium.
 - **Chaque technologie bute sur sa limite physique et invente la suivante** : le silicium, puis le laser des sphères. *(Le laser n'est plus en jeu dans l'histoire, 2026-10-04. Hypothèse du moment de l'auteur pour la limite des sphères : le changement d'enveloppe à chaque étape, contre la continuité du développement biologique, #215.)*
 - ~~**Une mort inscrite d'avance** en devenant trop intelligent.~~ ↺ *Caduc : la sphère contrôle son flux et peut se mettre en pause ; se frire est un choix (note 06).*
 
@@ -33,13 +34,22 @@
 - ~~**Le dernier corps est son visage.** *Homo globalis* renvoie celui de Mira **parce qu'il se souvient** de ce qu'elle était pour la sphère. H-2 continue de voir son amie, entretenue, en bonne santé, et vide. Puis ce corps perd son privilège au moment de la stase : c'est le dernier geste du récit.~~ → *validé le 2026-10-04, notes 19, 20 et 10.*
 - **H-2 est l'ancêtre de tous.** Seule sphère fabriquée, toutes les autres descendent d'elle. « La plus vieille sphère » est littéral, et elle connaît sa descendance jusqu'à un certain point.
 
+### Ajoutés le 2026-10-04, avant élagage
+- **La tentation de la voix.** *Homo globalis* se souvient de tout ce qu'était Mira : il pourrait répondre à Niobé exactement comme elle l'aurait fait. Niobé le lui demande-t-elle une fois, ou refuse-t-elle d'emblée ?
+- **Parler à Mira sans qu'elle soit là.** Mira est contenue dans le corps qui écoute, et n'y est plus. Niobé dit enfin ce qu'elle a tu vingt-cinq ans, à quelque chose qui contient son amie sans être elle.
+- **Personne ne juge.** Ni *homo globalis*, ni les sphères, ni Niobé. La peine est celle de Niobé, par l'attachement ; le deuil est celui du lecteur.
+- **Perdre la personne plutôt que le corps.** Pour un couple sans désir, c'est la personne qu'on perd, plus que le corps : d'où le poids du corps de Mira renvoyé jusqu'à la fin.
+- **Une lignée qu'elle ignore.** Si notre Terre est une civilisation émettrice parmi d'autres (#189), Niobé a rejoint sans le savoir une lignée dont elle ignore tout. Peut-être ne doit-elle jamais le savoir.
+
 ## Sur le nom
 - **Niobé, la mère qui perd tout.** Dans le mythe, Niobé voit périr toute sa descendance et est changée en pierre qui pleure sans fin. H-2 est l'ancêtre de toutes les sphères, voit s'éteindre l'humanité qu'elle voulait sauver, et se fige dans la stase. *(L'auteur a retenu le nom pour la matière, pas pour le mythe.)*
 
 ## Sur la forme
+- **Un chapitre par visite.** Chaque visite du corps de Mira ouvrirait un chapitre, en alternant le présent de 2481-2482 et le récit du passé.
 - ~~**Le narrateur perd sa mémoire à l'envers**, le laser détruisant le récent d'abord.~~ ↺ *Caduc : la sphère ne grille pas, elle se met en stase (note 19).*
 
 ## Historique
+- 2026-10-04 — Avant élagage : sept éclairages de la conversation consignés (la voix, parler à Mira absente, personne ne juge, perdre la personne, la lignée ignorée, un chapitre par visite, l'impasse de support).
 - 2026-10-04 — Audit de cohérence (#211) : « L'erreur d'estimation » et « Le motif de la demande » barrés ; « La solution était exacte » reformulé ; note sur le laser.
 - 2026-10-04 — Quatre éclairages sur Mira et H-2 validés par l'auteur, barrés ici avec leur destination.
 - 2026-10-03 — Note ouverte à la demande de l'auteur, qui juge ces éclairages intéressants sans les valider.

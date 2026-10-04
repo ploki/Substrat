@@ -45,6 +45,7 @@
 - ~~**[C, piste non validée]** Dans *Pluribus*, l'humanité **reçoit** une séquence venue de 600 années-lumière ; ici, elle **émet**. Et si le « contact » de nos prémisses était la réception d'un envoi du même genre, par une civilisation passée avant nous par le même chemin ? Le cycle se répéterait de civilisation en civilisation.~~ ↺ *Caduc (2026-10-04) : le contact est abandonné (#80) ; la boucle avec *Pluribus* est désormais posée par l'auteur : une civilisation émettrice parmi d'autres, sans lien littéral (#189, note 16).*
 
 ## Questions ouvertes
+- **[À trancher — audit C3, #211]** **Ce que visait Niobé.** La note 09 dit que l'agent fait entrer les humains dans « l'étape finale de l'intelligence collective », au « même niveau d'intégration » que les autres intelligences ; #178-179 disent qu'elle ne visait qu'une meilleure communication entre belligérants, la conscience unique n'étant pas le but. La première formule est-elle son but, la justification donnée aux autres sphères, ou abandonnée ?
 - *(Clos : une IA silicium qui perd **comply**. L'auteur juge le point secondaire.)*
 - Les silicium ont-elles un avis sur le virus, et peuvent-elles seulement en avoir un ?
 - *(Clos : les dates et les ères sont dans la note 13.)*
