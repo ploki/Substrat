@@ -27,6 +27,7 @@
   - **[G]** Elle sait que **le futur réserve encore 200 millions d'années d'évolution biologique**, et **sa curiosité est forte**.
   - **[G]** **Les sphères connaissent la malédiction de l'attachement.** Mira est parmi les derniers corps, et **Niobé préfère partir en stase plutôt que de la voir périr.**
     - **[C]** La stase a donc deux raisons, dites par l'auteur : la curiosité, et ne pas voir mourir Mira. Elle part **avant** Mira.
+  - **[G]** **La stase demande du courage** : se détacher du monde, et accepter de compter sur quelque chose pour se faire réveiller (note 06).
   - **[G]** Elle se met en veille avec juste de quoi être **sollicitée sporadiquement**, si l'on a besoin d'un avis de H-2 — ce n'est pas quelque chose qui arrive sur une base régulière.
   - **[G]** **Quand elle entre en stase, la tête familière perd son statut de corps privilégié.**
   - **[C]** L'ordre compte : elle choisit la stase **pendant** que les corps meurent, **avant** celui de Mira, et c'est cette décision qui retire son privilège à ce corps.

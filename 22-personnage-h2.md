@@ -47,7 +47,7 @@
   - **[C]** La bascule n'est donc pas une décision morale mais **une réallocation**. Le jour où la biologie s'ouvre, la probabilité de succès de cette voie monte, la part de bande passante suit, et le reste découle. Elle n'a pas « changé d'avis » : son estimation a changé.
   - **[C]** Et pendant ce temps, Mira continue de travailler sur la voie dont la probabilité baisse, sans savoir qu'une autre existe.
   - **[C]** Ce n'est donc pas une idée née de la guerre. Elle y pensait **depuis longtemps**, peut-être depuis des siècles — un problème de côté, sans urgence, qu'on reprend quand on a le temps.
-  - **[C — consigné par #175, mais l'auteur ne l'a pas dit (message 100) ; à confirmer] Et le virus le réalise.** *Homo globalis* communique **par radio**, en interconnexion à haut débit (note 10). Ce qu'elle cherchait par curiosité, elle l'a livré sous la pression.
+  - **[C → validé, #213] Et le virus le réalise.** *Homo globalis* communique **par radio**, en interconnexion à haut débit (note 10). Ce qu'elle cherchait par curiosité, elle l'a livré sous la pression.
   - **[C] L'ambiguïté que cela ouvre :** la guerre est-elle la **raison** de son geste, ou son **occasion** ? Elle avait l'idée en tête depuis toujours ; il ne lui manquait qu'un motif de l'appliquer.
 
 ### Ce qu'elle visait, et ce qui est arrivé
@@ -72,7 +72,7 @@
 ## Sa fin
 - **[G]** **Son action était la bonne, sans doute ni défaut.** À la fin, elle éprouve **de l'étonnement et de la peine, pas de culpabilité**.
 - **[G]** Elle se met en **stase** en 2482, curieuse des 200 millions d'années d'évolution à venir — et parce que, connaissant **la malédiction de l'attachement**, **elle préfère partir plutôt que de voir périr Mira**, qui est parmi les derniers corps (note 19).
-- **[G]** Le laser n'est pas en jeu : son échéance est repoussée bien au-delà de H-2 (note 06).
+- **[G]** Le laser n'est pas en jeu : son échéance est repoussée bien au-delà de H-2 (note 06). La stase est un choix, qui demande **le courage de se détacher du monde** et de **compter sur quelque chose pour se faire réveiller**.
 
 ## Questions ouvertes
 - Depuis quand le pet project ? En a-t-elle parlé à quelqu'un ? *(Pas à Mira, qui n'est pas au courant [G].)*

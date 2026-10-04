@@ -6,7 +6,7 @@
 
 *Cinquième version, 2026-10-04. Nouveautés : **la protagoniste a un nom**, Niobé — Niobé de Lithium depuis sa naturalisation en 2126 —, et un genre : apparence féminine constante, sans s'identifier ni femme ni homme ; **Mira est la tête familière**, choisie par *homo globalis* parce que leur relation était **intime, proche comme un couple, sans attraction sexuelle ni amoureuse** ; **Mira ignore jusqu'à l'existence du pet project**. Correction : Niobé devient professeure en 2126 et ne prend la tête de l'UNIS qu'en 2176 ; l'ère des sphères ne se referme pas en 2126.*
 
-*Quatrième version, 2026-10-03. Nouveauté : **le pet project de Niobé** — offrir aux humains la communication à haut débit et à distance —, qui court sous toute la nouvelle et que le virus réalise *[C, à confirmer]*.*
+*Quatrième version, 2026-10-03. Nouveauté : **le pet project de Niobé** — offrir aux humains la communication à haut débit et à distance —, qui court sous toute la nouvelle et que le virus réalise *[C → validé]*.*
 
 *Troisième version, 2026-10-03. Nouveautés : **un personnage**, Mira Okonkwo-Lindqvist, physicienne née en 2430 ; **un lieu**, le Svalbard et l'UNIS, où H-2 enseigne depuis 2126 *(cette version disait à tort « dirige » ; corrigé en v5)* ; **l'ironie centrale** promue au rang de fait ; le cadre de narration fixé à **avant la stase**.*
 
@@ -99,7 +99,7 @@ Une délibération solitaire, menée pendant que la guerre continue.
 - **a.** **Le pouvoir, et l'interdit qu'elle se donne.** Elle vient de débloquer de quoi concevoir des êtres depuis une séquence et simuler l'évolution. Elle décide aussitôt de **ne pas s'en servir sur Terre**, pour l'équilibre de la faune. C'est la règle qu'elle enfreindra.
 - **b.** **Le basculement.** Le jour, ou le fait précis, où elle se dit que la guerre n'ira pas en s'arrêtant.
 - **c.** **Le raisonnement.** Elle s'interdit de toucher aux bêtes, et elle va toucher aux humains. Comment elle se le formule.
-- **c'.** **Le pet project revient.** *[C, à confirmer : que le virus réalise le pet project n'a pas été dit par l'auteur.]* Elle a la solution depuis toujours : donner aux humains la communication à haut débit. Il ne lui manquait qu'un motif de l'appliquer. **La guerre est-elle sa raison, ou son occasion ?** La scène peut laisser la question ouverte — elle-même ne tranchera pas.
+- **c'.** **Le pet project revient.** *[C → validé : le virus réalise le pet project.]* Elle a la solution depuis toujours : donner aux humains la communication à haut débit. Il ne lui manquait qu'un motif de l'appliquer. **La guerre est-elle sa raison, ou son occasion ?** La scène peut laisser la question ouverte — elle-même ne tranchera pas.
 - **d.** **La neutralité retournée.** Ne pas prendre parti, c'est aussi pouvoir agir sur tous à la fois, sans distinction. C'est ce qui rend son geste possible — et c'est peut-être ce qui le lui suggère.
 - **e.** **Pourquoi elle se tait.** Son pouvoir pourrait la faire passer pour un dieu. Elle ne veut surtout pas que des êtres irrationnels le pensent. Scène possible : elle imagine ce qu'ils feraient d'elle.
 - **e'.** **Mira ne sait rien.** Elle travaille dans le bâtiment d'à côté. Niobé ne lui dit rien, et c'est peut-être la seule décision du récit qu'on ne lui pardonnera pas.

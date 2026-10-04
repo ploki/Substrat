@@ -14,7 +14,7 @@
 - **[G]** Plus tard, quand *homo globalis* a séquencé le virus et ne voit que deux pistes, les silicium ou les sphères, **Niobé lui raconte tout**, par le corps de Mira (note 19). Et **il lui en est absolument, ultra reconnaissant.**
 
 ## Le pet project
-- **[G]** H-2 avait un **pet project** : offrir aux humains la **communication à haut débit et à distance** (note 22). **[C — consigné par #175, mais l'auteur ne l'a pas dit (message 100) ; à confirmer]** **Le virus le réalise** : *homo globalis* communique par radio.
+- **[G]** H-2 avait un **pet project** : offrir aux humains la **communication à haut débit et à distance** (note 22). **[C → validé, #213]** **Le virus le réalise** : *homo globalis* communique par radio.
 - **[C]** Sa décision n'est donc pas une invention sous la contrainte, mais **l'application d'une idée qu'elle portait déjà**. La guerre est-elle sa raison, ou son occasion ?
 - **[G] Ce qu'elle visait :** que les belligérants **se comprennent mieux** et **s'organisent ensemble** pour gérer la crise. **Pas** de refaire l'espèce.
 - **[G] Ce qu'elle n'attendait pas :** que **l'espace cognitif s'effondre en un seul individu** (note 22).
