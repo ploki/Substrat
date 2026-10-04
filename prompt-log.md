@@ -135,3 +135,4 @@
 133. 2026-10-04 — Demande de mettre à jour la frise.
 134. 2026-10-04 — Demande si des observations ne sont pas consignées avant d'élaguer.
 135. 2026-10-04 — Oui : consigner, puis préparer l'élagage.
+136. 2026-10-04 — Demande d'élaguer comme prévu.

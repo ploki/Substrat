@@ -2,15 +2,7 @@
 
 *Deuxième livrable. Il propose **quoi raconter, quand, et sur combien de pages**, en accord avec la frise chronologique (note 13). Point de vue : **Niobé**, la sphère H-2. Les événements proposés sont des **pistes à explorer** : plusieurs sont offerts par point de la frise, pour qu'on choisisse.*
 
-*Septième version, 2026-10-04. Nouveautés : **la stase est un choix**, qui demande le courage de se détacher du monde et de compter sur quelque chose pour se faire réveiller (10c') ; **ce qui pousse les sphères vers la biologie**, hypothèse du moment : la continuité du développement, contre le changement d'enveloppe à chaque étape (2e, 4a) ; **le pet project réalisé par le virus** est validé.*
-
-*Sixième version, 2026-10-04 (corrigée après audit, #211) : 9b barré (les sphères n'essaient pas de nourrir) ; la Norvège marquée comme déduction ; « femelle / mâle » au lieu de « femme / homme », qui n'étaient pas les mots de l'auteur ; le pet project réalisé par le virus marqué à confirmer ; la durée du conflit retirée des suppositions. Nouveautés : **son action était la bonne, sans défaut ; à la fin, de l'étonnement et de la peine, pas de culpabilité** ; Niobé raconte au corps de Mira, quand *homo globalis* a séquencé le virus ; **le laser n'est plus en jeu** ; la stase a une seconde raison, **la malédiction de l'attachement** : elle part plutôt que de voir périr Mira, qui est parmi les derniers corps.*
-
-*Cinquième version, 2026-10-04. Nouveautés : **la protagoniste a un nom**, Niobé — Niobé de Lithium depuis sa naturalisation en 2126 —, et un genre : apparence féminine constante, sans s'identifier ni femme ni homme ; **Mira est la tête familière**, choisie par *homo globalis* parce que leur relation était **intime, proche comme un couple, sans attraction sexuelle ni amoureuse** ; **Mira ignore jusqu'à l'existence du pet project**. Correction : Niobé devient professeure en 2126 et ne prend la tête de l'UNIS qu'en 2176 ; l'ère des sphères ne se referme pas en 2126.*
-
-*Quatrième version, 2026-10-03. Nouveauté : **le pet project de Niobé** — offrir aux humains la communication à haut débit et à distance —, qui court sous toute la nouvelle et que le virus réalise *[C → validé]*.*
-
-*Troisième version, 2026-10-03. Nouveautés : **un personnage**, Mira Okonkwo-Lindqvist, physicienne née en 2430 ; **un lieu**, le Svalbard et l'UNIS, où H-2 enseigne depuis 2126 *(cette version disait à tort « dirige » ; corrigé en v5)* ; **l'ironie centrale** promue au rang de fait ; le cadre de narration fixé à **avant la stase**.*
+*Version 7, 2026-10-04. Historique des versions, en bref : v3 (2026-10-03) Mira, le Svalbard, l'ironie centrale, le cadre « avant la stase » ; v4 le pet project ; v5 (2026-10-04) le nom Niobé, son genre, la relation intime avec Mira, la tête familière ; v6 Niobé raconte au corps de Mira, le laser écarté, la malédiction de l'attachement, pas de culpabilité, et les corrections de l'audit ; v7 la stase comme choix courageux, la continuité du développement (hypothèse), le pet project validé. Le détail est dans le journal des décisions (#124, #132, #149, #166, #202, #211, #216).*
 
 ---
 
@@ -19,7 +11,7 @@
 **[G] Avant la stase**, et plus précisément : **au moment où *homo globalis* a séquencé le virus.** De l'inoculation à la stase, Niobé ne parle grosso modo qu'**au corps de Mira**. Ce corps lui dit qu'*homo globalis* est perplexe devant ce virus apparu de nulle part, et qu'il ne voit que deux pistes : les silicium, ou les sphères. **Et là, Niobé raconte.**
 
 Ce qui en découle, à décider :
-- ~~à qui parle-t-elle ?~~ **Au corps de Mira** [G].
+- **À qui** : au corps de Mira [G].
 - **[C] Ce que cela implique** : le récit est fait en 2481, **avant l'émetteur, l'extinction et la stase**. Les séquences 8 à 10 ne peuvent donc pas être racontées après coup dans ce récit — à décider : sont-elles écrites au présent, après lui, ou autrement ?
 - **le récit suit-il l'ordre chronologique**, ou remonte-t-il ? Le plan ci-dessous est chronologique, mais rien n'oblige à l'écrire ainsi.
 
@@ -110,7 +102,7 @@ Une délibération solitaire, menée pendant que la guerre continue.
 
 ### 5. L'arrêt instantané — 2480
 - **a.** **L'inoculation arrête la guerre d'un coup.** Deux fronts, puis plus de fronts. Montrer la seconde où ça bascule : des gens qui se battaient et qui s'arrêtent.
-- **b.** **Ce qu'elle ressent à ce moment-là.** Ça a marché. ~~C'est la seule page du récit où elle a raison.~~ *(Caduc : elle a raison tout du long ; son action était la bonne.)*
+- **b.** **Ce qu'elle ressent à ce moment-là.** Ça a marché.
 
 ### 6. Les premières conversations — 2480-2481
 - **a.** **La première fois.** Neuf milliards d'esprits devenus un viennent parler avec la bouche, lentement, en choisissant mal leurs mots — alors qu'ils pourraient tout transmettre d'un bloc.
@@ -131,7 +123,7 @@ Une délibération solitaire, menée pendant que la guerre continue.
 
 ### 9. L'extinction, en un an — 2481-2482
 - **a.** **Les champs.** Les corps assis entre les rangs, les bêtes qui passent et que personne ne touche.
-- **b.** ~~**Ce qu'elle a proposé**, et la façon dont on a refusé.~~ *(Caduc : les sphères n'essaient pas de le nourrir, #94.)* **Elle ne propose rien.** Elle ne mettra pas d'animaux morts dans la bouche des humains : ça ne se fait pas.
+- **b.** **Elle ne propose rien.** Elle ne mettra pas d'animaux morts dans la bouche des humains : ça ne se fait pas.
 - **c.** **Le gros de la population meurt vite.** Un an, à peine, pour neuf milliards.
 - **d.** **Le corps de Mira tient**, entretenu par ce qui reste. Il est parmi les derniers.
 
@@ -154,8 +146,8 @@ Une délibération solitaire, menée pendant que la guerre continue.
 - Elle tente, ou ne tente pas, de dissuader *homo globalis* d'émettre.
 
 ## Questions que l'écriture tranchera
-- ~~À qui Niobé parle-t-elle ?~~ Au corps de Mira, quand *homo globalis* a séquencé le virus [G]. Reste : comment écrire ce qui suit le récit (séquences 8 à 10) ?
+- **Comment écrire ce qui suit le récit** (séquences 8 à 10), puisque Niobé raconte en 2481 ?
 - **Pourquoi Mira ?** Ce que Niobé a vu en elle, et qui justifie toute la nouvelle.
-- ~~Le pet project est-il connu de Mira ?~~ Non [G]. Reste : Niobé se ment-elle à elle-même sur ses motifs ?
+- **Niobé se ment-elle à elle-même sur ses motifs ?**
 - **Dit-elle quelque chose** avant l'émetteur ?
 - **Qui, un jour, pourrait la réveiller** ? C'est désormais le cœur de son courage (10c') : elle s'en remet à quelque chose qu'elle ne connaît pas.

@@ -55,7 +55,6 @@
 - **[G]** **Ce qu'elle n'attendait pas : que l'espace cognitif s'effondre en un seul individu** — **le singleton cognitif**. **[G] Elle ne l'avait vraiment pas anticipé, pas plus que la méta-contagion.**
   - **[C]** C'est **la** conséquence imprévue, celle dont les autres découlent. Elle voulait des gens qui se parlent mieux ; elle a obtenu **une seule personne**. Le refus de tuer pour se nourrir et la méta-contagion (note 19) sont des conséquences de cet effondrement, pas des erreurs séparées.
   - **[C]** Son geste était donc **mesuré** à ses yeux : améliorer la communication, pas refaire l'espèce. Ce qui rend sa stupeur finale exacte — elle n'a pas voulu ce qui est arrivé, et elle l'a pourtant provoqué.
-  - ~~**[C]** Et cela déplace la faute : non pas d'avoir agi sans prévenir, mais d'avoir **mal estimé l'effet** de ce qu'elle relâchait. Une erreur de calcul, chez quelqu'un qui ne se trompe jamais.~~ ↺ *Caduc (2026-10-04) : l'action de Niobé était la bonne, sans défaut ; l'imprévu n'est pas une faute, et elle n'en éprouve aucune culpabilité.*
   - **[C]** Ce qui motive le pet project : elle parle avec des humains depuis trois cents ans, **avec la bouche**, un mot après l'autre, pendant qu'elle pourrait tout transmettre d'un bloc. *[C → validé] :* Trente ans de travail avec Mira à cette vitesse-là.
 
 ## Ses deux échecs et sa décision
@@ -78,7 +77,6 @@
 - **[À trancher — audit C4, #211]** **Le silence envers Mira, face à « sans défaut » (#210).** Niobé déclasse le projet de son amie sans le lui dire (note 22) ; la frise parle de « la seule décision du récit qu'on ne lui pardonnera pas » (4e'). « Sans défaut » couvre-t-il aussi ce silence ?
 - **[À trancher — audit C3, #211]** **Ce que visait Niobé.** La note 09 dit que l'agent fait entrer les humains dans « l'étape finale de l'intelligence collective », au « même niveau d'intégration » que les autres intelligences ; #178-179 disent qu'elle ne visait qu'une meilleure communication entre belligérants, la conscience unique n'étant pas le but. La première formule est-elle son but, la justification donnée aux autres sphères, ou abandonnée ?
 - Depuis quand le pet project ? En a-t-elle parlé à quelqu'un ? *(Pas à Mira, qui n'est pas au courant [G].)*
-- *(Clos : la méditation, c'est accorder un pourcentage de sa bande passante à un sujet, #181.)*
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## Historique

@@ -27,7 +27,7 @@
 ### Ancrages et réserves [C]
 - **[G, hypothèse du moment]** Ce qui borne les sphères et pousse vers la biologie : **la continuité du développement**. Une sphère grandit par étapes, en **changeant d'enveloppe à chaque cran** ; la biologie se développe **en continu**. (#215)
 - **[S, à vérifier]** L'ADN est un support de stockage d'information extrêmement dense ; on sait déjà y écrire et y lire des données en laboratoire.
-- **Pourquoi la biologie succède au photonique** : la biologie **stocke l'énergie chimiquement** (sucres, graisses, ATP). Elle échappe donc en partie à la dépendance au flux, qui borne les sphères~~, et ne subit pas le plafond du laser~~. *(Caduc : le laser n'est plus en jeu, #207.)* Elle ne résout pas pour autant la limite de densité de stockage (note 01).
+- **Pourquoi la biologie succède au photonique** : la biologie **stocke l'énergie chimiquement** (sucres, graisses, ATP). Elle échappe donc en partie à la dépendance au flux, qui borne les sphères. Elle ne résout pas pour autant la limite de densité de stockage (note 01).
 - **La boucle** : l'intelligence est née dans un cerveau biologique, le nôtre ; la troisième génération revient à la biologie, mais d'un tout autre ordre.
 
 ## Questions ouvertes

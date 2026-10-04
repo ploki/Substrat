@@ -7,7 +7,6 @@
   - **[C]** Deuxième conséquence imprévue, après le singleton cognitif — dont découle le refus de tuer (#179, #208). Elle a conçu un remède local, elle a fabriqué quelque chose qui veut se répandre.
 - **[G]** ***Homo globalis* est absolument, ultra reconnaissant** envers H-2.
   - **[G]** ↺ **Le moment où Niobé raconte** : quand *homo globalis* a trouvé et séquencé le virus, **le corps de Mira lui dit qu'*homo globalis* est perplexe** sur la nature de ce virus, **apparu de nulle part**, et qu'il ne voit **que deux pistes : les silicium ou les sphères**. **Et là, Niobé raconte.** Sa confirmation, c'est ce récit.
-  - ~~**[C]** Elle avait tu son geste pour ne pas être prise pour un dieu (note 18) ; ils le découvrent seuls, et la remercient. C'est exactement ce qu'elle craignait, et elle ne peut plus le nier.~~ ↺ *Caduc (2026-10-04) : ils ne le découvrent pas seuls ; perplexes, ils hésitent entre les silicium et les sphères, et c'est Niobé qui raconte, sans crainte (#205, #206).*
 
 ## À qui parle Niobé
 - **[G]** **Elle parle sans crainte d'être jugée** : *homo globalis* est ravi de sa nouvelle existence. **[G] L'action de Niobé était la bonne, sans aucun doute ni défaut.** Ses conséquences, le singleton cognitif et la méta-contagion, n'avaient pas été anticipées, mais ce n'est pas une faute.
@@ -19,7 +18,7 @@
   - **[C]** Les stocks courent de l'inoculation (2480) à leur épuisement : l'extinction s'étale sur **2481-2482**, et la stase suit en **2482**. Lecture retenue pour la cohérence des dates (note 13).
 - **[G]** **Le gros de la population de corps meurt rapidement.**
 - **[G]** ***Homo globalis* envoie toujours le même corps** rendre visite à H-2, pour lui garder **une tête familière** : **[C → validé]** **celui de Mira Okonkwo-Lindqvist** (note 20). **[G]** C'est *homo globalis* qui le choisit, et le choix va de soi : elles s'étaient rapprochées depuis le doctorat de Mira, « une relation intime homo/sphère » — proche comme un couple, sans attraction sexuelle ni amoureuse. H-2 a des émotions (note 06). Ce corps est **entretenu**, maintenu en bonne santé : **il ne maigrit pas**.
-  - **[G]** ↺ **Il est parmi les derniers à mourir.** *(D'abord : « le dernier ».)*
+  - **[G]** ↺ **Il est parmi les derniers à mourir.**
   - **[C]** Une attention délicate d'un organisme qui se **souvient** de ce que ce visage était pour elle (note 10), et qui le garde en vie pour elle.
 
 ## La pause
@@ -36,7 +35,6 @@
 ## Questions ouvertes
 - Où se trouve cet abri temporel, et qui peut l'ouvrir ?
 - Qui pourrait la solliciter, une fois les humains éteints ? Les autres sphères ? Ce qui viendra après ?
-- *(Clos : elle raconte au corps de Mira, au moment où *homo globalis* a séquencé le virus et hésite entre les silicium et les sphères.)*
 
 ## Historique
 - 2026-10-04 — Niobé ne parle qu'à Mira (#204), raconte quand *homo globalis* a séquencé le virus (#205), sans crainte de jugement (#206) ; action juste, pas de culpabilité (#210).

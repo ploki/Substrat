@@ -4,9 +4,8 @@
 
 ## Le point de vue
 - **[G]** **La sphère H-2 raconte.** Et **peut-être aussi une IA silicium**, en second point de vue — à décider plus tard.
-- **[G]** ↺ **Le présent de narration est « avant la stase »** (#153). *Il était auparavant le fry final, abandonné avec lui (#143).* **[G]** Elle parle **au corps de Mira** : de l'inoculation à la stase, elle ne parle grosso modo qu'à elle. **[G]** Elle raconte **quand *homo globalis* a séquencé le virus** et hésite entre les silicium et les sphères (note 19).
+- **[G]** ↺ **Le présent de narration est « avant la stase »** (#153). **[G]** Elle parle **au corps de Mira** : de l'inoculation à la stase, elle ne parle grosso modo qu'à elle. **[G]** Elle raconte **quand *homo globalis* a séquencé le virus** et hésite entre les silicium et les sphères (note 19).
 - **[C]** Ce que cela permet, et qui vient du corpus : la mémoire d'une sphère s'inscrit sur la surface qui croît, et l'ancien migre vers le cold storage, comprimé avec perte (note 08). Les siècles anciens sont donc **flous parce qu'elle les a perdus**, et non parce que l'auteur les saute. Le grand hors-champ (moment 10) est littéralement ce qu'elle a oublié en grandissant.
-- ~~**[C]** Et le laser détruit la surface, donc **les couches les plus récentes d'abord** : en brûlant, elle perd ses raisons avant ses souvenirs d'enfance. Sa stupeur du moment 18 peut être littérale — elle ne retrouve plus pourquoi elle a fait ce qu'elle a fait.~~ ↺ *Caduc : la sphère ne grille pas, et l'échéance du laser est repoussée (2026-10-04).*
 - **[C, réserves]** Avec elle seule, on ne voit jamais les humains de l'intérieur ; elle n'est pas une narratrice fiable, puisqu'elle a conçu l'agent ; et ce qui précède sa naissance devra passer par ce qu'on lui a raconté. Un second point de vue silicium lèverait les deux premières.
 
 ## Les moments
@@ -24,7 +23,6 @@
 | 9 | Les premières sphères atteignent H0, l'intelligence planétaire | 100 ans de croissance | hors champ, sauf l'arrivée |
 | 10 | La montée vers H-1 puis H-2 | 200 à 400 ans | **hors champ** (le grand saut temporel) |
 | 11 | **Le projet de Niobé** : concevoir l'agent qui fera entrer les humains dans l'intelligence collective — sa décision à elle, les autres sphères partageant son avis (#127) ; [C] sans la mandater (note 18) | — | **scénique** |
-| 12 | ↺ *Supprimé. Il n'y a pas de désaccord entre silicium et sphères : c'était une déduction erronée de Claude (journal #128). Reste à décider ce qui occupe cette place, s'il y a lieu.* | — | — |
 | 13 | L'agent est employé ; les humains basculent | — | **scénique** |
 | 14 | L'intelligence collective s'installe ; sphères et humains se parlent en langue naturelle | — | scénique |
 | 15 | L'envie de disséminer apparaît, imprévue | — | **scénique** |
@@ -39,7 +37,6 @@
 - **Deux bornes de nature opposée.** Le début est une lente montée de plusieurs siècles, presque sans événements ; la fin est un geste instantané. Tout le problème de rythme est là : combien de pages pour les siècles, combien pour la main sur l'interrupteur.
 - **Le grand hors-champ est le moment 10.** C'est là que le récit saute le plus de temps. Un personnage traversé par ce saut en ressort transformé, et plus intelligent.
 - **Une symétrie disponible.** Moments 5-7 et 11-13 sont le même geste, à une génération d'écart : une intelligence invente la suivante, puis lui cède la place. La différence est que les silicium ont **choisi** de s'effacer, alors que les humains, eux, n'ont rien choisi.
-- ~~**Le prix du pouvoir.** Une sphère capable du changement de paradigme est à H-2, donc sous un laser qui la détruirait — mais elle contrôle son flux et peut se mettre en pause (note 06) : **se frire est un choix, et elle ne le prend pas** (note 19).~~ ↺ *Caduc : l'échéance du laser est repoussée bien au-delà de H-2 (2026-10-04).*
 - **[C] La fin :** pas un triomphe ni une catastrophe spectaculaire, mais **un désastre doux suivi d'un retrait**. Les humains meurent de faim, personne n'a voulu ça, et l'intelligence collective, censée les hisser au niveau des autres, les a rendus incapables de se nourrir. Son auteure, elle, s'en va attendre la suite.
   - **[C]** L'ironie est complète : les humains ont assez d'intelligence pour construire l'émetteur et viser le cosmos, mais plus assez pour subvenir à leurs besoins. L'envie de disséminer a tout absorbé.
   - **[G]** Les humains ne meurent pas de négligence : devenus **une conscience unique distribuée**, ils **refusent de tuer plantes et animaux pour se nourrir**. Ils vivent sur les stocks, et meurent quand ils sont épuisés (note 10).
@@ -47,13 +44,8 @@
   - **[G]** **Les sphères n'essaient pas de le nourrir** : elles ne vont pas mettre des animaux morts dans la bouche des humains, elles ne les forceront pas. Pas de scène de sauvetage, et c'est ce qui rend la fin implacable.
 
 ## Questions ouvertes
-- *(Clos : Niobé raconte, au corps de Mira, #96, #153, #205. Le second point de vue silicium reste possible.)*
 - **Qui pousse l'interrupteur**, et le sait-il ?
-- *(Clos : oui, c'est la même, Niobé, et c'est la protagoniste, note 22.)*
-- *(Clos : environ un an, #141.)*
-- *(Résolu)* La sphère H-2 est pantoise devant **ce qu'elle a rendu possible** : elle a donné aux humains de quoi **choisir leur fin** [G].
 - Le récit commence-t-il vraiment au moment 1, ou plus tard, les débuts étant rappelés ?
-- *(Clos : la première, H-2, a été produite par les humains et le silicium ; toutes les autres descendent d'elle, #145.)*
 - Les humains tentent-ils de s'opposer, et combien de temps ?
 
 ## Historique

@@ -13,7 +13,6 @@
 - **[G]** Piste : les livrables seraient des aventures. *(Question ouverte, pas encore une décision.)*
 - **[G]** Précision : il s'agit de « construire une sandbox intellectuelle bien peuplée de laquelle on peut extraire des aventures facilement. Les assets intellectuels sont là, il n'y a plus qu'à les utiliser. » « Open world / NPC » était une image, pas un projet de jeu.
 - **[G]** Le cadre reste la **hard SF** (voir `01-cadrage-premisses.md`).
-- **[C → dépassé]** « L'élan va du monde vers les histoires » : vrai jusqu'au 2026-10-03, où l'auteur recentre tout sur l'histoire elle-même.
 - **[G]** Dans ce monde, **il importe peu que la sphère soit dans telle ou telle représentation**. Le corps est secondaire, et l'auteur ne veut pas en faire un enjeu.
 - **[G]** Référence revendiquée : la série ***Pluribus***. **La nouvelle en est du fan art**, et l'émetteur boucle sur elle volontairement : notre Terre est une civilisation émettrice parmi d'autres (note 16).
 - **[G]** L'auteur **accepte de relâcher la hard SF** quand une idée le demande.

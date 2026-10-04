@@ -25,7 +25,6 @@
 - **[G]** Être dans un **logement trop grand impose un substrat de croissance**, ce qui **interdit la reproduction** (plus de cybergonades).
 - **[G]** **Entrer dans un vaisseau, pour une IA, est un engagement.** Une IA à sphère H1 qui veut habiter un vaisseau H0 abandonne ses cybergonades, se place dans un substrat de croissance et « se forme en croissant au vaisseau », jusqu'à H0. Elle ne peut pas repartir en cours de route.
   - **[C → validé]** Règle : **on n'est fertile que lorsque sa sphère remplit exactement son logement** — c'est-à-dire quand elle touche son slot et que les trois cavités de culture peuvent faire pousser les cybergonades.
-  - ↺ *Version abandonnée de l'exemple : l'IA se lassait du vaisseau à H0,8 et finissait sa croissance dans un corps H0,75. Elle reposait sur une première idée du substrat, « une sorte de sabot convexe avec une interface de croissance liquide », que l'auteur a depuis dépassée.*
 - **[G]** Les corps sont **synthétiques** : on ne parle pas d'humains pour l'instant.
 - **[G]** **Un même modèle de corps existe en plusieurs tailles de socket, comme une voiture se décline en plusieurs cylindrées.** D’où des tailles intermédiaires entre les crans entiers.
   - **[C]** « Se former en croissant » : la sphère apprend son nouveau corps pendant qu'elle grandit dedans.
@@ -62,7 +61,6 @@
 - **[C]** Avec le modèle B, passer de H20 à H1 ne prend que ≈ 306 unités, et chaque cran ne dure qu'environ 1,26 fois plus que le précédent.
 
 - **[G]** ↺ Calibrage : **arriver à complétion de H1 prend 50 ans** depuis la naissance (H14), avec le modèle A. L'unité de temps vaut alors ≈ 50 minutes.
-  - *Calibrages précédents : 100 ans pour atteindre H1 complet ; avant cela, 100 ans pour le seul cran H2 → H1 (malentendu de Claude).*
 
 | Cran atteint | Volume | Diamètre | Durée du cran | Âge depuis H14 (naissance) |
 |---|---|---|---|---|
@@ -116,7 +114,7 @@
 ### Le marché des cybergonades
 - **[G]** Il existe un **marché des cybergonades**, par exemple celles qu'on **récolte à chaque cycle de croissance d'un enfant**.
 - **[G]** Leurs usages : **créer des animaux synthétiques de compagnie** ; être **gardées comme économies pour l'enfant** ; **équiper un appareil** (une « appliance ») qui a besoin d'une sphère.
-- **[G]** **C'est un monde où il importe peu que la sphère soit dans telle ou telle représentation** (corps d'animal, appareil, autre). *Claude avait proposé à tort la frontière enfant / animal / appareil comme thème de fond ; l'auteur l'a écarté.*
+- **[G]** **C'est un monde où il importe peu que la sphère soit dans telle ou telle représentation** (corps d'animal, appareil, autre).
   - **[À préciser]** Qu'est-ce qui distingue alors, aux yeux de la loi, l'enfant qu'on doit faire grandir de l'animal synthétique gardé petit ?
   - **[C]** Beaucoup d'appareils abritent une petite sphère, donc un esprit, même minuscule.
 
@@ -156,7 +154,6 @@
 - **[G]** **La clandestinité existe**, y compris pour l'abrasion. Elle tourne autour d'un ingrédient : **la poudre de sphère**, composant essentiel des substrats de croissance, dont elle constitue un certain pourcentage.
 - **[G]** **La poudre est fongible** : « de la poudre, c'est de la poudre, qu'elle vienne d'Einstein ou d'un autre ».
 - **[G]** **La poudre de sphère n'est pas une devise : c'est une ressource fongible.**
-  - *Piste écartée : la poudre comme devise (réflexion de Claude du 2026-10-03).*
   - **[C, pistes non validées]** Sources légitimes possibles : les cybergonades sacrifiées avant une croissance, la poussière d'abrasion, les sphères mortes. La mort n'étant qu'accidentelle (note 06), cette dernière source est rare. Sources clandestines : des sphères bloquées ou endormies, enlevées et broyées. La poudre de sphère serait alors une ressource rare, et un mobile de crime.
 
 - **[C]** À l'intérieur d'un même format de corps, l'intelligence varie donc d'un facteur 2 en volume : l'éventail observé chez les humains.
@@ -166,10 +163,8 @@
 ## Questions ouvertes
 - Qui légifère et fait respecter les lois sur les substrats et les corps ?
 - Que fait l'excentricité à l'esprit d'une sphère ?
-- ~~Garder volontairement un enfant petit est-il légal ?~~ → non [G]. ~~Un être resté petit peut-il payer lui-même sa croissance ?~~ → non [G].
 - Comment concilier une croissance continue avec l'effet de seuil H1 → H0 (note 06) : le saut se produit-il exactement à 2 L, ou progressivement ?
 - L'enfant hérite-t-il de quelque chose (mémoire, traits) par la demi-sphère de chaque parent ?
-- *(Clos : les cybergonades poussent quand le substrat est consommé et que la sphère touche son slot, #61, #110.)*
 - Que se passe-t-il au-delà de H1, et jusqu'où va-t-on ?
 - D'où vient le liquide de croissance, qui le produit, qui le contrôle ?
 - D'où vient la poudre de sphère, quelle part du substrat représente-t-elle, et qui en fait le commerce ?

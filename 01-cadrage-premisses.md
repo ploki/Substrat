@@ -4,18 +4,13 @@
 - **[G]** Genre : **hard SF** « comme d'hab », avec des exceptions, des domaines considérés comme **résolus** :
   1. la médecine ;
   2. le transhumanisme ;
-  3. ~~le warp drive~~ → **abandonné** (2026-10-03) : plus de voyage plus rapide que la lumière ;
-  4. l'AGI (intelligence artificielle générale) : conçue par l'humanité, sur silicium, elle s'est améliorée récursivement jusqu'aux limites physiques du silicium, puis a inventé le cerveau photonique (notes 06, 09) ;
-  5. le contrôle de la gravité.
+  3. l'AGI (intelligence artificielle générale) : conçue par l'humanité, sur silicium, elle s'est améliorée récursivement jusqu'aux limites physiques du silicium, puis a inventé le cerveau photonique (notes 06, 09) ;
+  4. le contrôle de la gravité.
 - **[G]** **La hard SF est volontairement relâchée** pour la classe des êtres biologiques, qui communiquent par radio (note 10).
 - **[C, à confirmer]** Lecture proposée : la physique et la science restent rigoureuses partout ailleurs, et la rigueur porte sur les **conséquences** de ces acquis.
 
-### Abandons du 2026-10-03 (décisions #80, #81)
-- ~~L'humanité a été contactée.~~
-- ~~Le warp drive.~~
-- ~~L'énergie est transmise instantanément.~~
-- ~~Le fond diffus cosmologique comme interface.~~
-- ~~Le Singleton.~~ *(Notes archivées dans `archive/`.)*
+### Les bornes du monde
+- Le contact, le warp, la transmission instantanée de l'énergie, le fond diffus comme interface et le Singleton ont été abandonnés le 2026-10-03 (#80, #81) ; voir `archive/`.
 - **[C]** Conséquence : **le monde est borné par la vitesse de la lumière.** Les distances redeviennent du temps, et la question du paradoxe temporel ne se pose plus (cohérent avec le refus des paradoxes exprimé par l'auteur le 2026-10-02).
 
 ### L'énergie
@@ -32,7 +27,6 @@
 ## Questions ouvertes
 - « Résolus » : maîtrisés par qui, depuis quand, accessibles à tous ou non ?
 - **[À préciser]** « Quelques romantisations » : lesquelles, et jusqu'où ?
-- *(Énergie et cosmologie : classées sans suite par l'auteur, 2026-10-03.)*
 
 ## Historique
 - 2026-10-02 — Prémisses posées par l'auteur.

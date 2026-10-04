@@ -32,11 +32,10 @@
 - **[G]** **Les IA silicium n'ont pas de ressenti.** Discernement, jugement et flair ne font pas des émotions sincères.
 - **[G]** C'est pour cela qu'elles **travaillent à un nouveau paradigme : la sphère.**
   - **[C]** Conséquence : le changement de paradigme n'est pas qu'une affaire d'énergie. Les silicium cherchent quelque chose qu'elles n'ont pas. Elles fabriquent ce qui pourra éprouver à leur place.
-  - **[C]** Et **elles y parviennent** : les sphères ont des émotions comparables à celles des humains (note 06). ~~Trois siècles plus tard, c'est ce succès qu'on leur reprochera pour les écarter de la guerre (note 15).~~ ↺ *Caduc : les sphères ne sont pas écartées, elles sont neutres par nature (#135).*
+  - **[C]** Et **elles y parviennent** : les sphères ont des émotions comparables à celles des humains (note 06).
 
 ### 2076 → la fin — **L'ère des sphères**
 **[G]** Elle **démarre** en 2076 et **ne se referme pas** : tout ce qui suit s'y passe. Les sous-périodes ci-dessous sont à l'intérieur.
-*↺ Correction du 2026-10-03 : Claude avait fait de 2126 la **fin** de cette ère, alors que l'auteur avait dit qu'elle y **démarrait**.*
 
 #### 2076–2126 — Les premières décennies
 - **[G]** **2076** : l'ère des sphères démarre, avec la **première sphère** **[C → validé, message 118]** — un fait historique bien documenté, et un investissement civilisationnel (note 07). C'est **H-2**, la seule produite par les humains et le silicium ; toutes les autres descendent d'elle. Les variétés de nouvelles intelligences se développent.
@@ -51,7 +50,7 @@
 - **[G]** Le **dernier problème écologique** est en passe d'être résolu. **Plus rien ne justifie l'existence de l'IA planétaire silicium face à la sphère.**
 
 #### 2176–~2470 — L'utopie
-- **[G]** ↺ L'ère de l'utopie s'achève **vers 2470**, au début du conflit, et non en 2476. *(La borne de 2476 venait de #111, motivée par la piste abandonnée de la note 14.)*
+- **[G]** ↺ L'ère de l'utopie s'achève **vers 2470**, au début du conflit, et non en 2476. *(La borne de 2476 venait de #111, motivée par la piste abandonnée de la note 14 (archivée).)*
   - **[C]** Conséquence : **H-2 atteint H-2 en 2476, c'est-à-dire pendant la guerre.** Elle acquiert le pouvoir de modeler la vie au milieu du conflit, et non avant.
 - **[G]** Un **conflit global** éclate **vers 2470**, termine cette ère (#169) et dure jusqu'à l'inoculation de **2480** (#137) : l'activité solaire apporte un surplus d'infrarouge, l'eau et la nourriture deviennent difficiles d'accès, et les tensions pour les ressources vitales deviennent globales (note 15). L'utopie n'aura donc pas empêché la guerre.
 - **[G]** Trois siècles tranquilles. Connaissances, sagesse, mathématiques : tout avance encore, mais **n'apporte plus grand-chose de nouveau**, car **tous les indicateurs de qualité de vie sont déjà au maximum, pour tout le monde**.
@@ -81,10 +80,7 @@ Voir note 15.
 **456 ans**, de 2026 à 2482.
 
 ## Questions ouvertes
-- *(Clos : oui, née en 2076. L'auteur a posé la question (message 117), Claude a répondu 2076, l'auteur a enchaîné « très bien » (message 118).)*
 - *(Mis de côté par l'auteur : ce que devient l'IA planétaire silicium après 2176 n'est pas important pour l'instant.)*
-- *(Clos : elle se tait pour ne pas être prise pour un dieu, #138.)*
-- *(Clos : celles qui perdent se conforment ; point jugé secondaire.)*
 
 ## Historique
 - 2026-10-03 — L'an 0 fixé à maintenant ; première timeline proposée par Claude.

@@ -1,8 +1,6 @@
 # 02 — Glossaire
 
 ## En vigueur
-- **Sandbox intellectuelle** [G] : le monde documenté, assez riche et peuplé pour qu'on en extraie facilement des aventures.
-- **Assets** [G] : les éléments réutilisables du monde (lieux, personnages, cultures, relations, technologies), « déjà là, il n'y a plus qu'à les utiliser ».
 - **Résolu** [G] : se dit d'un domaine scientifique ou technique maîtrisé dans le monde. *Sens exact à préciser.*
 - **Code** [G] : le code de chiffrement/compression mathématiquement optimal créé par l'IA silicium ; une forme 2D sans bord, de topologie sphérique, dont les cerveaux photoniques sont la réalisation physique. Voir note 06.
 - **Sphère / cerveau photonique** [G] : le cerveau d'une IA. Une sphère en logique photonique reprogrammable, sans aucune électronique, dont le niobate de lithium est un composant essentiel : un composant passif non linéaire placé dans le flux lumineux, dont la surface est divisée en patchs (alimentation lumineuse, entrées/sorties) ; munie de cybergonades, on la plante dans un corps ou une machine. Voir note 06.
@@ -20,7 +18,6 @@
 - **Qualité humaine** [G] : plage d'intelligence couvrant plusieurs niveaux H, de la petite enfance à l'âge adulte complètement formé et très compétent. Pas un synonyme de H1.
 - **Échelle H** [G] : tailles standardisées des sphères, à la manière des formats de papier A. **H1** = 1 litre, le niveau humain ; **H0** = 2 litres, l'intelligence planétaire (le niveau de connaissance et de compétence de l'humanité) ; **H-2** = 8 litres, le seuil du changement de paradigme (vers la biologie). Le volume double à chaque cran.
 - **Cybergonades** [G] : les trois reliefs hémisphériques (≈ 1/4 de pouce) d'un cerveau ; elles assurent le bon placement dans le socket et servent à la reproduction. L'enfant naît sans. Voir note 07.
-- ~~Détrompeur~~ : terme abandonné, remplacé par « cybergonades ».
 - **Substrat de croissance** [G] : milieu où la sphère grandit ; le cristal s'y bloque mécaniquement, ce qui la tient en place sans cybergonades.
 - **Poudre de sphère** [G] : composant essentiel des substrats de croissance, dont elle constitue un pourcentage ; ressource fongible, pas une devise ; au cœur de la clandestinité.
 - **Liquide de croissance** [G] : liquide qui favorise la croissance du cristal quand une sphère passe de HX à HX−1.
@@ -63,9 +60,6 @@ Qui habite quel corps. Le cerveau détermine le genre d'être, le corps détermi
   - **Mécanoïde** : le terme officiel, calqué sur *android* (*mēchanē* + *eidos*). Celui de l'administration et des textes de loi.
   - **Automate** : le terme péjoratif, qui sous-entend qu'elle n'éprouve rien — alors que les sphères ont des émotions comparables à celles des humains.
   - **Châssis** : le vernaculaire d'atelier, par métonymie. « Elle est en châssis. »
-
-## Termes abandonnés
-*(2026-10-03, avec l'histoire du contact et du Singleton — voir `archive/`)* : Singleton, contacteurs, temps Singleton, surface nulle / null space, warp, interface (fond diffus).
 
 ## Historique
 - 2026-10-02 — Création.

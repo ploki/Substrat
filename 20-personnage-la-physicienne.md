@@ -12,7 +12,7 @@
 - **[G]** **Mira et H-2 sont amies.**
 - **[G]** **Mira ne sait pas** ce que H-2 prépare. **H-2 ne lui dit rien.**
 - **[G]** **Mira n'est pas au courant du pet project** de H-2 (note 22) : elle en ignore jusqu'à l'existence.
-- **[G]** ↺ **Elles se rapprochent pendant le doctorat de Mira**, quand celle-ci **décide de rester au Svalbard** pour y poursuivre ses recherches sur la fusion. *(D'abord formulé « ces dernières années ».)*
+- **[G]** ↺ **Elles se rapprochent pendant le doctorat de Mira**, quand celle-ci **décide de rester au Svalbard** pour y poursuivre ses recherches sur la fusion.
   - **[G]** C'est pour cela que ***homo globalis* choisit le corps de Mira** comme tête familière (note 19) — et ce choix va de soi : c'était **« une relation intime homo/sphère »**. *[« Intime » : proche comme un couple, mais sans attraction sexuelle ni amoureuse — précision de l'auteur, 2026-10-04.]*
   - **[C → validé]** Elle n'est donc ni complice ni témoin : elle est **tenue à l'écart par celle qui l'a formée**, et elle l'apprendra comme tout le monde — ou plutôt, elle ne l'apprendra pas, puisqu'elle cessera d'être quelqu'un au moment même de l'inoculation. C'est *homo globalis* qui découvrira, pas elle.
 
@@ -41,7 +41,6 @@
 
 ## Questions ouvertes
 - **[À trancher — audit C4, #211]** **Le silence envers Mira, face à « sans défaut » (#210).** Niobé déclasse le projet de son amie sans le lui dire (note 22) ; la frise parle de « la seule décision du récit qu'on ne lui pardonnera pas » (4e'). « Sans défaut » couvre-t-il aussi ce silence ?
-- *(Clos : Mira n'est pas au courant du pet project [G].)*
 - En quoi consiste exactement le problème « plus grand que H-2 » ? Et H-2 sait-elle qu'il la dépasse, ou l'apprend-elle en échouant ?
 - De quel côté du conflit se trouve le Svalbard, ou est-il hors des deux ? *(Voir note 21.)*
 - Comment une sphère neutre peut-elle former une humaine ? *(Depuis quand elle enseigne : 2126, #174.)*

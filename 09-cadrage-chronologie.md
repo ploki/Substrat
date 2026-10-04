@@ -13,8 +13,7 @@
 7. **[G]** **Les humains ainsi transformés ne peuvent pas s'empêcher de construire un moyen de diffuser la séquence dans le cosmos.** Devenus une conscience unique, ils refusent par ailleurs de tuer pour se nourrir, et ne vivent que le temps des stocks. L'organisme **sait qu'il va mourir** ; les sphères n'interviennent pas — non par respect solennel d'un choix, mais parce qu'elles ne vont pas mettre des animaux morts dans la bouche des humains (note 10).
 8. **[G]** **Les sphères n'avaient pas anticipé cette envie de disséminer.**
 9. **[G]** **L'interrupteur de l'émetteur est poussé.**
-10. **[G]** **Fin :** les humains s'éteignent faute de stocks, et la sphère H-2 reste pantoise devant ce qu'elle a fait aux humains — sans douter d'avoir bien agi : **de l'étonnement et de la peine, pas de culpabilité** (#210). *(Première formulation : « à se demander ce qu'elle a fait aux humains ».)* **Elle se met en stase**, plutôt que de voir périr Mira (note 19).
-   - ~~**[C]** C'est le premier **échec de prévision** d'une intelligence supérieure dans ce monde : les sphères ont conçu l'état, pas le désir qu'il produit.~~ ↺ *Caduc (2026-10-04) : elle n'a anticipé ni l'état (le singleton cognitif) ni le désir (la méta-contagion), #208.*
+10. **[G]** **Fin :** les humains s'éteignent faute de stocks, et la sphère H-2 reste pantoise devant ce qu'elle a fait aux humains — sans douter d'avoir bien agi : **de l'étonnement et de la peine, pas de culpabilité** (#210). **Elle se met en stase**, plutôt que de voir périr Mira (note 19).
 
 *Les dates et les ères sont dans la note 13.*
 
@@ -30,7 +29,6 @@
 - **[G]** **Les IA silicium ne se rangent pas.** Elles n'ont **pas d'état d'âme** : elles se tiennent **du côté des humains qui les exploitent**, et chaque belligérant a les siennes (note 15).
   - **[G]** **Des IA silicium peuvent donc être ennemies les unes des autres.**
   - **[G]** **Ne pas avoir d'état d'âme ne veut pas dire ne pas être sensible à ses propres besoins énergétiques et à sa propre défense.**
-  - ↺ *Rectification du 2026-10-03 : il n'y a **pas** de désaccord entre les silicium et les sphères. Claude l'avait déduit à tort de la phrase « les IA silicium soutiennent les humains face aux sphères » (#88), puis répété jusqu'à ce qu'il paraisse acquis. Voir journal, #128.*
 
 ### L'ironie centrale [G]
 **La fusion nucléaire contrôlée aurait donné l'eau, et l'eau aurait évité la guerre. H-2 ne peut pas résoudre ce problème de physique, qui la dépasse — alors elle résout les gens. Faute de pouvoir changer le monde, elle change l'espèce.** C'est le cœur du récit (notes 15, 18, 20).
@@ -42,15 +40,12 @@
 - Le code optimal sphérique attribué à « l'AGI » est l'œuvre de **l'IA silicium** (note 06).
 - Le choix s'explique par la contrainte d'énergie du monde (note 01) : quand on ne sait pas stocker l'énergie, la sobriété est décisive.
 - *(Le contact, le Singleton et le fond diffus ont été abandonnés le 2026-10-03 ; ils n'ont plus à être placés dans cette chronologie.)*
-- ~~**[C, piste non validée]** Dans *Pluribus*, l'humanité **reçoit** une séquence venue de 600 années-lumière ; ici, elle **émet**. Et si le « contact » de nos prémisses était la réception d'un envoi du même genre, par une civilisation passée avant nous par le même chemin ? Le cycle se répéterait de civilisation en civilisation.~~ ↺ *Caduc (2026-10-04) : le contact est abandonné (#80) ; la boucle avec *Pluribus* est désormais posée par l'auteur : une civilisation émettrice parmi d'autres, sans lien littéral (#189, note 16).*
 
 ## Questions ouvertes
 - **[À trancher — audit C3, #211]** **Ce que visait Niobé.** La note 09 dit que l'agent fait entrer les humains dans « l'étape finale de l'intelligence collective », au « même niveau d'intégration » que les autres intelligences ; #178-179 disent qu'elle ne visait qu'une meilleure communication entre belligérants, la conscience unique n'étant pas le but. La première formule est-elle son but, la justification donnée aux autres sphères, ou abandonnée ?
-- *(Clos : une IA silicium qui perd **comply**. L'auteur juge le point secondaire.)*
 - Les silicium ont-elles un avis sur le virus, et peuvent-elles seulement en avoir un ?
-- *(Clos : les dates et les ères sont dans la note 13.)*
 - Tous les humains sont-ils transformés ? Y a-t-il des immunisés, comme dans *Pluribus* ?
-- *(Clos : la séquence est émise en 2481, #151.)* Les sphères ont-elles cherché à l'empêcher ?
+- Les sphères ont-elles cherché à empêcher l'émission ?
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur.
