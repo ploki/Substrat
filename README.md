@@ -2,7 +2,7 @@
 
 *La bible d'un univers de hard SF : la Terre de 2026 à 2482, où trois formes d'intelligence se succèdent.*
 
-**Substrat est un projet de construction de monde, en vue d'y créer des aventures.** La première est une nouvelle, en cours d'écriture : on y suit la plus ancienne des sphères, **Niobé de Lithium**. Ce qu'on gagne à mener une aventure jusqu'au bout, c'est un monde qui a de l'épaisseur, et sur lequel on peut construire les suivantes.
+**Substrat est un projet de construction de monde, en vue d'y créer des aventures.** La première est une nouvelle, en préparation : on y suit la plus ancienne des sphères, **Niobé de Lithium**. Ce qu'on gagne à mener une aventure jusqu'au bout, c'est un monde qui a de l'épaisseur, et sur lequel on peut construire les suivantes.
 
 Ce dépôt en est le monde. La fin de la nouvelle n'y est pas racontée.
 
