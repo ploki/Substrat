@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This folder is a maieutics project about a hard-SF short story: the line of intelligences (silicon AI → photonic spheres → *homo globalis*), told by the first sphere, H-2, called Niobé de Lithium, to the body of her friend Mira, 2076–2482.
+This folder is **Substrat**, a maieutics project about a hard-SF short story: the line of intelligences (silicon AI → photonic spheres → *homo globalis*), told by the first sphere, H-2, called Niobé de Lithium, to the body of her friend Mira, 2076–2482.
 
 **At the start of every session, load the `maieutics` skill before anything else**, and follow it: show the banner, then resume the existing project.
 

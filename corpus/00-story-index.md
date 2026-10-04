@@ -1,4 +1,8 @@
-# Projet : une histoire — la lignée des intelligences — index
+# Substrat — index
+
+*Titre de travail du projet, pas celui de la nouvelle, qui reste à trouver* **[opus-5.5 → ploki]** : la nouvelle grandit dans son corpus comme une sphère dans son substrat (#222).
+
+**Sujet** : une histoire — la lignée des intelligences.
 
 **Le projet, c'est l'histoire** : son articulation, son ordre, et la longueur à passer sur chaque période. Elle s'achève sur l'interrupteur de l'émetteur, l'extinction des humains, et la mise en stase de la sphère H-2, Niobé. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
 

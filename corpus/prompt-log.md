@@ -2,6 +2,12 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+144\. 2026-10-04 — Oui, c'est bien le titre du projet ; aime bien « Substrat ».
+
+143\. 2026-10-04 — Précise : il parle du titre de ce projet, un « méta-titre » en quelque sorte.
+
+142\. 2026-10-04 — N'a pas encore pensé à un titre.
+
 141\. 2026-10-04 — Oui : fusionner, et ajouter le CLAUDE.md, pour que le skill soit lu tout seul.
 
 140\. 2026-10-04 — Pour lui : ploki. Pas la peine de tout remplacer : on reste identifiable, et ce n'est pas grave si le passé est un peu flou, tant qu'à partir de maintenant on suit le nouveau format.
