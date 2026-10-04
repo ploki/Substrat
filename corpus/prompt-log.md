@@ -2,6 +2,8 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+141\. 2026-10-04 — Oui : fusionner, et ajouter le CLAUDE.md, pour que le skill soit lu tout seul.
+
 140\. 2026-10-04 — Pour lui : ploki. Pas la peine de tout remplacer : on reste identifiable, et ce n'est pas grave si le passé est un peu flou, tant qu'à partir de maintenant on suit le nouveau format.
 
 139\. 2026-10-04 — Demande de créer une branche et de migrer le projet au niveau du format.
