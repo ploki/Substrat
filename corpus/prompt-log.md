@@ -2,6 +2,8 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+146\. 2026-10-04 — Pour le dépôt, demande une description d'une phrase et un README.md.
+
 145\. 2026-10-04 — Demande d'ajouter au CLAUDE.md une consigne : être précautionneux vis-à-vis des données personnelles avant un push.
 
 144\. 2026-10-04 — Oui, c'est bien le titre du projet ; aime bien « Substrat ».
