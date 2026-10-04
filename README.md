@@ -12,6 +12,31 @@ Ce dépôt en est le monde. La fin de la nouvelle n'y est pas racontée.
 
 ---
 
+## Comment ce monde est construit
+
+Le projet est tenu avec le skill [**Maieutics**](https://github.com/ploki/Maieutics), pour Claude. Le monde naît d'un **dialogue entre l'auteur et une IA**, selon une méthode maïeutique : l'auteur ne sait pas d'avance tout ce qu'il cherche, et le dialogue sert à le lui faire trouver et formuler. L'IA pose des questions, propose, objecte ; l'auteur tranche.
+
+- **Les notes.** Tout ce qui prend de la substance est consigné dans une note (un concept, un lieu, un personnage, un cadrage). Chacune s'ouvre sur ce qui vaut aujourd'hui (*Current*), puis les questions ouvertes, puis l'histoire du raisonnement.
+- **Les journaux.** Chaque décision est notée avec sa raison, et chaque changement d'avis y reste visible (`corpus/decision-log.md`). Chaque message de l'auteur est réécrit et gardé, le plus récent en premier (`corpus/prompt-log.md`). Rien n'est effacé : on peut toujours savoir pourquoi le monde est tel qu'il est.
+- **Les calculs.** Quand des chiffres apparaissent (tailles, durées de croissance, population), on écrit un script plutôt que de raisonner de tête. Les tableaux de l'échelle H en viennent.
+- **Les livrables.** Quand l'auteur juge le corpus mûr, on en tire un livrable : pour l'instant, la frise narrative de la nouvelle.
+- **Les relectures.** Des agents neufs, qui n'ont rien écrit, relisent le travail : à l'aveugle, pour voir ce qu'un lecteur comprend sans le corpus, ou en audit, pour traquer les contradictions.
+- **L'élagage.** Les pistes abandonnées (un premier contact, un Singleton, un warp…) partent dans `archive/`, gardées pour mémoire du raisonnement.
+
+Chaque affirmation dit de qui elle vient : **[ploki]** l'auteur, **[opus-5.5]** une proposition de l'IA, **[opus-5.5 → ploki]** une proposition validée par l'auteur. Les notes plus anciennes utilisent **[G]** et **[C]**.
+
+| | |
+|---|---|
+| `corpus/` | les notes, le glossaire, l'intention de l'auteur, les journaux |
+| `partus/` | les livrables |
+| `instrumenta/` | les scripts |
+| `archive/` | les pistes abandonnées |
+| `supellex/` | les images et les portraits |
+
+Pour entrer : `corpus/author-intent.md`, puis `corpus/00-story-index.md`.
+
+---
+
 ## Le monde
 
 C'est **la Terre, normale**, avec quelques romantisations. Le décor n'est pas l'objet : ce qui compte, ce sont **les êtres et leurs règles de vie**.
@@ -96,28 +121,5 @@ La suite appartient à la nouvelle.
 **Le Svalbard, et l'UNIS**, la plus grande université mixte sphères et humains. Un archipel neutre par traité, peu touché par le Soleil, sous des aurores qui rendent le paysage incroyable.
 
 ---
-
-## Comment ce monde est construit
-
-Le projet est tenu avec le skill [**Maieutics**](https://github.com/ploki/Maieutics), pour Claude. Le monde naît d'un **dialogue entre l'auteur et une IA**, selon une méthode maïeutique : l'auteur ne sait pas d'avance tout ce qu'il cherche, et le dialogue sert à le lui faire trouver et formuler. L'IA pose des questions, propose, objecte ; l'auteur tranche.
-
-- **Les notes.** Tout ce qui prend de la substance est consigné dans une note (un concept, un lieu, un personnage, un cadrage). Chacune s'ouvre sur ce qui vaut aujourd'hui (*Current*), puis les questions ouvertes, puis l'histoire du raisonnement.
-- **Les journaux.** Chaque décision est notée avec sa raison, et chaque changement d'avis y reste visible (`corpus/decision-log.md`). Chaque message de l'auteur est réécrit et gardé, le plus récent en premier (`corpus/prompt-log.md`). Rien n'est effacé : on peut toujours savoir pourquoi le monde est tel qu'il est.
-- **Les calculs.** Quand des chiffres apparaissent (tailles, durées de croissance, population), on écrit un script plutôt que de raisonner de tête. Les tableaux de l'échelle H en viennent.
-- **Les livrables.** Quand l'auteur juge le corpus mûr, on en tire un livrable : pour l'instant, la frise narrative de la nouvelle.
-- **Les relectures.** Des agents neufs, qui n'ont rien écrit, relisent le travail : à l'aveugle, pour voir ce qu'un lecteur comprend sans le corpus, ou en audit, pour traquer les contradictions.
-- **L'élagage.** Les pistes abandonnées (un premier contact, un Singleton, un warp…) partent dans `archive/`, gardées pour mémoire du raisonnement.
-
-Chaque affirmation dit de qui elle vient : **[ploki]** l'auteur, **[opus-5.5]** une proposition de l'IA, **[opus-5.5 → ploki]** une proposition validée par l'auteur. Les notes plus anciennes utilisent **[G]** et **[C]**.
-
-| | |
-|---|---|
-| `corpus/` | les notes, le glossaire, l'intention de l'auteur, les journaux |
-| `partus/` | les livrables |
-| `instrumenta/` | les scripts |
-| `archive/` | les pistes abandonnées |
-| `supellex/` | les images et les portraits |
-
-Pour entrer : `corpus/author-intent.md`, puis `corpus/00-story-index.md`.
 
 La nouvelle est du fan art de la série *Pluribus*.
