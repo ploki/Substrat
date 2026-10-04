@@ -52,6 +52,7 @@
 
 ### Ce qu'elle visait, et ce qui est arrivé
 - **[G]** **Ce qu'elle visait :** que la communication à haut débit permette aux **belligérants de mieux se comprendre** et de **s'organiser ensemble pour gérer la crise**.
+  - **[C → validé, #219]** Autrement dit, relier les humains **comme les sphères sont reliées entre elles** : en individus distincts, à haut débit. C'est ce que la note 09 appelle « l'étape finale de l'intelligence collective ». Les sphères, reliées en lumière, ne se sont jamais fondues : elle n'avait aucune raison de croire que les humains le feraient.
 - **[G]** **Ce qu'elle n'attendait pas : que l'espace cognitif s'effondre en un seul individu** — **le singleton cognitif**. **[G] Elle ne l'avait vraiment pas anticipé, pas plus que la méta-contagion.**
   - **[C]** C'est **la** conséquence imprévue, celle dont les autres découlent. Elle voulait des gens qui se parlent mieux ; elle a obtenu **une seule personne**. Le refus de tuer pour se nourrir et la méta-contagion (note 19) sont des conséquences de cet effondrement, pas des erreurs séparées.
   - **[C]** Son geste était donc **mesuré** à ses yeux : améliorer la communication, pas refaire l'espèce. Ce qui rend sa stupeur finale exacte — elle n'a pas voulu ce qui est arrivé, et elle l'a pourtant provoqué.
@@ -75,11 +76,11 @@
 
 ## Questions ouvertes
 - **[À trancher — audit C4, #211]** **Le silence envers Mira, face à « sans défaut » (#210).** Niobé déclasse le projet de son amie sans le lui dire (note 22) ; la frise parle de « la seule décision du récit qu'on ne lui pardonnera pas » (4e'). « Sans défaut » couvre-t-il aussi ce silence ?
-- **[À trancher — audit C3, #211]** **Ce que visait Niobé.** La note 09 dit que l'agent fait entrer les humains dans « l'étape finale de l'intelligence collective », au « même niveau d'intégration » que les autres intelligences ; #178-179 disent qu'elle ne visait qu'une meilleure communication entre belligérants, la conscience unique n'étant pas le but. La première formule est-elle son but, la justification donnée aux autres sphères, ou abandonnée ?
 - Depuis quand le pet project ? En a-t-elle parlé à quelqu'un ? *(Pas à Mira, qui n'est pas au courant [G].)*
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## Historique
+- 2026-10-04 — C3 : ce qu'elle visait, relier les humains comme les sphères, sans fusion (#219).
 - 2026-10-04 — Audit de cohérence (#211) : Norvège, ~2450 et 2076 marqués comme déductions ; pet project marqué à confirmer ; question de la méditation close. Plus tôt : genre et « elle » (#200, #201), rapprochement au doctorat (#203), ce qu'elle raconte et à qui (#204-206), laser écarté (#207), singleton cognitif (#208), attachement (#209), pas de culpabilité (#210).
 - 2026-10-04 — ↺ Le rapprochement date du doctorat de Mira, et non des « dernières années ».
 - 2026-10-04 — Naturalisée en 2126 ; le niobate de lithium est essentiel à toutes les sphères ; son genre : apparence féminine constante, sans s'identifier ni femelle ni mâle.

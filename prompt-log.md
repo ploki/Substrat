@@ -136,3 +136,5 @@
 134. 2026-10-04 — Demande si des observations ne sont pas consignées avant d'élaguer.
 135. 2026-10-04 — Oui : consigner, puis préparer l'élagage.
 136. 2026-10-04 — Demande d'élaguer comme prévu.
+137. 2026-10-04 — Reprenons C3.
+138. 2026-10-04 — Retient la lecture recommandée par Claude : l'intelligence collective visée, ce sont des individus reliés comme les sphères, pas une conscience fusionnée.

@@ -94,6 +94,7 @@ Une délibération solitaire, menée pendant que la guerre continue.
 - **b.** **Le basculement.** Le jour, ou le fait précis, où elle se dit que la guerre n'ira pas en s'arrêtant.
 - **c.** **Le raisonnement.** Elle s'interdit de toucher aux bêtes, et elle va toucher aux humains. Comment elle se le formule.
 - **c'.** **Le pet project revient.** *[C → validé : le virus réalise le pet project.]* Elle a la solution depuis toujours : donner aux humains la communication à haut débit. Il ne lui manquait qu'un motif de l'appliquer. **La guerre est-elle sa raison, ou son occasion ?** La scène peut laisser la question ouverte — elle-même ne tranchera pas.
+- **c''.** **Ce qu'elle dit aux autres sphères.** « L'étape finale de l'intelligence collective » : relier les humains comme elles sont reliées entre elles, en individus distincts, à haut débit. Les sphères ne se sont jamais fondues ; personne n'imagine que les humains le feront.
 - **d.** **La neutralité retournée.** Ne pas prendre parti, c'est aussi pouvoir agir sur tous à la fois, sans distinction. C'est ce qui rend son geste possible — et c'est peut-être ce qui le lui suggère.
 - **e.** **Pourquoi elle se tait.** Son pouvoir pourrait la faire passer pour un dieu. Elle ne veut surtout pas que des êtres irrationnels le pensent. Scène possible : elle imagine ce qu'ils feraient d'elle.
 - **e'.** **Mira ne sait rien.** Elle travaille dans le bâtiment d'à côté. Niobé ne lui dit rien, et c'est peut-être la seule décision du récit qu'on ne lui pardonnera pas.

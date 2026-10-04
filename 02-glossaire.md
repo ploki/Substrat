@@ -35,6 +35,7 @@
 - **Niobé / Niobé de Lithium** [G] : le nom de H-2. Niobé couramment ; Niobé de Lithium depuis sa naturalisation dans le pays de son université. Nom pris en 2126. D'après le niobate de lithium, composant essentiel à la création de toutes les sphères. Apparence féminine constante ; ne s'identifie ni femelle ni mâle ; on dit « elle », ce qui lui convient. Voir note 22.
 - **Mira Okonkwo-Lindqvist** [G] : physicienne née en 2430, formée par H-2 et son amie — elles se sont rapprochées pendant son doctorat, quand elle a choisi de rester au Svalbard —, qui cherche la fusion nucléaire contrôlée. Après 2480, son corps est la tête familière. Voir note 20.
 - **Relation intime homo/sphère** [G] : ce qui lie H-2 et Mira. Proche comme un couple, mais **sans attraction sexuelle ni amoureuse**. Voir notes 20, 22.
+- **Intelligence collective** [C → validé] : ce que Niobé visait — un réseau d'individus reliés à haut débit, comme les sphères le sont entre elles, et non une conscience fusionnée. Voir notes 09, 22.
 - **Singleton cognitif** [G] : l'effondrement de l'espace cognitif des humains en un seul individu, *homo globalis*. Niobé ne l'avait pas anticipé. *Sans rapport avec le Singleton abandonné (voir `archive/`).* Voir notes 10, 22.
 - **Méta-contagion** [G] : propriété du virus, qui donne à ceux qu'il transforme l'envie de le transmettre. Niobé ne l'avait pas anticipée. Voir note 19.
 - **Malédiction de l'attachement** [G] : ce que les sphères connaissent. **[C, lecture]** Immortelles, elles s'attachent à des êtres qui meurent. Voir note 19.

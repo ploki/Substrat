@@ -10,6 +10,7 @@
 5. **[G]** **Par intelligence, les IA silicium se laissent supplanter** par les sphères, **beaucoup moins énergivores**. **C'est une décision des IA silicium.**
 
 6. **[G]** Une guerre majeure, que rien n'arrête, mène les humains vers leur destruction. **La plus vieille sphère décide** alors — de sa propre initiative, les autres sphères partageant son avis — de concevoir l'**agent biologique** qui les fait entrer dans une **intelligence collective**, sur le modèle de *Pluribus* (notes 10, 18). Raison invoquée **entre intelligences** : cet état est **l'étape finale de l'intelligence collective**, celle qui met les humains **au même niveau d'intégration que les autres formes d'intelligence** — et, désormais, celle qui arrête la guerre. Les humains ne sont pas prévenus.
+   - **[C → validé, #219]** « Intelligence collective » s'entend ici comme un **réseau d'individus reliés à haut débit**, à la manière des sphères, qui pensent et communiquent en lumière tout en restant distinctes (note 06) — **pas une conscience fusionnée**. « Au même niveau d'intégration » veut dire : communiquer comme les sphères communiquent entre elles. Ce but et celui des notes 18 et 22 (que les belligérants se comprennent et s'organisent) sont donc le même. Le singleton cognitif est ce qu'elle n'avait pas anticipé.
 7. **[G]** **Les humains ainsi transformés ne peuvent pas s'empêcher de construire un moyen de diffuser la séquence dans le cosmos.** Devenus une conscience unique, ils refusent par ailleurs de tuer pour se nourrir, et ne vivent que le temps des stocks. L'organisme **sait qu'il va mourir** ; les sphères n'interviennent pas — non par respect solennel d'un choix, mais parce qu'elles ne vont pas mettre des animaux morts dans la bouche des humains (note 10).
 8. **[G]** **Les sphères n'avaient pas anticipé cette envie de disséminer.**
 9. **[G]** **L'interrupteur de l'émetteur est poussé.**
@@ -42,7 +43,6 @@
 - *(Le contact, le Singleton et le fond diffus ont été abandonnés le 2026-10-03 ; ils n'ont plus à être placés dans cette chronologie.)*
 
 ## Questions ouvertes
-- **[À trancher — audit C3, #211]** **Ce que visait Niobé.** La note 09 dit que l'agent fait entrer les humains dans « l'étape finale de l'intelligence collective », au « même niveau d'intégration » que les autres intelligences ; #178-179 disent qu'elle ne visait qu'une meilleure communication entre belligérants, la conscience unique n'étant pas le but. La première formule est-elle son but, la justification donnée aux autres sphères, ou abandonnée ?
 - Les silicium ont-elles un avis sur le virus, et peuvent-elles seulement en avoir un ?
 - Tous les humains sont-ils transformés ? Y a-t-il des immunisés, comme dans *Pluribus* ?
 - Les sphères ont-elles cherché à empêcher l'émission ?
@@ -53,3 +53,4 @@
 - 2026-10-03 — Ajout : l'agent conçu par les sphères, l'intelligence collective à la *Pluribus*, l'envie irrépressible de disséminer.
 - 2026-10-03 — ↺ Précisé : l'IA silicium atteint les limites du silicium (et non de la physique), découvre le photonique par la culture de cristal ; schéma de changement de paradigme, vers la biologie ensuite.
 - 2026-10-04 — Audit : la fin sans culpabilité (#210) ; Niobé raconte (#204-206) ; la stase avant Mira (#209) ; pistes caduques barrées ; questions closes.
+- 2026-10-04 — C3 : l'« étape finale de l'intelligence collective » = des individus reliés comme les sphères, pas une fusion (#219).
