@@ -4,7 +4,7 @@
 
 ## Le point de vue
 - **[G]** **La sphère H-2 raconte.** Et **peut-être aussi une IA silicium**, en second point de vue — à décider plus tard.
-- **[G]** ↺ **Le présent de narration est « avant la stase »** (#153). *Il était auparavant le fry final, abandonné avec lui (#143).* Reste à décider **à qui** elle parle.
+- **[G]** ↺ **Le présent de narration est « avant la stase »** (#153). *Il était auparavant le fry final, abandonné avec lui (#143).* **[G]** Elle parle **au corps de Mira** : de l'inoculation à la stase, elle ne parle grosso modo qu'à elle. **[G]** Elle raconte **quand *homo globalis* a séquencé le virus** et hésite entre les silicium et les sphères (note 19).
 - **[C]** Ce que cela permet, et qui vient du corpus : la mémoire d'une sphère s'inscrit sur la surface qui croît, et l'ancien migre vers le cold storage, comprimé avec perte (note 08). Les siècles anciens sont donc **flous parce qu'elle les a perdus**, et non parce que l'auteur les saute. Le grand hors-champ (moment 10) est littéralement ce qu'elle a oublié en grandissant.
 - **[C]** Et le laser détruit la surface, donc **les couches les plus récentes d'abord** : en brûlant, elle perd ses raisons avant ses souvenirs d'enfance. Sa stupeur du moment 18 peut être littérale — elle ne retrouve plus pourquoi elle a fait ce qu'elle a fait.
 - **[C, réserves]** Avec elle seule, on ne voit jamais les humains de l'intérieur ; elle n'est pas une narratrice fiable, puisqu'elle a conçu l'agent ; et ce qui précède sa naissance devra passer par ce qu'on lui a raconté. Un second point de vue silicium lèverait les deux premières.

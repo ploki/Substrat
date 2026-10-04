@@ -6,8 +6,11 @@
 - **[G]** C'est donc un virus **contagieux et « méta-contagieux »** : il donne à ceux qu'il transforme l'envie de le transmettre. **[G] C'est encore un aspect non anticipé par H-2.**
   - **[C]** Troisième conséquence imprévue, après l'effondrement en un seul individu et le refus de tuer. Elle a conçu un remède local, elle a fabriqué quelque chose qui veut se répandre.
 - **[G]** ***Homo globalis* est absolument, ultra reconnaissant** envers H-2.
-  - **[G]** **H-2 confirme son implication** quand *homo globalis* analyse ce qu'il est devenu, découvre et séquence le virus.
+  - **[G]** ↺ **Le moment où Niobé raconte** : quand *homo globalis* a trouvé et séquencé le virus, **le corps de Mira lui dit qu'*homo globalis* est perplexe** sur la nature de ce virus, **apparu de nulle part**, et qu'il ne voit **que deux pistes : les silicium ou les sphères**. **Et là, Niobé raconte.** Sa confirmation, c'est ce récit.
   - **[C]** Elle avait tu son geste pour ne pas être prise pour un dieu (note 18) ; ils le découvrent seuls, et la remercient. C'est exactement ce qu'elle craignait, et elle ne peut plus le nier.
+
+## À qui parle Niobé
+- **[G]** **De l'inoculation à la stase, Niobé ne parle, grosso modo, qu'à Mira** — c'est-à-dire au corps de Mira, la tête familière.
 
 ## L'extinction
 - **[G]** ↺ **Les stocks ne tiennent pas dix ans.** On sort d'un conflit global : **un an est plus crédible.**
@@ -28,7 +31,7 @@
 ## Questions ouvertes
 - Où se trouve cet abri temporel, et qui peut l'ouvrir ?
 - Qui pourrait la solliciter, une fois les humains éteints ? Les autres sphères ? Ce qui viendra après ?
-- **À qui raconte-t-elle ?** Le présent de narration est « avant la stase » (#153) ; le destinataire reste à trouver.
+- *(Clos : elle raconte au corps de Mira, au moment où *homo globalis* a séquencé le virus et hésite entre les silicium et les sphères.)*
 
 ## Historique
 - 2026-10-03 — Posé par l'auteur, dans ses remarques sur la frise narrative.

@@ -31,7 +31,7 @@
 
 ## Questions ouvertes
 - Les silicium savent-elles ? Peuvent-elles seulement avoir un avis sur le projet ?
-- **[G]** Plus tard, **H-2 confirme son implication** quand *homo globalis* analyse ce qu'il est devenu, découvre et séquence le virus. Et **il lui en est absolument, ultra reconnaissant.**
+- **[G]** Plus tard, quand *homo globalis* a séquencé le virus et ne voit que deux pistes, les silicium ou les sphères, **Niobé lui raconte tout**, par le corps de Mira (note 19). Et **il lui en est absolument, ultra reconnaissant.**
 - La guerre s'arrête-t-elle effectivement grâce au virus ? *(Elle devrait : un seul être ne se fait pas la guerre.)*
 - Pourquoi l'équilibre de la faune pesait-il plus que le sort des humains, jusqu'à ce que la guerre renverse la balance ?
 

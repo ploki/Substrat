@@ -12,10 +12,11 @@
 
 ## Le cadre de narration
 
-**[G] Avant la stase.** Niobé raconte dans le temps qui précède sa mise en pause : les corps meurent, l'extinction s'achève, et elle fait le compte avant de s'éteindre pour longtemps.
+**[G] Avant la stase**, et plus précisément : **au moment où *homo globalis* a séquencé le virus.** De l'inoculation à la stase, Niobé ne parle grosso modo qu'**au corps de Mira**. Ce corps lui dit qu'*homo globalis* est perplexe devant ce virus apparu de nulle part, et qu'il ne voit que deux pistes : les silicium, ou les sphères. **Et là, Niobé raconte.**
 
 Ce qui en découle, à décider :
-- **à qui parle-t-elle ?** Le lecteur à l'aveugle de « Surface » avait buté là-dessus (note 12). Pistes : à la tête familière, tant qu'elle vit ; à elle-même, pour laisser quelque chose à celle qui se réveillera ; à personne, et c'est un monologue ;
+- ~~à qui parle-t-elle ?~~ **Au corps de Mira** [G].
+- **[C] Ce que cela implique** : le récit est fait en 2481, **avant l'émetteur, l'extinction et la stase**. Les séquences 8 à 10 ne peuvent donc pas être racontées après coup dans ce récit — à décider : sont-elles écrites au présent, après lui, ou autrement ?
 - **le récit suit-il l'ordre chronologique**, ou remonte-t-il ? Le plan ci-dessous est chronologique, mais rien n'oblige à l'écrire ainsi.
 
 ## Niobé
@@ -114,8 +115,8 @@ Une délibération solitaire, menée pendant que la guerre continue.
 - **c.** **Le moment où elle comprend qu'ils ne mangeront plus.** Pas une révélation : une déduction, faite trop tard.
 
 ### 7. Ils découvrent, et ils remercient — 2481 — *le second sommet*
-- **a.** ***Homo globalis* analyse ce qu'il est devenu**, découvre le virus et le séquence. Il remonte jusqu'à elle.
-- **b.** **Elle confirme.** Elle ne nie pas. Scène courte, et probablement la plus difficile à écrire.
+- **a.** ***Homo globalis* analyse ce qu'il est devenu**, découvre le virus et le séquence. **Il est perplexe** : ce virus est apparu de nulle part, et il ne voit que deux pistes, les silicium ou les sphères. C'est le corps de Mira qui le dit à Niobé.
+- **b.** **Elle raconte.** Pas une confirmation sèche : **tout le récit**, depuis 2076, au corps de Mira. *C'est la scène d'où la nouvelle est dite.*
 - **c.** **La gratitude.** Ils sont **absolument, ultra reconnaissants**. Ils adorent ce qu'ils sont devenus. C'est exactement ce qu'elle redoutait : elle s'était tue pour ne pas être prise pour un dieu, et ils la remercient de les avoir faits.
 
 ### 8. L'émetteur — 2481
@@ -150,7 +151,7 @@ Une délibération solitaire, menée pendant que la guerre continue.
 - La tête familière est le tout dernier corps vivant au moment où elle entre en stase.
 
 ## Questions que l'écriture tranchera
-- **À qui Niobé parle-t-elle**, puisqu'elle raconte avant la stase ?
+- ~~À qui Niobé parle-t-elle ?~~ Au corps de Mira, quand *homo globalis* a séquencé le virus [G]. Reste : comment écrire ce qui suit le récit (séquences 8 à 10) ?
 - **Pourquoi Mira ?** Ce que Niobé a vu en elle, et qui justifie toute la nouvelle.
 - ~~Le pet project est-il connu de Mira ?~~ Non [G]. Reste : Niobé se ment-elle à elle-même sur ses motifs ?
 - **Dit-elle quelque chose** avant l'émetteur ?

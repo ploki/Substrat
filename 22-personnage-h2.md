@@ -63,6 +63,10 @@
 - **[G]** Elle décide seule de créer le virus, et **se tait** pour ne pas être prise pour un dieu (note 18).
 - **[G]** Ce qu'elle n'avait pas anticipé : **l'effondrement de l'espace cognitif en un seul individu**, puis, de là, le **refus de tuer pour se nourrir** et la **méta-contagion** (note 19).
 
+## Ce qu'elle raconte, et à qui
+- **[G]** De l'inoculation à la stase, elle ne parle, grosso modo, **qu'au corps de Mira**.
+- **[G]** Elle raconte **quand *homo globalis* a séquencé le virus** : le corps de Mira lui dit qu'il est perplexe devant ce virus apparu de nulle part, et qu'il ne voit que deux pistes, les silicium ou les sphères. Alors elle raconte (note 19).
+
 ## Sa fin
 - **[G]** Elle **ne grille pas**. Elle se met en **stase** en 2482, curieuse des 200 millions d'années d'évolution à venir (note 19).
 

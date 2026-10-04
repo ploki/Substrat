@@ -122,3 +122,5 @@
 120. 2026-10-04 — « Elle », c'est bien : les humains la qualifient naturellement ainsi, Niobé n'a pas de problème avec ça, et qu'on s'adresse « à lui » la surprendrait probablement, par rupture d'habitude.
 121. 2026-10-04 — Demande de mettre à jour la frise narrative avec Niobé.
 122. 2026-10-04 — Veut qu'elles se rapprochent au moment du doctorat de Mira, quand Mira décide de rester au Svalbard pour y continuer ses recherches sur la fusion.
+123. 2026-10-04 — Demande ce que Niobé raconte au corps de Mira, et ce que Claude envisage pour « avant la stase ».
+124. 2026-10-04 — De l'inoculation à la stase, Niobé ne parle grosso modo qu'à Mira. Le meilleur moment pour raconter : quand homo globalis trouve et séquence le virus, et que le corps de Mira dit à Niobé qu'homo globalis est perplexe sur la nature de ce virus apparu de nulle part, et qu'il ne voit que deux pistes, les silicium ou les sphères. Là, Niobé raconte.

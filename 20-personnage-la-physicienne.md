@@ -16,6 +16,8 @@
   - **[G]** C'est pour cela que ***homo globalis* choisit le corps de Mira** comme tête familière (note 19) — et ce choix va de soi : c'était **« une relation intime homo/sphère »**. *[« Intime » : proche comme un couple, mais sans attraction sexuelle ni amoureuse — précision de l'auteur, 2026-10-04.]*
   - **[C → validé]** Elle n'est donc ni complice ni témoin : elle est **tenue à l'écart par celle qui l'a formée**, et elle l'apprendra comme tout le monde — ou plutôt, elle ne l'apprendra pas, puisqu'elle cessera d'être quelqu'un au moment même de l'inoculation. C'est *homo globalis* qui découvrira, pas elle.
 
+- **[G]** De l'inoculation à la stase, **Niobé ne parle, grosso modo, qu'à elle** — à son corps. C'est à ce corps qu'elle raconte tout, quand *homo globalis* a séquencé le virus (note 19).
+
 ## Sa vie dans la frise
 
 | Âge | Date | |
