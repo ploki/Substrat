@@ -10,7 +10,8 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 - Dossiers : `corpus/` (index, notes, glossaire, intention, `glosses.md`, journaux), `partus/` (livrables), `instrumenta/` (scripts), `archive/` (abandons, gardés pour mémoire).
 - Notes `NN-type-subject.md` (NN = ordre de création ; types : framing, concept, hypothesis, source, decision, character, place). Chaque note : *Current*, puis *Open questions*, puis *History*.
 - `glosses.md` : les lectures de Claude, non validées ; les entrées barrées y restent, avec leur cause.
-- Provenance : **[G]** auteur · **[C]** Claude, non validé · **[C → validé]** · **[S]** source · **[À vérifier]** · **[P]** procuration.
+- Provenance, **à partir du 2026-10-04** (#220) : **[ploki]** l'auteur (Guillaume Gimenez) · **[opus-5.5]** l'agent, proposition non validée · **[opus-5.5 → ploki]** proposé par l'agent, validé par l'auteur · **[S]** source · **[Unverified]** fait non sourcé · **[opus-5.5 as ploki]** décidé par procuration. L'agent se nomme toujours par son modèle.
+- Provenance **antérieure**, laissée telle quelle : **[G]** = ploki · **[C]** = Claude, non validé (modèles Opus 5, Sonnet 5 et Opus 5.5 selon les jours) · **[C → validé]** · **[À vérifier]** · **[P]** procuration.
 - Versionnement : git, un commit par itération ; `corpus/prompt-log.md` garde une réécriture propre de chaque message de l'auteur, le plus récent en premier.
 
 ## Livrables

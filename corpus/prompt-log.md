@@ -2,6 +2,10 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+140\. 2026-10-04 — Pour lui : ploki. Pas la peine de tout remplacer : on reste identifiable, et ce n'est pas grave si le passé est un peu flou, tant qu'à partir de maintenant on suit le nouveau format.
+
+139\. 2026-10-04 — Demande de créer une branche et de migrer le projet au niveau du format.
+
 138\. 2026-10-04 — Retient la lecture recommandée par Claude : l'intelligence collective visée, ce sont des individus reliés comme les sphères, pas une conscience fusionnée.
 
 137\. 2026-10-04 — Reprenons C3.
