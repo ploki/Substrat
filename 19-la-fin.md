@@ -18,15 +18,17 @@
   - **[C]** Les stocks courent de l'inoculation (2480) à leur épuisement : l'extinction s'étale sur **2481-2482**, et la stase suit en **2482**. Lecture retenue pour la cohérence des dates (note 13).
 - **[G]** **Le gros de la population de corps meurt rapidement.**
 - **[G]** ***Homo globalis* envoie toujours le même corps** rendre visite à H-2, pour lui garder **une tête familière** : **[C → validé]** **celui de Mira Okonkwo-Lindqvist** (note 20). **[G]** C'est *homo globalis* qui le choisit, et le choix va de soi : elles s'étaient rapprochées depuis le doctorat de Mira, « une relation intime homo/sphère » — proche comme un couple, sans attraction sexuelle ni amoureuse. H-2 a des émotions (note 06). Ce corps est **entretenu**, maintenu en bonne santé : **il ne maigrit pas**.
-  - **[G]** **C'est le dernier à mourir.**
+  - **[G]** ↺ **Il est parmi les derniers à mourir.** *(D'abord : « le dernier ».)*
   - **[C]** Une attention délicate d'un organisme qui se **souvient** de ce que ce visage était pour elle (note 10), et qui le garde en vie pour elle.
 
 ## La pause
-- **[G]** ↺ **La sphère ne grille pas.** Elle **décide de se mettre en stase**, dans un **abri temporel** (« safe place temporelle »).
+- **[G]** ↺ **La sphère se met en stase** — la question du laser est écartée, son échéance étant repoussée bien plus loin (note 06). Elle **décide de se mettre en stase**, dans un **abri temporel** (« safe place temporelle »).
   - **[G]** Elle sait que **le futur réserve encore 200 millions d'années d'évolution biologique**, et **sa curiosité est forte**.
+  - **[G]** **Les sphères connaissent la malédiction de l'attachement.** Mira est parmi les derniers corps, et **Niobé préfère partir en stase plutôt que de la voir périr.**
+    - **[C]** La stase a donc deux raisons, dites par l'auteur : la curiosité, et ne pas voir mourir Mira. Elle part **avant** Mira.
   - **[G]** Elle se met en veille avec juste de quoi être **sollicitée sporadiquement**, si l'on a besoin d'un avis de H-2 — ce n'est pas quelque chose qui arrive sur une base régulière.
   - **[G]** **Quand elle entre en stase, la tête familière perd son statut de corps privilégié.**
-  - **[C]** L'ordre compte : elle choisit la stase **pendant** que les corps meurent, et c'est cette décision qui retire son privilège au dernier.
+  - **[C]** L'ordre compte : elle choisit la stase **pendant** que les corps meurent, **avant** celui de Mira, et c'est cette décision qui retire son privilège à ce corps.
 - **[C]** Ce que cela change : **la fin n'est plus une agonie, mais un retrait.** Elle ne meurt pas de ce qu'elle a fait — elle se met de côté et attend, avec la curiosité de voir ce que deviendra une Terre vidée de ses humains. C'est plus froid, et peut-être plus terrible.
 
 ## Questions ouvertes
@@ -35,4 +37,5 @@
 - *(Clos : elle raconte au corps de Mira, au moment où *homo globalis* a séquencé le virus et hésite entre les silicium et les sphères.)*
 
 ## Historique
+- 2026-10-04 — ↺ Le laser est écarté ; Mira est parmi les derniers corps ; la malédiction de l'attachement : Niobé part en stase plutôt que de la voir périr.
 - 2026-10-03 — Posé par l'auteur, dans ses remarques sur la frise narrative.

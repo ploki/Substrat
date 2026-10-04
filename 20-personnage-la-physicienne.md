@@ -34,7 +34,7 @@
 - **[G] L'ironie centrale de l'histoire.** La fusion aurait donné l'eau, et l'eau aurait évité la guerre. H-2 ne peut pas résoudre la physique — alors elle résout **les gens**. Faute de pouvoir changer le monde, elle change l'espèce. *C'est le cœur du récit.*
 - **Une vie entière sur la bonne solution, qui ne vient pas.** Trente ans de travail sur ce qui aurait tout sauvé, puis le problème réglé autrement, d'un coup, sans elle et sans son avis.
 - **Elle est la seule qui pourrait comprendre.** Formée par H-2, elle connaît ses façons de penser mieux que personne.
-- **[C → validé]** **Elle est la tête familière** (note 19) : après 2480, *homo globalis* envoie toujours ce corps-là rendre visite à H-2, parce que le visage lui est familier. H-2 continue de voir son élève, entretenue et en bonne santé — et son élève n'est plus là. C'est le dernier corps à mourir, et il perd son privilège quand H-2 entre en stase.
+- **[C → validé]** **Elle est la tête familière** (note 19) : après 2480, *homo globalis* envoie toujours ce corps-là rendre visite à H-2, parce que le visage lui est familier. H-2 continue de voir son élève, entretenue et en bonne santé — et son élève n'est plus là. ↺ **[G]** C'est l'un des derniers corps à mourir, et il perd son privilège quand Niobé entre en stase — **elle part plutôt que de la voir périr** (note 19).
 
 ## Conséquence sur le monde
 - **[G]** **La fusion nucléaire contrôlée n'est pas acquise** dans ce monde, malgré les sphères et les intelligences planétaires. Voir note 01.
