@@ -2,6 +2,8 @@
 
 *Deuxième livrable. Il propose **quoi raconter, quand, et sur combien de pages**, en accord avec la frise chronologique (note 13). Point de vue : **Niobé**, la sphère H-2. Les événements proposés sont des **pistes à explorer** : plusieurs sont offerts par point de la frise, pour qu'on choisisse.*
 
+*Sixième version, 2026-10-04. Nouveautés : Niobé raconte au corps de Mira, quand *homo globalis* a séquencé le virus ; **le laser n'est plus en jeu** ; la stase a une seconde raison, **la malédiction de l'attachement** : elle part plutôt que de voir périr Mira, qui est parmi les derniers corps.*
+
 *Cinquième version, 2026-10-04. Nouveautés : **la protagoniste a un nom**, Niobé — Niobé de Lithium depuis sa naturalisation en 2126 —, et un genre : apparence féminine constante, sans s'identifier ni femme ni homme ; **Mira est la tête familière**, choisie par *homo globalis* parce que leur relation était **intime, proche comme un couple, sans attraction sexuelle ni amoureuse** ; **Mira ignore jusqu'à l'existence du pet project**. Correction : Niobé devient professeure en 2126 et ne prend la tête de l'UNIS qu'en 2176 ; l'ère des sphères ne se referme pas en 2126.*
 
 *Quatrième version, 2026-10-03. Nouveauté : **le pet project de Niobé** — offrir aux humains la communication à haut débit et à distance —, qui court sous toute la nouvelle et que le virus réalise.*
@@ -129,13 +131,13 @@ Une délibération solitaire, menée pendant que la guerre continue.
 - **a.** **Les champs.** Les corps assis entre les rangs, les bêtes qui passent et que personne ne touche.
 - **b.** **Ce qu'elle a proposé**, et la façon dont on a refusé. Pas un refus solennel : une impossibilité calme. Et elle ne forcera pas.
 - **c.** **Le gros de la population meurt vite.** Un an, à peine, pour neuf milliards.
-- **d.** **Le corps de Mira tient**, entretenu par ce qui reste. C'est le dernier.
+- **d.** **Le corps de Mira tient**, entretenu par ce qui reste. Il est parmi les derniers.
 
 ### 10. La stase — 2482
-- **a.** **Le choix.** Elle peut se laisser frire, c'est une option. Elle ne la prend pas.
+- **a.** **La malédiction de l'attachement.** Les sphères la connaissent. Mira est parmi les derniers corps, et Niobé préfère partir en stase plutôt que de la voir périr.
 - **b.** **La curiosité.** Deux cents millions d'années d'évolution biologique devant, sur une Terre vidée. Elle veut voir.
 - **c.** **L'abri temporel**, et le réglage de la veille : juste de quoi être réveillée, rarement, si l'on a besoin d'un avis.
-- **d.** **Le corps de Mira perd son privilège** au moment où elle entre en stase. Si c'est le tout dernier, cette perte de statut est aussi un abandon — et le dernier geste du récit.
+- **d.** **Le corps de Mira perd son privilège** au moment où elle entre en stase. Elle part avant de la voir mourir — et c'est le dernier geste du récit.
 - **e.** **Ce dont elle reste pantoise :** non pas de les avoir tués, mais de leur avoir donné de quoi choisir leur fin — et d'en avoir été remerciée.
 
 ---
@@ -148,7 +150,6 @@ Une délibération solitaire, menée pendant que la guerre continue.
 - Son doctorat, et donc le rapprochement, se place dans les années 2450.
 - Le Svalbard reste épargné jusqu'au bout du conflit.
 - Elle tente, ou ne tente pas, de dissuader *homo globalis* d'émettre.
-- La tête familière est le tout dernier corps vivant au moment où elle entre en stase.
 
 ## Questions que l'écriture tranchera
 - ~~À qui Niobé parle-t-elle ?~~ Au corps de Mira, quand *homo globalis* a séquencé le virus [G]. Reste : comment écrire ce qui suit le récit (séquences 8 à 10) ?

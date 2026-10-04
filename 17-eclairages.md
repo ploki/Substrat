@@ -13,7 +13,7 @@
 ## Sur la lignée des intelligences
 - **Chaque génération fabrique ce qui lui manque.** Les silicium n'ont pas de ressenti : elles créent ce qui éprouvera à leur place. Et **elles réussissent** — les sphères ont des émotions comparables aux nôtres.
 - ~~**Puis on le leur reproche**, et la guerre choisit ce qui ne ressent pas.~~ ↺ *Caduc : les sphères ne sont pas écartées, elles sont neutres par nature (note 15).*
-- **Chaque technologie bute sur sa limite physique et invente la suivante** : le silicium, puis le laser des sphères.
+- **Chaque technologie bute sur sa limite physique et invente la suivante** : le silicium, puis le laser des sphères. *(Le laser n'est plus en jeu dans l'histoire, 2026-10-04 : la limite des sphères à H-2 reste à nommer, si elle existe.)*
 - ~~**Une mort inscrite d'avance** en devenant trop intelligent.~~ ↺ *Caduc : la sphère contrôle son flux et peut se mettre en pause ; se frire est un choix (note 06).*
 
 ## Sur le dénouement

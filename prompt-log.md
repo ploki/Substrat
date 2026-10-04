@@ -125,3 +125,5 @@
 123. 2026-10-04 — Demande ce que Niobé raconte au corps de Mira, et ce que Claude envisage pour « avant la stase ».
 124. 2026-10-04 — De l'inoculation à la stase, Niobé ne parle grosso modo qu'à Mira. Le meilleur moment pour raconter : quand homo globalis trouve et séquence le virus, et que le corps de Mira dit à Niobé qu'homo globalis est perplexe sur la nature de ce virus apparu de nulle part, et qu'il ne voit que deux pistes, les silicium ou les sphères. Là, Niobé raconte.
 125. 2026-10-04 — Niobé parle sans crainte de jugement, car homo globalis est ravi de sa nouvelle existence, et l'action de Niobé était la bonne, sans aucun doute ni défaut.
+126. 2026-10-04 — Constate une contradiction et demande de réexpliquer la timeline à partir du point où l'ancienne vision cloche, et ce qu'on pourrait construire.
+127. 2026-10-04 — On oublie la question du laser : l'échéance est repoussée plus loin dans le temps. Niobé n'avait vraiment pas anticipé les deux choses, le singleton cognitif et la méta-contagion. Les sphères connaissent la malédiction de l'attachement : Mira est parmi les derniers corps, et Niobé préfère partir en stase plutôt que de la voir périr.

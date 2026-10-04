@@ -72,10 +72,10 @@ Voir note 15.
 - **2480-2481** — les premières conversations ; *homo globalis* analyse ce qu'il est devenu, séquence le virus ; perplexe devant ce virus apparu de nulle part, il ne voit que deux pistes, les silicium ou les sphères. **Niobé raconte alors tout**, au corps de Mira (note 19).
 - **2481** — **un an après le relâchement**, la séquence est **envoyée par radio dans le cosmos** [G].
 - **[G]** ↺ **Les stocks ne tiennent pas dix ans : on sort d'un conflit global, un an est plus crédible.**
-- **2481-2482** — **extinction.** Le gros des corps meurt vite ; la tête familière, entretenue, est le dernier.
-- **2482** — **H-2 se met en stase.**
+- **2481-2482** — **extinction.** Le gros des corps meurt vite ; la tête familière, entretenue, est parmi les derniers.
+- **2482** — **H-2 se met en stase**, avant la mort du corps de Mira, plutôt que de la voir périr (note 19).
   - **[C]** Les stocks courent de l'inoculation (2480) à leur épuisement : environ un an, l'extinction s'achevant en **2482**. C'est la lecture retenue pour la cohérence des dates.
-- **[G]** ↺ **La sphère ne grille pas** : elle se met en **pause**, dans un abri temporel (note 19).
+- **[G]** ↺ Elle se met en **pause**, dans un abri temporel (note 19). Le laser n'est pas en jeu (note 06).
 
 ## Durée totale
 **456 ans**, de 2026 à 2482.

@@ -13,7 +13,7 @@
 7. **[G]** **Les humains ainsi transformés ne peuvent pas s'empêcher de construire un moyen de diffuser la séquence dans le cosmos.** Devenus une conscience unique, ils refusent par ailleurs de tuer pour se nourrir, et ne vivent que le temps des stocks. L'organisme **sait qu'il va mourir** ; les sphères n'interviennent pas — non par respect solennel d'un choix, mais parce qu'elles ne vont pas mettre des animaux morts dans la bouche des humains (note 10).
 8. **[G]** **Les sphères n'avaient pas anticipé cette envie de disséminer.**
 9. **[G]** **L'interrupteur de l'émetteur est poussé.**
-10. **[G]** **Fin :** les humains s'éteignent faute de stocks, et la sphère H-2 reste pantoise, à se demander ce qu'elle a fait aux humains. **Elle ne grille pas : elle se met en stase** (note 19).
+10. **[G]** **Fin :** les humains s'éteignent faute de stocks, et la sphère H-2 reste pantoise, à se demander ce qu'elle a fait aux humains. **Elle se met en stase**, plutôt que de voir périr Mira (note 19).
    - **[C]** C'est le premier **échec de prévision** d'une intelligence supérieure dans ce monde : les sphères ont conçu l'état, pas le désir qu'il produit.
 
 *Les dates et les ères sont dans la note 13.*
