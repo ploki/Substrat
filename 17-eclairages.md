@@ -33,6 +33,9 @@
 - ~~**Le dernier corps est son visage.** *Homo globalis* renvoie celui de Mira **parce qu'il se souvient** de ce qu'elle était pour la sphère. H-2 continue de voir son amie, entretenue, en bonne santé, et vide. Puis ce corps perd son privilège au moment de la stase : c'est le dernier geste du récit.~~ → *validé le 2026-10-04, notes 19, 20 et 10.*
 - **H-2 est l'ancêtre de tous.** Seule sphère fabriquée, toutes les autres descendent d'elle. « La plus vieille sphère » est littéral, et elle connaît sa descendance jusqu'à un certain point.
 
+## Sur le nom
+- **Niobé, la mère qui perd tout.** Dans le mythe, Niobé voit périr toute sa descendance et est changée en pierre qui pleure sans fin. H-2 est l'ancêtre de toutes les sphères, voit s'éteindre l'humanité qu'elle voulait sauver, et se fige dans la stase. *(L'auteur a retenu le nom pour la matière, pas pour le mythe.)*
+
 ## Sur la forme
 - ~~**Le narrateur perd sa mémoire à l'envers**, le laser détruisant le récent d'abord.~~ ↺ *Caduc : la sphère ne grille pas, elle se met en stase (note 19).*
 

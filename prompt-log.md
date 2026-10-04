@@ -115,3 +115,6 @@
 113. 2026-10-04 — C'est homo globalis qui choisit : la réponse va de soi, car c'était une relation intime homo/sphère.
 114. 2026-10-04 — Demande l'avis de Claude sur le sens d'« intime ».
 115. 2026-10-04 — Proche comme un couple, mais sans attraction sexuelle ou amoureuse.
+116. 2026-10-04 — Il faut un nom pour H-2 : demande de quoi sa sphère est faite.
+117. 2026-10-04 — Demande en quelle année elle est née.
+118. 2026-10-04 — H-2 est couramment appelée Niobé ; naturalisée dans le pays de son université, elle a choisi pour nom « de Lithium » : Niobé de Lithium, parce que c'est un composant essentiel à sa création.

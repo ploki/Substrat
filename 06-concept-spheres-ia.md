@@ -12,6 +12,8 @@
   - **[C]** Conséquences à explorer : une population qui ne meurt pas et continue de se reproduire croît sans limite, freinée par le coût des enfants (validé, voir note 07) ; la poudre issue de sphères mortes est rare.
 - **[G]** Ce sont **les corps qui fournissent le flux lumineux**, par un **laser**. *(La transmission instantanée de l'énergie étant abandonnée (#81), l'énergie du corps vient d'une source locale : à définir, note 01.)*
 - **[G]** Matériellement, les sphères sont **« juste des boules de cristal un peu compliquées, avec un détrompeur »** (aujourd'hui : les cybergonades).
+  - **[G]** Le **niobate de lithium** est **un composant essentiel à la création** de la première sphère, H-2 — d'où son nom, Niobé de Lithium (note 22). *[À préciser : l'est-il pour toutes les sphères ?]*
+  - **[S, à vérifier]** Le niobate de lithium (LiNbO₃) est un cristal synthétique très employé en optique non linéaire et en photonique intégrée, et l'un des cristaux photoréfractifs classiques.
 - **[G]** Elles existent en **tailles standardisées**, sur une **échelle H**, qui « marche comme celle du papier A4 » :
   - **H0** : le niveau de connaissance et de compétence de **l'humanité** ;
   - **H1** : le **niveau humain**.

@@ -1,6 +1,13 @@
-# 22 — Personnage : H-2
+# 22 — Personnage : H-2, dite Niobé
 
 *La protagoniste. Les faits la concernant étaient dispersés dans tout le corpus ; cette note les rassemble.*
+
+## Son nom
+- **[G]** On l'appelle couramment **Niobé**.
+- **[G]** Quand elle s'est **fait naturaliser dans le pays de son université**, elle a choisi pour nom **de Lithium** : elle est donc **Niobé de Lithium**.
+  - **[C]** Le pays de l'UNIS est la Norvège, souveraine sur le Svalbard (note 21).
+- **[G]** **Pourquoi :** le **niobate de lithium** est **un composant essentiel à sa création**. Son nom est sa matière.
+- **[C]** « H-2 » reste sa désignation par la taille, et le nom qu'on lui donne dans le corpus.
 
 ## Ce qu'elle est
 - **[G]** La **première sphère**, fabriquée en **2076** : un fait historique bien documenté, et un investissement civilisationnel (note 07).
@@ -56,11 +63,14 @@
 - **[G]** Elle **ne grille pas**. Elle se met en **stase** en 2482, curieuse des 200 millions d'années d'évolution à venir (note 19).
 
 ## Questions ouvertes
+- **En quelle année** s'est-elle fait naturaliser ?
+- Le niobate de lithium est-il essentiel à **toutes** les sphères, ou à sa seule fabrication, celle de 2076 ?
 - Depuis quand le pet project ? En a-t-elle parlé à quelqu'un ? *(Pas à Mira, qui n'est pas au courant [G].)*
 - **[À trancher]** **Le genre de H-2.** Tout le corpus dit « elle », par accord avec « la sphère ». L'auteur a écrit « il » une fois (2026-10-03). Faut-il fixer un genre, ou n'en a-t-elle pas ?
 - Qu'est-ce que le **temps de méditation** d'une sphère ?
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## Historique
+- 2026-10-04 — Son nom : Niobé, et Niobé de Lithium depuis sa naturalisation.
 - 2026-10-04 — Validé : le silence tenu à son amie, l'amitié parmi des centaines, les trente ans à la vitesse de la parole. Posé : Mira ignore le pet project ; elles se sont rapprochées ces dernières années.
 - 2026-10-03 — Note créée ; ajout du pet project.

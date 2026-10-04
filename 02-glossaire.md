@@ -35,6 +35,7 @@
 - **Enveloppe** [G] : chacun des substrats successifs dans lesquels on grandit après la couveuse.
 - **Laser** [G] : la source du flux lumineux, fournie par le corps ; à H-2, sa puissance finit par détruire la sphère — **sauf si elle se met en pause**, car elle contrôle son flux. Se frire est alors un choix.
 - **Pause / stase** [G] : état d'une très grande sphère qui baisse son flux jusqu'à la veille pour échapper au fry, en gardant de quoi être sollicitée sporadiquement. Pas tout à fait une mort : une forme de **déification, non mystique**. Voir note 19.
+- **Niobé / Niobé de Lithium** [G] : le nom de H-2. Niobé couramment ; Niobé de Lithium depuis sa naturalisation dans le pays de son université. D'après le niobate de lithium, composant essentiel à sa création. Voir note 22.
 - **Mira Okonkwo-Lindqvist** [G] : physicienne née en 2430, formée par H-2 et son amie — elles se sont rapprochées ces dernières années —, qui cherche la fusion nucléaire contrôlée. Après 2480, son corps est la tête familière. Voir note 20.
 - **Relation intime homo/sphère** [G] : ce qui lie H-2 et Mira. Proche comme un couple, mais **sans attraction sexuelle ni amoureuse**. Voir notes 20, 22.
 - ***Homo globalis*** [G] : l'humanité devenue une conscience unique distribuée. **Elle se souvient des personnalités et de tout ce qui constituait les humains, globalement.** Voir note 10.

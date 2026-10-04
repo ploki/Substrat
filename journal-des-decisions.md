@@ -199,3 +199,5 @@
 | 193 | 2026-10-04 | Mira n'est pas au courant du pet project. La scène de la frise où H-2 l'évoque devant elle devient caduque | — | 20, 22, livrable/frise-narrative.md |
 | 194 | 2026-10-04 | C'est *homo globalis* qui choisit le corps de Mira comme tête familière, parce qu'elles s'étaient rapprochées : « une relation intime homo/sphère ». Pourquoi : le choix va de soi, aux yeux de l'auteur | précise #190, #192 | 19, 20, 22 |
 | 195 | 2026-10-04 | « Intime » veut dire : proche comme un couple, mais sans attraction sexuelle ni amoureuse. Pourquoi : l'auteur écarte la lecture amoureuse proposée par Claude | précise #194 ; écarte une lecture [C] | 19, 20, 22, 02-glossaire.md |
+| 196 | 2026-10-04 | H-2 s'appelle couramment Niobé ; naturalisée dans le pays de son université, elle a pris pour nom « de Lithium » : Niobé de Lithium. Pourquoi : le niobate de lithium est un composant essentiel à sa création | — | 22, 02-glossaire.md, 00-index.md |
+| 197 | 2026-10-04 | Le niobate de lithium est un composant essentiel à la création de H-2 (la question de son rôle pour toutes les sphères reste ouverte) | précise la matière, jusque-là « boules de cristal » | 06, 22 |
