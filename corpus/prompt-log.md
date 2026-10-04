@@ -2,6 +2,10 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+148\. 2026-10-04 — La première : la bible de l'univers.
+
+147\. 2026-10-04 — Non : veut que, de façon abstraite, le dépôt soit le monde qu'on décrit.
+
 146\. 2026-10-04 — Pour le dépôt, demande une description d'une phrase et un README.md.
 
 145\. 2026-10-04 — Demande d'ajouter au CLAUDE.md une consigne : être précautionneux vis-à-vis des données personnelles avant un push.
