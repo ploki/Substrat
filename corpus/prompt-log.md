@@ -2,6 +2,8 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+156\. 2026-10-05 — L'image est une caricature de Niobé : une discoball au Svalbard. Elle fait partie du monde. Demande de mettre à jour le README.
+
 155\. 2026-10-05 — Oui, consigner que les androïdes semblent humains, en précisant qu'il existe des skins comme ça. A déposé quelque chose pour le projet dans le dossier `supellex/`.
 
 154\. 2026-10-05 — Oui : un dossier `supellex/`, pour les images et les portraits.

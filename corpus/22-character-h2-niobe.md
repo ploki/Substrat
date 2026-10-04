@@ -15,6 +15,9 @@
 - **[G]** **On dit « elle ».** Les humains la désignent naturellement ainsi, et Niobé n'y voit aucun problème. **Qu'on s'adresse « à lui » la surprendrait probablement**, par rupture d'habitude.
 - **[C]** « H-2 » reste sa désignation par la taille, et le nom qu'on lui donne dans le corpus.
 
+### Sa caricature
+- **[ploki]** **Il existe une caricature de Niobé : une boule à facettes (*discoball*) au Svalbard.** Elle fait partie du monde. Image : `supellex/Svalbard_Discoball.jpeg` (#230).
+
 ### Ce qu'elle est
 - **[G]** La **première sphère** — **[C → validé, message 118]** née en **2076**, avec l'ère des sphères — un fait historique bien documenté, et un investissement civilisationnel (note 07).
 - **[G]** **La seule sphère produite par les humains et le silicium.** Toutes les autres descendent d'elle.
@@ -82,6 +85,7 @@
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## History
+- 2026-10-05 — Sa caricature : une boule à facettes au Svalbard (#230).
 - 2026-10-04 — C3 : ce qu'elle visait, relier les humains comme les sphères, sans fusion (#219).
 - 2026-10-04 — Audit de cohérence (#211) : Norvège, ~2450 et 2076 marqués comme déductions ; pet project marqué à confirmer ; question de la méditation close. Plus tôt : genre et « elle » (#200, #201), rapprochement au doctorat (#203), ce qu'elle raconte et à qui (#204-206), laser écarté (#207), singleton cognitif (#208), attachement (#209), pas de culpabilité (#210).
 - 2026-10-04 — ↺ Le rapprochement date du doctorat de Mira, et non des « dernières années ».

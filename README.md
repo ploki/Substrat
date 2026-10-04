@@ -1,5 +1,9 @@
 # Substrat
 
+![Une boule à facettes sur un trépied, sur une route enneigée du Svalbard, sous une aurore boréale](supellex/Svalbard_Discoball.jpeg)
+
+*Caricature de Niobé : une boule à facettes au Svalbard.*
+
 *La bible d'un univers de hard SF : la Terre de 2026 à 2482, où trois formes d'intelligence se succèdent.*
 
 **Substrat est un projet de construction de monde, en vue d'y créer des aventures.** La première est une nouvelle, en préparation : on y suit la plus ancienne des sphères, **Niobé de Lithium**. Ce qu'on gagne à mener une aventure jusqu'au bout, c'est un monde qui a de l'épaisseur, et sur lequel on peut construire les suivantes.
@@ -85,7 +89,7 @@ La suite appartient à la nouvelle.
 
 ## Lieux et personnages
 
-**Niobé de Lithium**, dite H-2. La première sphère, née en 2076 : la seule produite par les humains et le silicium, l'ancêtre de toutes les autres. Professeure à l'UNIS en 2126, l'année de sa naturalisation, où elle prend le nom de sa matière ; à sa tête depuis 2176. Une apparence féminine, constante ; ni femelle ni mâle ; on dit « elle ».
+**Niobé de Lithium**, dite H-2. La première sphère, née en 2076 : la seule produite par les humains et le silicium, l'ancêtre de toutes les autres. Professeure à l'UNIS en 2126, l'année de sa naturalisation, où elle prend le nom de sa matière ; à sa tête depuis 2176. Une apparence féminine, constante ; ni femelle ni mâle ; on dit « elle ». On la caricature en boule à facettes.
 
 **Mira Okonkwo-Lindqvist**, née en 2430. Physicienne de la fusion, formée par Niobé. Elles se rapprochent pendant son doctorat, quand elle décide de rester au Svalbard : proches comme un couple, sans attraction sexuelle ni amoureuse.
 
