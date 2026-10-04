@@ -175,6 +175,7 @@
 - D'où vient la poudre de sphère, quelle part du substrat représente-t-elle, et qui en fait le commerce ?
 
 ## Historique
+- 2026-10-04 — Audit de cohérence (#211) : question des cybergonades close (#61, #110).
 - 2026-10-03 — Posé par l'auteur.
 - 2026-10-03 — La couveuse est une exception légale, et elle est interactive.
 - 2026-10-03 — Couveuse (H14–H7, substrats stackés), puis enveloppes successives.

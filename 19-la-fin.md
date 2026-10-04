@@ -4,7 +4,7 @@
 - **[G]** Ce qui est envoyé est **la séquence (ADN ou ARN) du virus**, par **signal radio**, en morse ou en multiplexage temporel — quelque chose de ce genre.
 - **[G]** Pourquoi : ***homo globalis* adore ce qu'est devenu *homo sapiens*** et **souhaite partager et propager le virus**.
 - **[G]** C'est donc un virus **contagieux et « méta-contagieux »** : il donne à ceux qu'il transforme l'envie de le transmettre. **[G] C'est encore un aspect non anticipé par H-2.**
-  - **[C]** Deuxième conséquence imprévue, après le singleton cognitif — dont découle le refus de tuer (#208). Elle a conçu un remède local, elle a fabriqué quelque chose qui veut se répandre.
+  - **[C]** Deuxième conséquence imprévue, après le singleton cognitif — dont découle le refus de tuer (#179, #208). Elle a conçu un remède local, elle a fabriqué quelque chose qui veut se répandre.
 - **[G]** ***Homo globalis* est absolument, ultra reconnaissant** envers H-2.
   - **[G]** ↺ **Le moment où Niobé raconte** : quand *homo globalis* a trouvé et séquencé le virus, **le corps de Mira lui dit qu'*homo globalis* est perplexe** sur la nature de ce virus, **apparu de nulle part**, et qu'il ne voit **que deux pistes : les silicium ou les sphères**. **Et là, Niobé raconte.** Sa confirmation, c'est ce récit.
   - ~~**[C]** Elle avait tu son geste pour ne pas être prise pour un dieu (note 18) ; ils le découvrent seuls, et la remercient. C'est exactement ce qu'elle craignait, et elle ne peut plus le nier.~~ ↺ *Caduc (2026-10-04) : ils ne le découvrent pas seuls ; perplexes, ils hésitent entre les silicium et les sphères, et c'est Niobé qui raconte, sans crainte (#205, #206).*

@@ -46,6 +46,7 @@
 - Comment une sphère neutre peut-elle former une humaine ? *(Depuis quand elle enseigne : 2126, #174.)*
 
 ## Historique
+- 2026-10-04 — Audit de cohérence (#211) : question « depuis quand H-2 enseigne » close (2126). Plus tôt : Niobé ne parle qu'à elle (#204), parmi les derniers corps (#209).
 - 2026-10-04 — ↺ Le rapprochement se place pendant le doctorat, quand Mira décide de rester au Svalbard.
 - 2026-10-04 — Validé : Mira est la tête familière ; elle ne saura jamais ; l'échec sur le plasma. Posé : Mira ignore le pet project ; elles se sont rapprochées ces dernières années.
 - 2026-10-03 — Personnage posé par l'auteur.

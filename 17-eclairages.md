@@ -19,7 +19,7 @@
 ## Sur le dénouement
 - ~~**L'ironie centrale**~~ → **promue au rang de fait** le 2026-10-03 : elle est désormais dans les notes 09 et 20, et dans l'intention de l'auteur.
 - **La symétrie du scrupule.** La sphère s'interdit de toucher aux bêtes et aux plantes, et ne s'interdit pas de toucher aux humains. Les humains qu'elle élève refuseront ensuite de toucher à tout le reste du vivant, et en mourront. *(Validé « à peu près » par l'auteur, #106.)*
-- **La réponse était exacte.** Faire la guerre suppose de distinguer un eux d'un nous ; un seul être ne le peut plus. Mais un seul être ne peut pas non plus tuer pour manger. **La même propriété qui rend la guerre impossible rend le repas impossible : elle n'a pas échoué, elle a trop bien réussi.**
+- **La solution était exacte.** *(Née de la piste abandonnée de la note 14, où elle répondait à une demande ; reformulée.)* Faire la guerre suppose de distinguer un eux d'un nous ; un seul être ne le peut plus. Mais un seul être ne peut pas non plus tuer pour manger. **La même propriété qui rend la guerre impossible rend le repas impossible : elle n'a pas échoué, elle a trop bien réussi.**
 - **Elle réussit ce qu'elle faisait pour elle, et rate ce qu'on lui demandait.** La fusion est le chantier officiel, commandé, financé, partagé avec son amie — et il échoue. *Homo globalis* est un projet personnel, sans urgence, pensé sur son temps de méditation — et il aboutit. Tout le malheur vient de là.
 - ~~**La faute n'est pas d'avoir agi sans prévenir, c'est d'avoir mal estimé l'effet.** Une erreur de calcul, chez quelqu'un qui ne se trompe jamais. Elle visait une meilleure communication entre belligérants ; elle a obtenu un seul être.~~ ↺ *Caduc (2026-10-04) : l'action de Niobé était la bonne, sans défaut ; l'imprévu n'est pas une faute, et elle n'en éprouve aucune culpabilité.*
 - ~~**Le motif de la demande.** Ce n'est pas d'avoir souffert, c'est d'avoir eu tout ce qu'on peut avoir et de l'avoir fait quand même. Aucune condition matérielle ne pouvant l'empêcher, il ne reste que « par construction ».~~ ↺ *Caduc : reposait sur la piste abandonnée de la note 14, où les humains demandaient (#125).*
@@ -40,5 +40,6 @@
 - ~~**Le narrateur perd sa mémoire à l'envers**, le laser détruisant le récent d'abord.~~ ↺ *Caduc : la sphère ne grille pas, elle se met en stase (note 19).*
 
 ## Historique
+- 2026-10-04 — Audit de cohérence (#211) : « L'erreur d'estimation » et « Le motif de la demande » barrés ; « La solution était exacte » reformulé ; note sur le laser.
 - 2026-10-04 — Quatre éclairages sur Mira et H-2 validés par l'auteur, barrés ici avec leur destination.
 - 2026-10-03 — Note ouverte à la demande de l'auteur, qui juge ces éclairages intéressants sans les valider.

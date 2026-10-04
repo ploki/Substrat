@@ -68,6 +68,7 @@
 - Le patch d'alimentation : son flux sert-il de « pompe » à la non-linéarité ?
 
 ## Historique
+- 2026-10-04 — Audit de cohérence (#211) : relais du laser barré ; renvoi vers l'énergie (note 01) corrigé. Plus tôt dans la journée : niobate de lithium (#197, #199), laser repoussé (#207).
 - 2026-10-04 — ↺ On oublie la question du laser : l'échéance est repoussée bien plus loin dans le temps, au-delà de H-2.
 - 2026-10-02 — Posé par l'auteur.
 - 2026-10-03 — L'auteur valide la lecture « effet de seuil » et le sens de « maîtriser ».

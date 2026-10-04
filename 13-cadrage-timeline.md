@@ -39,7 +39,7 @@
 *↺ Correction du 2026-10-03 : Claude avait fait de 2126 la **fin** de cette ère, alors que l'auteur avait dit qu'elle y **démarrait**.*
 
 #### 2076–2126 — Les premières décennies
-- **[G]** **2076** : l'ère des sphères démarre, avec la **première sphère** — un fait historique bien documenté, et un investissement civilisationnel (note 07). C'est **H-2**, la seule produite par les humains et le silicium ; toutes les autres descendent d'elle. Les variétés de nouvelles intelligences se développent.
+- **[G]** **2076** : l'ère des sphères démarre, avec la **première sphère** **[C → validé, message 118]** — un fait historique bien documenté, et un investissement civilisationnel (note 07). C'est **H-2**, la seule produite par les humains et le silicium ; toutes les autres descendent d'elle. Les variétés de nouvelles intelligences se développent.
 - **[G]** Des intelligences de qualité **enfant, puis pré-adulte** existent **depuis vingt ans** quand arrive 2101. **[C]** Soit à partir de ~2081.
 - **[G]** **2101** : il y a déjà **énormément de sphères d'intelligence de qualité humaine**.
   - **[G]** **« Qualité humaine » couvre plusieurs niveaux**, de la petite enfance à l'âge adulte complètement formé et très compétent. Ce n'est donc pas un synonyme de H1. **[C]** En 2101, la première génération est autour de H2, ce qui entre dans cette plage.
@@ -81,7 +81,7 @@ Voir note 15.
 **456 ans**, de 2026 à 2482.
 
 ## Questions ouvertes
-- *(Clos : oui, née en 2076 ; proposé par Claude, accepté par l'auteur le 2026-10-04.)*
+- *(Clos : oui, née en 2076. L'auteur a posé la question (message 117), Claude a répondu 2076, l'auteur a enchaîné « très bien » (message 118).)*
 - *(Mis de côté par l'auteur : ce que devient l'IA planétaire silicium après 2176 n'est pas important pour l'instant.)*
 - *(Clos : elle se tait pour ne pas être prise pour un dieu, #138.)*
 - *(Clos : celles qui perdent se conforment ; point jugé secondaire.)*

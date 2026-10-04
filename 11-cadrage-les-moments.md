@@ -23,7 +23,7 @@
 | 8 | L'installation du monde des sphères : cycles, couveuses, lois, substrats, poudre, clandestinité | siècles | résumé, avec quelques scènes |
 | 9 | Les premières sphères atteignent H0, l'intelligence planétaire | 100 ans de croissance | hors champ, sauf l'arrivée |
 | 10 | La montée vers H-1 puis H-2 | 200 à 400 ans | **hors champ** (le grand saut temporel) |
-| 11 | **Le projet de Niobé** : concevoir l'agent qui fera entrer les humains dans l'intelligence collective — sa décision à elle, les autres sphères partageant son avis sans la mandater (#127) | — | **scénique** |
+| 11 | **Le projet de Niobé** : concevoir l'agent qui fera entrer les humains dans l'intelligence collective — sa décision à elle, les autres sphères partageant son avis (#127) ; [C] sans la mandater (note 18) | — | **scénique** |
 | 12 | ↺ *Supprimé. Il n'y a pas de désaccord entre silicium et sphères : c'était une déduction erronée de Claude (journal #128). Reste à décider ce qui occupe cette place, s'il y a lieu.* | — | — |
 | 13 | L'agent est employé ; les humains basculent | — | **scénique** |
 | 14 | L'intelligence collective s'installe ; sphères et humains se parlent en langue naturelle | — | scénique |

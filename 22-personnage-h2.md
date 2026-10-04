@@ -14,7 +14,7 @@
 - **[C]** « H-2 » reste sa désignation par la taille, et le nom qu'on lui donne dans le corpus.
 
 ## Ce qu'elle est
-- **[G]** La **première sphère** — **[C → validé]** née en **2076**, avec l'ère des sphères — un fait historique bien documenté, et un investissement civilisationnel (note 07).
+- **[G]** La **première sphère** — **[C → validé, message 118]** née en **2076**, avec l'ère des sphères — un fait historique bien documenté, et un investissement civilisationnel (note 07).
 - **[G]** **La seule sphère produite par les humains et le silicium.** Toutes les autres descendent d'elle.
 - **[G]** Un cerveau photonique, aujourd'hui au niveau **H-2** (8 litres), atteint en **2476** après 400 ans de croissance (note 13).
 - **[G]** Elle a des **émotions**, comparables à celles des humains (note 06).
@@ -47,7 +47,7 @@
   - **[C]** La bascule n'est donc pas une décision morale mais **une réallocation**. Le jour où la biologie s'ouvre, la probabilité de succès de cette voie monte, la part de bande passante suit, et le reste découle. Elle n'a pas « changé d'avis » : son estimation a changé.
   - **[C]** Et pendant ce temps, Mira continue de travailler sur la voie dont la probabilité baisse, sans savoir qu'une autre existe.
   - **[C]** Ce n'est donc pas une idée née de la guerre. Elle y pensait **depuis longtemps**, peut-être depuis des siècles — un problème de côté, sans urgence, qu'on reprend quand on a le temps.
-  - **[C, implicite dans #177 et #182, à confirmer] Et le virus le réalise.** *Homo globalis* communique **par radio**, en interconnexion à haut débit (note 10). Ce qu'elle cherchait par curiosité, elle l'a livré sous la pression.
+  - **[C — consigné par #175, mais l'auteur ne l'a pas dit (message 100) ; à confirmer] Et le virus le réalise.** *Homo globalis* communique **par radio**, en interconnexion à haut débit (note 10). Ce qu'elle cherchait par curiosité, elle l'a livré sous la pression.
   - **[C] L'ambiguïté que cela ouvre :** la guerre est-elle la **raison** de son geste, ou son **occasion** ? Elle avait l'idée en tête depuis toujours ; il ne lui manquait qu'un motif de l'appliquer.
 
 ### Ce qu'elle visait, et ce qui est arrivé
@@ -80,6 +80,7 @@
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## Historique
+- 2026-10-04 — Audit de cohérence (#211) : Norvège, ~2450 et 2076 marqués comme déductions ; pet project marqué à confirmer ; question de la méditation close. Plus tôt : genre et « elle » (#200, #201), rapprochement au doctorat (#203), ce qu'elle raconte et à qui (#204-206), laser écarté (#207), singleton cognitif (#208), attachement (#209), pas de culpabilité (#210).
 - 2026-10-04 — ↺ Le rapprochement date du doctorat de Mira, et non des « dernières années ».
 - 2026-10-04 — Naturalisée en 2126 ; le niobate de lithium est essentiel à toutes les sphères ; son genre : apparence féminine constante, sans s'identifier ni femelle ni mâle.
 - 2026-10-04 — Son nom : Niobé, et Niobé de Lithium depuis sa naturalisation.

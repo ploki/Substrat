@@ -26,7 +26,7 @@
   - ↺ *Supprimé : « les silicium argumenteront plus tard contre le projet de H-2 ». Déduction erronée de Claude, voir journal #128.*
 
 ### Ce qui suit
-- **[G]** Le conflit s'achève **après 2476**, quand la sphère est déjà H-2 (décision #111). **[G] C'est l'inoculation qui marque son arrêt instantané** : les deux ans de travail de la sphère sont donc **contenus dans le conflit**.
+- **[G]** Le conflit éclate **vers 2470**, à la fin de l'utopie (#169), et s'achève en **2480**, quand la sphère est déjà H-2 (#137). *(La borne « après 2476 » de #111 venait de la piste abandonnée de la note 14.)* **[G] C'est l'inoculation qui marque son arrêt instantané** : les deux ans de travail de la sphère sont donc **contenus dans le conflit**.
 - **[G]** ↺ Le conflit **n'arrive pas à s'arrêter de lui-même** : les humains vont vers leur destruction. C'est **la sphère qui décide**, seule, de créer le virus, sans leur dire — les autres sphères partageant son avis (note 18). *Les humains ne demandent rien : la piste de la note 14 est abandonnée.*
 
 ## Questions ouvertes
@@ -40,3 +40,4 @@
 - 2026-10-03 — Posé par l'auteur.
 - 2026-10-03 — Deux fronts et non une mêlée.
 - 2026-10-03 — ↺ Les sphères ne sont pas écartées : elles sont neutres par nature. Le phénomène est solaire. L'inoculation arrête le conflit instantanément.
+- 2026-10-04 — Audit de cohérence (#211) : conflit daté de ~2470 à 2480 ; deux questions closes (début et durée, nature de la neutralité).
