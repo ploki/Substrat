@@ -118,3 +118,4 @@
 116. 2026-10-04 — Il faut un nom pour H-2 : demande de quoi sa sphère est faite.
 117. 2026-10-04 — Demande en quelle année elle est née.
 118. 2026-10-04 — H-2 est couramment appelée Niobé ; naturalisée dans le pays de son université, elle a choisi pour nom « de Lithium » : Niobé de Lithium, parce que c'est un composant essentiel à sa création.
+119. 2026-10-04 — Naturalisée en 2126, quand elle devient professeure. Le niobate de lithium est essentiel à toutes les sphères. Niobé a choisi une apparence féminine, de façon constante, mais ne s'identifie ni comme femelle ni comme mâle.

@@ -4,9 +4,13 @@
 
 ## Son nom
 - **[G]** On l'appelle couramment **Niobé**.
-- **[G]** Quand elle s'est **fait naturaliser dans le pays de son université**, elle a choisi pour nom **de Lithium** : elle est donc **Niobé de Lithium**.
+- **[G]** Quand elle s'est **fait naturaliser dans le pays de son université**, elle a choisi pour nom **de Lithium** : elle est donc **Niobé de Lithium**. **[G] C'était en 2126**, l'année où elle devient professeure à l'UNIS.
   - **[C]** Le pays de l'UNIS est la Norvège, souveraine sur le Svalbard (note 21).
-- **[G]** **Pourquoi :** le **niobate de lithium** est **un composant essentiel à sa création**. Son nom est sa matière.
+- **[G]** **Pourquoi :** le **niobate de lithium** est **un composant essentiel à sa création** — et à celle de **toutes** les sphères (note 06). Son nom est sa matière.
+
+## Son genre
+- **[G]** Niobé a fait le choix d'une **apparence féminine, de façon constante**, mais **ne s'identifie ni comme femelle ni comme mâle**.
+- **[C]** Le corpus continue de dire « elle », ce qui suit son apparence sans rien dire de son identité.
 - **[C]** « H-2 » reste sa désignation par la taille, et le nom qu'on lui donne dans le corpus.
 
 ## Ce qu'elle est
@@ -18,7 +22,7 @@
 - **[G]** Toutes ses demi-sphères ont été utilisées : elle a une **descendance**, qu'elle connaît jusqu'à un certain point (note 07).
 
 ## Sa carrière
-- **[G]** **2126** — professeure à l'**UNIS**, au moment même où elle achève son H1.
+- **[G]** **2126** — professeure à l'**UNIS**, au moment même où elle achève son H1. **La même année, elle se fait naturaliser norvégienne** et prend le nom de Niobé de Lithium.
 - **[G]** **2176** — elle prend la **tête** de l'UNIS, l'année où elle devient la première intelligence planétaire.
 - **[G]** Elle forme **Mira Okonkwo-Lindqvist** à partir de ~2450, et travaille avec elle sur la **fusion nucléaire contrôlée** (note 20).
 
@@ -63,14 +67,12 @@
 - **[G]** Elle **ne grille pas**. Elle se met en **stase** en 2482, curieuse des 200 millions d'années d'évolution à venir (note 19).
 
 ## Questions ouvertes
-- **En quelle année** s'est-elle fait naturaliser ?
-- Le niobate de lithium est-il essentiel à **toutes** les sphères, ou à sa seule fabrication, celle de 2076 ?
 - Depuis quand le pet project ? En a-t-elle parlé à quelqu'un ? *(Pas à Mira, qui n'est pas au courant [G].)*
-- **[À trancher]** **Le genre de H-2.** Tout le corpus dit « elle », par accord avec « la sphère ». L'auteur a écrit « il » une fois (2026-10-03). Faut-il fixer un genre, ou n'en a-t-elle pas ?
 - Qu'est-ce que le **temps de méditation** d'une sphère ?
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## Historique
+- 2026-10-04 — Naturalisée en 2126 ; le niobate de lithium est essentiel à toutes les sphères ; son genre : apparence féminine constante, sans s'identifier ni femelle ni mâle.
 - 2026-10-04 — Son nom : Niobé, et Niobé de Lithium depuis sa naturalisation.
 - 2026-10-04 — Validé : le silence tenu à son amie, l'amitié parmi des centaines, les trente ans à la vitesse de la parole. Posé : Mira ignore le pet project ; elles se sont rapprochées ces dernières années.
 - 2026-10-03 — Note créée ; ajout du pet project.

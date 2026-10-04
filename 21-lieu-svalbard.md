@@ -4,7 +4,7 @@
 - **[G]** Le lieu de travail de Mira est le **Svalbard** (note 20).
 - **[G]** Les **aurores**, liées à l'activité solaire, y rendent **le paysage incroyable**.
   - **[C]** La même cause fait les deux : le Soleil qui assèche les basses latitudes illumine le ciel au-dessus d'elle. Elle travaille à réparer les effets d'un phénomène dont elle voit chaque nuit la plus belle manifestation.
-- **[G]** **2126 : H-2 devient professeure à l'université.** Elle vient d'achever son H1, et on lui confie un enseignement au moment même où elle finit d'apprendre.
+- **[G]** **2126 : H-2 devient professeure à l'université**, et se fait naturaliser dans ce pays sous le nom de **Niobé de Lithium** (note 22). Elle vient d'achever son H1, et on lui confie un enseignement au moment même où elle finit d'apprendre.
 - **[G]** **2176 : elle en prend la tête**, l'année où elle devient la première intelligence planétaire. La direction s'exerce **en accord avec la Norvège**, dans le cadre d'un **accord entre humains et sphères**.
   - **[C]** Elle a donc gravi l'institution comme un universitaire ordinaire — cinquante ans d'enseignement avant de la diriger — sauf que ces cinquante ans sont le temps qu'il lui faut pour doubler de volume.
   - **[C]** Et elle dirige en **tutelle**, non en pair : c'est à partir de 2176 que sa crainte d'être prise pour un dieu (note 18) devient quotidienne. Elle la gère depuis trois siècles quand elle se tait, en 2480.

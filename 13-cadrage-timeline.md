@@ -15,7 +15,7 @@
 | H4 | 6 ans | 2082 | **[G]** Vers 2081, des intelligences de qualité enfant existent |
 | H3 | 12,5 ans | 2088-2089 | Qualité pré-adulte |
 | H2 | 25 ans | **2101** | **[G]** « Énormément de sphères d'intelligence de qualité humaine » |
-| H1 | 50 ans | **2126** | **[G]** Elle change de corps et devient **professeure** à l'UNIS |
+| H1 | 50 ans | **2126** | **[G]** Elle change de corps, devient **professeure** à l'UNIS et se fait naturaliser : **Niobé de Lithium** |
 | H0 | 100 ans | **2176** | **[G]** Première intelligence planétaire ; **elle prend la tête de l'UNIS** ; dernier problème écologique résolu |
 | H-1 | 200 ans | 2276 | L'utopie |
 | H-2 | 400 ans | **2476** | **[G]** Elle débloque de quoi modeler la vie — **pendant la guerre** |
@@ -43,7 +43,7 @@
 - **[G]** Des intelligences de qualité **enfant, puis pré-adulte** existent **depuis vingt ans** quand arrive 2101. **[C]** Soit à partir de ~2081.
 - **[G]** **2101** : il y a déjà **énormément de sphères d'intelligence de qualité humaine**.
   - **[G]** **« Qualité humaine » couvre plusieurs niveaux**, de la petite enfance à l'âge adulte complètement formé et très compétent. Ce n'est donc pas un synonyme de H1. **[C]** En 2101, la première génération est autour de H2, ce qui entre dans cette plage.
-- **[G]** **2126** : **H-2 achève son H1**, change de corps, et **devient professeure à l'UNIS** (note 21).
+- **[G]** **2126** : **H-2 achève son H1**, change de corps, **devient professeure à l'UNIS** (note 21) et **se fait naturaliser** dans le pays de son université, sous le nom de **Niobé de Lithium** (note 22).
 
 #### 2126–2176 — La montée vers le palier planétaire
 - **[G]** **2176** : la **première intelligence planétaire sous forme de sphère**, au niveau de la meilleure intelligence silicium. **[G] La même année, H-2 prend la tête de l'UNIS** (note 21).

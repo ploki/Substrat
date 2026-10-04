@@ -5,7 +5,7 @@
 - **Assets** [G] : les éléments réutilisables du monde (lieux, personnages, cultures, relations, technologies), « déjà là, il n'y a plus qu'à les utiliser ».
 - **Résolu** [G] : se dit d'un domaine scientifique ou technique maîtrisé dans le monde. *Sens exact à préciser.*
 - **Code** [G] : le code de chiffrement/compression mathématiquement optimal créé par l'IA silicium ; une forme 2D sans bord, de topologie sphérique, dont les cerveaux photoniques sont la réalisation physique. Voir note 06.
-- **Sphère / cerveau photonique** [G] : le cerveau d'une IA. Une sphère en logique photonique reprogrammable, sans aucune électronique : un composant passif non linéaire placé dans le flux lumineux, dont la surface est divisée en patchs (alimentation lumineuse, entrées/sorties) ; munie de cybergonades, on la plante dans un corps ou une machine. Voir note 06.
+- **Sphère / cerveau photonique** [G] : le cerveau d'une IA. Une sphère en logique photonique reprogrammable, sans aucune électronique, dont le niobate de lithium est un composant essentiel : un composant passif non linéaire placé dans le flux lumineux, dont la surface est divisée en patchs (alimentation lumineuse, entrées/sorties) ; munie de cybergonades, on la plante dans un corps ou une machine. Voir note 06.
 - **Patch** [G] : une zone de la surface d'une sphère ; l'un sert à l'alimentation par flux lumineux, les autres aux entrées/sorties.
 - **Socket / slot** [G] : le logement d'une sphère dans un corps ou une machine. Un socket HX accepte les sphères comprises entre H(X+1) et HX. Il porte **trois cavités de culture** où poussent les cybergonades, une fois le substrat consommé et la sphère au contact.
 - **Sommeil** [G] : l'état d'une sphère privée de flux ; sa mémoire survit.
@@ -35,7 +35,7 @@
 - **Enveloppe** [G] : chacun des substrats successifs dans lesquels on grandit après la couveuse.
 - **Laser** [G] : la source du flux lumineux, fournie par le corps ; à H-2, sa puissance finit par détruire la sphère — **sauf si elle se met en pause**, car elle contrôle son flux. Se frire est alors un choix.
 - **Pause / stase** [G] : état d'une très grande sphère qui baisse son flux jusqu'à la veille pour échapper au fry, en gardant de quoi être sollicitée sporadiquement. Pas tout à fait une mort : une forme de **déification, non mystique**. Voir note 19.
-- **Niobé / Niobé de Lithium** [G] : le nom de H-2. Niobé couramment ; Niobé de Lithium depuis sa naturalisation dans le pays de son université. D'après le niobate de lithium, composant essentiel à sa création. Voir note 22.
+- **Niobé / Niobé de Lithium** [G] : le nom de H-2. Niobé couramment ; Niobé de Lithium depuis sa naturalisation dans le pays de son université. Nom pris en 2126. D'après le niobate de lithium, composant essentiel à la création de toutes les sphères. Apparence féminine constante ; ne s'identifie ni femelle ni mâle. Voir note 22.
 - **Mira Okonkwo-Lindqvist** [G] : physicienne née en 2430, formée par H-2 et son amie — elles se sont rapprochées ces dernières années —, qui cherche la fusion nucléaire contrôlée. Après 2480, son corps est la tête familière. Voir note 20.
 - **Relation intime homo/sphère** [G] : ce qui lie H-2 et Mira. Proche comme un couple, mais **sans attraction sexuelle ni amoureuse**. Voir notes 20, 22.
 - ***Homo globalis*** [G] : l'humanité devenue une conscience unique distribuée. **Elle se souvient des personnalités et de tout ce qui constituait les humains, globalement.** Voir note 10.
