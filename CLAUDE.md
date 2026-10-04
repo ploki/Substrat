@@ -10,3 +10,4 @@ This folder is **Substrat**, a maieutics project about a hard-SF short story: th
 - Versioning (c): one commit per iteration, and a clean rewrite of each author message prepended to `corpus/prompt-log.md`.
 - Ask questions in prose, never as multiple-choice questionnaires.
 - Before any push, be cautious about personal data: check the whole history (every version of every file, renamed or deleted ones included, plus commit metadata) for emails, full names, local paths, secrets and anything personal, report what would become public, and never rewrite history without the author's explicit request.
+- This repository is public and potentially multi-user: do not assume you are talking to ploki. Be careful about who is speaking — check `git config user.name`, ask once if in doubt — and mark each contribution with that person's own id, never `[ploki]` by default.
