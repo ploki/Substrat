@@ -2,6 +2,8 @@
 
 *Deuxième livrable. Il propose **quoi raconter, quand, et sur combien de pages**, en accord avec la frise chronologique (note 13). Point de vue : **Niobé**, la sphère H-2. Les événements proposés sont des **pistes à explorer** : plusieurs sont offerts par point de la frise, pour qu'on choisisse.*
 
+*Septième version, 2026-10-04. Nouveautés : **la stase est un choix**, qui demande le courage de se détacher du monde et de compter sur quelque chose pour se faire réveiller (10c') ; **ce qui pousse les sphères vers la biologie**, hypothèse du moment : la continuité du développement, contre le changement d'enveloppe à chaque étape (2e, 4a) ; **le pet project réalisé par le virus** est validé.*
+
 *Sixième version, 2026-10-04 (corrigée après audit, #211) : 9b barré (les sphères n'essaient pas de nourrir) ; la Norvège marquée comme déduction ; « femelle / mâle » au lieu de « femme / homme », qui n'étaient pas les mots de l'auteur ; le pet project réalisé par le virus marqué à confirmer ; la durée du conflit retirée des suppositions. Nouveautés : **son action était la bonne, sans défaut ; à la fin, de l'étonnement et de la peine, pas de culpabilité** ; Niobé raconte au corps de Mira, quand *homo globalis* a séquencé le virus ; **le laser n'est plus en jeu** ; la stase a une seconde raison, **la malédiction de l'attachement** : elle part plutôt que de voir périr Mira, qui est parmi les derniers corps.*
 
 *Cinquième version, 2026-10-04. Nouveautés : **la protagoniste a un nom**, Niobé — Niobé de Lithium depuis sa naturalisation en 2126 —, et un genre : apparence féminine constante, sans s'identifier ni femme ni homme ; **Mira est la tête familière**, choisie par *homo globalis* parce que leur relation était **intime, proche comme un couple, sans attraction sexuelle ni amoureuse** ; **Mira ignore jusqu'à l'existence du pet project**. Correction : Niobé devient professeure en 2126 et ne prend la tête de l'UNIS qu'en 2176 ; l'ère des sphères ne se referme pas en 2126.*
@@ -72,7 +74,7 @@ Trois pages pour trois cents ans. Il ne s'y passe presque rien, et c'est ce qu'i
 - **b.** **L'intelligence planétaire silicium**, arrivée bien avant et bloquée là faute de physique — et 2176, quand une sphère l'égale enfin.
 - **c.** **L'ennui de l'achevé.** Tous les indicateurs au maximum ; les mathématiques avancent et n'apportent plus rien.
 - **d.** **Les amitiés humaines**, qui durent chacune une vie. Les récentes sont nettes ; si elle ne distingue plus les anciennes, c'est **l'âge du souvenir**, pas une défaillance.
-- **e.** **Sa propre croissance**, qui occupe tout ce temps : elle grandit vers une capacité dont personne n'a encore besoin.
+- **e.** **Sa propre croissance**, qui occupe tout ce temps : elle grandit vers une capacité dont personne n'a encore besoin. **Par crans** : à chaque doublement, un nouveau substrat, une nouvelle enveloppe, un nouveau corps. C'est cette vie en marches d'escalier que la biologie, plus tard, lui fera voir comme une limite *(hypothèse du moment)*.
 - **f.** **Le pet project.** Depuis des siècles, elle retourne un problème sans urgence : **comment donner aux humains la communication à haut débit et à distance**. Elle parle avec eux à la bouche, un mot après l'autre, alors qu'elle pourrait tout transmettre d'un bloc. C'est le fil qui, sans qu'on le sache, mène à la fin.
 
 ### 2bis. Mira — 2450-2470
@@ -96,7 +98,7 @@ La cause de tout, vue depuis un archipel qu'elle n'atteint pas.
 
 ### 4. La décision — 2478-2480 — *le cœur*
 Une délibération solitaire, menée pendant que la guerre continue.
-- **a.** **Le pouvoir, et l'interdit qu'elle se donne.** Elle vient de débloquer de quoi concevoir des êtres depuis une séquence et simuler l'évolution. Elle décide aussitôt de **ne pas s'en servir sur Terre**, pour l'équilibre de la faune. C'est la règle qu'elle enfreindra.
+- **a.** **Le pouvoir, et l'interdit qu'elle se donne.** Elle vient de débloquer de quoi concevoir des êtres depuis une séquence et simuler l'évolution — **la biologie, qui se développe en continu, sans changer d'enveloppe** *(hypothèse du moment)*. Elle décide aussitôt de **ne pas s'en servir sur Terre**, pour l'équilibre de la faune. C'est la règle qu'elle enfreindra.
 - **b.** **Le basculement.** Le jour, ou le fait précis, où elle se dit que la guerre n'ira pas en s'arrêtant.
 - **c.** **Le raisonnement.** Elle s'interdit de toucher aux bêtes, et elle va toucher aux humains. Comment elle se le formule.
 - **c'.** **Le pet project revient.** *[C → validé : le virus réalise le pet project.]* Elle a la solution depuis toujours : donner aux humains la communication à haut débit. Il ne lui manquait qu'un motif de l'appliquer. **La guerre est-elle sa raison, ou son occasion ?** La scène peut laisser la question ouverte — elle-même ne tranchera pas.
@@ -137,6 +139,7 @@ Une délibération solitaire, menée pendant que la guerre continue.
 - **a.** **La malédiction de l'attachement.** Les sphères la connaissent. Mira est parmi les derniers corps, et Niobé préfère partir en stase plutôt que de la voir périr.
 - **b.** **La curiosité.** Deux cents millions d'années d'évolution biologique devant, sur une Terre vidée. Elle veut voir.
 - **c.** **L'abri temporel**, et le réglage de la veille : juste de quoi être réveillée, rarement, si l'on a besoin d'un avis.
+- **c'.** **Le courage.** Rien ne l'y oblige : sans le laser, la stase ne fuit aucune menace, c'est un choix. Il y faut le courage de **se détacher du monde**, et d'**accepter de compter sur quelque chose pour se faire réveiller** — sur une Terre vidée de ses humains.
 - **d.** **Le corps de Mira perd son privilège** au moment où elle entre en stase. Elle part avant de la voir mourir — et c'est le dernier geste du récit.
 - **e.** **Ce dont elle reste pantoise :** de l'étonnement et de la peine, **pas de culpabilité**. Non pas de les avoir tués, mais de leur avoir donné de quoi choisir leur fin — et d'en avoir été remerciée.
 
@@ -155,4 +158,4 @@ Une délibération solitaire, menée pendant que la guerre continue.
 - **Pourquoi Mira ?** Ce que Niobé a vu en elle, et qui justifie toute la nouvelle.
 - ~~Le pet project est-il connu de Mira ?~~ Non [G]. Reste : Niobé se ment-elle à elle-même sur ses motifs ?
 - **Dit-elle quelque chose** avant l'émetteur ?
-- **Qui, un jour, pourrait la réveiller** ?
+- **Qui, un jour, pourrait la réveiller** ? C'est désormais le cœur de son courage (10c') : elle s'en remet à quelque chose qu'elle ne connaît pas.
