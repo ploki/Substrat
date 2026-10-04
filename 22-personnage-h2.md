@@ -21,7 +21,7 @@
 - **[G]** **Mira et H-2 sont amies.**
   - **[C → validé]** Cela change la nature de tout le reste. H-2 ne tait pas son autre voie à une collaboratrice : elle la tait **à son amie**. Et quand elle arbitre entre deux projets selon leurs probabilités de succès, elle déclasse celui de son amie sans le lui dire.
   - **[C → validé]** Une amitié entre une sphère immortelle et une humaine de cinquante ans : Mira est une amitié parmi des centaines qu'elle a eues en quatre siècles — et pourtant c'est celle-là que *homo globalis* choisira de lui renvoyer, en sachant pourquoi (note 19).
-- **[G]** **Ces dernières années, elles se sont rapprochées.**
+- **[G]** **Ces dernières années, elles se sont rapprochées** : **« une relation intime homo/sphère »**. C'est pourquoi *homo globalis* choisit le corps de Mira comme tête familière ; le choix va de soi (note 19). *[Sens exact d'« intime » à préciser.]*
 - **[G]** **H-2 et Mira travaillent ensemble, mais seulement à la fusion.**
 - **[G]** **H-2 considère que l'apport humain a toujours de la valeur sur les projets de recherche.** C'est un **travail continu**.
   - **[C]** Ce n'est donc pas de la charité ni de la pédagogie : c'est une conviction méthodologique. Une intelligence planétaire qui tient pour acquis qu'un esprit humain apporte quelque chose qu'elle n'a pas.

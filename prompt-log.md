@@ -112,3 +112,4 @@
 110. 2026-10-04 — Demande de relire l'intégralité du corpus.
 111. 2026-10-04 — Refuse les corrections proposées : veut savoir ce que Claude sait des relations entre H-2 et Mira.
 112. 2026-10-04 — Mira est la tête familière, c'est validé ; valide tout ce que Claude vient d'énumérer comme venant de lui. Mira est choisie parce que ces dernières années elles se sont rapprochées. Mira n'est pas au courant du pet project.
+113. 2026-10-04 — C'est homo globalis qui choisit : la réponse va de soi, car c'était une relation intime homo/sphère.

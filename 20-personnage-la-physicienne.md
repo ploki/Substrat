@@ -13,6 +13,7 @@
 - **[G]** **Mira ne sait pas** ce que H-2 prépare. **H-2 ne lui dit rien.**
 - **[G]** **Mira n'est pas au courant du pet project** de H-2 (note 22) : elle en ignore jusqu'à l'existence.
 - **[G]** **Ces dernières années, elles se sont rapprochées.**
+  - **[G]** C'est pour cela que ***homo globalis* choisit le corps de Mira** comme tête familière (note 19) — et ce choix va de soi : c'était **« une relation intime homo/sphère »**. *[Sens exact d'« intime » à préciser.]*
   - **[C → validé]** Elle n'est donc ni complice ni témoin : elle est **tenue à l'écart par celle qui l'a formée**, et elle l'apprendra comme tout le monde — ou plutôt, elle ne l'apprendra pas, puisqu'elle cessera d'être quelqu'un au moment même de l'inoculation. C'est *homo globalis* qui découvrira, pas elle.
 
 ## Sa vie dans la frise
