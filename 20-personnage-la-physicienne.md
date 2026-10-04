@@ -11,7 +11,9 @@
 - **[G]** **Mais ça n'aboutit pas** : tout laisse à croire que **c'est un problème plus grand que H-2.**
 - **[G]** **Mira et H-2 sont amies.**
 - **[G]** **Mira ne sait pas** ce que H-2 prépare. **H-2 ne lui dit rien.**
-  - **[C]** Elle n'est donc ni complice ni témoin : elle est **tenue à l'écart par celle qui l'a formée**, et elle l'apprendra comme tout le monde — ou plutôt, elle ne l'apprendra pas, puisqu'elle cessera d'être quelqu'un au moment même de l'inoculation. C'est *homo globalis* qui découvrira, pas elle.
+- **[G]** **Mira n'est pas au courant du pet project** de H-2 (note 22) : elle en ignore jusqu'à l'existence.
+- **[G]** **Ces dernières années, elles se sont rapprochées.**
+  - **[C → validé]** Elle n'est donc ni complice ni témoin : elle est **tenue à l'écart par celle qui l'a formée**, et elle l'apprendra comme tout le monde — ou plutôt, elle ne l'apprendra pas, puisqu'elle cessera d'être quelqu'un au moment même de l'inoculation. C'est *homo globalis* qui découvrira, pas elle.
 
 ## Sa vie dans la frise
 
@@ -25,20 +27,21 @@
 | 51–52 | 2481–2482 | L'extinction |
 
 ## Ce que ce personnage apporte [C]
-- **Il y a quelque chose que H-2 ne peut pas faire.** La plus vieille sphère, capable de concevoir des êtres depuis une séquence et de simuler l'évolution, **échoue sur un problème de physique**. Son pouvoir a un plafond, et il n'est pas là où on l'attendait.
+- **[C → validé]** **Il y a quelque chose que H-2 ne peut pas faire.** La plus vieille sphère, capable de concevoir des êtres depuis une séquence et de simuler l'évolution, **échoue sur un problème de physique**. Son pouvoir a un plafond, et il n'est pas là où on l'attendait.
 - **[G] L'ironie centrale de l'histoire.** La fusion aurait donné l'eau, et l'eau aurait évité la guerre. H-2 ne peut pas résoudre la physique — alors elle résout **les gens**. Faute de pouvoir changer le monde, elle change l'espèce. *C'est le cœur du récit.*
 - **Une vie entière sur la bonne solution, qui ne vient pas.** Trente ans de travail sur ce qui aurait tout sauvé, puis le problème réglé autrement, d'un coup, sans elle et sans son avis.
 - **Elle est la seule qui pourrait comprendre.** Formée par H-2, elle connaît ses façons de penser mieux que personne.
-- **[C, piste]** **Elle est la tête familière** (note 19) : après 2480, *homo globalis* envoie toujours ce corps-là rendre visite à H-2, parce que le visage lui est familier. H-2 continue de voir son élève, entretenue et en bonne santé — et son élève n'est plus là. C'est le dernier corps à mourir, et il perd son privilège quand H-2 entre en stase.
+- **[C → validé]** **Elle est la tête familière** (note 19) : après 2480, *homo globalis* envoie toujours ce corps-là rendre visite à H-2, parce que le visage lui est familier. H-2 continue de voir son élève, entretenue et en bonne santé — et son élève n'est plus là. C'est le dernier corps à mourir, et il perd son privilège quand H-2 entre en stase.
 
 ## Conséquence sur le monde
 - **[G]** **La fusion nucléaire contrôlée n'est pas acquise** dans ce monde, malgré les sphères et les intelligences planétaires. Voir note 01.
 
 ## Questions ouvertes
-- Mira sait-elle que H-2 réfléchit à la communication à haut débit (note 22) ?
+- *(Clos : Mira n'est pas au courant du pet project [G].)*
 - En quoi consiste exactement le problème « plus grand que H-2 » ? Et H-2 sait-elle qu'il la dépasse, ou l'apprend-elle en échouant ?
 - De quel côté du conflit se trouve le Svalbard, ou est-il hors des deux ? *(Voir note 21.)*
 - Comment une sphère neutre peut-elle former une humaine, et depuis quand H-2 enseigne-t-elle ?
 
 ## Historique
+- 2026-10-04 — Validé : Mira est la tête familière ; elle ne saura jamais ; l'échec sur le plasma. Posé : Mira ignore le pet project ; elles se sont rapprochées ces dernières années.
 - 2026-10-03 — Personnage posé par l'auteur.

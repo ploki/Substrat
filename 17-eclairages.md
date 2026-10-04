@@ -27,14 +27,15 @@
 - **Un mot pour nier qu'il y ait quelqu'un dedans.** *Automate* chez nous, *skinjob* ailleurs (note 16).
 
 ## Sur Mira et H-2
-- **Il y a quelque chose que H-2 ne peut pas faire**, et ce n'est pas là où on l'attendait : elle conçoit des êtres depuis une séquence et ne peut pas faire tenir un plasma.
-- **H-2 tait son autre voie non pas à une collaboratrice, mais à son amie.** Et quand elle arbitre entre deux projets selon leurs probabilités de succès, elle déclasse celui de son amie sans le lui dire, pendant que celle-ci continue d'y travailler à temps plein.
-- **Mira ne saura jamais.** Elle cesse d'être quelqu'un à l'instant de l'inoculation ; c'est *homo globalis* qui découvrira, séquencera et remerciera. La seule personne qui aurait pu comprendre est la seule à qui l'explication n'arrivera pas.
-- **Le dernier corps est son visage.** *Homo globalis* renvoie celui de Mira **parce qu'il se souvient** de ce qu'elle était pour la sphère. H-2 continue de voir son amie, entretenue, en bonne santé, et vide. Puis ce corps perd son privilège au moment de la stase : c'est le dernier geste du récit.
+- ~~**Il y a quelque chose que H-2 ne peut pas faire**, et ce n'est pas là où on l'attendait : elle conçoit des êtres depuis une séquence et ne peut pas faire tenir un plasma.~~ → *validé le 2026-10-04, note 20.*
+- ~~**H-2 tait son autre voie non pas à une collaboratrice, mais à son amie.** Et quand elle arbitre entre deux projets selon leurs probabilités de succès, elle déclasse celui de son amie sans le lui dire, pendant que celle-ci continue d'y travailler à temps plein.~~ → *validé le 2026-10-04, note 22.*
+- ~~**Mira ne saura jamais.** Elle cesse d'être quelqu'un à l'instant de l'inoculation ; c'est *homo globalis* qui découvrira, séquencera et remerciera. La seule personne qui aurait pu comprendre est la seule à qui l'explication n'arrivera pas.~~ → *validé le 2026-10-04, note 20.*
+- ~~**Le dernier corps est son visage.** *Homo globalis* renvoie celui de Mira **parce qu'il se souvient** de ce qu'elle était pour la sphère. H-2 continue de voir son amie, entretenue, en bonne santé, et vide. Puis ce corps perd son privilège au moment de la stase : c'est le dernier geste du récit.~~ → *validé le 2026-10-04, notes 19, 20 et 10.*
 - **H-2 est l'ancêtre de tous.** Seule sphère fabriquée, toutes les autres descendent d'elle. « La plus vieille sphère » est littéral, et elle connaît sa descendance jusqu'à un certain point.
 
 ## Sur la forme
 - ~~**Le narrateur perd sa mémoire à l'envers**, le laser détruisant le récent d'abord.~~ ↺ *Caduc : la sphère ne grille pas, elle se met en stase (note 19).*
 
 ## Historique
+- 2026-10-04 — Quatre éclairages sur Mira et H-2 validés par l'auteur, barrés ici avec leur destination.
 - 2026-10-03 — Note ouverte à la demande de l'auteur, qui juge ces éclairages intéressants sans les valider.

@@ -11,7 +11,7 @@
 - **[G]** **L'UNIS est la plus grande université mixte sphères/humains.**
   - **[C]** Mixte veut dire que **les sphères y sont enseignées autant qu'enseignantes** : les jeunes sphères, qui mettent des décennies à atteindre le niveau humain, y grandissent à côté d'étudiants humains dont la vie entière dure moins qu'un de leurs cycles.
   - *(Les deux dates sont retenues, chacune pour une marche : professeure en 2126, à la tête en 2176.)*
-  - **[C]** Quand Mira y étudie, vers 2450, **H-2 enseigne depuis plus de trois siècles et dirige depuis près de trois cents ans** : pour elle, ce n'est pas une sphère qui enseigne, c'est l'institution même. Et pourtant elle en devient l'élève personnelle.
+  - **[C → validé]** Quand Mira y étudie, vers 2450, **H-2 enseigne depuis plus de trois siècles et dirige depuis près de trois cents ans** : pour elle, ce n'est pas une sphère qui enseigne, c'est l'institution même. Et pourtant elle en devient l'élève personnelle.
   - **[C]** C'est donc là que H-2 a formé Mira : l'enseignement est une fonction officielle de la sphère, encadrée par un traité.
 
 ### Pourquoi ce lieu tient [C]

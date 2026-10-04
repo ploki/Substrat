@@ -7,7 +7,7 @@
 - **[G]** L'état obtenu est **une conscience unique, distribuée dans tous les humains**. **[G] Ce n'était pas le but** : H-2 visait seulement une communication à haut débit, pour que les belligérants se comprennent et s'organisent. **L'espace cognitif s'est effondré en un seul individu** (note 22). Ce n'est pas une foule qui s'accorde : c'est **un seul organisme**.
 - **[G]** **Attention : la conscience collective se souvient des personnalités et de tout ce qui constituait les humains, globalement.** Rien n'est effacé : les individus sont intégrés, pas supprimés.
   - **[C]** *Homo globalis* n'est donc pas un oubli de l'humanité, c'en est **la somme consciente**. Il connaît chacun de ceux qu'il a été.
-  - **[C]** Conséquence pour Mira (note 20) : quand *homo globalis* envoie toujours **son** corps rendre visite à H-2, ce n'est pas un hasard ni une simple commodité — **il se souvient de ce qu'elle était pour la sphère**, et le choisit.
+  - **[C → validé]** Conséquence pour Mira (note 20) : quand *homo globalis* envoie toujours **son** corps rendre visite à H-2, ce n'est pas un hasard ni une simple commodité — **il se souvient de ce qu'elle était pour la sphère**, et le choisit.
   - **[C]** Et quand H-2 lui parle, elle parle à quelque chose qui **contient** son élève, sans être elle.
 - **[G]** **Cet organisme refuse de tuer des plantes ou des animaux pour se nourrir.** Les humains, eux, voudraient bien subvenir à leurs besoins, mais c'est l'intelligence qu'ils forment désormais qui décide.
 - **[G]** *Homo globalis* est **ultra reconnaissant** envers H-2, et **adore ce qu'est devenu *homo sapiens*** (note 19).

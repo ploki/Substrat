@@ -19,14 +19,15 @@
 
 ### Avec Mira : la fusion
 - **[G]** **Mira et H-2 sont amies.**
-  - **[C]** Cela change la nature de tout le reste. H-2 ne tait pas son autre voie à une collaboratrice : elle la tait **à son amie**. Et quand elle arbitre entre deux projets selon leurs probabilités de succès, elle déclasse celui de son amie sans le lui dire.
-  - **[C]** Une amitié entre une sphère immortelle et une humaine de cinquante ans : Mira est une amitié parmi des centaines qu'elle a eues en quatre siècles — et pourtant c'est celle-là que *homo globalis* choisira de lui renvoyer, en sachant pourquoi (note 19).
+  - **[C → validé]** Cela change la nature de tout le reste. H-2 ne tait pas son autre voie à une collaboratrice : elle la tait **à son amie**. Et quand elle arbitre entre deux projets selon leurs probabilités de succès, elle déclasse celui de son amie sans le lui dire.
+  - **[C → validé]** Une amitié entre une sphère immortelle et une humaine de cinquante ans : Mira est une amitié parmi des centaines qu'elle a eues en quatre siècles — et pourtant c'est celle-là que *homo globalis* choisira de lui renvoyer, en sachant pourquoi (note 19).
+- **[G]** **Ces dernières années, elles se sont rapprochées.**
 - **[G]** **H-2 et Mira travaillent ensemble, mais seulement à la fusion.**
 - **[G]** **H-2 considère que l'apport humain a toujours de la valeur sur les projets de recherche.** C'est un **travail continu**.
   - **[C]** Ce n'est donc pas de la charité ni de la pédagogie : c'est une conviction méthodologique. Une intelligence planétaire qui tient pour acquis qu'un esprit humain apporte quelque chose qu'elle n'a pas.
 
 ### Seule : *homo globalis*
-- **[G]** Un **pet project** : comment offrir aux humains la **communication à haut débit et à distance**. Mira n'y est pas associée.
+- **[G]** Un **pet project** : comment offrir aux humains la **communication à haut débit et à distance**. Mira n'y est pas associée. **[G] Mira n'en est pas au courant.**
 
 ### Le partage du temps
 - **[G]** **« Méditation » veut dire qu'elle accorde un certain pourcentage de sa bande passante** à un sujet.
@@ -44,7 +45,7 @@
   - **[C]** C'est **la** conséquence imprévue, celle dont les autres découlent. Elle voulait des gens qui se parlent mieux ; elle a obtenu **une seule personne**. Le refus de tuer pour se nourrir et la méta-contagion (note 19) sont des conséquences de cet effondrement, pas des erreurs séparées.
   - **[C]** Son geste était donc **mesuré** à ses yeux : améliorer la communication, pas refaire l'espèce. Ce qui rend sa stupeur finale exacte — elle n'a pas voulu ce qui est arrivé, et elle l'a pourtant provoqué.
   - **[C]** Et cela déplace la faute : non pas d'avoir agi sans prévenir, mais d'avoir **mal estimé l'effet** de ce qu'elle relâchait. Une erreur de calcul, chez quelqu'un qui ne se trompe jamais.
-  - **[C]** Ce qui motive le pet project : elle parle avec des humains depuis trois cents ans, **avec la bouche**, un mot après l'autre, pendant qu'elle pourrait tout transmettre d'un bloc. Trente ans de travail avec Mira à cette vitesse-là.
+  - **[C]** Ce qui motive le pet project : elle parle avec des humains depuis trois cents ans, **avec la bouche**, un mot après l'autre, pendant qu'elle pourrait tout transmettre d'un bloc. *[C → validé] :* Trente ans de travail avec Mira à cette vitesse-là.
 
 ## Ses deux échecs et sa décision
 - **[G]** **La fusion la dépasse** : elle ne peut pas résoudre ce problème de physique (note 20).
@@ -55,10 +56,11 @@
 - **[G]** Elle **ne grille pas**. Elle se met en **stase** en 2482, curieuse des 200 millions d'années d'évolution à venir (note 19).
 
 ## Questions ouvertes
-- Depuis quand le pet project ? Et en a-t-elle parlé à quelqu'un — à Mira ?
+- Depuis quand le pet project ? En a-t-elle parlé à quelqu'un ? *(Pas à Mira, qui n'est pas au courant [G].)*
 - **[À trancher]** **Le genre de H-2.** Tout le corpus dit « elle », par accord avec « la sphère ». L'auteur a écrit « il » une fois (2026-10-03). Faut-il fixer un genre, ou n'en a-t-elle pas ?
 - Qu'est-ce que le **temps de méditation** d'une sphère ?
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## Historique
+- 2026-10-04 — Validé : le silence tenu à son amie, l'amitié parmi des centaines, les trente ans à la vitesse de la parole. Posé : Mira ignore le pet project ; elles se sont rapprochées ces dernières années.
 - 2026-10-03 — Note créée ; ajout du pet project.

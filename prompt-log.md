@@ -108,3 +108,7 @@
 106. 2026-10-04 — Demande si notre travail permet de tirer des enseignements pour améliorer le dépôt Maieutics, puis fait mandater un agent pour les instruire sur place.
 107. 2026-10-04 — Petit quiz : pourquoi active-t-on l'émetteur ? Puis confirme que la boucle avec *Pluribus* est voulue : c'est du fan art.
 108. 2026-10-04 — Tranche : notre Terre est une civilisation émettrice parmi d'autres.
+109. 2026-10-04 — S'étonne que Claude ne se souvienne pas : on a créé un personnage de physicienne.
+110. 2026-10-04 — Demande de relire l'intégralité du corpus.
+111. 2026-10-04 — Refuse les corrections proposées : veut savoir ce que Claude sait des relations entre H-2 et Mira.
+112. 2026-10-04 — Mira est la tête familière, c'est validé ; valide tout ce que Claude vient d'énumérer comme venant de lui. Mira est choisie parce que ces dernières années elles se sont rapprochées. Mira n'est pas au courant du pet project.

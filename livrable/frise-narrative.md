@@ -71,7 +71,7 @@ L'arrivée du second foyer.
 - **b.** **Pourquoi celle-là.** Ce que H-2 voit en Mira qu'elle n'a pas vu chez les autres. *(À trouver — c'est ce qui justifie toute la nouvelle.)*
 - **c.** **La fusion.** Doctorat, post-doctorat : elles choisissent le problème ensemble. Il est énorme, et il est le bon : l'eau, l'énergie, tout en découle.
 - **d.** **Les aurores.** Le ciel au-dessus du Svalbard, illuminé par le Soleil même qui, plus bas, assèche les terres.
-- **e.** **Trente ans à la vitesse de la parole.** Leur collaboration se fait en mots, lentement. Scène possible : H-2 évoque son pet project devant Mira, sans y attacher d'importance — et le lecteur, lui, s'en souviendra.
+- **e.** **Trente ans à la vitesse de la parole.** Leur collaboration se fait en mots, lentement. ~~Scène possible : H-2 évoque son pet project devant Mira, sans y attacher d'importance~~ *(caduc : Mira n'est pas au courant du pet project, 2026-10-04)* — et le lecteur, lui, s'en souviendra.
 
 ### 3. La guerre qui ne s'arrête pas — ~2470-2480
 La cause de tout, vue depuis un archipel qu'elle n'atteint pas.
@@ -143,6 +143,6 @@ Une délibération solitaire, menée pendant que la guerre continue.
 ## Questions que l'écriture tranchera
 - **À qui H-2 parle-t-elle**, puisqu'elle raconte avant la stase ?
 - **Pourquoi Mira ?** Ce que H-2 a vu en elle, et qui justifie toute la nouvelle.
-- **Le pet project est-il connu de Mira ?** Et H-2 se ment-elle à elle-même sur ses motifs ?
+- ~~Le pet project est-il connu de Mira ?~~ Non [G]. Reste : H-2 se ment-elle à elle-même sur ses motifs ?
 - **Dit-elle quelque chose** avant l'émetteur ?
 - **Qui, un jour, pourrait la réveiller** ?
