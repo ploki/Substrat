@@ -10,6 +10,7 @@
   - **[C]** Elle avait tu son geste pour ne pas être prise pour un dieu (note 18) ; ils le découvrent seuls, et la remercient. C'est exactement ce qu'elle craignait, et elle ne peut plus le nier.
 
 ## À qui parle Niobé
+- **[G]** **Elle parle sans crainte d'être jugée** : *homo globalis* est ravi de sa nouvelle existence. *[À préciser : « l'action de Niobé était la bonne, sans aucun doute ni défaut » — aux yeux d'*homo globalis*, ou dans l'absolu ?]*
 - **[G]** **De l'inoculation à la stase, Niobé ne parle, grosso modo, qu'à Mira** — c'est-à-dire au corps de Mira, la tête familière.
 
 ## L'extinction
