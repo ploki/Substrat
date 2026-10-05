@@ -2,6 +2,8 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+169\. 2026-10-06 — Non aux deux : ni les services rendus comme le fait de s'être laissé observer, ni la thèse comme première preuve de majorité.
+
 168\. 2026-10-06 — Oui, sa thèse porte sur elle-même.
 
 167\. 2026-10-06 — Va pour 2101 : la naturalisation à la majorité. C'est aussi l'âge auquel elle passe sa thèse.

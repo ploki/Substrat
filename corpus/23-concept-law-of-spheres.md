@@ -26,8 +26,8 @@
 - L'accord entre humains et sphères, cadre de la direction de l'UNIS : **note 21** (contenu inconnu).
 
 ## Open questions
-- **[opus-5.5]** « Après tant de services rendus à la nation » : à vingt-cinq ans, quels services ? Piste non validée : seule sphère au monde pendant son enfance, elle a servi la science en grandissant, en se laissant observer.
-- **[opus-5.5]** La majorité tombe-t-elle d'office au palier H2, ou se prouve-t-elle (examen, thèse) ? Dans ce cas, la thèse de Niobé serait la première preuve de majorité d'une sphère.
+- « Après tant de services rendus à la nation » : à vingt-cinq ans, quels services ?
+- Comment se fixe la majorité d'une sphère ?
 - Qui possède une sphère enfant pendant sa croissance : ses parents, ses parents adoptifs, la fabrique du substrat, personne ?
 - Adopter une sphère : on l'achète, ou on est payé pour l'élever ?
 - Une sphère peut-elle voter, posséder, être jugée ?
@@ -35,6 +35,7 @@
 - Que devient la propriété de l'université sur Niobé : rachetée, abandonnée, contestée ?
 
 ## History
+- 2026-10-06 — Écartées par l'auteur : les services rendus comme le fait de s'être laissé observer, et la thèse comme première preuve de majorité (#240).
 - 2026-10-06 — Sa thèse porte sur elle-même (#239).
 - 2026-10-06 — ↺ Naturalisation à la majorité, en 2101, année de sa thèse (#238).
 - 2026-10-06 — Note ouverte : naturalisation (Niobé, la première, par la Norvège ; propriété de l'UNIS jusque-là ; le monde suit), date à repenser, statut des autres sphères, adoption par des humains (#237). Écartée par l'auteur : la proposition de l'agent selon laquelle Niobé, seule sphère fabriquée, aurait été la seule jamais possédée.
