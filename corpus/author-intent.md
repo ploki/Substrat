@@ -9,6 +9,8 @@
 
 - **[ploki]** **Ce qu'on gagne à finaliser une aventure** : « un monde avec de l'épaisseur sur lequel on peut construire ». La nouvelle est la première ; le dépôt se présente au public comme une construction de monde en vue de créer des aventures, sans que le travail cesse d'être centré sur elle (#226).
 
+- **[ploki]** « On se perd dans les détails. » L'auteur veut revenir aux grandes lignes du récit plutôt que de trancher, un à un, les points de cohérence laissés par l'audit (2026-10-05).
+
 ### D'où l'on vient
 - **[G]** Construire **un monde** : « parler d'un monde, de gens, d'endroits, de culture ».
 - **[G]** Le concevoir « comme un openworld avec des NPC », avec « des amitiés, des inimitiés », puis « imaginer des histoires là-dedans, ou des aventures ».
@@ -29,6 +31,7 @@
 - **[G]** **La culture n'est pas un problème** : on est sur Terre et on y reste.
 
 ## History
+- 2026-10-05 — « On se perd dans les détails » : retour aux grandes lignes.
 - 2026-10-04 — Finaliser une aventure, c'est gagner un monde qui a de l'épaisseur, sur lequel construire ; le dépôt en est la vitrine (#226).
 - 2026-10-04 — La stase : plutôt que de voir périr Mira, par la malédiction de l'attachement (#209).
 - 2026-10-04 — La nouvelle est du fan art de *Pluribus* ; la boucle de l'émetteur est voulue.
