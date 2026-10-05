@@ -2,6 +2,8 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+161\. 2026-10-05 — Oublier l'histoire des dés : Niobé est malheureuse que Mira ait perdu son individualité.
+
 160\. 2026-10-05 — Sur la peur d'être prise pour un dieu : oui, c'est ça, la peur n'a plus d'objet face à *homo globalis*. Pour la gratitude : ni soulagement ni vertige, face à *homo globalis* « les dés sont rejetés ». Pour la séquence 4e : ne peut pas répondre, ne parlant pas le langage des références internes de l'agent.
 
 159\. 2026-10-05 — Préfère qu'on dise à l'agent d'être prudent sur sa compréhension de qui lui parle, le dépôt étant potentiellement multi-utilisateur.

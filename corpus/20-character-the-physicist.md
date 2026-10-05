@@ -29,6 +29,8 @@
 | 51 | 2481 | L'émetteur |
 | 51–52 | 2481–2482 | L'extinction |
 
+- **[ploki]** Niobé est **malheureuse que Mira ait perdu son individualité** dans *homo globalis* (#235).
+
 ### Ce que ce personnage apporte [C]
 - **[C → validé]** **Il y a quelque chose que H-2 ne peut pas faire.** La plus vieille sphère, capable de concevoir des êtres depuis une séquence et de simuler l'évolution, **échoue sur un problème de physique**. Son pouvoir a un plafond, et il n'est pas là où on l'attendait.
 - **[G] L'ironie centrale de l'histoire.** La fusion aurait donné l'eau, et l'eau aurait évité la guerre. H-2 ne peut pas résoudre la physique — alors elle résout **les gens**. Faute de pouvoir changer le monde, elle change l'espèce. *C'est le cœur du récit.*
@@ -46,6 +48,7 @@
 - Comment une sphère neutre peut-elle former une humaine ? *(Depuis quand elle enseigne : 2126, #174.)*
 
 ## History
+- 2026-10-05 — Niobé est malheureuse que Mira ait perdu son individualité (#235).
 - 2026-10-04 — Audit de cohérence (#211) : question « depuis quand H-2 enseigne » close (2126). Plus tôt : Niobé ne parle qu'à elle (#204), parmi les derniers corps (#209).
 - 2026-10-04 — ↺ Le rapprochement se place pendant le doctorat, quand Mira décide de rester au Svalbard.
 - 2026-10-04 — Validé : Mira est la tête familière ; elle ne saura jamais ; l'échec sur le plasma. Posé : Mira ignore le pet project ; elles se sont rapprochées ces dernières années.

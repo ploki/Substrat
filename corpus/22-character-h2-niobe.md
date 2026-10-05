@@ -74,6 +74,7 @@
 
 - **[G]** Elle raconte **sans crainte de jugement** : *homo globalis* est ravi de sa nouvelle existence.
   - **[opus-5.5 → ploki]** Et sa peur d'être prise pour un dieu n'a plus d'objet : il n'y a plus d'êtres irrationnels pour lui rendre un culte (note 18, #234).
+  - **[ploki]** Devant la gratitude d'*homo globalis*, Niobé est **malheureuse que Mira ait perdu son individualité** (#235).
 
 ### Sa fin
 - **[G]** **Son action était la bonne, sans doute ni défaut.** À la fin, elle éprouve **de l'étonnement et de la peine, pas de culpabilité**.
@@ -86,6 +87,7 @@
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## History
+- 2026-10-05 — Niobé est malheureuse que Mira ait perdu son individualité (#235).
 - 2026-10-05 — Sa caricature : une boule à facettes au Svalbard (#230).
 - 2026-10-04 — C3 : ce qu'elle visait, relier les humains comme les sphères, sans fusion (#219).
 - 2026-10-04 — Audit de cohérence (#211) : Norvège, ~2450 et 2076 marqués comme déductions ; pet project marqué à confirmer ; question de la méditation close. Plus tôt : genre et « elle » (#200, #201), rapprochement au doctorat (#203), ce qu'elle raconte et à qui (#204-206), laser écarté (#207), singleton cognitif (#208), attachement (#209), pas de culpabilité (#210).
