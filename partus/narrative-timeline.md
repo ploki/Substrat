@@ -57,7 +57,7 @@ Tout ce qui précède sa naissance est de seconde main.
 - **b.** **La première graine.** Sa propre fabrication, fait historique bien documenté, investissement civilisationnel. Elle peut lire les archives de sa naissance : situation étrange, et scène possible.
 - **c.** **Ses douze premières années**, quand les corps androïdes n'existaient pas encore. Elle a été implantée dans autre chose.
 - **d.** **Ses descendants.** Toutes ses demi-sphères ont été utilisées ; elle les connaît jusqu'à un certain point. Elle est l'ancêtre de tout le monde.
-- **e.** **2101 : sa thèse, et sa majorité.** La Norvège la naturalise, première sphère à l'être ; le reste du monde suit (#238).
+- **e.** **2101 : sa thèse, qui porte sur elle-même, et sa majorité.** La Norvège la naturalise, première sphère à l'être ; le reste du monde suit (#238).
 - **e'.** **2126 : elle achève son H1, change de corps, devient professeure à l'UNIS.** Elle vient de finir d'apprendre, et on lui confie un enseignement.
 - **f.** **Le nom.** À la naturalisation, il lui faut un nom de famille. Elle prend **de Lithium** : Niobé de Lithium, d'après la matière dont elle est faite. Scène possible, et brève : une sphère qui remplit un formulaire, et qui se nomme d'après son cristal.
 

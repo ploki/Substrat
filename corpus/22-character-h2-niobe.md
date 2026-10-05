@@ -28,7 +28,7 @@
 - **[G]** Toutes ses demi-sphères ont été utilisées : elle a une **descendance**, qu'elle connaît jusqu'à un certain point (note 07).
 
 ### Sa carrière
-- **[ploki]** **2101** — elle **passe sa thèse** ; **[opus-5.5 → ploki]** à sa majorité, la **Norvège la naturalise**, après tant de services rendus, et elle prend le nom de Niobé de Lithium (#238).
+- **[ploki]** **2101** — elle **passe sa thèse**, **[opus-5.5 → ploki]** qui **porte sur elle-même** (#239) ; **[opus-5.5 → ploki]** à sa majorité, la **Norvège la naturalise**, après tant de services rendus, et elle prend le nom de Niobé de Lithium (#238).
 - **[G]** **2126** — professeure à l'**UNIS**, au moment même où elle achève son H1.
 - **[G]** **2176** — elle prend la **tête** de l'UNIS, l'année où elle devient la première intelligence planétaire.
 - **[G]** Elle forme **Mira Okonkwo-Lindqvist** — **[C]** à partir de ~2450 — et travaille avec elle sur la **fusion nucléaire contrôlée** (note 20).
@@ -89,6 +89,7 @@
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## History
+- 2026-10-06 — Sa thèse porte sur elle-même (#239).
 - 2026-10-06 — ↺ Naturalisée en 2101, à sa majorité ; thèse la même année (#238).
 - 2026-10-06 — Conçue au Svalbard ; propriété de l'UNIS jusqu'à sa naturalisation ; la Norvège, première à naturaliser une sphère ; date à repenser (#237).
 - 2026-10-05 — Niobé est malheureuse que Mira ait perdu son individualité (#235).

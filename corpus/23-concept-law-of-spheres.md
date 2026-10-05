@@ -10,7 +10,7 @@
 - **[ploki]** **Avant sa naturalisation, elle était considérée comme la propriété de l'université** (l'UNIS), **bien que complètement libre de ses mouvements**.
 - **[ploki]** **Juste après la Norvège, le reste du monde s'ouvre à la naturalisation des sphères.**
 - **[opus-5.5 → ploki]** ↺ **La naturalisation à la majorité, en 2101** (#238). Niobé atteint H2, l'intelligence de qualité humaine adulte : la Norvège la reconnaît comme une personne et la naturalise ; elle prend le nom de **Niobé de Lithium**. Le reste du monde suit parce que le critère est universel : **toute sphère devient naturalisable le jour de sa majorité**, en atteignant ce palier. *(Remplace 2126, que l'auteur voulait remplacer par « une date plus intelligente ».)*
-- **[ploki]** **2101 est aussi l'année où elle passe sa thèse.**
+- **[ploki]** **2101 est aussi l'année où elle passe sa thèse.** **[opus-5.5 → ploki]** **Sa thèse porte sur elle-même** (#239).
 
 ### Le statut des autres sphères
 - **[ploki]** Questions posées par l'auteur : **un statut d'entité intelligente autonome ?** **Pas de problème de passeport**, parce que **la présence des sphères est très convoitée partout dans le monde** ?
@@ -26,8 +26,8 @@
 - L'accord entre humains et sphères, cadre de la direction de l'UNIS : **note 21** (contenu inconnu).
 
 ## Open questions
-- **[opus-5.5]** « Après tant de services rendus à la nation » : à vingt-cinq ans, quels services ? Ceux de son enfance, ou la majorité suffit-elle et les services viennent-ils après ?
-- La majorité se fixe-t-elle au palier H2 pour toutes les sphères, ou à un examen ?
+- **[opus-5.5]** « Après tant de services rendus à la nation » : à vingt-cinq ans, quels services ? Piste non validée : seule sphère au monde pendant son enfance, elle a servi la science en grandissant, en se laissant observer.
+- **[opus-5.5]** La majorité tombe-t-elle d'office au palier H2, ou se prouve-t-elle (examen, thèse) ? Dans ce cas, la thèse de Niobé serait la première preuve de majorité d'une sphère.
 - Qui possède une sphère enfant pendant sa croissance : ses parents, ses parents adoptifs, la fabrique du substrat, personne ?
 - Adopter une sphère : on l'achète, ou on est payé pour l'élever ?
 - Une sphère peut-elle voter, posséder, être jugée ?
@@ -35,5 +35,6 @@
 - Que devient la propriété de l'université sur Niobé : rachetée, abandonnée, contestée ?
 
 ## History
+- 2026-10-06 — Sa thèse porte sur elle-même (#239).
 - 2026-10-06 — ↺ Naturalisation à la majorité, en 2101, année de sa thèse (#238).
 - 2026-10-06 — Note ouverte : naturalisation (Niobé, la première, par la Norvège ; propriété de l'UNIS jusque-là ; le monde suit), date à repenser, statut des autres sphères, adoption par des humains (#237). Écartée par l'auteur : la proposition de l'agent selon laquelle Niobé, seule sphère fabriquée, aurait été la seule jamais possédée.

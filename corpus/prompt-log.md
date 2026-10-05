@@ -2,6 +2,8 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+168\. 2026-10-06 — Oui, sa thèse porte sur elle-même.
+
 167\. 2026-10-06 — Va pour 2101 : la naturalisation à la majorité. C'est aussi l'âge auquel elle passe sa thèse.
 
 166\. 2026-10-06 — Consigne ça.
