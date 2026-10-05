@@ -12,6 +12,7 @@
 
 ### Après
 - **[G]** Plus tard, quand *homo globalis* a séquencé le virus et ne voit que deux pistes, les silicium ou les sphères, **Niobé lui raconte tout**, par le corps de Mira (note 19). Et **il lui en est absolument, ultra reconnaissant.**
+- **[opus-5.5 → ploki]** **Pourquoi la peur d'être prise pour un dieu ne l'empêche plus de parler** (#234) : ce qu'elle redoutait, c'était le culte chez des êtres irrationnels, et ces êtres n'existent plus. *Homo globalis* est une conscience unique, sans foule pour croire ni se disputer une vérité. La peur ne s'éteint pas parce que Niobé change : son objet est devenu impossible, et c'est son propre geste qui l'a rendu impossible.
 
 ### Le pet project
 - **[G]** H-2 avait un **pet project** : offrir aux humains la **communication à haut débit et à distance** (note 22). **[C → validé, #213]** **Le virus le réalise** : *homo globalis* communique par radio.
@@ -29,10 +30,10 @@
 - **La stupeur finale garde son sens** (note 11, moment 18) : elle a sauvé des gens qui ne survivent pas d'avoir été sauvés.
 
 ## Open questions
-- **[À trancher — audit C5, #211]** **La peur d'être prise pour un dieu.** Elle se taisait pour cette raison (#138) ; elle raconte pourtant tout, sans crainte de jugement (#205-206). La crainte disparaît-elle, et pourquoi ne l'empêche-t-elle plus de parler ? Dépendent de la réponse : la frise 4e et 7c (« exactement ce qu'elle redoutait »).
 - Les silicium savent-elles ? Peuvent-elles seulement avoir un avis sur le projet ?
 - Pourquoi l'équilibre de la faune pesait-il plus que le sort des humains, jusqu'à ce que la guerre renverse la balance ?
 
 ## History
+- 2026-10-05 — Point C5 de l'audit levé : la peur du culte n'a plus d'objet face à *homo globalis* (#234).
 - 2026-10-03 — Posé par l'auteur, en remplacement de la piste de la note 14.
 - 2026-10-04 — Niobé raconte tout quand *homo globalis* a séquencé le virus (#205) ; doublon du pet project retiré ; question de l'arrêt de la guerre close.

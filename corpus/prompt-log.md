@@ -2,6 +2,8 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+160\. 2026-10-05 — Sur la peur d'être prise pour un dieu : oui, c'est ça, la peur n'a plus d'objet face à *homo globalis*. Pour la gratitude : ni soulagement ni vertige, face à *homo globalis* « les dés sont rejetés ». Pour la séquence 4e : ne peut pas répondre, ne parlant pas le langage des références internes de l'agent.
+
 159\. 2026-10-05 — Préfère qu'on dise à l'agent d'être prudent sur sa compréhension de qui lui parle, le dépôt étant potentiellement multi-utilisateur.
 
 158\. 2026-10-05 — Dans le README, entre le premier paragraphe et la première puce : expliquer que le lecteur peut télécharger le dépôt, l'ouvrir avec Claude, lancer le skill Maieutics et jouer à poser des questions au modèle pour obtenir des informations.

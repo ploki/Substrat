@@ -73,6 +73,7 @@
 - **[G]** Elle raconte **quand *homo globalis* a séquencé le virus** : le corps de Mira lui dit qu'il est perplexe devant ce virus apparu de nulle part, et qu'il ne voit que deux pistes, les silicium ou les sphères. Alors elle raconte (note 19).
 
 - **[G]** Elle raconte **sans crainte de jugement** : *homo globalis* est ravi de sa nouvelle existence.
+  - **[opus-5.5 → ploki]** Et sa peur d'être prise pour un dieu n'a plus d'objet : il n'y a plus d'êtres irrationnels pour lui rendre un culte (note 18, #234).
 
 ### Sa fin
 - **[G]** **Son action était la bonne, sans doute ni défaut.** À la fin, elle éprouve **de l'étonnement et de la peine, pas de culpabilité**.

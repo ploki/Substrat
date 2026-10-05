@@ -114,7 +114,7 @@ Une délibération solitaire, menée pendant que la guerre continue.
 ### 7. Ils découvrent, et ils remercient — 2481 — *le second sommet*
 - **a.** ***Homo globalis* analyse ce qu'il est devenu**, découvre le virus et le séquence. **Il est perplexe** : ce virus est apparu de nulle part, et il ne voit que deux pistes, les silicium ou les sphères. C'est le corps de Mira qui le dit à Niobé.
 - **b.** **Elle raconte.** Pas une confirmation sèche : **tout le récit**, depuis 2076, au corps de Mira. *C'est la scène d'où la nouvelle est dite.*
-- **c.** **La gratitude.** Ils sont **absolument, ultra reconnaissants**. Ils adorent ce qu'ils sont devenus. C'est exactement ce qu'elle redoutait : elle s'était tue pour ne pas être prise pour un dieu, et ils la remercient de les avoir faits.
+- **c.** **La gratitude.** Ils sont **absolument, ultra reconnaissants**. Ils adorent ce qu'ils sont devenus. Elle s'était tue pour ne pas être prise pour un dieu par des êtres irrationnels ; ces êtres n'existent plus, et la gratitude d'un seul esprit n'est pas un culte (#234). **[ploki]** Face à *homo globalis*, « les dés sont rejetés » — ni soulagement ni vertige. *(Sens exact à préciser avec l'auteur.)*
 
 ### 8. L'émetteur — 2481
 - **a.** **La décision d'émettre.** Ils aiment tant ce qu'ils sont qu'ils veulent le **partager et le propager**. La séquence du virus, par radio, en morse ou en multiplexage.
