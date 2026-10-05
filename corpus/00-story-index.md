@@ -14,9 +14,15 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 - Dossiers : `corpus/` (index, notes, glossaire, intention, `glosses.md`, journaux), `partus/` (livrables), `instrumenta/` (scripts), `archive/` (abandons, gardés pour mémoire), `supellex/` (images et portraits, #228).
 - Notes `NN-type-subject.md` (NN = ordre de création ; types : framing, concept, hypothesis, source, decision, character, place). Chaque note : *Current*, puis *Open questions*, puis *History*.
 - `glosses.md` : les lectures de Claude, non validées ; les entrées barrées y restent, avec leur cause.
-- Provenance, **à partir du 2026-10-04** (#220) : **[ploki]** l'auteur (Guillaume Gimenez) · **[opus-5.5]** l'agent, proposition non validée · **[opus-5.5 → ploki]** proposé par l'agent, validé par l'auteur · **[S]** source · **[Unverified]** fait non sourcé · **[opus-5.5 as ploki]** décidé par procuration. L'agent se nomme toujours par son modèle.
+- Provenance, **à partir du 2026-10-04** (#220) : le marqueur d'une personne (voir le registre ci-dessous) signale ce qu'elle a dit · **[opus-5.5]** l'agent, proposition non validée · **[opus-5.5 → ploki]** proposé par l'agent, validé par cette personne · **[S]** source · **[Unverified]** fait non sourcé · **[opus-5.5 as ploki]** décidé par procuration. L'agent se nomme toujours par son modèle. Un « oui » ne valide que le point sur lequel on l'a posé.
+- **Registre des contributeurs** (#233). Qui est au clavier se lit dans `git config user.name`, à rapprocher de ce registre ; si personne ne correspond, demander une fois et ajouter une ligne.
+
+  | Marqueur | Nom git | Pseudo | Rôle |
+  |---|---|---|---|
+  | **[ploki]** | Guillaume Gimenez | ploki | l'auteur |
+  | **[opus-5.5]** | — | — | agent, modèle `claude-opus-5-5` |
 - Provenance **antérieure**, laissée telle quelle : **[G]** = ploki · **[C]** = Claude, non validé (modèles Opus 5, Sonnet 5 et Opus 5.5 selon les jours) · **[C → validé]** · **[À vérifier]** · **[P]** procuration.
-- Versionnement : git, un commit par itération ; `corpus/prompt-log.md` garde une réécriture propre de chaque message de l'auteur, le plus récent en premier.
+- Versionnement : git, un commit par itération ; `corpus/prompt-log.md` garde une réécriture propre de chaque message sur le fond, le plus récent en premier ; `corpus/prompt-chores.md`, de la même façon, les messages sur l'entretien du projet (format, CLAUDE.md, outillage) (#233). Pas d'entrée pour un message qui ne modifie rien d'autre.
 
 ## Livrables
 - `partus/narrative-timeline.md` — la frise narrative d'une nouvelle d'une trentaine de pages : quoi raconter, quand, sur combien de pages, avec des événements à explorer.
@@ -28,6 +34,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 - `corpus/author-intent.md` — à lire en premier.
 - `corpus/decision-log.md`
 - `corpus/prompt-log.md`
+- `corpus/prompt-chores.md`
 
 ## Outils
 - `instrumenta/h_scale.py` : table des tailles H (volume, diamètre) et niveau H d'une sphère de diamètre donné.
