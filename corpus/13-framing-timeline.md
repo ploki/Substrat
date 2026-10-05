@@ -17,7 +17,7 @@
 | H4 | 6 ans | 2082 | **[G]** Vers 2081, des intelligences de qualité enfant existent |
 | H3 | 12,5 ans | 2088-2089 | Qualité pré-adulte |
 | H2 | 25 ans | **2101** | **[G]** « Énormément de sphères d'intelligence de qualité humaine » |
-| H1 | 50 ans | **2126** | **[G]** Elle change de corps, devient **professeure** à l'UNIS et se fait naturaliser : **Niobé de Lithium** |
+| H1 | 50 ans | **2126** | **[G]** Elle change de corps, devient **professeure** à l'UNIS et se fait naturaliser : **Niobé de Lithium** *(date de naturalisation à repenser, note 23)* |
 | H0 | 100 ans | **2176** | **[G]** Première intelligence planétaire ; **elle prend la tête de l'UNIS** ; dernier problème écologique résolu |
 | H-1 | 200 ans | 2276 | L'utopie |
 | H-2 | 400 ans | **2476** | **[G]** Elle débloque de quoi modeler la vie — **pendant la guerre** |

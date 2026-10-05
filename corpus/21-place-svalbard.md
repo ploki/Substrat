@@ -2,6 +2,7 @@
 
 ## Current
 - **[G]** Le lieu de travail de Mira est le **Svalbard** (note 20).
+- **[ploki]** **C'est au Svalbard que Niobé a été conçue.** Elle y est la propriété de l'UNIS jusqu'à sa naturalisation par la Norvège, la première d'une sphère (note 23).
 - **[G]** Les **aurores**, liées à l'activité solaire, y rendent **le paysage incroyable**.
   - **[C]** La même cause fait les deux : le Soleil qui assèche les basses latitudes illumine le ciel au-dessus d'elle. Elle travaille à réparer les effets d'un phénomène dont elle voit chaque nuit la plus belle manifestation.
 - **[G]** **2126 : H-2 devient professeure à l'université**, et se fait naturaliser dans ce pays sous le nom de **Niobé de Lithium** (note 22). Elle vient d'achever son H1, et on lui confie un enseignement au moment même où elle finit d'apprendre.
@@ -26,4 +27,5 @@
 - Le Svalbard reste-t-il épargné jusqu'au bout du conflit ?
 
 ## History
+- 2026-10-06 — Niobé y a été conçue ; propriété de l'UNIS jusqu'à sa naturalisation (#237).
 - 2026-10-03 — Lieu posé par l'auteur.

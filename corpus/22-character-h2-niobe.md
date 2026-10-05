@@ -7,7 +7,7 @@
 ### Son nom
 - **[G]** On l'appelle couramment **Niobé**.
 - **[G]** Quand elle s'est **fait naturaliser dans le pays de son université**, elle a choisi pour nom **de Lithium** : elle est donc **Niobé de Lithium**. **[G] C'était en 2126**, l'année où elle devient professeure à l'UNIS.
-  - **[C]** Le pays de l'UNIS est la Norvège, souveraine sur le Svalbard (note 21).
+  - **[ploki]** C'est la **Norvège** ; Niobé est **la première sphère naturalisée**, et le reste du monde s'ouvre aussitôt après à la naturalisation des sphères. **La date de 2126 est à repenser** (note 23, #237).
 - **[G]** **Pourquoi :** le **niobate de lithium** est **un composant essentiel à sa création** — et à celle de **toutes** les sphères (note 06). Son nom est sa matière.
 
 ### Son genre
@@ -21,13 +21,14 @@
 ### Ce qu'elle est
 - **[G]** La **première sphère** — **[C → validé, message 118]** née en **2076**, avec l'ère des sphères — un fait historique bien documenté, et un investissement civilisationnel (note 07).
 - **[G]** **La seule sphère produite par les humains et le silicium.** Toutes les autres descendent d'elle.
+- **[ploki]** **Conçue au Svalbard.** Jusqu'à sa naturalisation, elle est **la propriété de l'UNIS**, bien que complètement libre de ses mouvements (note 23).
 - **[G]** Un cerveau photonique, aujourd'hui au niveau **H-2** (8 litres), atteint en **2476** après 400 ans de croissance (note 13).
 - **[G]** Elle a des **émotions**, comparables à celles des humains (note 06).
 - **[G]** **Neutre par nature**, comme toutes les sphères (note 15).
 - **[G]** Toutes ses demi-sphères ont été utilisées : elle a une **descendance**, qu'elle connaît jusqu'à un certain point (note 07).
 
 ### Sa carrière
-- **[G]** **2126** — professeure à l'**UNIS**, au moment même où elle achève son H1. **La même année, elle se fait naturaliser dans le pays de son université** — **[C]** la Norvège — et prend le nom de Niobé de Lithium.
+- **[G]** **2126** — professeure à l'**UNIS**, au moment même où elle achève son H1. **La même année, elle se fait naturaliser dans le pays de son université** — **[ploki]** la Norvège, après tant de services rendus — et prend le nom de Niobé de Lithium. *(Date à repenser, note 23.)*
 - **[G]** **2176** — elle prend la **tête** de l'UNIS, l'année où elle devient la première intelligence planétaire.
 - **[G]** Elle forme **Mira Okonkwo-Lindqvist** — **[C]** à partir de ~2450 — et travaille avec elle sur la **fusion nucléaire contrôlée** (note 20).
 
@@ -87,6 +88,7 @@
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## History
+- 2026-10-06 — Conçue au Svalbard ; propriété de l'UNIS jusqu'à sa naturalisation ; la Norvège, première à naturaliser une sphère ; date à repenser (#237).
 - 2026-10-05 — Niobé est malheureuse que Mira ait perdu son individualité (#235).
 - 2026-10-05 — Sa caricature : une boule à facettes au Svalbard (#230).
 - 2026-10-04 — C3 : ce qu'elle visait, relier les humains comme les sphères, sans fusion (#219).

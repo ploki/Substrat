@@ -2,6 +2,12 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+166\. 2026-10-06 — Consigne ça.
+
+165\. 2026-10-06 — Non à l'idée que Niobé serait la seule sphère jamais possédée : on peut penser à des couples humains qui adoptent des sphères (les achètent ? sont payés pour les élever ?). L'idée que les pays se disputent les sphères : pourquoi pas la garder en mémoire. Juste après la Norvège, le reste du monde s'ouvre à la naturalisation des sphères. Aimerait trouver une date plus intelligente pour la naturalisation. N'a-t-on pas déjà un dossier pour le juridique des sphères ?
+
+164\. 2026-10-06 — Le processus de naturalisation est un pan à voir, avec son histoire. La première sphère naturalisée est forcément Niobé, au Svalbard, parce que c'est là qu'elle a été conçue ; elle est naturalisée après tant de services rendus à la nation. Avant, elle était considérée comme propriété de l'université, bien que complètement libre de ses mouvements. Et les autres sphères : un statut d'entité intelligente autonome ? Pas de problème de passeport, la présence des sphères étant très convoitée partout dans le monde ? Il y a tout un tas de choses à étudier.
+
 163\. 2026-10-06 — Après le décompte (la nouvelle nommée deux fois, la bible et le codex une fois chacun) : c'est le monde, le projet ; corriger partout. Pour la phrase sur le fan art, employer la tournure jugée opportune. Et retirer « hard » : on s'en fout, en fait.
 
 162\. 2026-10-05 — On se perd dans les détails : n'y a-t-il pas des sujets de grandes lignes ?

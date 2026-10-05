@@ -98,6 +98,7 @@
 - **[G]** On peut aussi garder une sphère petite **volontairement** : des **parents sadiques** qui maintiennent leurs enfants petits ; un **chien synthétique** qu'on garde chiot.
 - **[G]** **Il est illégal de ne pas mettre la sphère de ses enfants dans un substrat de croissance.** Les parents sadiques sont donc des criminels.
   - **[À préciser]** Et les parents qui n'ont pas les moyens : endettement, aide publique, retrait de l'enfant ? La loi vaut-elle aussi pour les animaux de compagnie ?
+  - **[ploki]** Piste : des **couples humains adoptent des sphères** (les achètent, ou sont payés pour les élever) : note 23.
   - **[C]** Il existe donc des êtres synthétiques de niveau animal, notamment des animaux de compagnie.
 - **[G]** **Un être resté petit ne pourra pas payer sa croissance : il restera à une intelligence d'enfant.**
 - Hypothèse en cours d'exploration : la mémoire s'inscrit sur la surface qui croît (voir `08-hypothesis-memory-through-growth.md`).
