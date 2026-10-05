@@ -4,7 +4,7 @@
 
 *Caricature de Niobé : une boule à facettes au Svalbard.*
 
-*La bible d'un univers de hard SF : la Terre de 2026 à 2482, où trois formes d'intelligence se succèdent.*
+*La bible d'un univers de SF : la Terre de 2026 à 2482, où trois formes d'intelligence se succèdent.*
 
 **Substrat est un projet de construction de monde, en vue d'y créer des aventures.** La première est une nouvelle, en préparation : on y suit la plus ancienne des sphères, **Niobé de Lithium**. Ce qu'on gagne à mener une aventure jusqu'au bout, c'est un monde qui a de l'épaisseur, et sur lequel on peut construire les suivantes.
 
@@ -35,7 +35,7 @@ Chaque affirmation dit de qui elle vient : **[ploki]** l'auteur, **[opus-5.5]** 
 | `archive/` | les pistes abandonnées |
 | `supellex/` | les images et les portraits |
 
-Pour entrer : `corpus/author-intent.md`, puis `corpus/00-story-index.md`.
+Pour entrer : `corpus/author-intent.md`, puis `corpus/00-world-index.md`.
 
 ---
 
@@ -43,7 +43,7 @@ Pour entrer : `corpus/author-intent.md`, puis `corpus/00-story-index.md`.
 
 C'est **la Terre, normale**, avec quelques romantisations. Le décor n'est pas l'objet : ce qui compte, ce sont **les êtres et leurs règles de vie**.
 
-La hard SF y vaut « comme d'habitude », à quelques exceptions près. Quatre domaines sont **résolus** : la médecine, le transhumanisme, l'intelligence artificielle générale et le contrôle de la gravité. Deux problèmes, eux, **résistent** :
+La science y vaut « comme d'habitude », à quelques exceptions près. Quatre domaines sont **résolus** : la médecine, le transhumanisme, l'intelligence artificielle générale et le contrôle de la gravité. Deux problèmes, eux, **résistent** :
 
 - **la fusion nucléaire contrôlée**, que même les plus grandes intelligences n'atteignent pas ;
 - **le stockage de l'énergie**, qu'on ne sait ni densifier ni miniaturiser.
@@ -112,7 +112,7 @@ Ce sont **les coûts**, plus que les interdits, qui gouvernent ce monde. Un subs
 | ~2470–2480 | **La guerre.** L'activité solaire envoie un surplus d'infrarouge ; l'eau et la nourriture manquent ; deux fronts, chacun avec ses IA silicium. Les sphères, neutres par nature, ne prennent pas parti |
 | 2480 | ***Homo globalis*** |
 
-La suite appartient à la nouvelle.
+La suite appartient à la première aventure, une nouvelle.
 
 ## Lieux et personnages
 
@@ -124,4 +124,4 @@ La suite appartient à la nouvelle.
 
 ---
 
-La nouvelle est du fan art de la série *Pluribus*.
+C'est du fan art de la série *Pluribus*.

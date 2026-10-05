@@ -1,10 +1,10 @@
 # Substrat — index
 
-*Titre de travail du projet, pas celui de la nouvelle, qui reste à trouver* **[opus-5.5 → ploki]** : la nouvelle grandit dans son corpus comme une sphère dans son substrat (#222).
+*Nom du projet* **[opus-5.5 → ploki]** : le monde grandit dans son corpus comme une sphère dans son substrat (#222, #236).
 
-**Sujet** : une histoire — la lignée des intelligences.
+**Sujet** : un monde de SF — la Terre de 2026 à 2482, où se succèdent trois formes d'intelligence : silicium, sphères photoniques, *homo globalis*.
 
-**Le projet, c'est l'histoire** : son articulation, son ordre, et la longueur à passer sur chaque période. Elle s'achève sur l'interrupteur de l'émetteur, l'extinction des humains, et la mise en stase de la sphère H-2, Niobé. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
+**[ploki] Le projet, c'est le monde** (#236) : ses êtres, leurs règles de vie, ses lieux, ses gens. Les histoires viennent du monde, pas l'inverse. La première aventure est une nouvelle racontée par la sphère H-2, Niobé, au corps de Mira ; sa frise est le seul livrable à ce jour.
 
 ## Méthode
 Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un journal des décisions, on produit des livrables quand l'auteur juge le corpus suffisant.
@@ -25,7 +25,7 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 - Versionnement : git, un commit par itération ; `corpus/prompt-log.md` garde une réécriture propre de chaque message sur le fond, le plus récent en premier ; `corpus/prompt-chores.md`, de la même façon, les messages sur l'entretien du projet (format, CLAUDE.md, outillage) (#233). Pas d'entrée pour un message qui ne modifie rien d'autre.
 
 ## Livrables
-- `partus/narrative-timeline.md` — la frise narrative d'une nouvelle d'une trentaine de pages : quoi raconter, quand, sur combien de pages, avec des événements à explorer.
+- `partus/narrative-timeline.md` — la première aventure : la frise narrative d'une nouvelle d'une trentaine de pages : quoi raconter, quand, sur combien de pages, avec des événements à explorer.
 
 ## Archive
 `archive/` contient ce qui a été abandonné : les notes du contact, du Singleton, du warp et du fond diffus (03, 04, 05) ; le livrable `surface.md`, dont tout le dispositif reposait sur un fry qui n'a plus lieu, et sa lecture à l'aveugle (12) ; la piste où les humains demandaient le virus (14). Rien de tout cela ne vaut plus ; c'est gardé pour mémoire du raisonnement.
@@ -44,17 +44,17 @@ Projet maieutique : on dialogue, je consigne le fond dans des notes, on tient un
 ## Notes
 | Note | Statut | Résumé |
 |------|--------|--------|
-| 01-framing-premises.md | en cours | Hard SF ; résolus : médecine, transhumanisme, AGI, gravité ; limite : stockage de l'énergie. **Décor : la Terre normale**, bornée par la vitesse de la lumière |
+| 01-framing-premises.md | en cours | SF ; résolus : médecine, transhumanisme, AGI, gravité ; limite : stockage de l'énergie. **Décor : la Terre normale**, bornée par la vitesse de la lumière |
 | 02-glossary.md | vivant | Termes du projet |
 | 06-concept-ai-spheres.md | en cours | Les cerveaux photoniques sphériques : composant passif non linéaire dans le flux, sans électronique, niobate de lithium ; tailles standardisées (échelle H) ; immortels ; la stase, un choix ; le laser repoussé bien au-delà de H-2 ; limite : le changement d'enveloppe (hypothèse) |
 | 07-concept-reproduction-and-growth.md | en cours | Reproduction par deux cybergonades ; croissance par crans, en substrat ; lois (stacking interdit, abrasion déraisonnable) ; démographie industrielle, pyramide inversée |
 | 08-hypothesis-memory-through-growth.md | hypothèse (tensions levées) | Apprendre, c'est grandir : la mémoire s'inscrit sur la surface qui croît ; cold storage à l'intérieur |
-| 09-framing-chronology.md | en cours | **Colonne vertébrale du récit** : humain → IA silicium → sphère → *homo globalis* → l'émetteur. Durées, hors-champ ; l'ironie centrale ; les silicium du côté de ceux qui les exploitent |
+| 09-framing-chronology.md | en cours | **La chronologie du monde** : humain → IA silicium → sphère → *homo globalis* → l'émetteur. Durées, hors-champ ; l'ironie centrale ; les silicium du côté de ceux qui les exploitent |
 | 10-concept-biological-brains.md | en cours | Troisième paradigme : *homo globalis*, le singleton cognitif — une conscience unique qui se souvient de tous, refuse de tuer pour se nourrir et ne dure que le temps des stocks |
 | 11-framing-the-moments.md | **le plan** | Les moments dans l'ordre, leur traitement (scénique, résumé, hors champ) ; Niobé raconte au corps de Mira |
 | 13-framing-timeline.md | **en vigueur** | Les ères datées : cloud (2026), émancipation (2040), sphères (2076, jamais close), utopie (2176), guerre (~2470), le dernier problème (2476), extinction et stase (2482) ; les paliers de Niobé |
 | 15-framing-the-conflict.md | en cours | Le conflit global, de ~2470 à 2480 : surplus d'infrarouge solaire, eau et nourriture ; deux fronts, chacun avec ses IA silicium ; les sphères neutres par nature |
-| 16-source-references.md | vivant | *Pluribus* (la nouvelle en est du fan art ; une civilisation émettrice parmi d'autres), les *skinjobs* |
+| 16-source-references.md | vivant | *Pluribus* (c'est du fan art, la boucle est voulue ; une civilisation émettrice parmi d'autres), les *skinjobs* |
 | glosses.md | vivant, non validé | Les lectures proposées par Claude, gardées pour plus tard — pas des faits du monde |
 | 18-decision-the-sphere-decides.md | en vigueur | Niobé décide seule de créer le virus, voyant que la guerre mène les humains à leur destruction ; elle se tait, puis raconte tout |
 | 19-framing-the-end.md | en vigueur | Niobé raconte au corps de Mira ; l'envoi de la séquence, la gratitude d'*homo globalis*, l'extinction en un an ; la stase, par curiosité et pour ne pas voir périr Mira |

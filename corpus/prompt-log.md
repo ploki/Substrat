@@ -2,6 +2,8 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+163\. 2026-10-06 — Après le décompte (la nouvelle nommée deux fois, la bible et le codex une fois chacun) : c'est le monde, le projet ; corriger partout. Pour la phrase sur le fan art, employer la tournure jugée opportune. Et retirer « hard » : on s'en fout, en fait.
+
 162\. 2026-10-05 — On se perd dans les détails : n'y a-t-il pas des sujets de grandes lignes ?
 
 161\. 2026-10-05 — Oublier l'histoire des dés : Niobé est malheureuse que Mira ait perdu son individualité.

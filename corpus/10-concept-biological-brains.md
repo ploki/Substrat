@@ -18,7 +18,7 @@
   - **[C → validé]** L'émetteur est donc son **testament** : disséminer la séquence est sa seule façon de se survivre. Il sait qu'il va s'éteindre, et il envoie ce qu'il est.
 - **[G]** **Les sphères n'essaient pas de le nourrir.** Précision de l'auteur : ce n'est pas qu'elles « respectent un choix » au sens solennel — **elles ne vont pas aller mettre des animaux morts dans la bouche des humains. Elles ne les forceront pas.**
   - **[C]** Le refus est donc trivial et concret, pas philosophique : nourrir de force un organisme qui ne veut pas manger, ça ne se fait pas. C'est la limite ordinaire de ce qu'on peut faire à quelqu'un.
-  - **[C]** Cohérent avec le reste du monde : personne n'y force personne. Les silicium se sont effacés sans guerre, les sphères n'interviennent pas. Et c'est cette retenue qui tue. *Choix assumé : la hard SF est volontairement relâchée sur ce point.*
+  - **[C]** Cohérent avec le reste du monde : personne n'y force personne. Les silicium se sont effacés sans guerre, les sphères n'interviennent pas. Et c'est cette retenue qui tue. *Choix assumé : le réalisme est volontairement relâché sur ce point.*
 - **[G]** Après le silicium et le photonique, le paradigme suivant est **la biologie** (notes 06, 09) : des **cerveaux mixtes, biologiques et nanorobotiques**.
 - **[G]** Ils sont faits de **cellules aux capacités de calcul exceptionnelles**, avec de la **HBM** et une **interconnexion radio**, sur un **matériel quasi génétique**.
   - **[C → validé, #213]** C'est l'aboutissement du **pet project** de H-2 : offrir aux humains la communication à haut débit et à distance (note 22).

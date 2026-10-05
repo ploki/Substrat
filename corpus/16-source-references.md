@@ -4,7 +4,7 @@
 
 ## Current
 - **[G]** ***Pluribus***, série de Vince Gilligan (Apple TV, 2025). Référence revendiquée pour l'intelligence collective (note 10).
-  - **[G]** **La nouvelle est du fan art de *Pluribus*.** **La boucle est voulue** : chez Gilligan, l'humanité *reçoit* une séquence par radio ; ici, *homo globalis* l'*émet* (note 19). On raconte l'autre bout de la chaîne.
+  - **[G]** **[ploki]** **C'est du fan art de *Pluribus*.** **La boucle est voulue** : chez Gilligan, l'humanité *reçoit* une séquence par radio ; ici, *homo globalis* l'*émet* (note 19). On raconte l'autre bout de la chaîne.
   - **[G]** **Notre Terre est *une* civilisation émettrice parmi d'autres**, sur le même modèle — pas l'émettrice du signal que reçoit la Terre de *Pluribus*. Pas de lien littéral entre les deux, donc pas de paradoxe.
   - **[S]** Une transmission radio venue de 600 années-lumière contient une séquence d'ARN ; recréée en laboratoire, elle unit l'humanité en un esprit collectif paisible, « the Joining », auquel une poignée d'immunisés échappe.
 - **[G]** **Les *skinjobs***, à regarder.

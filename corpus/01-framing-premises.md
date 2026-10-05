@@ -1,12 +1,12 @@
 # 01 — Cadrage : les prémisses du monde
 
 ## Current
-- **[G]** Genre : **hard SF** « comme d'hab », avec des exceptions, des domaines considérés comme **résolus** :
+- **[G]** Genre : **SF** « comme d'hab » — **[ploki]** sans l'étiquette « hard », on s'en fout (#236) —, avec des exceptions, des domaines considérés comme **résolus** :
   1. la médecine ;
   2. le transhumanisme ;
   3. l'AGI (intelligence artificielle générale) : conçue par l'humanité, sur silicium, elle s'est améliorée récursivement jusqu'aux limites physiques du silicium, puis a inventé le cerveau photonique (notes 06, 09) ;
   4. le contrôle de la gravité.
-- **[G]** **La hard SF est volontairement relâchée** pour la classe des êtres biologiques, qui communiquent par radio (note 10).
+- **[G]** **Le réalisme est volontairement relâché** pour la classe des êtres biologiques, qui communiquent par radio (note 10).
 - **[C, à confirmer]** Lecture proposée : la physique et la science restent rigoureuses partout ailleurs, et la rigueur porte sur les **conséquences** de ces acquis.
 
 ### Les bornes du monde
@@ -29,6 +29,7 @@
 - **[À préciser]** « Quelques romantisations » : lesquelles, et jusqu'où ?
 
 ## History
+- 2026-10-06 — L'étiquette « hard » est retirée (#236).
 - 2026-10-02 — Prémisses posées par l'auteur.
 - 2026-10-02 — Première limite posée : la densité de stockage de l'énergie.
 - 2026-10-02 — L'énergie est transmise instantanément *(abandonné le 2026-10-03)*.

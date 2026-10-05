@@ -1,13 +1,14 @@
 # Intention de l'auteur
 
 ## Current
-- **[G]** ↺ **Le projet, c'est l'histoire** : comment elle s'articule, **dans l'ordre**, et **quelle longueur passer sur chaque période**. Le corpus (le monde, les sphères, leurs règles) est au service de ce récit.
-- **[G]** ↺ **La fin** : l'interrupteur de l'émetteur est poussé, les humains s'éteignent faute de stocks — et **la sphère se met en pause**, plutôt que de voir périr Mira, curieuse de voir les 200 millions d'années à venir (note 19).
+- **[ploki]** ↺ **C'est le monde, le projet** (#236). Constat de l'auteur, le 2026-10-06 : dans ses messages, la nouvelle n'est nommée que deux fois, autant que « la bible de l'univers » et « le Codex de Niobé » ; c'est l'agent qui avait fait du récit le cadre du corpus. Les histoires viennent du monde ; la nouvelle est la première aventure.
+- **[ploki]** **« Hard », on s'en fout** : c'est de la SF, sans étiquette (#236).
+- **[G]** **La fin de la première aventure** : l'interrupteur de l'émetteur est poussé, les humains s'éteignent faute de stocks — et **la sphère se met en pause**, plutôt que de voir périr Mira, curieuse de voir les 200 millions d'années à venir (note 19).
   - **[C]** Ce n'est donc ni un triomphe ni une catastrophe spectaculaire, mais un désastre doux suivi d'un retrait.
 - **[G]** **L'ironie centrale du récit** : la fusion aurait donné l'eau, l'eau aurait évité la guerre ; H-2 ne peut pas résoudre la physique, alors elle résout les gens. Faute de pouvoir changer le monde, elle change l'espèce.
 - **[G]** **Pas de guerre entre les générations d'intelligences.** Les IA silicium sont du côté des humains qui les exploitent, chaque belligérant ayant les siennes ; elles n'ont pas d'état d'âme et ne prennent pas parti contre les sphères.
 
-- **[ploki]** **Ce qu'on gagne à finaliser une aventure** : « un monde avec de l'épaisseur sur lequel on peut construire ». La nouvelle est la première ; le dépôt se présente au public comme une construction de monde en vue de créer des aventures, sans que le travail cesse d'être centré sur elle (#226).
+- **[ploki]** **Ce qu'on gagne à finaliser une aventure** : « un monde avec de l'épaisseur sur lequel on peut construire ». La nouvelle est la première ; le dépôt se présente au public comme une construction de monde en vue de créer des aventures (#226), et c'est désormais aussi le centre du travail (#236).
 
 - **[ploki]** « On se perd dans les détails. » L'auteur veut revenir aux grandes lignes du récit plutôt que de trancher, un à un, les points de cohérence laissés par l'audit (2026-10-05).
 
@@ -16,10 +17,9 @@
 - **[G]** Le concevoir « comme un openworld avec des NPC », avec « des amitiés, des inimitiés », puis « imaginer des histoires là-dedans, ou des aventures ».
 - **[G]** Piste : les livrables seraient des aventures. *(Question ouverte, pas encore une décision.)*
 - **[G]** Précision : il s'agit de « construire une sandbox intellectuelle bien peuplée de laquelle on peut extraire des aventures facilement. Les assets intellectuels sont là, il n'y a plus qu'à les utiliser. » « Open world / NPC » était une image, pas un projet de jeu.
-- **[G]** Le cadre reste la **hard SF** (voir `01-framing-premises.md`).
 - **[G]** Dans ce monde, **il importe peu que la sphère soit dans telle ou telle représentation**. Le corps est secondaire, et l'auteur ne veut pas en faire un enjeu.
-- **[G]** Référence revendiquée : la série ***Pluribus***. **La nouvelle en est du fan art**, et l'émetteur boucle sur elle volontairement : notre Terre est une civilisation émettrice parmi d'autres (note 16).
-- **[G]** L'auteur **accepte de relâcher la hard SF** quand une idée le demande.
+- **[G]** Référence revendiquée : la série ***Pluribus***. **[ploki]** « C'est du fan art » : l'émetteur boucle sur *Pluribus* volontairement : notre Terre est une civilisation émettrice parmi d'autres (note 16).
+- **[G]** L'auteur **accepte de relâcher le réalisme** quand une idée le demande.
 - **[G]** Les humains entrent enfin dans le monde, par l'intelligence collective.
 - **[G]** **Le décor n'est pas l'objet** : la sandbox se passe sur la Terre normale, avec quelques romantisations. Les questions d'énergie et de cosmologie sont écartées. Ce qui intéresse l'auteur, ce sont **les êtres et leurs règles de vie**.
 - **[G]** Refus constatés : **pas de paradoxe temporel** ; **pas d'émotions plaquées** sur les mécanismes des IA — les sphères ont pourtant bien des émotions, comparables à celles des humains ; c'est l'explication mécanique qui ne doit pas être émotionnelle ; **pas de questionnaires à choix** (l'auteur construit par énoncés continus, pas en sélectionnant des options) ; **pas d'humains pour l'instant** (« j'ai toujours parlé de corps synthétiques ») — consigne valable pour la partie sur les sphères.
@@ -31,6 +31,7 @@
 - **[G]** **La culture n'est pas un problème** : on est sur Terre et on y reste.
 
 ## History
+- 2026-10-06 — ↺ C'est le monde, le projet ; la nouvelle est la première aventure. « Hard » retiré (#236).
 - 2026-10-05 — « On se perd dans les détails » : retour aux grandes lignes.
 - 2026-10-04 — Finaliser une aventure, c'est gagner un monde qui a de l'épaisseur, sur lequel construire ; le dépôt en est la vitrine (#226).
 - 2026-10-04 — La stase : plutôt que de voir périr Mira, par la malédiction de l'attachement (#209).
