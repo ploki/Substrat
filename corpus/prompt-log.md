@@ -2,6 +2,8 @@
 
 *Les messages de l'auteur, réécrits proprement, le plus récent en premier. Ajouter les nouveaux en tête, séparés par une ligne vide.*
 
+167\. 2026-10-06 — Va pour 2101 : la naturalisation à la majorité. C'est aussi l'âge auquel elle passe sa thèse.
+
 166\. 2026-10-06 — Consigne ça.
 
 165\. 2026-10-06 — Non à l'idée que Niobé serait la seule sphère jamais possédée : on peut penser à des couples humains qui adoptent des sphères (les achètent ? sont payés pour les élever ?). L'idée que les pays se disputent les sphères : pourquoi pas la garder en mémoire. Juste après la Norvège, le reste du monde s'ouvre à la naturalisation des sphères. Aimerait trouver une date plus intelligente pour la naturalisation. N'a-t-on pas déjà un dossier pour le juridique des sphères ?

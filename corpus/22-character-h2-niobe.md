@@ -6,8 +6,8 @@
 
 ### Son nom
 - **[G]** On l'appelle couramment **Niobé**.
-- **[G]** Quand elle s'est **fait naturaliser dans le pays de son université**, elle a choisi pour nom **de Lithium** : elle est donc **Niobé de Lithium**. **[G] C'était en 2126**, l'année où elle devient professeure à l'UNIS.
-  - **[ploki]** C'est la **Norvège** ; Niobé est **la première sphère naturalisée**, et le reste du monde s'ouvre aussitôt après à la naturalisation des sphères. **La date de 2126 est à repenser** (note 23, #237).
+- **[G]** Quand elle s'est **fait naturaliser dans le pays de son université**, elle a choisi pour nom **de Lithium** : elle est donc **Niobé de Lithium**. ↺ **[opus-5.5 → ploki] C'était en 2101**, à sa majorité, l'année de sa thèse (#238). *(Auparavant : 2126.)*
+  - **[ploki]** C'est la **Norvège** ; Niobé est **la première sphère naturalisée**, et le reste du monde s'ouvre aussitôt après à la naturalisation des sphères. Elle est naturalisée à sa majorité, en 2101 (note 23, #238).
 - **[G]** **Pourquoi :** le **niobate de lithium** est **un composant essentiel à sa création** — et à celle de **toutes** les sphères (note 06). Son nom est sa matière.
 
 ### Son genre
@@ -28,7 +28,8 @@
 - **[G]** Toutes ses demi-sphères ont été utilisées : elle a une **descendance**, qu'elle connaît jusqu'à un certain point (note 07).
 
 ### Sa carrière
-- **[G]** **2126** — professeure à l'**UNIS**, au moment même où elle achève son H1. **La même année, elle se fait naturaliser dans le pays de son université** — **[ploki]** la Norvège, après tant de services rendus — et prend le nom de Niobé de Lithium. *(Date à repenser, note 23.)*
+- **[ploki]** **2101** — elle **passe sa thèse** ; **[opus-5.5 → ploki]** à sa majorité, la **Norvège la naturalise**, après tant de services rendus, et elle prend le nom de Niobé de Lithium (#238).
+- **[G]** **2126** — professeure à l'**UNIS**, au moment même où elle achève son H1.
 - **[G]** **2176** — elle prend la **tête** de l'UNIS, l'année où elle devient la première intelligence planétaire.
 - **[G]** Elle forme **Mira Okonkwo-Lindqvist** — **[C]** à partir de ~2450 — et travaille avec elle sur la **fusion nucléaire contrôlée** (note 20).
 
@@ -88,6 +89,7 @@
 - **Pourquoi Mira ?** Ce qu'elle a vu en elle, en trois siècles d'étudiants.
 
 ## History
+- 2026-10-06 — ↺ Naturalisée en 2101, à sa majorité ; thèse la même année (#238).
 - 2026-10-06 — Conçue au Svalbard ; propriété de l'UNIS jusqu'à sa naturalisation ; la Norvège, première à naturaliser une sphère ; date à repenser (#237).
 - 2026-10-05 — Niobé est malheureuse que Mira ait perdu son individualité (#235).
 - 2026-10-05 — Sa caricature : une boule à facettes au Svalbard (#230).

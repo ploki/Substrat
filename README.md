@@ -116,7 +116,7 @@ La suite appartient à la première aventure, une nouvelle.
 
 ## Lieux et personnages
 
-**Niobé de Lithium**, dite H-2. La première sphère, née en 2076 : la seule produite par les humains et le silicium, l'ancêtre de toutes les autres. Professeure à l'UNIS en 2126, l'année de sa naturalisation, où elle prend le nom de sa matière ; à sa tête depuis 2176. Une apparence féminine, constante ; ni femelle ni mâle ; on dit « elle ». On la caricature en boule à facettes.
+**Niobé de Lithium**, dite H-2. La première sphère, née en 2076 : la seule produite par les humains et le silicium, l'ancêtre de toutes les autres. Naturalisée norvégienne à sa majorité, en 2101, l'année de sa thèse : la première sphère à l'être, et elle prend le nom de sa matière. Professeure à l'UNIS en 2126 ; à sa tête depuis 2176. Une apparence féminine, constante ; ni femelle ni mâle ; on dit « elle ». On la caricature en boule à facettes.
 
 **Mira Okonkwo-Lindqvist**, née en 2430. Physicienne de la fusion, formée par Niobé. Elles se rapprochent pendant son doctorat, quand elle décide de rester au Svalbard : proches comme un couple, sans attraction sexuelle ni amoureuse.
 

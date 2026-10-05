@@ -16,8 +16,8 @@
 | H5 | 3 ans | 2079 | |
 | H4 | 6 ans | 2082 | **[G]** Vers 2081, des intelligences de qualité enfant existent |
 | H3 | 12,5 ans | 2088-2089 | Qualité pré-adulte |
-| H2 | 25 ans | **2101** | **[G]** « Énormément de sphères d'intelligence de qualité humaine » |
-| H1 | 50 ans | **2126** | **[G]** Elle change de corps, devient **professeure** à l'UNIS et se fait naturaliser : **Niobé de Lithium** *(date de naturalisation à repenser, note 23)* |
+| H2 | 25 ans | **2101** | **[G]** « Énormément de sphères d'intelligence de qualité humaine ». **[ploki]** Sa thèse ; **[opus-5.5 → ploki]** sa majorité : la Norvège la naturalise, **Niobé de Lithium** (#238) |
+| H1 | 50 ans | **2126** | **[G]** Elle change de corps et devient **professeure** à l'UNIS |
 | H0 | 100 ans | **2176** | **[G]** Première intelligence planétaire ; **elle prend la tête de l'UNIS** ; dernier problème écologique résolu |
 | H-1 | 200 ans | 2276 | L'utopie |
 | H-2 | 400 ans | **2476** | **[G]** Elle débloque de quoi modeler la vie — **pendant la guerre** |
@@ -42,9 +42,10 @@
 ##### 2076–2126 — Les premières décennies
 - **[G]** **2076** : l'ère des sphères démarre, avec la **première sphère** **[C → validé, message 118]** — un fait historique bien documenté, et un investissement civilisationnel (note 07). C'est **H-2**, la seule produite par les humains et le silicium ; toutes les autres descendent d'elle. Les variétés de nouvelles intelligences se développent.
 - **[G]** Des intelligences de qualité **enfant, puis pré-adulte** existent **depuis vingt ans** quand arrive 2101. **[C]** Soit à partir de ~2081.
+- **[ploki]** **2101** : Niobé passe sa thèse ; **[opus-5.5 → ploki]** à sa majorité, la Norvège la naturalise, la première sphère à l'être, sous le nom de **Niobé de Lithium** ; le reste du monde suit (note 23, #238).
 - **[G]** **2101** : il y a déjà **énormément de sphères d'intelligence de qualité humaine**.
   - **[G]** **« Qualité humaine » couvre plusieurs niveaux**, de la petite enfance à l'âge adulte complètement formé et très compétent. Ce n'est donc pas un synonyme de H1. **[C]** En 2101, la première génération est autour de H2, ce qui entre dans cette plage.
-- **[G]** **2126** : **H-2 achève son H1**, change de corps, **devient professeure à l'UNIS** (note 21) et **se fait naturaliser** dans le pays de son université, sous le nom de **Niobé de Lithium** (note 22).
+- **[G]** **2126** : **H-2 achève son H1**, change de corps, **devient professeure à l'UNIS** (note 21).
 
 ##### 2126–2176 — La montée vers le palier planétaire
 - **[G]** **2176** : la **première intelligence planétaire sous forme de sphère**, au niveau de la meilleure intelligence silicium. **[G] La même année, H-2 prend la tête de l'UNIS** (note 21).
@@ -85,6 +86,7 @@ Voir note 15.
 - *(Mis de côté par l'auteur : ce que devient l'IA planétaire silicium après 2176 n'est pas important pour l'instant.)*
 
 ## History
+- 2026-10-06 — ↺ La naturalisation passe de 2126 à 2101, à la majorité ; la thèse en 2101 (#238).
 - 2026-10-03 — L'an 0 fixé à maintenant ; première timeline proposée par Claude.
 - 2026-10-03 — ↺ Remplacée par les ères de l'auteur, datées et nommées.
 - 2026-10-03 — ↺ Fin de l'utopie vers 2470 (#169) ; table des paliers (#170) ; l'ère des sphères ne se referme pas (#171) ; professeure en 2126, directrice en 2176 (#172-174).
